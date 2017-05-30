@@ -1,0 +1,86 @@
+{
+  "tables" : [
+  	{ "name" : "Style",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "name", "type" : "TEXT"}
+  	  ]
+    },
+  	{ "name" : "Instrument",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "name", "type" : "TEXT"}
+  	  ]
+    },
+  	{ "name" : "Gharana",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "name", "type" : "TEXT"},
+  	     {"name" : "founder", "type" : "TEXT"},
+  	     {"name" : "since", "type" : "TEXT"},
+  	     {"name" : "style", "type" : "INTEGER", "ref" : "Style,id,name"}
+  	  ]
+    },
+  	{ "name" : "Artist",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "firstname", "type" : "TEXT"},
+  	     {"name" : "lastname", "type" : "TEXT"},
+  	     {"name" : "birth", "type" : "DATE"},
+  	     {"name" : "death", "type" : "DATE"},
+  	     {"name" : "gharana", "type" : "INTEGER", "ref" : "Gharana,id,name"}
+  	  ]
+    },
+  	{ "name" : "That",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "name", "type" : "TEXT"},
+  	     {"name" : "notes", "type" : "TEXT"}
+  	  ]
+    },
+  	{ "name" : "Time",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "description", "type" : "TEXT"},
+  	     {"name" : "from_to", "type" : "TEXT"}
+  	  ]
+    },
+  	{ "name" : "Tal",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "name", "type" : "TEXT"},
+  	     {"name" : "pattern", "type" : "TEXT"},
+  	     {"name" : "theka", "type" : "TEXT"}
+  	  ]
+    },    
+  	{ "name" : "Raga",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "name", "type" : "TEXT"},
+  	     {"name" : "thatid", "type" : "INTEGER", "ref" : "That,id,name"},
+  	     {"name" : "aroha", "type" : "TEXT"},
+  	     {"name" : "avaroha", "type" : "TEXT"},
+  	     {"name" : "vadi", "type" : "TEXT"},
+  	     {"name" : "samvadi", "type" : "TEXT"},
+  	     {"name" : "pakad", "type" : "TEXT"},
+  	     {"name" : "timeid", "type" : "INTEGER", "ref" : "Time,id,description"}
+  	     
+  	  ]
+    },
+  	{ "name" : "Performance",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "ragaid", "type" : "INTEGER", "ref" : "Raga,id,name"},
+  	     {"name" : "artistid", "type" : "INTEGER", "ref" : "Artist,id,firstname;lastname"},
+  	     {"name" : "instrumentid", "type" : "INTEGER", "ref" : "Instrument,id,name"},
+  	     {"name" : "title", "type" : "TEXT"},
+  	     {"name" : "date", "type" : "DATE"},
+  	     {"name" : "place", "type" : "TEXT"},
+  	     {"name" : "duration", "type" : "INTEGER"},
+  	     {"name" : "talid", "type" : "INTEGER", "ref" : "Tal,id,name"},
+  	     {"name" : "provenance", "type" : "TEXT"},
+  	     {"name" : "filename", "type" : "TEXT"}
+  	  ]
+    }
+  ]
+}
