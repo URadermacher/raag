@@ -1,0 +1,7 @@
+For note I use
+for normal notes: SRGmPDN
+for komal notes rgdn
+for tivra notes M
+S_ indicates high octave
+_N indicate low octave
+other = middleoctave

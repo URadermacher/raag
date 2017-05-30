@@ -29,12 +29,14 @@ import eu.vdmr.raga.db.dto.Table;
 
 public class DatabaseFiller {
 	private static final Logger LOG = LogManager.getLogger(DatabaseFiller.class);
-	private static final String FILENAME = "D:/workspaces/eclipse_repeat/repeat/src/musicDBcontent.json";
+	//private static final String FILENAME = "D:/workspaces/eclipse_repeat/repeat/src/musicDBcontent.json";
 
 	@SuppressWarnings("unchecked")
 	public void fillDatabase(Statement s, Database database, Connection connection) throws SQLException, ParseException, IOException {
+		String filename = "null";	
 		try {
-			Reader reader = new BufferedReader(new FileReader(FILENAME));
+			filename = StartUp.getProperty(StartUp.DBCONTENTFILE);
+			Reader reader = new BufferedReader(new FileReader(filename));
 			JSONObject root = (JSONObject) JSONValue.parseWithException(reader);
 			LOG.debug("total object is of type " + root.getClass().getName());
 			
@@ -74,7 +76,7 @@ public class DatabaseFiller {
 				}
 			}
 		} catch (Exception e) {
-			LOG.error("Error parsing " + FILENAME + ": " + e, e);
+			LOG.error("Error parsing " + filename + ": " + e, e);
 		}
 	}
 	
@@ -106,9 +108,15 @@ public class DatabaseFiller {
 				if (DataType.TEXT.equals(val.getType())) {
 					sb.append("'");
 				}
+				if (DataType.DATE.equals(val.getType())) {
+					sb.append("date('");
+				}
 				sb.append(val.getValue());
 				if (DataType.TEXT.equals(val.getType())) {
 					sb.append("'");
+				}
+				if (DataType.DATE.equals(val.getType())) {
+					sb.append("')");
 				}
 			}
 		}

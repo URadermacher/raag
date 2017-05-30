@@ -59,6 +59,7 @@
   	     {"name" : "name", "type" : "TEXT"},
   	     {"name" : "thatid", "type" : "INTEGER", "ref" : "That,id,name"},
   	     {"name" : "aroha", "type" : "TEXT"},
+  	     {"name" : "notes", "type" : "TEXT"},
   	     {"name" : "avaroha", "type" : "TEXT"},
   	     {"name" : "vadi", "type" : "TEXT"},
   	     {"name" : "samvadi", "type" : "TEXT"},

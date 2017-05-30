@@ -3,7 +3,8 @@
   	{ "name" : "Gharana",
       "entries" : [
   	     {"name" : "Gwalior" , "founder" : "Nathan Pir Baksh - Nathu Khan", "since" : "Mid-16th Century"},
-  	     {"name" : "Agra" , "founder" : "Ghagghe Khudabaksh", "since" : "Mid-19th century"}
+  	     {"name" : "Agra" , "founder" : "Ghagghe Khudabaksh", "since" : "Mid-19th century"},
+  	     {"name" : "Mewati" , "founder" : "Ustad Ghagge Nazir Khan"}
   	  ]
     },
   	{ "name" : "Instrument",
@@ -17,34 +18,42 @@
   	     {"name" : "Yaman" ,  "notes" : "S R G M P D N"},
   	     {"name" : "Kalyan" , "notes" : "S R G m P D n"},
   	     {"name" : "Bilaval", "notes" : "S R G m P D N"},
-  	     {"name" : "Kafi",    "notes" : "S R g m P D n"}
+  	     {"name" : "Kafi",    "notes" : "S R g m P D n"},
+  	     {"name" : "Todi",    "notes" : "S r g M P s N"}
   	  ]
     },
   	{ "name" : "Artist",
       "entries" : [
-  	     {"firstname" : "Sanjeev" , "lastname" : "Abhyankar"}
+  	     {"firstname" : "Sanjeev" , "lastname" : "Abhyankar", "gharana" : "Mewati", "birth" : "1969-10-05"}
   	  ]
     },
   	{ "name" : "Tal",
       "entries" : [
-  	     {"name" : "TinTal" , "pattern" : "4*4", "theka" : "dha  dhin  dhin  dha  |  dha  dhin  dhin  dha  | dha  tin  tin  ta  |  ta  dhin  dhin  dha  "},
-  	     {"name" : "Rupak" , "pattern" : "3-2-2", "theka" : "Tin Tin Na | Dhin Na | Dhin Na"}
+  	     {"name" : "TinTal",  "pattern" : "4*4",     "theka" : "dha dhin dhin dha | dha dhin dhin dha | dha tin tin ta | ta dhin dhin dha"},
+  	     {"name" : "Rupak",   "pattern" : "3-2-2",   "theka" : "Tin Tin Na | Dhin Na | Dhin Na"},
+  	     {"name" : "JhapTal", "pattern" : "2-3-2-3", "theka" : "dhin dha | dhin dhin dha | tin na | dhin dhin dha"}
   	  ]
     },
   	{ "name" : "Raga",
       "entries" : [
-  	     {"name" : "Maru_Bihag",   "thatid" : "Bilaval", "aroha" : "S R G m M P D N", "avaroha" :"",                         "vadi":"",  "samvadi":"",   "pakad" :"S GMP M P-, M G – RS R S _NS"},
-  	     {"name" : "Chandrakauns", "thatid" : "Kafi",    "aroha" : "S g m d N S_",    "avaroha" : "S_ N d m g m g S , _N S", "vadi":"m","samvadi":"S", "pakad" :""},
-  	     {"name" : "Shivranjani",  "thatid" : "Kafi",    "aroha" : "S R g P D S_",    "avaroha" : "S_ D P g R S, R, _D Sa",  "vadi":"P","samvadi":"S", "pakad" :"R g P, D P g R, g S R _D S"}
+  	     {"name" : "Maru_Bihag",     "thatid" : "Bilaval", "notes" : "S R G m M P D N", "aroha" : "S R G m M P D N",                       	 "avaroha" :"",                         "vadi":"P",  "samvadi":"S",   "pakad" :"S GMP M P-, M G – RS R S _NS"},
+  	     {"name" : "Chandrakauns",   "thatid" : "Kafi",    "notes" : "S g m d N", "aroha" : "S g m d N S_",                                  "avaroha" : "S_ N d m g m g S , _N S", "vadi":"m","samvadi":"S", "pakad" :""},
+  	     {"name" : "Shivranjani",    "thatid" : "Kafi",    "notes" : "S R g P D", "aroha" : "S R g P D S_",                                  "avaroha" : "S_ D P g R S, R, _D Sa",  "vadi":"P","samvadi":"S", "pakad" :"R g P, D P g R, g S R _D S"},
+  	     {"name" : "Megh_Malhar",    "thatid" : "Kafi",    "notes" : "S R m P n",     "aroha" : "S (m)R m P n S_",                           "avaroha" : "S_ n P m R S; R _n S",    "vadi":"m","samvadi":"S", "pakad" :"_n S R P m R ; m P m R ; m P ; P m n P m R ; R R P m R R S _n S"},
+  	     {"name" : "Ramdasi_Malhar", "thatid" : "Kafi",    "notes" : "S R g G m P D n N", "aroha" : "_N S R G m ; P G m , R P ; m P D N S_", "avaroha" : "S_ n D n P ; D P m G m ; P g g m R S",    "vadi":"m","samvadi":"S", "pakad" :"S R G m ; m R P ; P G m ; P g g m R S"},
+  	     {"name" : "Miyan_Ki_Todi",  "thatid" : "Todi",    "notes" : "S r g M P d N", "aroha" : "S r g M d N S_ _or_ _d _N S r g M d N S_ _or_ S r g M d P, M d N S_", "avaroha" : "S_ N d P M g r S _or_ S_ N d P M d M g r g r S ",    "vadi":"d","samvadi":"g", "pakad" :"_d ; _N S r g ; M r g ; r S"}
   	  ]
     },
   	{ "name" : "Performance",
       "entries" : [
-  	     {"ragaid" : "Maru_Bihag",   "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "title" : "AajaAayeMoreDhaamSya", "duration" : "14", "provenance" : "artists webssite", "talid" : "TinTal",  "filename":"000001-RaagMarubihag-AajaAayeMoreDhaamSya.wav"},
-  	     {"ragaid" : "Maru_Bihag",   "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "title" : "",                     "duration" : "29", "provenance" : "CD", 								    "filename":"000002-Maru_Bihag.wav"},
-  	     {"ragaid" : "Chandrakauns", "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "title" : "ArajaSunoMori",        "duration" : "16", "provenance" : "artists webssite",  "talid" : "Rupak",  "filename":"000003-RaagChandrakauns-ArajaSunoMori(rupak tal).wav"},
-  	     {"ragaid" : "Chandrakauns", "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "title" : "Tarana",               "duration" :  "6", "provenance" : "artists webssite",  "talid" : "TinTal", "filename":"000004-RaagChandrakauns-Tarana(Tintal).wav"},
-  	     {"ragaid" : "Shivranjani",  "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "title" : "TumaBinaKaunLeta",     "duration" : "12", "provenance" : "artists webssite",  "talid" : "TinTal", "filename":"000005-RaagShivranjani-TumaBinaKaunLeta(TinTal).wav"}
+  	     {"ragaid" : "Maru_Bihag",     "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "title" : "AajaAayeMoreDhaamSya", "duration" : "14", "provenance" : "artists webssite", "talid" : "TinTal",   "filename":"000001-RaagMarubihag-AajaAayeMoreDhaamSya.wav"},
+  	     {"ragaid" : "Maru_Bihag",     "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "title" : "",                     "duration" : "29", "provenance" : "CD", 								       "filename":"000002-Maru_Bihag.wav"},
+  	     {"ragaid" : "Chandrakauns",   "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "title" : "ArajaSunoMori",        "duration" : "16", "provenance" : "artists webssite",  "talid" : "Rupak",   "filename":"000003-RaagChandrakauns-ArajaSunoMori(rupak tal).wav"},
+  	     {"ragaid" : "Chandrakauns",   "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "title" : "Tarana",               "duration" :  "6", "provenance" : "artists webssite",  "talid" : "TinTal",  "filename":"000004-RaagChandrakauns-Tarana(Tintal).wav"},
+  	     {"ragaid" : "Shivranjani",    "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "title" : "TumaBinaKaunLeta",     "duration" : "12", "provenance" : "artists webssite",  "talid" : "TinTal",  "filename":"000005-RaagShivranjani-TumaBinaKaunLeta(TinTal).wav"},
+  	     {"ragaid" : "Megh_Malhar",    "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "title" : "DarLaageMoore",        "duration" : "30", "provenance" : "CD",                                     "filename":"000006-Megh_Malhar-DarLaageMoore.wav"},
+  	     {"ragaid" : "Ramdasi_Malhar", "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "title" : "",                     "duration" : "12", "provenance" : "CD",                                     "filename":"000007-Ramdasi_Malhar.wav"},
+  	     {"ragaid" : "Miyan_Ki_Todi",  "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "title" : "AjahuNaAaye",          "duration" : "15", "provenance" : "artists webssite",  "talid" : "JhapTal", "filename":"000008-RaagMiyanKiTodi-AjahuNaAaye.wav"}
   	  ]
     }
   ]

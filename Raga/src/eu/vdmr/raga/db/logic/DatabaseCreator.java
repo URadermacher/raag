@@ -17,11 +17,12 @@ import eu.vdmr.raga.db.dto.Table;
 public class DatabaseCreator {
 	private static final Logger LOG = LogManager.getLogger(DatabaseCreator.class);	
 	
-	private static final String FILENAME = "D:/workspaces/eclipse_repeat/repeat/src/musicDBdef.json";
+	//private static final String FILENAME = "D:/workspaces/eclipse_repeat/repeat/src/musicDBdef.json";
 	
 	public Database createDatabase(Statement s, boolean cleanup) throws FileNotFoundException, SQLException {
+		String filename = StartUp.getProperty(StartUp.DBDEFFILE);
 		DbJsonReader reader = new DbJsonReader();
-		Database database = reader.readJson(FILENAME);
+		Database database = reader.readJson(filename);
 		if (cleanup) {
 			for (int x = database.getTableCount() - 1; x >= 0; x--) {
 				Table table = database.getTableByIndex(x);
