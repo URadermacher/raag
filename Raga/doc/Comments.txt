@@ -5,3 +5,7 @@ for tivra notes M
 S_ indicates high octave
 _N indicate low octave
 other = middleoctave
+
+boolean 0 = false 1 = true
+
+if provenance is "CD" after the comma the track number may appear.

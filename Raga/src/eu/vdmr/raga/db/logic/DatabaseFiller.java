@@ -71,7 +71,7 @@ public class DatabaseFiller {
 						}
 					}
 					String insertString = makeInsertStatement(tablename, columnValues);
-					LOG.debug("Inserting: " + insertString);
+					//LOG.debug("Inserting: " + insertString);
 					s.executeUpdate(insertString);
 				}
 			}
@@ -125,7 +125,7 @@ public class DatabaseFiller {
 	}
 
 	private int getFK(ForeignKey fk, String content, Connection connection) throws SQLException {
-		LOG.debug("searching for FK: " + fk.toString() + ", value = " + content);
+		//LOG.debug("searching for FK: " + fk.toString() + ", value = " + content);
 		StringBuilder sb = new StringBuilder();
 		String table = fk.getTargetTable();
 		String col = fk.getTargetColumn();
@@ -146,12 +146,12 @@ public class DatabaseFiller {
 		} else {
 			sb.append(" where ").append(valcol).append(" = ").append("'").append(content).append("'");
 		}
-		LOG.debug("Searching foreign key with: " + sb.toString());
+		//LOG.debug("Searching foreign key with: " + sb.toString());
 		ResultSet rs = connection.createStatement().executeQuery(sb.toString());
 	
 		rs.next();
 		int res =  rs.getInt(col);
-		LOG.debug("found key " + res);
+		//LOG.debug("found key " + res);
 		return res;
 		
 		//return -1;

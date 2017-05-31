@@ -28,6 +28,7 @@
   	     {"name" : "lastname", "type" : "TEXT"},
   	     {"name" : "birth", "type" : "DATE"},
   	     {"name" : "death", "type" : "DATE"},
+  	     {"name" : "web", "type" : "TEXT"},
   	     {"name" : "gharana", "type" : "INTEGER", "ref" : "Gharana,id,name"}
   	  ]
     },
@@ -68,6 +69,18 @@
   	     
   	  ]
     },
+  	{ "name" : "Medium",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "refid", "type" : "INTEGER"},
+  	     {"name" : "publisher", "type" : "TEXT"},
+  	     {"name" : "date", "type" : "DATE"},
+  	     {"name" : "title", "type" : "TEXT"},
+  	     {"name" : "artistid", "type" : "INTEGER", "ref" : "Artist,id,firstname;lastname"},
+  	     {"name" : "shortid", "type" : "TEXT"},
+  	     {"name" : "have", "type" : "INTEGER"}
+  	  ]
+    },    
   	{ "name" : "Performance",
   	  "columns" : [
   	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
@@ -80,7 +93,9 @@
   	     {"name" : "duration", "type" : "INTEGER"},
   	     {"name" : "talid", "type" : "INTEGER", "ref" : "Tal,id,name"},
   	     {"name" : "provenance", "type" : "TEXT"},
-  	     {"name" : "filename", "type" : "TEXT"}
+  	     {"name" : "filename", "type" : "TEXT"},
+  	     {"name" : "CD", "type" : "INTEGER"}
+  	     
   	  ]
     }
   ]
