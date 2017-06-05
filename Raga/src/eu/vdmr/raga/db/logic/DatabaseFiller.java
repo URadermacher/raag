@@ -9,8 +9,10 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Map;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -29,7 +31,8 @@ import eu.vdmr.raga.db.dto.Table;
 
 public class DatabaseFiller {
 	private static final Logger LOG = LogManager.getLogger(DatabaseFiller.class);
-	//private static final String FILENAME = "D:/workspaces/eclipse_repeat/repeat/src/musicDBcontent.json";
+	
+	private Map<String, Integer> fkMap = new HashMap<>();
 
 	@SuppressWarnings("unchecked")
 	public void fillDatabase(Statement s, Database database, Connection connection) throws SQLException, ParseException, IOException {
@@ -45,11 +48,12 @@ public class DatabaseFiller {
 			while (tableIter.hasNext()) {
 				JSONObject tableObj = tableIter.next();
 				String tablename = (String)tableObj.get(DBConst.VALTABLE);
-				LOG.debug("filling table " + tablename);
+				LOG.info("filling table " + tablename);
 				Table table = database.getTableByName(tablename);
 				List<Column> columns = table.getColumns();
 				JSONArray rows = (JSONArray)tableObj.get(DBConst.VALROWS);
 				Iterator<JSONObject> rowIter = rows.iterator();
+				int rowCnt = 1;
 				while (rowIter.hasNext()) {
 					List<ColumnValue> columnValues = new ArrayList<>(); 
 					JSONObject row = (JSONObject)rowIter.next();
@@ -71,8 +75,16 @@ public class DatabaseFiller {
 						}
 					}
 					String insertString = makeInsertStatement(tablename, columnValues);
-					//LOG.debug("Inserting: " + insertString);
-					s.executeUpdate(insertString);
+					LOG.debug("Inserting: " + insertString);
+					try {
+						s.executeUpdate(insertString);
+						rowCnt++;
+						if (rowCnt % 100 == 0) {
+							LOG.info("nr of records inserted: " + rowCnt);
+						}
+					} catch (SQLException sqle) {
+						LOG.error("Error executing insert '" + insertString + "': " + sqle, sqle);
+					}
 				}
 			}
 		} catch (Exception e) {
@@ -146,14 +158,25 @@ public class DatabaseFiller {
 		} else {
 			sb.append(" where ").append(valcol).append(" = ").append("'").append(content).append("'");
 		}
-		//LOG.debug("Searching foreign key with: " + sb.toString());
-		ResultSet rs = connection.createStatement().executeQuery(sb.toString());
-	
-		rs.next();
-		int res =  rs.getInt(col);
-		//LOG.debug("found key " + res);
-		return res;
+		String FKSearchString = sb.toString();
+		LOG.debug("Searching foreign key with: " + FKSearchString);
+		Integer result = fkMap.get(FKSearchString);
+		if (result != null) { 
+			LOG.debug("Found in map");
+			return result.intValue();
+		}
+		try {
+			ResultSet rs = connection.createStatement().executeQuery(sb.toString());
 		
+			rs.next();
+			int res =  rs.getInt(col);
+			LOG.debug("found key (not in Map)" + res);
+			fkMap.put(FKSearchString, Integer.valueOf(res));
+			return res;
+		} catch (SQLException sqle) {
+			LOG.error("Error executing " + sb.toString() +": " + sqle,sqle);
+			throw sqle;
+		}
 		//return -1;
 	}
 /*

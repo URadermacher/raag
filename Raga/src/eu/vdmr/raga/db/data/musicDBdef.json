@@ -87,6 +87,7 @@
   	     {"name" : "ragaid", "type" : "INTEGER", "ref" : "Raga,id,name"},
   	     {"name" : "artistid", "type" : "INTEGER", "ref" : "Artist,id,firstname;lastname"},
   	     {"name" : "instrumentid", "type" : "INTEGER", "ref" : "Instrument,id,name"},
+  	     {"name" : "composerid", "type" : "INTEGER", "ref" : "Artist,id,firstname;lastname"},
   	     {"name" : "title", "type" : "TEXT"},
   	     {"name" : "date", "type" : "DATE"},
   	     {"name" : "place", "type" : "TEXT"},
