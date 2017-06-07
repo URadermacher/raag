@@ -29,11 +29,12 @@
     },
   	{ "name" : "Tal",
       "entries" : [
-  	     {"name" : "TinTal",    "pattern" : "4*4",     "theka" : "dha dhin dhin dha | dha dhin dhin dha | dha tin tin ta | ta dhin dhin dha"},
-  	     {"name" : "Rupak",     "pattern" : "3-2-2",   "theka" : "tin tin na | dhin na | dhin na"},
-  	     {"name" : "JhapTal",   "pattern" : "2-3-2-3", "theka" : "dhin dha | dhin dhin dha | tin na | dhin dhin dha"},
+  	     {"name" : "Dadra",     "pattern" : "3-3",     "theka" : "dha dhin na |  dha tin na "},
   	     {"name" : "Dipchandi", "pattern" : "3-4-3-4", "theka" : "dha dhin - | dha dha dhin - | ta tin - | dha dha dhin na"},
-  	     {"name" : "Dadra",     "pattern" : "3-3",     "theka" : "dha dhin na |  dha tin na "}
+  	     {"name" : "Ektal",     "pattern" : "4-4-4",   "theka" : "dhin dhin dhage tirikiti | tu na kat ta | dhage tirikiti dhin na"},
+  	     {"name" : "JhapTal",   "pattern" : "2-3-2-3", "theka" : "dhin dha | dhin dhin dha | tin na | dhin dhin dha"},
+  	     {"name" : "Rupak",     "pattern" : "3-2-2",   "theka" : "tin tin na | dhin na | dhin na"},
+  	     {"name" : "TinTal",    "pattern" : "4*4",     "theka" : "dha dhin dhin dha | dha dhin dhin dha | dha tin tin ta | ta dhin dhin dha"}
   	  ]
     },
   	{ "name" : "Raga",
@@ -338,10 +339,9 @@
         {"name" : "Kedar", "thatid" : "Kalyan", "notes" : "SRGMmPDn"},
         {"name" : "Keharwa"},
         {"name" : "Khamaj", "thatid" : "Khamaj", "notes" : "SRGmPDnN"},
-        {"name" : "Khamaji_Bhatiyar"},
-        {"name" : "Khamaji_Kanada"},
-        {"name" : "Khamaji_Malhar"},
-        {"name" : "Khamaji"},
+        {"name" : "Khamaj_Bhatiyar"},
+        {"name" : "Khamaj_Kanada"},
+        {"name" : "Khamaj_Malhar"},
         {"name" : "Khambavati_Khamaj"},
         {"name" : "Khat_Todi"},
         {"name" : "Khat", "notes" : "S(R)gmPdn(N)"},
@@ -563,11 +563,22 @@
   	     {"ragaid" : "Ramdasi_Malhar", "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "duration" : "12", "provenance" : "CD,3",             "CD":"00001",                        "filename":"000007-Ramdasi_Malhar.wav",                            "title" : "Saawan Ke Badara Aaye"},
   	     {"ragaid" : "Miyan_Ki_Todi",  "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "duration" : "15", "provenance" : "artists webssite",               "talid" : "JhapTal",   "filename":"000008-RaagMiyanKiTodi-AjahuNaAaye.wav",               "title" : "AjahuNaAaye",                                            "composerid" : "Sanjeev;Abhyankar"},
   	     {"ragaid" : "Mishra_Tilang",  "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "duration" : "10", "provenance" : "artists webssite",               "talid" : "Dadra",     "filename":"000009-Mishra_Tilang-Hori-AajMaiMohanKhelat.wav",      "title" : "Hori",                                                   "composerid" : "Sanjeev;Abhyankar"},
-  	     {"ragaid" : "Mishra_Desh",    "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "duration" : "11", "provenance" : "artists webssite",               "talid" : "Dipchandi", "filename":"000010Mishra_Des-Hori-AajSavaroKunjaGaleenMe.wav",      "title" : "Aaja Savaro Kunja Galeen Me",                                                   "composerid" : "Sanjeev;Abhyankar"},
+  	     {"ragaid" : "Mishra_Desh",    "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "duration" : "11", "provenance" : "artists webssite",               "talid" : "Dipchandi", "filename":"000010-Mishra_Des-Hori-AajSavaroKunjaGaleenMe.wav",    "title" : "Aaja Savaro Kunja Galeen Me",                            "composerid" : "Sanjeev;Abhyankar"},
+  	     {"ragaid" : "Anand_Bhairav",  "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "duration" : "10", "provenance" : "artists webssite",               "talid" : "Ektal",     "filename":"000011-RaagAnandBhairav-HarHaraHaraShivSh.wav",        "title" : "Hara Hara Hara Shiva Shankar",                           "composerid" : "Sanjeev;Abhyankar"},
+  	     {"ragaid" : "Bageshri",       "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "duration" : "09", "provenance" : "artists webssite",               "talid" : "Tintal",    "filename":"000012-RaagBageshreeAngKaChandrakauns-LeJ.wav",        "title" : "Le Ja Re Ja Re Kagava",                                  "composerid" : "Shobha;Abhyankar"},
+  	     {"ragaid" : "Bageshri",       "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "duration" : "17", "provenance" : "artists webssite",               "talid" : "Rupak",     "filename":"000013-RaagBageshreeAngKaChandrakauns-Piy.wav",        "title" : "Piya Bina Nahi Parat",                                   "composerid" : "Shobha;Abhyankar"},
+  	     {"ragaid" : "Bageshri",       "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "duration" : "12", "provenance" : "artists webssite",               "talid" : "Tintal",    "filename":"000014-RaagBageshree-MaiToToreCharanLaagi.wav",        "title" : "Mai To Tore Charan Laagi Gopal",                         "composerid" : "Sanjeev;Abhyankar"},
+  	     {"ragaid" : "Bhinna_Shadja",  "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "duration" : "11", "provenance" : "artists webssite",               "talid" : "JhapTal",   "filename":"000015-RaagBhinnaShadja-BinatiSunoMori.wav",           "title" : "Binati Suno Mori",                                       "composerid" : "Sanjeev;Abhyankar"},
+  	     {"ragaid" : "Bhinna_Shadja",  "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "duration" :  "5", "provenance" : "artists webssite",               "talid" : "Ektal",     "filename":"000016-RaagBhinnaShadja-Tarana.wav",                   "title" : "Tarana",                                                 "composerid" : "Sanjeev;Abhyankar"},
+  	     {"ragaid" : "Bhupali_Todi",   "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "duration" :  "8", "provenance" : "artists webssite",               "talid" : "Ektal",     "filename":"000017-RaagBhoopalTodi-AayeMorePiya.wav",              "title" : "Aaye More Piya",                                         "composerid" : "Shobha;Abhyankar"},
+  	     {"ragaid" : "Bhupali_Todi",   "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "duration" : "16", "provenance" : "artists webssite",               "talid" : "Ektal",     "filename":"000018-RaagBhoopalTodi-JaagiReSabaRaina.wav",          "title" : "Jagi Re Saba Raina",                                     "composerid" : "Shobha;Abhyankar"},
+  	     {"ragaid" : "Des",            "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "duration" :  "8", "provenance" : "artists webssite",               "talid" : "Tintal",    "filename":"000019-RaagDes-BaraseBadariya.wav",                    "title" : "Barase Badariya Savana Ki",                              "composerid" : "Sanjeev;Abhyankar"},
+  	     {"ragaid" : "Hamsadhwani",    "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "duration" : "11", "provenance" : "artists webssite",               "talid" : "Rupak",     "filename":"000020-RaagHansadhwani-MaiHariRe.wav",                 "title" : "Mai Hari Re Piharava",                                   "composerid" : "Sanjeev;Abhyankar"},
+  	     {"ragaid" : "Hamsadhwani",    "artistid" : "Sanjeev;Abhyankar", "instrumentid":"Voice", "duration" :  "8", "provenance" : "artists webssite",               "talid" : "Ektal",     "filename":"000021-RaagHansadhwani-Tarana.wav",                    "title" : "Tarana",                                                 "composerid" : "Sanjeev;Abhyankar"},
   	     
   	     
-  	     
-  	     {"ragaid" : "Yaman",  "artistid" : "Javed;Allahditta", "instrumentid":"Sitar",  "duration" : "5", "provenance" : "CD", "CD":"00002",  "filename":"bbbb"}
+  	    
+  	     {"ragaid" : "Yaman",          "artistid" : "Javed;Allahditta",  "instrumentid":"Sitar", "duration" :  "5", "provenance" : "CD,2",             "CD":"00002",                        "filename":"bbbb", "title" : "Khamach"}
   	  ]
     }
   ]

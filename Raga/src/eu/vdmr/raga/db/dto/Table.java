@@ -7,6 +7,7 @@ public class Table {
 	
 	private String name;
 	private List<Column> columns = new ArrayList<>();
+	private List<Table> subTables =  new ArrayList<>();
 	
 	public String getName() {
 		return name;
@@ -22,6 +23,17 @@ public class Table {
 	}
 	public void addColumn(Column column) {
 		this.columns.add(column);
+	}
+	
+	public List<Table> getSubTables() {
+		return subTables;
+	}
+	public void setSubTables(List<Table> subTables) {
+		this.subTables = subTables;
+	}
+	
+	public void addSubTable(Table t) {
+		subTables.add(t);
 	}
 	
 	@Override
@@ -42,5 +54,6 @@ public class Table {
 		}
 		return sb.toString();
 	}
+
 
 }

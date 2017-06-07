@@ -96,7 +96,6 @@
   	     {"name" : "provenance", "type" : "TEXT"},
   	     {"name" : "filename", "type" : "TEXT"},
   	     {"name" : "CD", "type" : "INTEGER"}
-  	     
   	  ]
     }
   ]
