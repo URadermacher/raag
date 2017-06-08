@@ -1,2 +1,3 @@
 make sense of different log levels
 get FK to work (with null!)
+check file 000001 to 000021: are these all pieces, or are there parts of one raga.. 

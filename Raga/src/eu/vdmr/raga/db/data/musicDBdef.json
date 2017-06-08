@@ -94,8 +94,17 @@
   	     {"name" : "duration", "type" : "INTEGER"},
   	     {"name" : "talid", "type" : "INTEGER", "ref" : "Tal,id,name"},
   	     {"name" : "provenance", "type" : "TEXT"},
-  	     {"name" : "filename", "type" : "TEXT"},
+  	     {"name" : "storeId", "type" : "TEXT"},
   	     {"name" : "CD", "type" : "INTEGER"}
+  	  ]
+    },
+  	{ "name" : "Store",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "refid", "type" : "TEXT"},
+  	     {"name" : "volgnr", "type" : "INTEGER"},
+  	     {"name" : "partname", "type" : "TEXT"},
+  	     {"name" : "filename", "type" : "TEXT"}
   	  ]
     }
   ]
