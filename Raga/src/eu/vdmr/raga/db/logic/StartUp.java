@@ -52,7 +52,7 @@ public class StartUp {
 
 			ResultSet rs1 = statement.executeQuery("pragma foreign_keys");
 			if (!rs1.getBoolean(1)) {
-				LOG.error("oeps");
+				LOG.error("oeps, no FK supported..");
 			} else {
 				LOG.debug("FK on??");
 			}

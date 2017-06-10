@@ -42,6 +42,7 @@ public class DatabaseFiller {
 			Reader reader = new BufferedReader(new FileReader(filename));
 			JSONObject root = (JSONObject) JSONValue.parseWithException(reader);
 			LOG.debug("total object is of type " + root.getClass().getName());
+			connection.setAutoCommit(false);
 			
 			JSONArray tables = (JSONArray)root.get(DBConst.VALCONTENT);
 			Iterator<JSONObject> tableIter = tables.iterator();
@@ -81,11 +82,13 @@ public class DatabaseFiller {
 						rowCnt++;
 						if (rowCnt % 100 == 0) {
 							LOG.info("nr of records inserted: " + rowCnt);
+							connection.commit();
 						}
 					} catch (SQLException sqle) {
 						LOG.error("Error executing insert '" + insertString + "': " + sqle, sqle);
 					}
 				}
+				connection.commit();
 			}
 		} catch (Exception e) {
 			LOG.error("Error parsing " + filename + ": " + e, e);

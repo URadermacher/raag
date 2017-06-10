@@ -32,6 +32,14 @@
   	     {"name" : "gharana", "type" : "INTEGER", "ref" : "Gharana,id,name"}
   	  ]
     },
+  	{ "name" : "ArtistRelaties",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "name", "type" : "TEXT"},
+  	     {"name" : "refid", "type" : "INTEGER"},
+  	     {"name" : "reverse", "type" : "INTEGER"}
+  	  ]
+    },
   	{ "name" : "That",
   	  "columns" : [
   	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
@@ -76,9 +84,15 @@
   	     {"name" : "publisher", "type" : "TEXT"},
   	     {"name" : "date", "type" : "DATE"},
   	     {"name" : "title", "type" : "TEXT"},
-  	     {"name" : "artistid", "type" : "INTEGER", "ref" : "Artist,id,firstname;lastname"},
   	     {"name" : "shortid", "type" : "TEXT"},
   	     {"name" : "have", "type" : "INTEGER"}
+  	  ]
+    },    
+  	{ "name" : "MediumArtist",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "refid", "type" : "INTEGER"},
+  	     {"name" : "artistid", "type" : "INTEGER", "ref" : "Artist,id,firstname;lastname"}
   	  ]
     },    
   	{ "name" : "Performance",
@@ -86,25 +100,39 @@
   	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
   	     {"name" : "ragaid", "type" : "INTEGER", "ref" : "Raga,id,name"},
   	     {"name" : "artistid", "type" : "INTEGER", "ref" : "Artist,id,firstname;lastname"},
-  	     {"name" : "instrumentid", "type" : "INTEGER", "ref" : "Instrument,id,name"},
   	     {"name" : "composerid", "type" : "INTEGER", "ref" : "Artist,id,firstname;lastname"},
   	     {"name" : "title", "type" : "TEXT"},
   	     {"name" : "date", "type" : "DATE"},
   	     {"name" : "place", "type" : "TEXT"},
-  	     {"name" : "duration", "type" : "INTEGER"},
   	     {"name" : "talid", "type" : "INTEGER", "ref" : "Tal,id,name"},
   	     {"name" : "provenance", "type" : "TEXT"},
   	     {"name" : "storeId", "type" : "TEXT"},
   	     {"name" : "CD", "type" : "INTEGER"}
   	  ]
     },
-  	{ "name" : "Store",
+  	{ "name" : "PerformancePart",
   	  "columns" : [
   	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
   	     {"name" : "refid", "type" : "TEXT"},
   	     {"name" : "volgnr", "type" : "INTEGER"},
   	     {"name" : "partname", "type" : "TEXT"},
+  	     {"name" : "duration", "type" : "INTEGER"},
   	     {"name" : "filename", "type" : "TEXT"}
+  	  ]
+    },
+  	{ "name" : "PerformanceArtist",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "refid", "type" : "INTEGER"},
+  	     {"name" : "artistid", "type" : "INTEGER", "ref" : "Artist,id,firstname;lastname"},
+  	     {"name" : "instrumentid", "type" : "INTEGER", "ref" : "Instrument,id,name"}
+  	  ]
+    },    
+  	{ "name" : "Synonym",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "synonym", "type" : "TEXT"},
+  	     {"name" : "canonic", "type" : "TEXT"}
   	  ]
     }
   ]
