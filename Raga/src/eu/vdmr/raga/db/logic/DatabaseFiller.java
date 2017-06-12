@@ -93,6 +93,7 @@ public class DatabaseFiller {
 		} catch (Exception e) {
 			LOG.error("Error parsing " + filename + ": " + e, e);
 		}
+		LOG.info("Ready..");
 	}
 	
 
@@ -149,13 +150,29 @@ public class DatabaseFiller {
 		if (valcol.indexOf(';') > -1) {
 			String[] selectCols = valcol.split(";");
 			String[] selVals = content.split(";");
+			if (selectCols.length != selVals.length) {
+				LOG.error("not enough values for columns");
+				LOG.error("   selectCols.length " + selectCols.length);
+				LOG.error("   selVals.length " + selVals.length);
+				for (int selColIdx = 0; selColIdx < selectCols.length; selColIdx++){
+					LOG.error("selcol " + selColIdx  + ": " + selectCols[selColIdx]);
+				}
+				for (int selValIdx = 0; selValIdx < selVals.length; selValIdx++){
+					LOG.error("selcol " + selValIdx  + ": " + selVals[selValIdx]);
+				}
+			}
 			boolean first = true;
 			for (int x = 0; x < selectCols.length; x++) {
 				if (first) {
 					sb.append(" where ").append(selectCols[x]).append(" = ").append("'").append(selVals[x]).append("'");
 					first = false;
 				} else {
-					sb.append(" and ").append(selectCols[x]).append(" = ").append("'").append(selVals[x]).append("'");
+					//sb.append(" and ").append(selectCols[x]).append(" = ").append("'").append(selVals[x]).append("'");
+					sb.append(" and ");
+					sb.append(selectCols[x]);
+					sb.append(" = ");
+					sb.append("'");
+					sb.append(selVals[x]).append("'");
 				}
 			}
 		} else {
