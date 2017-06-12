@@ -85,7 +85,8 @@
   	     {"name" : "date", "type" : "DATE"},
   	     {"name" : "title", "type" : "TEXT"},
   	     {"name" : "shortid", "type" : "TEXT"},
-  	     {"name" : "have", "type" : "INTEGER"}
+  	     {"name" : "have", "type" : "INTEGER"},
+  	     {"name" : "ASIN", "type" : "TEXT"}
   	  ]
     },    
   	{ "name" : "MediumArtist",
