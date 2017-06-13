@@ -44,6 +44,7 @@ public class DatabaseCreator {
 		boolean first = true;
 		List<ForeignKey> fk_list = new ArrayList<>();
 		for (Column column : table.getColumns()) {
+			LOG.info(column.toString());
 			appendColumnDefinition(column, sb, first, fk_list);
 			first = false;
 		}
@@ -61,7 +62,17 @@ public class DatabaseCreator {
 		if (!first){
 			sb.append(", ");
 		}
+		//
+		LOG.info(" = " + column.getName());
+		if ("carnatic".equals(column.getName())){
+			int a = 6;
+			int b = a;
+		}
+		//
 		sb.append(column.getName()).append(" ").append(column.getType().getSqliteString());
+		if (column.getDefaultValue() != null) {
+			sb.append(" DEFAULT " + column.getDefaultValue());
+		}
 		if (column.isPk()) {
 			sb.append(" PRIMARY KEY ");
 		}

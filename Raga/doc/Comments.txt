@@ -9,3 +9,5 @@ other = middleoctave
 boolean 0 = false 1 = true
 
 if provenance is "CD" after the comma the track number(s) may appear.
+
+time from to is 24 hours like 00-03 of 18-21

@@ -10,6 +10,7 @@ public class DBConst {
 	public static final String COLPK = "pk";
 	public static final String COLFK = "ref";
 	public static final String COLAUTOINCR = "autoInc";
+	public static final String COLDEFVALUE = "defaultValue";
 	
 	public static final String VALCONTENT = "content";
 	public static final String VALTABLE = "name";

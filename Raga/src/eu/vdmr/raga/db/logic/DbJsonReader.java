@@ -69,6 +69,10 @@ public class DbJsonReader {
 							ForeignKey fk = new ForeignKey(refs[0], refs[1], refs[2], columnName);
 							column.setForeignKey(fk);
 						}
+						String defaultVal = (String) columnObject.get(DBConst.COLDEFVALUE);
+						if (defaultVal != null) {
+							column.setDefaultValue(defaultVal);
+						}
 						table.addColumn(column);
 					}
 					database.add(table);

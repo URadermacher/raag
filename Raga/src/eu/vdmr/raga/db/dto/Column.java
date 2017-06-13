@@ -7,6 +7,7 @@ public class Column {
 	private boolean pk = false;
 	private boolean autoInc = false;
 	private ForeignKey foreignKey;
+	private String defaultValue = null;
 
 	public String getName() {
 		return name;
@@ -41,6 +42,12 @@ public class Column {
 	
 	@Override
 	public String toString() {
-		return name + "-" + type + (pk?",PK":"") + (autoInc?",AI":"") + (foreignKey!=null?foreignKey.toString():"");
+		return name + "-" + type + (pk?",PK":"") + (autoInc?",AI":"") + (foreignKey!=null?foreignKey.toString():"" + ", default: " + defaultValue);
+	}
+	public String getDefaultValue() {
+		return defaultValue;
+	}
+	public void setDefaultValue(String defaultValue) {
+		this.defaultValue = defaultValue;
 	}
 }

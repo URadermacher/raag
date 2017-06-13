@@ -89,13 +89,6 @@
   	     {"name" : "ASIN", "type" : "TEXT"}
   	  ]
     },    
-  	{ "name" : "MediumArtist",
-  	  "columns" : [
-  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
-  	     {"name" : "refid", "type" : "INTEGER"},
-  	     {"name" : "artistid", "type" : "INTEGER", "ref" : "Artist,id,firstname;lastname"}
-  	  ]
-    },    
   	{ "name" : "Performance",
   	  "columns" : [
   	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
@@ -108,7 +101,8 @@
   	     {"name" : "talid", "type" : "INTEGER", "ref" : "Tal,id,name"},
   	     {"name" : "provenance", "type" : "TEXT"},
   	     {"name" : "storeId", "type" : "TEXT"},
-  	     {"name" : "CD", "type" : "INTEGER"}
+  	     {"name" : "CD", "type" : "INTEGER"},
+  	     {"name" : "carnatic", "type" : "INTEGER", "defaultValue":"0"}
   	  ]
     },
   	{ "name" : "PerformancePart",
