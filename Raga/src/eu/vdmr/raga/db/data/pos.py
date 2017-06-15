@@ -2,7 +2,7 @@ infilename = 'musicDBcontent.json'
 print('hello')
 linecnt = 0
 charcnt = 0
-zoekpos = 71909
+zoekpos = 30584
 print('open')
 fi = open(infilename, 'r')
 print('opened')

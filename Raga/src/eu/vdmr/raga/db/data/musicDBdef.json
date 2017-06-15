@@ -32,6 +32,13 @@
   	     {"name" : "gharana", "type" : "INTEGER", "ref" : "Gharana,id,name"}
   	  ]
     },
+  	{ "name" : "ArtistsInstrument",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "artistid", "type" : "INTEGER", "ref" : "Artist,id,firstname;lastname"},
+  	     {"name" : "instrumentid", "type" : "INTEGER", "ref" : "Instrument,id,name"}
+  	  ]
+    },
   	{ "name" : "ArtistRelaties",
   	  "columns" : [
   	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
@@ -89,6 +96,13 @@
   	     {"name" : "ASIN", "type" : "TEXT"}
   	  ]
     },    
+  	{ "name" : "MediumComment",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "refid", "type" : "INTEGER"},
+  	     {"name" : "comment", "type" : "TEXT"}
+  	  ]
+    },    
   	{ "name" : "Performance",
   	  "columns" : [
   	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
@@ -98,7 +112,6 @@
   	     {"name" : "title", "type" : "TEXT"},
   	     {"name" : "date", "type" : "DATE"},
   	     {"name" : "place", "type" : "TEXT"},
-  	     {"name" : "talid", "type" : "INTEGER", "ref" : "Tal,id,name"},
   	     {"name" : "provenance", "type" : "TEXT"},
   	     {"name" : "storeId", "type" : "TEXT"},
   	     {"name" : "CD", "type" : "INTEGER"},
@@ -111,6 +124,7 @@
   	     {"name" : "refid", "type" : "TEXT"},
   	     {"name" : "volgnr", "type" : "INTEGER"},
   	     {"name" : "partname", "type" : "TEXT"},
+  	     {"name" : "talid", "type" : "INTEGER", "ref" : "Tal,id,name"},
   	     {"name" : "duration", "type" : "INTEGER"},
   	     {"name" : "filename", "type" : "TEXT"}
   	  ]
