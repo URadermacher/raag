@@ -557,6 +557,7 @@
         {"name" : "Shuddh_Sarang"},
         {"name" : "Shyam_Kalyan",     "thatid" : "Kalyan", "notes" : "S R G (M) P D (N)"},
         {"name" : "Simhendra_Madyama"},
+        {"name" : "Sindhura"},
         {"name" : "Sindhu_Khamaj"},
         {"name" : "Sughrai"},
         {"name" : "Suha", "notes" : "S R g m P n",  "vadi":"m","samvadi":"P"},
@@ -577,6 +578,7 @@
         {"name" : "Vrindavni_Sarang"},
   	    {"name" : "Yaman",            "thatid" : "Kalyan", "notes" : "S R G m M P D N", "aroha" : "S R G m M P D N",                       	 "avaroha" :"",                         "vadi":"P",  "samvadi":"S",   "pakad" :"S GMP M P-, M G – RS R S _NS"},
         {"name" : "Yaman_Manj"},
+        {"name" : "Yogiya_Kalingra"},
 		{"name" : "Unknown"}        
   	  ]
     },
@@ -611,7 +613,7 @@
   	     {"lastname" : "Babu",       "firstname" : "Chitti" },
   	     {"lastname" : "Banerjee",   "firstname" : "Indrajit" },
   	     {"lastname" : "Banerjee",   "firstname" : "Kankana" },
-  	     {"lastname" : "Banerjee",   "firstname" : "Nikhil" },
+  	     {"lastname" : "Banerjee",   "firstname" : "Nikhil" , "death":"1986-01-27"},
   	     {"lastname" : "Bhagawat",   "firstname" : "Vidya" },
   	     {"lastname" : "Borkar",     "firstname" : "Tulsidas" },
   	     {"lastname" : "Bose",       "firstname" : "Shyamal" },
@@ -625,6 +627,7 @@
   	     {"lastname" : "Das",        "firstname" : "Gopal" },
   	     {"lastname" : "Dutta",      "firstname" : "Kannai" },
   	     {"lastname" : "Ghate",      "firstname" : "Vijay" },
+  	     {"lastname" : "Gosh",       "firstname" : "Nikhil" },
   	     {"lastname" : "Gulvadi",    "firstname" : "Omkar" },
   	     {"lastname" : "Hiralal",    "firstname" : "-" },
   	     {"lastname" : "Hussain",    "firstname" : "Zakhir" },
@@ -650,6 +653,7 @@
   	     {"lastname" : "Kulkarni",   "firstname" : "Rupak" },
   	     {"lastname" : "Kunte",      "firstname" : "Anant" },
   	     {"lastname" : "Lele",       "firstname" : "Kiran" },
+  	     {"lastname" : "Maharaj",    "firstname" : "Kishen" },
   	     {"lastname" : "Mansur",     "firstname" : "Mallikarjun" ,   "gharana" : "Jaipur"},
   	     {"lastname" : "Mansur",     "firstname" : "Rajshekhar" },
   	     {"lastname" : "Mishra",     "firstname" : "Kashinath"  },
@@ -699,6 +703,7 @@
   	     {"artistid" : "Zahiruddin;Dagar",     "instrumentid" : "Voice"},
   	     {"artistid" : "Gopal;Das",            "instrumentid" : "Pakhavaj"},
   	     {"artistid" : "Kannai;Dutta",         "instrumentid" : "Tabla"},
+  	     {"artistid" : "Nikhil;Gosh",          "instrumentid" : "Tabla"},
   	     {"artistid" : "-;Hiralal",            "instrumentid" : "Shenai"},
   	     {"artistid" : "Balkrishna;Iyer",      "instrumentid" : "Tabla"},
   	     {"artistid" : "Pandit;Jasrai",        "instrumentid" : "Voice"},
@@ -712,6 +717,7 @@
   	     {"artistid" : "Yunus Hussain;Khan",   "instrumentid" : "Voice"},
   	     {"artistid" : "Zamir Ahmed;Khan",     "instrumentid" : "Tabla"},
   	     {"artistid" : "Gopal;Krishna",        "instrumentid" : "Vina"},
+  	     {"artistid" : "Kishen;Maharaj",       "instrumentid" : "Tabla"},
   	     {"artistid" : "Mallikarjun;Mansur",   "instrumentid" : "Voice"},
   	     {"artistid" : "Kashinath;Mishra",     "instrumentid" : "Tabla"},
   	     {"artistid" : "-;Motilal",            "instrumentid" : "Duggi"},
@@ -769,6 +775,13 @@
   	     {"refid" : "00031", "publisher" : "Disques Espérance", "date" : "1975-01-01","title":"Raga Piloo",  "have" : "1", "shortid":"BANENI_9"},
   	     {"refid" : "00032", "publisher" : "Raga Record", "date" : "1970-01-01","title":"Afternoon Ragas, Bhimpalasi",  "have" : "1", "shortid":"BANENI_11"},
   	     {"refid" : "00033", "publisher" : "", "date" : "0000-00-00","title":"",  "have" : "1", "shortid":"BANENI_12"},
+  	     {"refid" : "00034", "publisher" : "The Grammophone Company of India", "date" : "1980-01-01","title":"",  "have" : "1", "shortid":"BANENI_13"},
+  	     {"refid" : "00035", "publisher" : "Raga Records", "date" : "1965-01-01","title":"Morning Ragas Bombay 1965",  "have" : "1", "shortid":"BANENI_14"},
+  	     {"refid" : "00036", "publisher" : "Raga Records", "date" : "0000-00-00","title":"Nikhil Banerjee Live",  "have" : "1", "shortid":"BANENI_15"},
+  	     {"refid" : "00037", "publisher" : "All India Radio", "date" : "0000-00-00","title":"",  "have" : "1", "shortid":"BANENI_16"},
+  	     {"refid" : "00038", "publisher" : "Melody", "date" : "0000-00-00","title":"Live in Calcutta",  "have" : "1", "shortid":"BANENI_17"},
+  	     {"refid" : "00039", "publisher" : "", "date" : "0000-00-00","title":"Nikhil Banerjee at Jamshedpur",  "have" : "1", "shortid":"BANENI_18"},
+  	     {"refid" : "00040", "publisher" : "", "date" : "0000-00-00","title":"Nikhil Banerjee at the Dover Lane Music Conference",  "have" : "1", "shortid":"BANENI_19"}
   	     
   	  ]
   	},
@@ -776,7 +789,10 @@
       "entries" : [
   	     {"refid" : "00031", "comment" : "original a vinyl"},
   	     {"refid" : "00032", "comment" : "the Abhogi is from Chandra Dhara ''The Genius of Pandit Nikhil Banerjee Live in Concewt No 4''; 1996"},
-  	     {"refid" : "00032", "comment" : "Malgunji from ''Raga Records'', Asavari from EMI India from LP EASD177 "}
+  	     {"refid" : "00032", "comment" : "Malgunji from ''Raga Records'', Asavari from EMI India from LP EASD177 "},
+  	     {"refid" : "00038", "comment" : "Met een commercial voor Tilda Basmati Rice"},
+  	     {"refid" : "00039", "comment" : "Ook nog een ''Kirwani from Reel mono Tape''"},
+  	     {"refid" : "00040", "comment" : "met een andere Raga erbij"}
   	  ]
   	},
   	{ "name" : "Performance",
@@ -905,7 +921,11 @@
   	     {"ragaid" : "Asavari",      "artistid":"Nikhil;Banerjee",     "provenance" : "CD,2",  "CD":"00033", "storeid":"000122", "title" : "Asavari"},
   	     {"ragaid" : "Megh",         "artistid":"Nikhil;Banerjee",     "provenance" : "CD,3",  "CD":"00033", "storeid":"000123", "title" : "Meg"},
   	     {"ragaid" : "Mishra_Gara",  "artistid":"Nikhil;Banerjee",     "provenance" : "CD,4",  "CD":"00033", "storeid":"000124", "title" : "Mishra Gara"},
-  	     {"ragaid" : "Unknown",      "artistid":"Nikhil;Banerjee",     "provenance" : "CD,5",  "CD":"00033", "storeid":"000125", "title" : "A Baul Folk Song"}
+  	     {"ragaid" : "Unknown",      "artistid":"Nikhil;Banerjee",     "provenance" : "CD,5",  "CD":"00033", "storeid":"000125", "title" : "A Baul Folk Song"},
+  	     {"ragaid" : "Sindhura",     "artistid":"Nikhil;Banerjee",     "provenance" : "CD,1",  "CD":"00034", "storeid":"000126", "title" : "Sindhura"},
+  	     {"ragaid" : "Adana",        "artistid":"Nikhil;Banerjee",     "provenance" : "CD,2",  "CD":"00034", "storeid":"000127", "title" : "Adana"},
+  	     {"ragaid" : "Yogiya_Kalingra","artistid":"Nikhil;Banerjee",   "provenance" : "CD,1",  "CD":"00035", "storeid":"000128", "title" : "Yogiya Kalingra","date":"1965-01-01","place":"Bombay"},
+  	     {"ragaid" : "Mishra_Kafi",  "artistid":"Nikhil;Banerjee",     "provenance" : "CD,1",  "CD":"00036", "storeid":"000129", "title" : "Mishra Kafi	","date":"1982-01-01","place":"Berkely"}
   	     
   	  ]
     },
@@ -1042,6 +1062,10 @@
       	 {"storeid" : "000123", "volgnr" : "001", "partname":"Alap, Jhaptal", , "talid" : "JhapTal"  "duration" :  "20", "filename" : "000123_Meg.wav"},
       	 {"storeid" : "000124", "volgnr" : "001", "partname":"-",   "duration" :  "8", "filename" : "000124_Mishra_Gara.wav"},
       	 {"storeid" : "000125", "volgnr" : "001", "partname":"-",   "duration" :  "9", "filename" : "000125_Baul_Song.wav"},
+      	 {"storeid" : "000126", "volgnr" : "001", "partname":"-",   "duration" :  "33", "filename" : "000126_Sindhura.wav"},
+      	 {"storeid" : "000127", "volgnr" : "001", "partname":"-",   "duration" :  "26", "filename" : "000127_Adana.wav"},
+      	 {"storeid" : "000128", "volgnr" : "001", "partname":"-",   "duration" :  "45", "filename" : "000128_Yogiya_Kalingra.wav"},
+      	 {"storeid" : "000129", "volgnr" : "001", "partname":"-",   "duration" :  "46", "filename" : "000129_Mishra_Kafi.wav"}
       	 
       ]
     },
@@ -1240,6 +1264,13 @@
   	     {"storeid" : "000123",   "instrumentid":"Tabla","artistid":"Swapan;Chaidhuri"},
   	     {"storeid" : "000124",   "instrumentid":"Sitar","artistid":"Nikhil;Banerjee"},
   	     {"storeid" : "000125",   "instrumentid":"Sitar","artistid":"Nikhil;Banerjee"}
+  	     {"storeid" : "000126",   "instrumentid":"Sitar","artistid":"Nikhil;Banerjee"},
+  	     {"storeid" : "000126",   "instrumentid":"Tabla","artistid":"Kishen;Maharaj"},
+  	     {"storeid" : "000127",   "instrumentid":"Sitar","artistid":"Nikhil;Banerjee"},
+  	     {"storeid" : "000127",   "instrumentid":"Tabla","artistid":"Kishen;Maharaj"},
+  	     {"storeid" : "000128",   "instrumentid":"Sitar","artistid":"Nikhil;Banerjee"},
+  	     {"storeid" : "000128",   "instrumentid":"Tabla","artistid":"Nikhil;Gosh"},
+  	     {"storeid" : "000129",   "instrumentid":"Sitar","artistid":"Nikhil;Banerjee"}
   	  ]
   	}
   ]
