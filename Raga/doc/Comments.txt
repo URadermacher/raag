@@ -11,3 +11,5 @@ boolean 0 = false 1 = true
 if provenance is "CD" after the comma the track number(s) may appear.
 
 time from to is 24 hours like 00-03 of 18-21
+
+in thekas '*' means the same as the point: extend the lenght of the not with a half, so "dhin* dhin* dha" are 4 beats:  1.5 + 1.5 + 1 
