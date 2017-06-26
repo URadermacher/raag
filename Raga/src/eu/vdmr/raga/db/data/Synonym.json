@@ -1,0 +1,23 @@
+{ "name" : "Synonym",
+      "entries" : [
+  	     {"synonym" : "Aiman",                "canonical" : "Yaman"},
+  	     {"synonym" : "Aliya Belawal",        "canonical" : "Alahiya_Bilaval"},
+  	     {"synonym" : "Behag",                "canonical" : "Bihag"},
+  	     {"synonym" : "Bhempilasi",           "canonical" : "Bhimpalasi"},
+  	     {"synonym" : "Bhopali",              "canonical" : "Bhupali"},
+  	     {"synonym" : "Brindabani_Sarang",    "canonical" : "Brindavani_Sarang"},
+  	     {"synonym" : "Jay Jay Vanti",        "canonical" : "Jaijaivanti"},
+  	     {"synonym" : "Jayjaywanti",          "canonical" : "Jaijaivanti"},
+  	     {"synonym" : "Kaushikadhwani",       "canonical" : "Kaushik_Dhwani"},
+  	     {"synonym" : "Khamach",              "canonical" : "Khamaj"},
+  	     {"synonym" : "Kidara",               "canonical" : "Kedar"},
+  	     {"synonym" : "Komal_Rishab_Asavaro", "canonical" : "Asavaro"},
+  	     {"synonym" : "Mian_Ki_Todi",         "canonical" : "Miyan_Ki_Todi"},
+  	     {"synonym" : "Miya_Malhar",          "canonical" : "Malhar"},
+  	     {"synonym" : "Pahari",               "canonical" : "Pahadi"},
+ 	     {"synonym" : "Puria",                "canonical" : "Puriya"},
+   	     {"synonym" : "Sarang",               "canonical" : "Shuddh_Sarang"},
+  	     {"synonym" : "Todi",                 "canonical" : "Miyan_Ki_Todi"},
+  	     {"synonym" : "zzz",                  "canonical" : "zzz"}
+  	  ]
+    }

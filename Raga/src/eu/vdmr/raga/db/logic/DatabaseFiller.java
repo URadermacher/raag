@@ -36,23 +36,23 @@ public class DatabaseFiller {
 
 	@SuppressWarnings("unchecked")
 	public void fillDatabase(Statement s, Database database, Connection connection) throws SQLException, ParseException, IOException {
-		String filename = "null";	
-		try {
-			filename = StartUp.getProperty(StartUp.DBCONTENTFILE);
-			Reader reader = new BufferedReader(new FileReader(filename));
-			JSONObject root = (JSONObject) JSONValue.parseWithException(reader);
-			LOG.debug("total object is of type " + root.getClass().getName());
-			connection.setAutoCommit(false);
-			
-			JSONArray tables = (JSONArray)root.get(DBConst.VALCONTENT);
-			Iterator<JSONObject> tableIter = tables.iterator();
-			while (tableIter.hasNext()) {
-				JSONObject tableObj = tableIter.next();
-				String tablename = (String)tableObj.get(DBConst.VALTABLE);
+		String dirname = "null";	
+		dirname = StartUp.getProperty(StartUp.DBCONTENTDIR);
+		String filenamesString = StartUp.getProperty(StartUp.DBCONTENTFILES);
+		String[] filenames = filenamesString.split(",");
+		connection.setAutoCommit(false);
+		
+		for (String filename :  filenames) {
+			Reader reader = null;
+			try {
+				reader = new BufferedReader(new FileReader(dirname+filename));
+				JSONObject root = (JSONObject) JSONValue.parseWithException(reader);
+				LOG.debug("total object is of type " + root.getClass().getName());
+				String tablename = (String) root.get(DBConst.VALTABLE);
 				LOG.info("filling table " + tablename);
 				Table table = database.getTableByName(tablename);
 				List<Column> columns = table.getColumns();
-				JSONArray rows = (JSONArray)tableObj.get(DBConst.VALROWS);
+				JSONArray rows = (JSONArray)root.get(DBConst.VALROWS);
 				Iterator<JSONObject> rowIter = rows.iterator();
 				int rowCnt = 1;
 				while (rowIter.hasNext()) {
@@ -89,9 +89,13 @@ public class DatabaseFiller {
 					}
 				}
 				connection.commit();
+			} catch (Exception e) {
+				LOG.error("Error parsing " + filename + ": " + e, e);
+			} finally {
+				if (reader != null) {
+					reader.close();
+				}
 			}
-		} catch (Exception e) {
-			LOG.error("Error parsing " + filename + ": " + e, e);
 		}
 		LOG.info("Ready..");
 	}

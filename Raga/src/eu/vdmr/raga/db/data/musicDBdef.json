@@ -39,7 +39,7 @@
   	     {"name" : "instrumentid", "type" : "INTEGER", "ref" : "Instrument,id,name"}
   	  ]
     },
-  	{ "name" : "ArtistRelaties",
+  	{ "name" : "ArtistRelation",
   	  "columns" : [
   	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
   	     {"name" : "name", "type" : "TEXT"},

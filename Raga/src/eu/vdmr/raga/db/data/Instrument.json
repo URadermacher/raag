@@ -1,0 +1,21 @@
+{ "name" : "Instrument",
+      "entries" : [
+  	     {"name" : "Bansuri" },
+  	     {"name" : "Dilruba" },
+  	     {"name" : "Duggi" },
+  	     {"name" : "Harmonium" },
+  	     {"name" : "Mridangam" },
+  	     {"name" : "Pakhavaj" },
+  	     {"name" : "Santur" },
+  	     {"name" : "Sarangi" },
+  	     {"name" : "Sarod" },
+  	     {"name" : "Shenai" },
+  	     {"name" : "Sitar" },
+  	     {"name" : "Surashringar" },
+  	     {"name" : "Surbahar" },
+  	     {"name" : "Tabla" },
+  	     {"name" : "Tampura" },
+  	     {"name" : "Vina" },
+  	     {"name" : "Voice" }
+  	  ]
+    }

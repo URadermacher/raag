@@ -16,9 +16,12 @@ import org.sqlite.SQLiteConfig;
 import eu.vdmr.raga.db.dto.Database;
 
 public class StartUp {
-	public static final String DBFILE = "databasefile";
-	public static final String DBDEFFILE = "databasedefinitionfile";
-	public static final String DBCONTENTFILE = "databasecontentfile";
+	public static final String DBFILE = "DatabaseFile";
+	public static final String DBDEFFILE = "DatabaseDefinitionFile";
+//	public static final String DBCONTENTFILE = "atabasecontentfile";
+	public static final String DBCONTENTFILES = "DatabaseContentFiles";
+	public static final String DBCONTENTFILESSEPARATOR = "DatabaseContentFilesSeparator";
+	public static final String DBCONTENTDIR = "DatabaseContentDir";
 	private static final Logger LOG = LogManager.getLogger(StartUp.class);
 	
 	private static Properties properties = null;

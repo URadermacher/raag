@@ -1,0 +1,14 @@
+{ "name" : "That",
+      "entries" : [
+  	     {"name" : "Kalyan" , "notes" : "S R G M P D N"},
+  	     {"name" : "Bilaval", "notes" : "S R G m P D N"},
+  	     {"name" : "Kafi",    "notes" : "S R g m P D n"},
+  	     {"name" : "Asavari", "notes" : "S R g m P d n"},
+  	     {"name" : "Bhairavi","notes" : "S r g m P d n"},
+  	     {"name" : "Bhairav", "notes" : "S r G m P d N"},
+  	     {"name" : "Marwa",   "notes" : "S r G M P D N"},
+  	     {"name" : "Purvi",   "notes" : "S r G M P d N"},
+  	     {"name" : "Khamaj",  "notes" : "S R G m P D n"},
+  	     {"name" : "Todi",    "notes" : "S r g M P s N"}
+  	  ]
+    }
