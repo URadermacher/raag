@@ -62,13 +62,6 @@ public class DatabaseCreator {
 		if (!first){
 			sb.append(", ");
 		}
-		//
-		LOG.info(" = " + column.getName());
-		if ("carnatic".equals(column.getName())){
-			int a = 6;
-			int b = a;
-		}
-		//
 		sb.append(column.getName()).append(" ").append(column.getType().getSqliteString());
 		if (column.getDefaultValue() != null) {
 			sb.append(" DEFAULT " + column.getDefaultValue());
