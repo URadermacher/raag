@@ -39,6 +39,13 @@
   	     {"name" : "instrumentid", "type" : "INTEGER", "ref" : "Instrument,id,name"}
   	  ]
     },
+  	{ "name" : "ArtistComment",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "artistid", "type" : "INTEGER", "ref" : "Artist,id,firstname;lastname"},
+  	     {"name" : "comment", "type" : "TEXT"}
+  	  ]
+    },
   	{ "name" : "ArtistRelation",
   	  "columns" : [
   	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},

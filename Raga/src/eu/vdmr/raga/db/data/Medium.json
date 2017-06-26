@@ -61,6 +61,10 @@
    	     {"refid" : "00059", "publisher" : "Music Today", "date" : "1994-09-02","title":"Basant Bahar Volume Four",  "have" : "1", "shortid":"BASANT_1"}, 	     
    	     {"refid" : "00060", "publisher" : "Music Today", "date" : "0000-00-00","title":"Basant Utsav",  "have" : "1", "shortid":"BASANT_2"}, 	     
    	     {"refid" : "00061", "publisher" : "EMI Pakistan", "date" : "1985-00-00","title":"Raag Marva on Sitar by Farrukh Bashir",  "have" : "1", "shortid":"BASHFA_1"}, 	     
-   	     {"refid" : "00062", "publisher" : "CDBY",         "date" : "1998-01-01","title":"Morning Meditation by Ashwin Batish",  "have" : "1", "shortid":"BATIAS_1"} 	     
+   	     {"refid" : "00062", "publisher" : "CDBY",         "date" : "1998-01-01","title":"Morning Meditation by Ashwin Batish",  "have" : "1", "shortid":"BATIAS_1"}, 	     
+   	     {"refid" : "00063", "publisher" : "CDBY",         "date" : "1998-01-01","title":"Om Shanti Meditation",  "have" : "1", "shortid":"BATIAS_2"},    
+   	     {"refid" : "00064", "publisher" : "",             "date" : "0000-00-00","title":"Live at KKUP Radio",  "have" : "1", "shortid":"BATIAS_3"},  
+   	     {"refid" : "00065", "publisher" : "",             "date" : "0000-00-00","title":"Religious Songs From Bengal",  "have" : "1", "shortid":"BAULBR_1"}, 	     
+   	     {"refid" : "00066", "publisher" : "",             "date" : "0000-00-00","title":"Ragas from Benares",  "have" : "1", "shortid":"BENARE_1"} 	     
   	  ]
   	}

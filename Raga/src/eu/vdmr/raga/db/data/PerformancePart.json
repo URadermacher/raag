@@ -205,10 +205,27 @@
       	 {"storeid" : "000185", "volgnr" : "001", "partname":"-"  , "duration" :   "12","filename" : "000185_Mishra_Kafi.wav"},
       	 {"storeid" : "000186", "volgnr" : "001", "partname":"Part 1", "duration" :"27","filename" : "000186_1_Marwa.wav"},
       	 {"storeid" : "000186", "volgnr" : "002", "partname":"Part 2", "duration" :"27","filename" : "000186_2_Marwa.wav"},
-      	 {"storeid" : "000187", "volgnr" : "001", "partname":"Alap", "duration" :"13","filename" : "000187_1_Pahadi.wav"},
-      	 {"storeid" : "000187", "volgnr" : "002", "partname":"Gat", "talid" : "Dipchandi", "duration" :"11","filename" : "000187_2_Pahadi.wav"},
-      	 {"storeid" : "000188", "volgnr" : "001", "partname":"Alap and Gat",  "talid" : "Ektal","duration" :"16","filename" : "000188_1_Vibhas.wav"},
-      	 {"storeid" : "000189", "volgnr" : "001", "partname":"Alap and Gat",  "talid" : "Tintal", "duration" :"16","filename" : "000189_Todi.wav"}
+      	 {"storeid" : "000187", "volgnr" : "001", "partname":"Alap",                                 "duration" :"13","filename" : "000187_1_Pahadi.wav"},
+      	 {"storeid" : "000187", "volgnr" : "002", "partname":"Gat",           "talid" : "Dipchandi", "duration" :"11","filename" : "000187_2_Pahadi.wav"},
+      	 {"storeid" : "000188", "volgnr" : "001", "partname":"Alap and Gat",  "talid" : "Ektal",     "duration" :"16","filename" : "000188_1_Vibhas.wav"},
+      	 {"storeid" : "000189", "volgnr" : "001", "partname":"Alap and Gat",  "talid" : "Tintal",    "duration" :"16","filename" : "000189_Todi.wav"},
+      	 {"storeid" : "000190", "volgnr" : "001", "partname":"-",                                    "duration" :"30","filename" : "000190_Bilaval.wav"},
+      	 {"storeid" : "000191", "volgnr" : "001", "partname":"-",                                    "duration" :"31","filename" : "000191_Bageshwari.wav"},
+      	 {"storeid" : "000192", "volgnr" : "001", "partname":"Introduction of Presentor",            "duration" :"1", "filename" : "000192_0_Intro.wav"},
+      	 {"storeid" : "000192", "volgnr" : "002", "partname":"Alaap,Jor,Jhalla",                     "duration" :"21","filename" : "000192_1_Kirvani.wav"},
+      	 {"storeid" : "000192", "volgnr" : "003", "partname":"Gat",           "talid" : "Dipchandi", "duration" :"11","filename" : "000192_2_Kirvani.wav"},
+      	 {"storeid" : "000192", "volgnr" : "004", "partname":"Fast Gat",      "talid" : "Tintal",    "duration" :"8", "filename" : "000192_3_Kirvani.wav"},
+      	 {"storeid" : "000192", "volgnr" : "005", "partname":"Interview with Ashwin Batish",         "duration" :"14","filename" : "000192_4_Interview.wav"},
+      	 {"storeid" : "000193", "volgnr" : "001", "partname":"The new man of love and faith",        "duration" : "8","filename" : "000193_1_Songs.wav"},
+      	 {"storeid" : "000193", "volgnr" : "002", "partname":"On understanding oneself",             "duration" : "3","filename" : "000193_2_Songs.wav"},
+      	 {"storeid" : "000193", "volgnr" : "003", "partname":"Cultivate the human-land",             "duration" : "6","filename" : "000193_3_Songs.wav"},
+      	 {"storeid" : "000193", "volgnr" : "004", "partname":"Release your wordly weight",           "duration" : "4","filename" : "000193_4_Songs.wav"},
+      	 {"storeid" : "000194", "volgnr" : "005", "partname":"Poems of Chandidas",                   "duration" :"20","filename" : "000194_Poems.wav"},
+      	 {"storeid" : "000195", "volgnr" : "001", "partname":"Shanai(Kedara)",                       "duration" :"12","filename" : "000195_Kedara.wav"},
+      	 {"storeid" : "000196", "volgnr" : "001", "partname":"Surbahar(Darbari_Kanada)",             "duration" : "8","filename" : "000196_Darbari_kanada.wav"},
+      	 {"storeid" : "000197", "volgnr" : "001", "partname":"Sarangi and Tabla",                    "duration" : "6","filename" : "000197_Sarangi.wav"},
+      	 {"storeid" : "000198", "volgnr" : "001", "partname":"Sitar and Tabla(Khammaj)",             "duration" : "8","filename" : "000198_Khammaj.wav"},
+      	 {"storeid" : "000199", "volgnr" : "001", "partname":"Vina(Bihag)",                          "duration" : "7","filename" : "000199_Bihag.wav"}
       	 
       ]
     }

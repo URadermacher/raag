@@ -201,12 +201,5 @@ public class DatabaseFiller {
 			LOG.error("Error executing " + sb.toString() +": " + sqle,sqle);
 			throw sqle;
 		}
-		//return -1;
 	}
-/*
- * INSERT INTO COMPANY (ID,NAME,AGE,ADDRESS,SALARY)
-VALUES (1, 'Paul', 32, 'California', 20000.00 );
-
- */
-
 }
