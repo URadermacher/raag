@@ -245,6 +245,7 @@
       	 {"storeid" : "000216", "volgnr" : "001", "partname":"Alap,Gat",  "talid" : "Tintal",        "duration" :"20","filename" : "000216_Charukeshi.wav"},
       	 {"storeid" : "000217", "volgnr" : "001", "partname":"Alap,Jor,Gat,Jhalla","talid" : "Tintal","duration" :"19","filename": "000217_Jog.wav"},
       	 {"storeid" : "000218", "volgnr" : "001", "partname":"ochtend meditatie",                    "duration" : "6","filename" : "000218_Todi_Meditatie.wav"},
-      	 {"storeid" : "000219", "volgnr" : "001", "partname":"avond meditatie",                      "duration" : "6","filename" : "000219_Darbari_Meditatie.wav"}
+      	 {"storeid" : "000219", "volgnr" : "001", "partname":"avond meditatie",                      "duration" : "6","filename" : "000219_Darbari_Meditatie.wav"},
+      	 {"storeid" : "000220", "volgnr" : "001", "partname":"-",                                    "duration" :"16","filename" : "000220_Khamaj.wav"}
       ]
     }

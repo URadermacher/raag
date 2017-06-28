@@ -218,7 +218,8 @@
    	     {"ragaid" : "Charukeshi",      "artistid":"Jamaluddin;Bhartiya","provenance": "CD,1",  "CD":"00068", "storeid":"000216", "title" : "Charukeshi"},     
    	     {"ragaid" : "Jog",             "artistid":"Jamaluddin;Bhartiya","provenance": "CD,2",  "CD":"00068", "storeid":"000217", "title" : "Jog"},	     
    	     {"ragaid" : "Todi",            "artistid":"Jamaluddin;Bhartiya","provenance": "CD,1",  "CD":"00069", "storeid":"000218", "title" : "Todi, ochtend meditatie"},     
-   	     {"ragaid" : "Darbari",         "artistid":"Jamaluddin;Bhartiya","provenance": "CD,2",  "CD":"00069", "storeid":"000219", "title" : "Darbari, avond meditatie"}	     
+   	     {"ragaid" : "Darbari",         "artistid":"Jamaluddin;Bhartiya","provenance": "CD,2",  "CD":"00069", "storeid":"000219", "title" : "Darbari, avond meditatie"}, 
+   	     {"ragaid" : "Khamaj",          "artistid":"Indranil;Bhattacharya","provenance":"CD,1", "CD":"00070", "storeid":"000220", "title" : "Khamaj"}	     
   	     
   	  ]
   	}

@@ -305,6 +305,9 @@
   	     {"storeid" : "000218",   "instrumentid":"Sitar",      "artistid":"Jamaluddin;Bhartiya"},
   	     {"storeid" : "000218",   "instrumentid":"Tampura",    "artistid":"Darshan;Kumari"},
   	     {"storeid" : "000219",   "instrumentid":"Sitar",      "artistid":"Jamaluddin;Bhartiya"},
-  	     {"storeid" : "000219",   "instrumentid":"Tampura",    "artistid":"Darshan;Kumari"}
+  	     {"storeid" : "000219",   "instrumentid":"Tampura",    "artistid":"Darshan;Kumari"},
+  	     {"storeid" : "000220",   "instrumentid":"Sitar",      "artistid":"Indranil;Bhattacharya"},
+  	     {"storeid" : "000220",   "instrumentid":"Sarod",      "artistid":"Aashish;Khan"},
+  	     {"storeid" : "000220",   "instrumentid":"Tabla",      "artistid":"Anindo;Chatterjee"}
   	   ]
   	}

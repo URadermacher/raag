@@ -68,6 +68,7 @@
    	     {"refid" : "00066", "publisher" : "",             "date" : "0000-00-00","title":"Ragas from Benares",  "have" : "1", "shortid":"BENARE_1"},
    	     {"refid" : "00067", "publisher" : "Makar",        "date" : "1995-00-00","title":"Rag Bhairavi",  "have" : "1", "shortid":"BHAIRA_1"},
    	     {"refid" : "00068", "publisher" : "",             "date" : "0000-00-00","title":"Jamaluddin Bhartiya",  "have" : "1", "shortid":"BHARJA_1"},
-   	     {"refid" : "00069", "publisher" : "dharana",      "date" : "0000-00-00","title":"Meditaie op muziek",  "have" : "1", "shortid":"BHARJA_2"}
+   	     {"refid" : "00069", "publisher" : "dharana",      "date" : "0000-00-00","title":"Meditatie op muziek",  "have" : "1", "shortid":"BHARJA_2"},
+   	     {"refid" : "00070", "publisher" : "",             "date" : "0000-00-00","title":"A Tribute To Or Guru",  "have" : "1", "shortid":"BHATIN_1"}
   	  ]
   	}
