@@ -295,6 +295,16 @@
   	     {"storeid" : "000211",   "instrumentid":"Voice",     "artistid":"Jal.K.;Balaporia"},
   	     {"storeid" : "000213",   "instrumentid":"Voice",     "artistid":"Purnima;Chaudhuri"},
   	     {"storeid" : "000214",   "instrumentid":"Voice",     "artistid":"Girish;Karia"},
-  	     {"storeid" : "000215",   "instrumentid":"Vichitravina","artistid":"Mustafa;Raza"}
+  	     {"storeid" : "000215",   "instrumentid":"Vichitravina","artistid":"Mustafa;Raza"},
+  	     {"storeid" : "000216",   "instrumentid":"Sitar",      "artistid":"Jamaluddin;Bhartiya"},
+  	     {"storeid" : "000216",   "instrumentid":"Tabla",      "artistid":"Zamir Ahmed;Khan"},
+  	     {"storeid" : "000216",   "instrumentid":"Tampura",    "artistid":"Darshan;Kumari"},
+  	     {"storeid" : "000217",   "instrumentid":"Sitar",      "artistid":"Jamaluddin;Bhartiya"},
+  	     {"storeid" : "000217",   "instrumentid":"Tabla",      "artistid":"Zamir Ahmed;Khan"},
+  	     {"storeid" : "000217",   "instrumentid":"Tampura",    "artistid":"Darshan;Kumari"},
+  	     {"storeid" : "000218",   "instrumentid":"Sitar",      "artistid":"Jamaluddin;Bhartiya"},
+  	     {"storeid" : "000218",   "instrumentid":"Tampura",    "artistid":"Darshan;Kumari"},
+  	     {"storeid" : "000219",   "instrumentid":"Sitar",      "artistid":"Jamaluddin;Bhartiya"},
+  	     {"storeid" : "000219",   "instrumentid":"Tampura",    "artistid":"Darshan;Kumari"}
   	   ]
   	}

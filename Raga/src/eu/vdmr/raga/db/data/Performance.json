@@ -214,7 +214,11 @@
    	     {"ragaid" : "Bhairavi",        "artistid":"Me''raj Nizami;Qawwal","provenance":"CD,13","CD":"00067", "storeid":"000212", "title" : "Bhairavi", "styleid":"Qawwali"},	     
    	     {"ragaid" : "Bhairavi",        "artistid":"Purnima;Chaudhuri", "provenance" : "CD,14", "CD":"00067", "storeid":"000213", "title" : "Bhairavi", "styleid":"Thumri"},	     
    	     {"ragaid" : "Bhairavi",        "artistid":"Girish;Karia",      "provenance" : "CD,15", "CD":"00067", "storeid":"000214", "title" : "Bhairavi", "styleid":"Dhrupad"},	     
-   	     {"ragaid" : "Bhairavi",        "artistid":"Mustafa;Raza",      "provenance" : "CD,16", "CD":"00067", "storeid":"000215", "title" : "Bhairavi", "styleid":"Khayal"}	     
+   	     {"ragaid" : "Bhairavi",        "artistid":"Mustafa;Raza",      "provenance" : "CD,16", "CD":"00067", "storeid":"000215", "title" : "Bhairavi", "styleid":"Khayal"},	     
+   	     {"ragaid" : "Charukeshi",      "artistid":"Jamaluddin;Bhartiya","provenance": "CD,1",  "CD":"00068", "storeid":"000216", "title" : "Charukeshi"},     
+   	     {"ragaid" : "Jog",             "artistid":"Jamaluddin;Bhartiya","provenance": "CD,2",  "CD":"00068", "storeid":"000217", "title" : "Jog"},	     
+   	     {"ragaid" : "Todi",            "artistid":"Jamaluddin;Bhartiya","provenance": "CD,1",  "CD":"00069", "storeid":"000218", "title" : "Todi, ochtend meditatie"},     
+   	     {"ragaid" : "Darbari",         "artistid":"Jamaluddin;Bhartiya","provenance": "CD,2",  "CD":"00069", "storeid":"000219", "title" : "Darbari, avond meditatie"}	     
   	     
   	  ]
   	}
