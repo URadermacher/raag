@@ -6,6 +6,7 @@
   	     {"name" : "Harmonium" },
   	     {"name" : "Mridangam" },
   	     {"name" : "Pakhavaj" },
+  	     {"name" : "Rudravina" },
   	     {"name" : "Santur" },
   	     {"name" : "Sarangi" },
   	     {"name" : "Sarod" },
@@ -15,6 +16,7 @@
   	     {"name" : "Surbahar" },
   	     {"name" : "Tabla" },
   	     {"name" : "Tampura" },
+  	     {"name" : "Vichitravina" },
   	     {"name" : "Vina" },
   	     {"name" : "Voice" }
   	  ]

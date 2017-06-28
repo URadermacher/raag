@@ -280,6 +280,21 @@
   	     {"storeid" : "000190",   "instrumentid":"Sitar",     "artistid":"Ashwin;Batish"},
   	     {"storeid" : "000191",   "instrumentid":"Sitar",     "artistid":"Ashwin;Batish"},
   	     {"storeid" : "000192",   "instrumentid":"Sitar",     "artistid":"Ashwin;Batish"},
-  	     {"storeid" : "000192",   "instrumentid":"Tabla",     "artistid":"John;Taylor"}
+  	     {"storeid" : "000192",   "instrumentid":"Tabla",     "artistid":"John;Taylor"},
+  	     {"storeid" : "000200",   "instrumentid":"Rudravina", "artistid":"Bahauddin;Dagar"},
+  	     {"storeid" : "000201",   "instrumentid":"Voice",     "artistid":"Purnima;Sen"},
+  	     {"storeid" : "000202",   "instrumentid":"Sitar",     "artistid":"Chhote Rahimat;Khan"},
+  	     {"storeid" : "000203",   "instrumentid":"Voice",     "artistid":"Neela;Bhagwat"},
+  	     {"storeid" : "000204",   "instrumentid":"Voice",     "artistid":"V.R.;Kadnekar"},
+  	     {"storeid" : "000205",   "instrumentid":"Voice",     "artistid":"Vidur;Mallik"},
+  	     {"storeid" : "000206",   "instrumentid":"Voice",     "artistid":"Padmavati;Shaligram"},
+  	     {"storeid" : "000207",   "instrumentid":"Bansuri",   "artistid":"Sunil Kant;Gupta"},
+  	     {"storeid" : "000208",   "instrumentid":"Voice",     "artistid":"T.D.;Janorikar"},
+  	     {"storeid" : "000209",   "instrumentid":"Voice",     "artistid":"Aslam;Khan"},
+  	     {"storeid" : "000210",   "instrumentid":"Vina",      "artistid":"Rajesh;Vaidhya"},
+  	     {"storeid" : "000211",   "instrumentid":"Voice",     "artistid":"Jal.K.;Balaporia"},
+  	     {"storeid" : "000213",   "instrumentid":"Voice",     "artistid":"Purnima;Chaudhuri"},
+  	     {"storeid" : "000214",   "instrumentid":"Voice",     "artistid":"Girish;Karia"},
+  	     {"storeid" : "000215",   "instrumentid":"Vichitravina","artistid":"Mustafa;Raza"}
   	   ]
   	}

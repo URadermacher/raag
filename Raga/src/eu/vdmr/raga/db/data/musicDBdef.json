@@ -122,6 +122,7 @@
   	     {"name" : "provenance", "type" : "TEXT"},
   	     {"name" : "storeId", "type" : "TEXT"},
   	     {"name" : "CD", "type" : "INTEGER"},
+  	     {"name" : "styleid", "type" : "INTEGER", "ref" : "Style,id,name"},
   	     {"name" : "carnatic", "type" : "INTEGER", "defaultValue":"0"}
   	  ]
     },
