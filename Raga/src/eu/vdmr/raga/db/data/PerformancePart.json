@@ -246,6 +246,21 @@
       	 {"storeid" : "000217", "volgnr" : "001", "partname":"Alap,Jor,Gat,Jhalla","talid" : "Tintal","duration" :"19","filename": "000217_Jog.wav"},
       	 {"storeid" : "000218", "volgnr" : "001", "partname":"ochtend meditatie",                    "duration" : "6","filename" : "000218_Todi_Meditatie.wav"},
       	 {"storeid" : "000219", "volgnr" : "001", "partname":"avond meditatie",                      "duration" : "6","filename" : "000219_Darbari_Meditatie.wav"},
-      	 {"storeid" : "000220", "volgnr" : "001", "partname":"-",                                    "duration" :"16","filename" : "000220_Khamaj.wav"}
+      	 {"storeid" : "000220", "volgnr" : "001", "partname":"Alaap en slow tempo",                  "duration" :"19","filename" : "000220_1_Yaman.wav"},
+      	 {"storeid" : "000220", "volgnr" : "002", "partname":"fast tempo",                           "duration" :"10","filename" : "000220_2_Yaman.wav"},
+      	 {"storeid" : "000221", "volgnr" : "002", "partname":"Dhun in Mand-Khamaj",                  "duration" : "8","filename" : "000221_Dhun_Mand_Khamaj.wav"},
+      	 {"storeid" : "000222", "volgnr" : "001", "partname":"-",                                    "duration" :"16","filename" : "000222_Khamaj.wav"},
+      	 {"storeid" : "000223", "volgnr" : "001", "partname":"Alaap, Jor",                           "duration" :"32","filename" : "000223_1_Jog.wav"},
+      	 {"storeid" : "000223", "volgnr" : "002", "partname":"Gat, Madya laya", "talid" : "Jhaptal", "duration" :"18","filename" : "000223_2_Jog.wav"},
+      	 {"storeid" : "000223", "volgnr" : "003", "partname":"Gat, Drut laya", "talid" : "Tintal",   "duration" :"22","filename" : "000223_3_Jog.wav"},
+      	 {"storeid" : "000224", "volgnr" : "001", "partname":"Alaap,Jar,Jhalla,vilambit rupak-tal,drut tintal", "duration" :"58","filename" : "000224_Kalavati.wav"},
+      	 {"storeid" : "000225", "volgnr" : "001", "partname":"-",                                    "duration" :"13","filename" : "000225_Folk_Melody.wav"},
+      	 {"storeid" : "000226", "volgnr" : "001", "partname":"-",                                    "duration" :"09","filename" : "000226_Dhun.wav"},
+      	 {"storeid" : "000227", "volgnr" : "001", "partname":"Alaap",                                "duration" :"19","filename" : "000227_1_Rageshri.wav"},
+      	 {"storeid" : "000227", "volgnr" : "002", "partname":"Jor, Jhalla",                          "duration" :"10","filename" : "000227_2_Rageshri.wav"},
+      	 {"storeid" : "000227", "volgnr" : "003", "partname":"Gat",  "talid" : "Jhaptal",            "duration" :"19","filename" : "000227_3_Rageshri.wav"},
+      	 {"storeid" : "000227", "volgnr" : "004", "partname":"Gat",  "talid" : "Tintal",             "duration" : "7","filename" : "000227_4_Rageshri.wav"},
+      	 {"storeid" : "000227", "volgnr" : "005", "partname":"Drut gat",  "talid" : "Tintal",        "duration" : "8","filename" : "000227_5_Rageshri.wav"},
+      	 {"storeid" : "000228", "volgnr" : "001", "partname":"-" ,                                   "duration" : "9","filename" : "000228_Dhun.wav"}
       ]
     }

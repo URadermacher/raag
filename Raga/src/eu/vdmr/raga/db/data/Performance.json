@@ -170,7 +170,7 @@
    	     {"ragaid" : "Unknown",         "artistid":"Pannalal;Ghosh",    "provenance" : "CD,1",  "CD":"00056", "storeid":"000168", "title" : "Sarangi"},
    	     {"ragaid" : "Jaijaivanti",     "artistid":"Raghunath;Seth",    "provenance" : "CD,2",  "CD":"00056", "storeid":"000169", "title" : "Jaijaivanti"},
    	     {"ragaid" : "Durga",           "artistid":"-;Unknown",         "provenance" : "CD,3",  "CD":"00056", "storeid":"000170", "title" : "Durga"},
-   	     {"ragaid" : "Jhinjhoti",       "artistid":"Ronu;Majumar",      "provenance" : "CD,4",  "CD":"00056", "storeid":"000171", "title" : "Jhinjhoti"},
+   	     {"ragaid" : "Jhinjhoti",       "artistid":"Ronu;Majumdar",     "provenance" : "CD,4",  "CD":"00056", "storeid":"000171", "title" : "Jhinjhoti"},
    	     {"ragaid" : "Chandrakauns",    "artistid":"Hirabai;Barodekar", "provenance" : "CD,1",  "CD":"00057", "storeid":"000172", "title" : "Raga Chandrakauns", "styleid":"Khayal"},
    	     {"ragaid" : "Basant_Bahar",    "artistid":"Hirabai;Barodekar", "provenance" : "CD,2",  "CD":"00057", "storeid":"000173", "title" : "Basant_Bahar", "styleid":"Khayal"},
    	     {"ragaid" : "Multani",         "artistid":"Hirabai;Barodekar", "provenance" : "CD,2",  "CD":"00058", "storeid":"000174", "title" : "Multani", "styleid":"Khayal", "date":"1962-00-00"},
@@ -219,7 +219,15 @@
    	     {"ragaid" : "Jog",             "artistid":"Jamaluddin;Bhartiya","provenance": "CD,2",  "CD":"00068", "storeid":"000217", "title" : "Jog"},	     
    	     {"ragaid" : "Todi",            "artistid":"Jamaluddin;Bhartiya","provenance": "CD,1",  "CD":"00069", "storeid":"000218", "title" : "Todi, ochtend meditatie"},     
    	     {"ragaid" : "Darbari",         "artistid":"Jamaluddin;Bhartiya","provenance": "CD,2",  "CD":"00069", "storeid":"000219", "title" : "Darbari, avond meditatie"}, 
-   	     {"ragaid" : "Khamaj",          "artistid":"Indranil;Bhattacharya","provenance":"CD,1", "CD":"00070", "storeid":"000220", "title" : "Khamaj"}	     
+   	     {"ragaid" : "Yaman",           "artistid":"Jamaluddin;Bhartiya","provenance": "CD,1",  "CD":"00070", "storeid":"000220", "title" : "Yaman"}, 
+   	     {"ragaid" : "Mand_Khamaj",     "artistid":"Jamaluddin;Bhartiya","provenance": "CD,2",  "CD":"00070", "storeid":"000221", "title" : "Dhun"}, 
+   	     {"ragaid" : "Khamaj",          "artistid":"Indranil;Bhattacharya","provenance":"CD,1", "CD":"00071", "storeid":"000222", "title" : "Khamaj"},	     
+   	     {"ragaid" : "Jog",             "artistid":"Tarun;Bhattacharya", "provenance": "CD,1",  "CD":"00072", "storeid":"000223", "title" : "Jog"},	     
+   	     {"ragaid" : "Kalavati",        "artistid":"Tarun;Bhattacharya", "provenance": "CD,1",  "CD":"00073", "storeid":"000224", "title" : "Kalavati"},
+   	     {"ragaid" : "Unknown",         "artistid":"Tarun;Bhattacharya", "provenance": "CD,2",  "CD":"00073", "storeid":"000225", "title" : "Volksmelodie uit Rhajasthan"},
+   	     {"ragaid" : "Bhinna_Sadja",    "artistid":"Tarun;Bhattacharya", "provenance": "CD,3",  "CD":"00073", "storeid":"000226", "title" : "Dhun in Bhinna Sadja"},
+   	     {"ragaid" : "Rageshri",        "artistid":"Tarun;Bhattacharya", "provenance": "CD,1",  "CD":"00074", "storeid":"000227", "title" : "Rag Rageshri"},
+   	     {"ragaid" : "Bhinna_Sadja",    "artistid":"Tarun;Bhattacharya", "provenance": "CD,6",  "CD":"00074", "storeid":"000228", "title" : "Dhun in Bhinna Sadja"}
   	     
   	  ]
   	}
