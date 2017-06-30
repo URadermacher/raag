@@ -73,6 +73,16 @@
    	     {"refid" : "00071", "publisher" : "",                        "date" : "0000-00-00", "title":"A Tribute To Or Guru",       "have" : "1", "shortid":"BHATIN_1"},
    	     {"refid" : "00072", "publisher" : "",                        "date" : "0000-00-00","title":"Rag Jog",                     "have" : "1", "shortid":"BHATTA_1"},
    	     {"refid" : "00073", "publisher" :"Sense World Music",        "date" : "2005-00-00","title":"Trancendence",                "have" : "1", "shortid":"BHATTA_2"},
-   	     {"refid" : "00074", "publisher" :"Sense World Music",        "date" : "2005-00-00","title":"Natural",                     "have" : "1", "shortid":"BHATTA_3"}
+   	     {"refid" : "00074", "publisher" :"Sense World Music",        "date" : "2005-00-00","title":"Natural",                     "have" : "1", "shortid":"BHATTA_3"},
+   	     {"refid" : "00075", "publisher" :"",                         "date" : "0000-00-00","title":"Mira_Ki_Malhar",              "have" : "1", "shortid":"BHATVI_1"},
+   	     {"refid" : "00076", "publisher" :"",                         "date" : "0000-00-00","title":"Gawati and Des",              "have" : "1", "shortid":"BHATVI_2"},
+   	     {"refid" : "00077", "publisher" :"Super Cassettes Industies","date" : "1990-00-00","title":"Galaxy of Strings - Guitar",  "have" : "1", "shortid":"BHATVI_3"},
+   	     {"refid" : "00078", "publisher" :"Sense World Music",        "date" : "2003-00-00","title":"Mohan''s Vina",               "have" : "1", "shortid":"BHATVI_4"},
+   	     {"refid" : "00079", "publisher" :"Sense World Music",        "date" : "2002-00-00","title":"Indian Delta",                "have" : "1", "shortid":"BHATVI_5"},
+   	     {"refid" : "00080", "publisher" :"",                         "date" : "0000-00-00","title":"Purvi,Des et al",             "have" : "1", "shortid":"BHATVI_6"},
+   	     {"refid" : "00081", "publisher" :"Music Today",              "date" : "2004-00-00","title":"Maestro''s Choice",           "have" : "1", "shortid":"BHATVI_7"},
+   	     {"refid" : "00082", "publisher" :"",                         "date" : "0000-00-00","title":"Raga par Vinay Bhide",        "have" : "1", "shortid":"BHIDVI_1"},
+   	     {"refid" : "00083", "publisher" :"",                         "date" : "0000-00-00","title":"Uday Bhawalkar",              "have" : "1", "shortid":"BHAWUD_1"},
+   	     {"refid" : "00084", "publisher" :"",                         "date" : "0000-00-00","title":"Dhrupad",                     "have" : "1", "shortid":"BHAWUD_2"}
   	  ]
   	}
