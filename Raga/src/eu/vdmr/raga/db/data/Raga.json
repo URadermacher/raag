@@ -521,6 +521,7 @@
         {"name" : "Vibhas"},
         {"name" : "Vrindavni_Sarang"},
   	    {"name" : "Yaman",            "thatid" : "Kalyan", "notes" : "S R G m M P D N", "aroha" : "S R G m M P D N",                       	 "avaroha" :"",                         "vadi":"P",  "samvadi":"S",   "pakad" :"S GMP M P-, M G – RS R S _NS"},
+        {"name" : "Yaman_Kalyan"},
         {"name" : "Yaman_Manj"},
         {"name" : "Yogiya_Kalingra"},
 		{"name" : "Unknown"}        

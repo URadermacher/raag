@@ -306,6 +306,14 @@
       	 {"storeid" : "000264", "volgnr" : "002", "partname":"Hori", "talid" : "Dhamar",             "duration" :"12","filename" : "000264_2_Shri.wav"},
       	 {"storeid" : "000265", "volgnr" : "001", "partname":"Alap,Jor,Jhalla",                      "duration" :"24","filename" : "000265_1_Malkauns.wav"},
       	 {"storeid" : "000265", "volgnr" : "002", "partname":"Chautal and Sultal","talid":"Chautal", "duration" :"11","filename" : "000265_1_Malkauns.wav"},
-      	 {"storeid" : "000266", "volgnr" : "001", "partname":"Alap",                                 "duration" :"68","filename" : "000266_Bihag.wav"}
+      	 {"storeid" : "000266", "volgnr" : "001", "partname":"Alap",                                 "duration" :"68","filename" : "000266_Bihag.wav"},
+      	 {"storeid" : "000267", "volgnr" : "001", "partname":"Bilampat Ektal and Drut Tintal",       "duration" :"18","filename" : "000267_Narayanee.wav"},
+      	 {"storeid" : "000268", "volgnr" : "001", "partname":"-",                                    "duration" : "9","filename" : "000268_Thumri_Khamaj.wav"},
+      	 {"storeid" : "000269", "volgnr" : "001", "partname":"-",                                    "duration" : "9","filename" : "000269_Dhun.wav"},
+      	 {"storeid" : "000270", "volgnr" : "001", "partname":"Alaap,Jod,Jhalla",                     "duration" :"29","filename" : "000270_1_Malkauns.wav"},
+      	 {"storeid" : "000270", "volgnr" : "002", "partname":"Gat in Jhaptal, Drut Gat in Tintal",   "duration" :"35","filename" : "000270_2_Malkauns.wav"}
+      	 {"storeid" : "000271", "volgnr" : "001", "partname":"-",                                    "duration" :"19","filename" : "000271_Pilu.wav"},
+      	 {"storeid" : "000272", "volgnr" : "001", "partname":"-",                                    "duration" :"21","filename" : "000272_Yaman_Kalyan.wav"},
+      	 {"storeid" : "000273", "volgnr" : "001", "partname":"-",                                    "duration" : "1","filename" : "000273_Jaijaivanti.wav"},
 	   ]
     }

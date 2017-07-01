@@ -83,6 +83,9 @@
    	     {"refid" : "00081", "publisher" :"Music Today",              "date" : "2004-00-00","title":"Maestro''s Choice",           "have" : "1", "shortid":"BHATVI_7"},
    	     {"refid" : "00082", "publisher" :"",                         "date" : "0000-00-00","title":"Raga par Vinay Bhide",        "have" : "1", "shortid":"BHIDVI_1"},
    	     {"refid" : "00083", "publisher" :"",                         "date" : "0000-00-00","title":"Uday Bhawalkar",              "have" : "1", "shortid":"BHAWUD_1"},
-   	     {"refid" : "00084", "publisher" :"",                         "date" : "0000-00-00","title":"Dhrupad",                     "have" : "1", "shortid":"BHAWUD_2"}
+   	     {"refid" : "00084", "publisher" :"",                         "date" : "0000-00-00","title":"Dhrupad",                     "have" : "1", "shortid":"BHAWUD_2"},
+   	     {"refid" : "00085", "publisher" :"",                         "date" : "0000-00-00","title":"Himangshu Biswas",            "have" : "1", "shortid":"BISWHI_1"},
+   	     {"refid" : "00086", "publisher" :"Sense World Music",        "date" : "2004-02-01","title":"Devotion",                    "have" : "1", "shortid":"BOSEDE_1"},
+   	     {"refid" : "00087", "publisher" :"",                         "date" : "0000-00-00","title":"Bose & Khan",                 "have" : "1", "shortid":"BOSEKH_1"}
   	  ]
   	}
