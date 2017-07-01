@@ -421,6 +421,26 @@
   	     {"storeid" : "000280",   "instrumentid":"Voice",      "artistid":"Ajoy;Chakrabarty"},
   	     {"storeid" : "000280",   "instrumentid":"Tabla",      "artistid":"Yogesh;Samsi"},
   	     {"storeid" : "000280",   "instrumentid":"Harmonium",  "artistid":"Chiranjib;Chakraborty"},
-  	     {"storeid" : "000280",   "instrumentid":"Tampura",    "artistid":"Sarwar;E-Alam"}
+  	     {"storeid" : "000280",   "instrumentid":"Tampura",    "artistid":"Sarwar;E-Alam"},
+  	     {"storeid" : "000281",   "instrumentid":"Voice",      "artistid":"Ajoy;Chakrabarty"},
+  	     {"storeid" : "000282",   "instrumentid":"Voice",      "artistid":"Ajoy;Chakrabarty"},
+  	     {"storeid" : "000283",   "instrumentid":"Voice",      "artistid":"Ajoy;Chakrabarty"},
+  	     {"storeid" : "000284",   "instrumentid":"Voice",      "artistid":"Ajoy;Chakrabarty"},
+  	     {"storeid" : "000285",   "instrumentid":"Voice",      "artistid":"Ajoy;Chakrabarty"},
+  	     {"storeid" : "000286",   "instrumentid":"Voice",      "artistid":"Ajoy;Chakrabarty"},
+  	     {"storeid" : "000287",   "instrumentid":"Voice",      "artistid":"Ajoy;Chakrabarty"},
+  	     {"storeid" : "000287",   "instrumentid":"Tabla",      "artistid":"Shri Samar;Saha"},
+  	     {"storeid" : "000287",   "instrumentid":"ZZ_Unknown", "artistid":"Brojo;Mukherjee"},
+  	     {"storeid" : "000287",   "instrumentid":"ZZ_Unknown", "artistid":"Anal;Chatterjee"},
+  	     {"storeid" : "000287",   "instrumentid":"ZZ_Unknown", "artistid":"Bidhan;Mitra"},
+  	     {"storeid" : "000288",   "instrumentid":"Voice",      "artistid":"Ajoy;Chakrabarty"},
+  	     {"storeid" : "000288",   "instrumentid":"Tabla",      "artistid":"Shri Samar;Saha"},
+  	     {"storeid" : "000288",   "instrumentid":"ZZ_Unknown", "artistid":"Brojo;Mukherjee"},
+  	     {"storeid" : "000288",   "instrumentid":"ZZ_Unknown", "artistid":"Anal;Chatterjee"},
+  	     {"storeid" : "000288",   "instrumentid":"ZZ_Unknown", "artistid":"Bidhan;Mitra"},
+  	     {"storeid" : "000289",   "instrumentid":"Voice",      "artistid":"Ajoy;Chakrabarty"},
+  	     {"storeid" : "000290",   "instrumentid":"Voice",      "artistid":"Ajoy;Chakrabarty"},
+  	     {"storeid" : "000291",   "instrumentid":"Voice",      "artistid":"Ajoy;Chakrabarty"}
+  	     
   	   ]
   	}

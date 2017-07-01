@@ -320,8 +320,21 @@
       	 {"storeid" : "000276", "volgnr" : "001", "partname":"-",                                    "duration" :"11","filename" : "000276_Raga_Bhairvi-Thumri-Aye_na_balam_Sajni_ka_karoon.wav"},
       	 {"storeid" : "000277", "volgnr" : "001", "partname":"Alaap and slow",  "talid":"Ektal",     "duration" :"29","filename" : "000277_1_Shud_Kalyan.wav"},
       	 {"storeid" : "000277", "volgnr" : "002", "partname":"fast composition","talid":"Tintal",    "duration" :"13","filename" : "000277_2_Shud_Kalyan.wav"},
-      	 {"storeid" : "000278", "volgnr" : "001", "partname":"Dadra","talid":"Keherwa",              "duration" :"21","filename" : "000278_Dadra-Aye_Na_Balam.wav"}
-      	 {"storeid" : "000279", "volgnr" : "001", "partname":"Thumri",                               "duration" :"18","filename" : "000279_Thumri.wav"}
-      	 {"storeid" : "000280", "volgnr" : "001", "partname":"Bhajan",                               "duration" :"20","filename" : "000280_Bhajan.wav"}
+      	 {"storeid" : "000278", "volgnr" : "001", "partname":"Dadra","talid":"Keherwa",              "duration" :"21","filename" : "000278_Dadra-Aye_Na_Balam.wav"},
+      	 {"storeid" : "000279", "volgnr" : "001", "partname":"Thumri",                               "duration" :"18","filename" : "000279_Thumri.wav"},
+      	 {"storeid" : "000280", "volgnr" : "001", "partname":"Bhajan",                               "duration" :"20","filename" : "000280_Bhajan.wav"},
+      	 {"storeid" : "000281", "volgnr" : "001", "partname":"-",                               	 "duration" :"30","filename" : "000281_Multani.wav"},
+      	 {"storeid" : "000282", "volgnr" : "001", "partname":"-",                               	 "duration" :"21","filename" : "000282_Deshkar.wav"},
+      	 {"storeid" : "000283", "volgnr" : "001", "partname":"-",                               	 "duration" : "8","filename" : "000283_Mishra_Tilang.wav"},
+      	 {"storeid" : "000284", "volgnr" : "001", "partname":"-",                               	 "duration" :"30","filename" : "000284_Rageshri.wav"},
+      	 {"storeid" : "000285", "volgnr" : "001", "partname":"-",                               	 "duration" :"19","filename" : "000285_Hamir.wav"},
+      	 {"storeid" : "000286", "volgnr" : "001", "partname":"-",                               	 "duration" : "9","filename" : "000286_Manjh_Khammaj.wav"},
+      	 {"storeid" : "000287", "volgnr" : "001", "partname":"Ka Se Kahun Vilambit Ektal;Lagan Mori Laagi Drut Tintal", "duration" : "30","filename" : "000287_Abhogi.wav"},
+      	 {"storeid" : "000288", "volgnr" : "001", "partname":"Vilambit ektas, drut tintal, addha tintal",           	"duration" : "23","filename" : "000288_Hamsadhwani.wav"},
+      	 {"storeid" : "000289", "volgnr" : "001", "partname":"Alaap 1",                              "duration" :  "1","filename" : "000289_1_Gunkali.wav"},
+      	 {"storeid" : "000289", "volgnr" : "002", "partname":"Alaap 2",                              "duration" : "21","filename" : "000289_2_Gunkali.wav"},
+      	 {"storeid" : "000290", "volgnr" : "001", "partname":"Khayal, Anganawaame Dharatanaapaag Kantha Bina","duration" : "14","filename" : "000290_1_Jaunpuri.wav"},
+      	 {"storeid" : "000290", "volgnr" : "002", "partname":"Prabu Mohe Bharasaa Ek Tiharoo, Pariye Paarjanawa Ke Sajani","duration" : "13","filename" : "000290_2_Jaunpuri.wav"},
+      	 {"storeid" : "000291", "volgnr" : "001", "partname":"Khayal in drut tintal",                "duration" :  "6","filename" : "000291_Megh.wav"}
 	   ]  
     }

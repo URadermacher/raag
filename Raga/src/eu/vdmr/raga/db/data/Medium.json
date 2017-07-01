@@ -87,8 +87,12 @@
    	     {"refid" : "00085", "publisher" :"",                         "date" : "0000-00-00","title":"Himangshu Biswas",            "have" : "1", "shortid":"BISWHI_1"},
    	     {"refid" : "00086", "publisher" :"Sense World Music",        "date" : "2004-02-01","title":"Devotion",                    "have" : "1", "shortid":"BOSEDE_1"},
    	     {"refid" : "00087", "publisher" :"",                         "date" : "0000-00-00","title":"Bose & Khan",                 "have" : "1", "shortid":"BOSEKH_1"},
-   	     {"refid" : "00088", "publisher" :"Navras",                   "date" : "1990-00-00","title":"Ajoy Chakrabarty Vocal Vol 1","have" : "1", "shortid":"CHAKAJ_1"},
-   	     {"refid" : "00089", "publisher" :"Sense World Music",        "date" : "0000-00-00","title":"In Union",                    "have" : "1", "shortid":"CHAKAJ_2"}
+   	     {"refid" : "00088", "publisher" :"Navras",                   "date" : "1990-00-00","title":"Ajoy Chakraborty Vocal Vol 1","have" : "1", "shortid":"CHAKAJ_1"},
+   	     {"refid" : "00089", "publisher" :"Sense World Music",        "date" : "0000-00-00","title":"In Union",                    "have" : "1", "shortid":"CHAKAJ_2"},
+   	     {"refid" : "00090", "publisher" :"Music Today",              "date" : "1995-00-00","title":"Gharana Series, Ajoy Chakraborty, Patiala", "have" : "1", "shortid":"CHAKAJ_3"},
+   	     {"refid" : "00091", "publisher" :"Music Today",              "date" : "1995-00-00","title":"Maestro''s Choice",           "have" : "1", "shortid":"CHAKAJ_4"},
+   	     {"refid" : "00092", "publisher" :"Sense World Music",        "date" : "2006-01-00","title":"Jeevan",                      "have" : "1", "shortid":"CHAKAJ_5"},
+   	     {"refid" : "00093", "publisher" :"",                         "date" : "0000-00-00","title":"from Many Moods Of Love",     "have" : "1", "shortid":"CHAKAJ_6"}
    	     
   	  ]
   	}
