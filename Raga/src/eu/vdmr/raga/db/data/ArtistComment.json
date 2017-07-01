@@ -1,4 +1,4 @@
-{ "name" : "ArtistsComment",
+{ "name" : "ArtistComment",
       "entries" : [
   	     {"artistid" : "Nikhil;Banerjee",      "comment" : "Interview with Ashwin Batish in "},
   	     {"artistid" : "Ashwin;Batish" ,       "comment" : "Interview with Ashwin Batish in "}
