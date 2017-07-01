@@ -288,12 +288,12 @@
    	     {"ragaid" : "Manj_Khamaj" ,    "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,6",  "CD":"00090", "storeid":"000286", "title" : "Manjh Khammaj"},
    	     {"ragaid" : "Abhogi" ,         "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,1",  "CD":"00091", "storeid":"000287", "title" : "Abhogi"},
    	     {"ragaid" : "Hamsadhwani" ,    "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,2",  "CD":"00091", "storeid":"000288", "title" : "Hamsadhwani"},
-   	     {"ragaid" : "Gunkali" ,        "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,1",  "CD":"00092", "storeid":"000289", "title" : "Gunkali"},
+   	     {"ragaid" : "Gunakali" ,        "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,1",  "CD":"00092", "storeid":"000289", "title" : "Gunakali"},
    	     {"ragaid" : "Jaunpuri" ,       "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,3",  "CD":"00092", "storeid":"000290", "title" : "Jaunpuri"},
-   	     {"ragaid" : "Megh" ,           "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,5",  "CD":"00092", "storeid":"000291", "title" : "Megh","place":"Queen Elisabeth Hall, London"}
+   	     {"ragaid" : "Megh" ,           "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,5",  "CD":"00092", "storeid":"000291", "title" : "Megh","place":"Queen Elisabeth Hall, London"},
    	     {"ragaid" : "Unknown" ,        "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,1",  "CD":"00093", "storeid":"000292", "title" : "''Chhaila Rokey Dagaria Tjaro Rey'' from The Many Moods of Love"},
    	     {"ragaid" : "Unknown" ,        "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,2",  "CD":"00093", "storeid":"000293", "title" : "''Gori Dhirey Chaio Gagani Chalkaye Ne Jaye'' from The Many Moods of Love"},
-   	     {"ragaid" : "Jaijaiwanti" ,    "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,3",  "CD":"00093", "storeid":"000294", "title" : "''Jaijaiwanti'' from Swar Samrat"},
+   	     {"ragaid" : "Jaijaivanti" ,    "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,3",  "CD":"00093", "storeid":"000294", "title" : "''Jaijaiwanti'' from Swar Samrat"}
   	     
   	  ]
   	}
