@@ -86,6 +86,9 @@
    	     {"refid" : "00084", "publisher" :"",                         "date" : "0000-00-00","title":"Dhrupad",                     "have" : "1", "shortid":"BHAWUD_2"},
    	     {"refid" : "00085", "publisher" :"",                         "date" : "0000-00-00","title":"Himangshu Biswas",            "have" : "1", "shortid":"BISWHI_1"},
    	     {"refid" : "00086", "publisher" :"Sense World Music",        "date" : "2004-02-01","title":"Devotion",                    "have" : "1", "shortid":"BOSEDE_1"},
-   	     {"refid" : "00087", "publisher" :"",                         "date" : "0000-00-00","title":"Bose & Khan",                 "have" : "1", "shortid":"BOSEKH_1"}
+   	     {"refid" : "00087", "publisher" :"",                         "date" : "0000-00-00","title":"Bose & Khan",                 "have" : "1", "shortid":"BOSEKH_1"},
+   	     {"refid" : "00088", "publisher" :"Navras",                   "date" : "1990-00-00","title":"Ajoy Chakrabarty Vocal Vol 1","have" : "1", "shortid":"CHAKAJ_1"},
+   	     {"refid" : "00089", "publisher" :"Sense World Music",        "date" : "0000-00-00","title":"In Union",                    "have" : "1", "shortid":"CHAKAJ_2"}
+   	     
   	  ]
   	}

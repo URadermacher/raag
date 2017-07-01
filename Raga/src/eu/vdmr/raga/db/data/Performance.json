@@ -272,7 +272,14 @@
    	     {"ragaid" : "Malkauns",        "artistid":"Devjyoti;Bose",      "provenance": "CD,1",  "CD":"00086", "storeid":"000270", "title" : "Malkauns"},
    	     {"ragaid" : "Mishra_Pilu",     "artistid":"Partha;Bose",        "provenance": "CD,1",  "CD":"00087", "storeid":"000271", "title" : "Mishra_Pilu"},
    	     {"ragaid" : "Yaman_Kalyan",    "artistid":"Partha;Bose",        "provenance": "CD,2",  "CD":"00087", "storeid":"000272", "title" : "Yaman_Kalyan"},
-   	     {"ragaid" : "Jaijaivanti",     "artistid":"Vilayat;Khan",       "provenance": "CD,3",  "CD":"00087", "storeid":"000273", "title" : "Jaijaivanti"}
+   	     {"ragaid" : "Jaijaivanti",     "artistid":"Vilayat;Khan",       "provenance": "CD,3",  "CD":"00087", "storeid":"000273", "title" : "Jaijaivanti"},
+   	     {"ragaid" : "Bihag",           "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,1",  "CD":"00088", "storeid":"000274", "title" : "Raga Bihag", "style":"Khyal","date":"1990-11-03","place":"The Royal College of Music, London"},
+   	     {"ragaid" : "Pahadi",          "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,2",  "CD":"00088", "storeid":"000275", "title" : "Bhajan Hari Om Tatsat","date":"1990-11-03","place":"The Royal College of Music, London"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,3",  "CD":"00088", "storeid":"000276", "title" : "Thumri - Aye na balam Sajni ka karoon","date":"1990-11-03","place":"The Royal College of Music, London"},
+   	     {"ragaid" : "Kalyan",          "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,1",  "CD":"00089", "storeid":"000277", "title" : "Shud Kalyan","date":"2002-05-25","place":"Union Chapel, London","composerid" : "Gnan Prakash;Gosh"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,3",  "CD":"00089", "storeid":"000278", "title" : "Dadra Aye Na Balam","date":"2002-05-25","place":"Union Chapel, London","composerid" : "Bade Gulam Ali;Khan"},
+   	     {"ragaid" : "Mishra_Tilang",   "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,4",  "CD":"00089", "storeid":"000279", "title" : "Thumri_Ab-Na-Satowa","date":"2003-08-00","place":"Queens Theatre, London"},
+   	     {"ragaid" : "Unknown" ,        "artistid":"Ajoy;Chakrabarty",   "provenance": "CD,5",  "CD":"00089", "storeid":"000280", "title" : "Bhajan-Naina_Ban_Parhi","date":"2003-08-00","place":"Queens Theatre, London"}
   	     
   	  ]
   	}

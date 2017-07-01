@@ -28,7 +28,9 @@ public class StartUp {
 
 	public static void main(String[] args) throws Throwable {
 		StartUp startUp = new StartUp();
+		long start = System.currentTimeMillis();
 		startUp.start();
+		LOG.info("run Startup in " + (System.currentTimeMillis() - start) + " ms.");
 	}
 	
 	private void start() {

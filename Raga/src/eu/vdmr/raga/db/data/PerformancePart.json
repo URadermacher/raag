@@ -311,9 +311,17 @@
       	 {"storeid" : "000268", "volgnr" : "001", "partname":"-",                                    "duration" : "9","filename" : "000268_Thumri_Khamaj.wav"},
       	 {"storeid" : "000269", "volgnr" : "001", "partname":"-",                                    "duration" : "9","filename" : "000269_Dhun.wav"},
       	 {"storeid" : "000270", "volgnr" : "001", "partname":"Alaap,Jod,Jhalla",                     "duration" :"29","filename" : "000270_1_Malkauns.wav"},
-      	 {"storeid" : "000270", "volgnr" : "002", "partname":"Gat in Jhaptal, Drut Gat in Tintal",   "duration" :"35","filename" : "000270_2_Malkauns.wav"}
+      	 {"storeid" : "000270", "volgnr" : "002", "partname":"Gat in Jhaptal, Drut Gat in Tintal",   "duration" :"35","filename" : "000270_2_Malkauns.wav"},
       	 {"storeid" : "000271", "volgnr" : "001", "partname":"-",                                    "duration" :"19","filename" : "000271_Pilu.wav"},
       	 {"storeid" : "000272", "volgnr" : "001", "partname":"-",                                    "duration" :"21","filename" : "000272_Yaman_Kalyan.wav"},
       	 {"storeid" : "000273", "volgnr" : "001", "partname":"-",                                    "duration" : "1","filename" : "000273_Jaijaivanti.wav"},
-	   ]
+      	 {"storeid" : "000274", "volgnr" : "001", "partname":"-",                                    "duration" :"50","filename" : "000274_Raga_Bihag-Khyal.wav"},
+      	 {"storeid" : "000275", "volgnr" : "001", "partname":"-",                                    "duration" :"17","filename" : "000275_Raga_Pahadi-Bhajan_Har_ Om_Tatsat.wav"},
+      	 {"storeid" : "000276", "volgnr" : "001", "partname":"-",                                    "duration" :"11","filename" : "000276_Raga_Bhairvi-Thumri-Aye_na_balam_Sajni_ka_karoon.wav"},
+      	 {"storeid" : "000277", "volgnr" : "001", "partname":"Alaap and slow",  "talid":"Ektal",     "duration" :"29","filename" : "000277_1_Shud_Kalyan.wav"},
+      	 {"storeid" : "000277", "volgnr" : "002", "partname":"fast composition","talid":"Tintal",    "duration" :"13","filename" : "000277_2_Shud_Kalyan.wav"},
+      	 {"storeid" : "000278", "volgnr" : "001", "partname":"Dadra","talid":"Keherwa",              "duration" :"21","filename" : "000278_Dadra-Aye_Na_Balam.wav"}
+      	 {"storeid" : "000279", "volgnr" : "001", "partname":"Thumri",                               "duration" :"18","filename" : "000279_Thumri.wav"}
+      	 {"storeid" : "000280", "volgnr" : "001", "partname":"Bhajan",                               "duration" :"20","filename" : "000280_Bhajan.wav"}
+	   ]  
     }
