@@ -8,6 +8,7 @@
   	     {"name" : "MohanVina" },
   	     {"name" : "Mridangam" },
   	     {"name" : "Pakhavaj" },
+  	     {"name" : "Percussion" },
   	     {"name" : "Rudravina" },
   	     {"name" : "Santur" },
   	     {"name" : "Sarangi" },
@@ -20,6 +21,7 @@
   	     {"name" : "Tampura" },
   	     {"name" : "Vichitravina" },
   	     {"name" : "Vina" },
+  	     {"name" : "Violine" },
   	     {"name" : "Voice" },
   	     {"name" : "ZZ_Unknown" }
   	  ]

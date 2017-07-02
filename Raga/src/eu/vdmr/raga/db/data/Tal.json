@@ -2,6 +2,7 @@
       "entries" : [
   	     {"name" : "Adi",       "pattern" : "4-4",     "theka" : "ta ka dhi mi | ta ka dhi mi"},
   	     {"name" : "Chapu"},
+  	     {"name" : "Chartal"},
   	     {"name" : "Chautal",   "pattern" : "4-4-4",   "theka" : "dha dha dhin ta| kita dha dhin ta | tita kata gadee gena"},
   	     {"name" : "Dadra",     "pattern" : "3-3",     "theka" : "dha dhin na |  dha tin na "},
   	     {"name" : "Dhamar",    "pattern" : "5-2-3-4", "theka" : "ka dhi ta dhi ta | dha - | ga ti ta | ti ta ta -"},
