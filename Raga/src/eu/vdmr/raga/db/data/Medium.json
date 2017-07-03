@@ -111,7 +111,27 @@
    	     {"refid" : "00109", "publisher" :"",                         "date" : "0000-00-00","title":"Sitar Music Meditations" ,    "have" : "1", "shortid":"CHAUDB_2"},
    	     {"refid" : "00110", "publisher" :"",                         "date" : "0000-00-00","title":"Maharishi Gandharva Veda" ,   "have" : "1", "shortid":"CHAUDB_3"},
    	     {"refid" : "00111", "publisher" :"India Archive Music",      "date" : "2002-00-00","title":"Prof. Debu Chaudhuri" ,       "have" : "1", "shortid":"CHAUDE_1"},
-   	     {"refid" : "00112", "publisher" :"Krishna Audio and Video",  "date" : "2001-00-00","title":"Bouquet of Ragas" ,           "have" : "1", "shortid":"CHAUDE_2"}
+   	     {"refid" : "00112", "publisher" :"Krishna Audio and Video",  "date" : "2001-00-00","title":"Bouquet of Ragas" ,           "have" : "1", "shortid":"CHAUDE_2"},
+   	     {"refid" : "00113", "publisher" :"Chandra Dhara",            "date" : "1998-00-00","title":"The Living Legend of Bansuri, Live Vol 1","have" : "1", "shortid":"CHAUHA_1"},
+   	     {"refid" : "00114", "publisher" :"",                         "date" : "0000-00-00","title":"Jhinjoti & Desh",             "have" : "1", "shortid":"CHAUHA_2"},
+   	     {"refid" : "00115", "publisher" :"",                         "date" : "0000-00-00","title":"Jog & Pahadi",                "have" : "1", "shortid":"CHAUHA_3"},
+   	     {"refid" : "00116", "publisher" :"",                         "date" : "0000-00-00","title":"Jaihaivanti",                 "have" : "1", "shortid":"CHAUHA_4"},
+   	     {"refid" : "00117", "publisher" :"",                         "date" : "0000-00-00","title":"Durga & Malkauns",            "have" : "1", "shortid":"CHAUHA_5"},
+   	     {"refid" : "00118", "publisher" :"",                         "date" : "0000-00-00","title":"Bageshri et al",              "have" : "1", "shortid":"CHAUHA_6"},
+   	     {"refid" : "00119", "publisher" :"",                         "date" : "0000-00-00","title":"Bhupali & Yaman",             "have" : "1", "shortid":"CHAUHA_7"},
+   	     {"refid" : "00120", "publisher" :"",                         "date" : "0000-00-00","title":"Marwa & Dhun",                "have" : "1", "shortid":"CHAUHA_8"},
+   	     {"refid" : "00121", "publisher" :"",                         "date" : "0000-00-00","title":"Kaunshi Kanhra & Kjamaj",     "have" : "1", "shortid":"CHAUHA_9"},
+   	     {"refid" : "00122", "publisher" :"",                         "date" : "0000-00-00","title":"Lalit ",                      "have" : "1", "shortid":"CHAUHA_10"},
+   	     {"refid" : "00123", "publisher" :"",                         "date" : "0000-00-00","title":"Lalit,Pahadi,Jog",            "have" : "1", "shortid":"CHAUHA_11"},
+   	     {"refid" : "00124", "publisher" :"India Archives",           "date" : "0000-00-00","title":"Abhogi, Chandrakaus,Pahadi",  "have" : "1", "shortid":"CHAUHA_12"},
+   	     {"refid" : "00125", "publisher" :"",                         "date" : "0000-00-00","title":"Bhairagi, Behang, Pilu",      "have" : "1", "shortid":"CHAUHA_13"},
+   	     {"refid" : "00126", "publisher" :"Music Today",              "date" : "1998-00-00","title":"Kaunsi Khanhara",             "have" : "1", "shortid":"CHAUHA_14"},
+   	     {"refid" : "00127", "publisher" :"Music Today",              "date" : "0000-00-00","title":"Maestro''s Choice",           "have" : "1", "shortid":"CHAUHA_15"},
+   	     {"refid" : "00128", "publisher" :"Music Today",              "date" : "2006-00-00","title":"Padma Vibhushan",             "have" : "1", "shortid":"CHAUHA_16"},
+   	     {"refid" : "00129", "publisher" :"Saregama India",           "date" : "2007-05-08","title":"First LP Record",             "have" : "1", "shortid":"CHAUHA_17"},
+   	     {"refid" : "00130", "publisher" :"Music Today",              "date" : "0000-00-00","title":"Maestro''s Choice",           "have" : "1", "shortid":"CHOWBI_1"},
+   	     {"refid" : "00131", "publisher" :"",                         "date" : "0000-00-00","title":"Desh & Kirwana",              "have" : "1", "shortid":"CHAWSU_1"},
+   	     {"refid" : "00132", "publisher" :"nonesuch",                 "date" : "0000-00-00","title":"Classical Music of India",    "have" : "1", "shortid":"CLASSI_1"}
    	     
   	  ]
   	}

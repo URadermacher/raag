@@ -87,6 +87,7 @@
   	     {"name" : "vadi", "type" : "TEXT"},
   	     {"name" : "samvadi", "type" : "TEXT"},
   	     {"name" : "pakad", "type" : "TEXT"},
+  	     {"name" : "composerid", "type" : "INTEGER", "ref" : "Artist,id,firstname;lastname"},
   	     {"name" : "timeid", "type" : "INTEGER", "ref" : "Time,id,description"}
   	     
   	  ]
