@@ -131,7 +131,16 @@
    	     {"refid" : "00129", "publisher" :"Saregama India",           "date" : "2007-05-08","title":"First LP Record",             "have" : "1", "shortid":"CHAUHA_17"},
    	     {"refid" : "00130", "publisher" :"Music Today",              "date" : "0000-00-00","title":"Maestro''s Choice",           "have" : "1", "shortid":"CHOWBI_1"},
    	     {"refid" : "00131", "publisher" :"",                         "date" : "0000-00-00","title":"Desh & Kirwana",              "have" : "1", "shortid":"CHAWSU_1"},
-   	     {"refid" : "00132", "publisher" :"nonesuch",                 "date" : "0000-00-00","title":"Classical Music of India",    "have" : "1", "shortid":"CLASSI_1"}
+   	     {"refid" : "00132", "publisher" :"nonesuch",                 "date" : "0000-00-00","title":"Classical Music of India",    "have" : "1", "shortid":"CLASSI_1"},
+   	     {"refid" : "00133", "publisher" :"Sense World Music",        "date" : "0000-00-00","title":"Live from Darbar Festival",   "have" : "1", "shortid":"DAGABA_1"},
+   	     {"refid" : "00134", "publisher" :"Sense World Music",        "date" : "0000-00-00","title":"Dhrupad",                     "have" : "1", "shortid":"DAGABA_2"},
+   	     {"refid" : "00135", "publisher" :"Pathe Marconi",            "date" : "0000-00-00","title":"Music of India Vol 5, Dagar Brothers","have":"1","shortid":"DAGAMA_1"},
+   	     {"refid" : "00136", "publisher" :"",                         "date" : "0000-00-00","title":"Raag Marwa",                  "have" : "1", "shortid":"DAGARF_1"},
+   	     {"refid" : "00137", "publisher" :"",                         "date" : "0000-00-00","title":"Fahimuddin Dagar",            "have" : "1", "shortid":"DAGARF_2"},
+   	     {"refid" : "00138", "publisher" :"",                         "date" : "0000-00-00","title":"Sayeeduddin Dagar",           "have" : "1", "shortid":"DAGASA_1"},
+   	     {"refid" : "00139", "publisher" :"Sense World Music",        "date" : "2005-10-26","title":"Lineage of Dhrupad",          "have" : "1", "shortid":"DAGASA_2"},
+   	     {"refid" : "00140", "publisher" :"Sense World Music",        "date" : "0000-00-00","title":"Dhrupad",                     "have" : "1", "shortid":"DAGAWD_1"},
+   	     {"refid" : "00141", "publisher" :"Nimbus",                   "date" : "1991-00-00","title":"Zia Mohiuddin Dagar",         "have" : "1", "shortid":"DAGAZM_1"}
    	     
   	  ]
   	}

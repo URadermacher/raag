@@ -9,10 +9,13 @@
   	     {"name" : "Dipchandi", "pattern" : "3-4-3-4", "theka" : "dha dhin - | dha dha dhin - | ta tin - | dha dha dhin na"},
   	     {"name" : "Ektal",     "pattern" : "4-4-4",   "theka" : "dhin dhin dhage tirikiti | tu na kat ta | dhage tirikiti dhin na"},
   	     {"name" : "Jhampak",   "pattern" : "3-2",     "theka" : "dhin dhin na | dhin na"},
+  	     {"name" : "Jhampatala","pattern" : "7-1_2"},
   	     {"name" : "Jhaptal",   "pattern" : "2-3-2-3", "theka" : "dhin dha | dhin dhin dha | tin na | dhin dhin dha"},
   	     {"name" : "Keherwa",   "pattern" : "4-4",     "theka" : "dha ge na ti | na ka dhin na"},
   	     {"name" : "Rupak",     "pattern" : "3-2-2",   "theka" : "tin tin na | dhin na | dhin na"},
   	     {"name" : "Sitarkhani","pattern" : "4-4-4-4", "theka" : "dha* dhin*  dha | dha* dhin* dha | sha* tin* na | na* dhin* dha "},
-  	     {"name" : "Tintal",    "pattern" : "4-4-4-4", "theka" : "dha dhin dhin dha | dha dhin dhin dha | dha tin tin ta | ta dhin dhin dha"}
+  	     {"name" : "Sultal",    "pattern" : "2-2-2-2-2","theka": "dha dha | dhin ta | kita dha | tita kata / Gade gena"},
+  	     {"name" : "Tintal",    "pattern" : "4-4-4-4", "theka" : "dha dhin dhin dha | dha dhin dhin dha | dha tin tin ta | ta dhin dhin dha"},
+  	     {"name" : "Tivra",     "pattern" : "3-2-2",   "theka" : "dha dhin ta | tita kata | gade gena"}
   	  ]
     }

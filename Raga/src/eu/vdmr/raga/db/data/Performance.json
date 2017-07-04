@@ -384,8 +384,24 @@
    	     {"ragaid" : "Puriya_Dhanashri","artistid":"Fateh;Khan",          "provenance":"CD,2" , "CD":"00132", "storeid":"000382","title" : "Fiddle"},
    	     {"ragaid" : "Bhupali",         "artistid":"Chintamani;Jain",     "provenance":"CD,3" , "CD":"00132", "storeid":"000383","title" : "Jaltarang"},
    	     {"ragaid" : "Bhairavi",        "artistid":"Mohammed;Ismail",     "provenance":"CD,4" , "CD":"00132", "storeid":"000384","title" : "Thumri"},
-   	     {"ragaid" : "Chandrakauns",    "artistid":"Zia Muhiyuddin;Dagar","provenance":"CD,5" , "CD":"00132", "storeid":"000385","title" : "Chandrakauns"},
+   	     {"ragaid" : "Chandrakauns",    "artistid":"Zia Mohiyuddin;Dagar","provenance":"CD,5" , "CD":"00132", "storeid":"000385","title" : "Chandrakauns"},
    	     {"ragaid" : "Gauri",           "artistid":"-;Amarlal",           "provenance":"CD,6" , "CD":"00132", "storeid":"000386","title" : "Haveli Sangit"},
-   	     {"ragaid" : "Miyan_Ki_Todi",   "artistid":"Sumar;Jummani",       "provenance":"CD,7" , "CD":"00132", "storeid":"000387","title" : "Naubat Shahna, Royal Gateway Music"}
+   	     {"ragaid" : "Miyan_Ki_Todi",   "artistid":"Sumar;Jummani",       "provenance":"CD,7" , "CD":"00132", "storeid":"000387","title" : "Naubat Shahna, Royal Gateway Music"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Bahauddin;Dagar",     "provenance":"CD,1" , "CD":"00133", "storeid":"000388","title" : "Bhairavi","date":"2006-03-00","place":"Peepul Centre, London"},
+   	     {"ragaid" : "Miyan_Ki_Todi",   "artistid":"Bahauddin;Dagar",     "provenance":"CD,1" , "CD":"00134", "storeid":"000389","title" : "Todi"},
+   	     {"ragaid" : "Darbari_Kanada",  "artistid":"Moinuddin Khan;Dagar","provenance":"CD,1" , "CD":"00135", "storeid":"000390","title" : "Dharbari_Kanada"},
+   	     {"ragaid" : "Adana",           "artistid":"Moinuddin Khan;Dagar","provenance":"CD,2" , "CD":"00135", "storeid":"000391","title" : "Adana"},
+   	     {"ragaid" : "Marwa",           "artistid":"Rahim Fahimuddin Khan;Dagar","provenance":"CD,1" , "CD":"00136", "storeid":"000392","title" : "Marwa"},
+   	     {"ragaid" : "Bhupali",         "artistid":"Rahim Fahimuddin Khan;Dagar","provenance":"CD,1" , "CD":"00137", "storeid":"000393","title" : "Bhoopali"},
+   	     {"ragaid" : "Khamaj",          "artistid":"Rahim Fahimuddin Khan;Dagar","provenance":"CD,2" , "CD":"00137", "storeid":"000394","title" : "Raga Khamaj"},
+   	     {"ragaid" : "Unknown",         "artistid":"Sayeeduddin;Dagar",   "provenance":"CD,1" , "CD":"00138", "storeid":"000395","title" : "?","date":"2000-05-17","place":"Salon de musique Surenes, Paris"},
+   	     {"ragaid" : "Malkauns",        "artistid":"Sayeeduddin;Dagar",   "provenance":"CD,2" , "CD":"00138", "storeid":"000396","title" : "Malkauns","date":"2000-05-17","place":"Salon de musique Surenes, Paris"},
+   	     {"ragaid" : "Bhairava",        "artistid":"Sayeeduddin;Dagar",   "provenance":"CD,1" , "CD":"00139", "storeid":"000397","title" : "Bhairav"},
+   	     {"ragaid" : "Gunakali",        "artistid":"Sayeeduddin;Dagar",   "provenance":"CD,2" , "CD":"00139", "storeid":"000398","title" : "Gunakali"},
+   	     {"ragaid" : "Asavari",         "artistid":"Sayeeduddin;Dagar",   "provenance":"CD,3" , "CD":"00139", "storeid":"000399","title" : "Komal Rishab Asavari"},
+   	     {"ragaid" : "Ahir_Bhairav",    "artistid":"Wasifuddin;Dagar",    "provenance":"CD,1" , "CD":"00140", "storeid":"000400","title" : "Ahir Bhairav"},
+   	     {"ragaid" : "Bageshri",        "artistid":"Wasifuddin;Dagar",    "provenance":"CD,2" , "CD":"00140", "storeid":"000401","title" : "Bageshri"},
+   	     {"ragaid" : "Yaman",           "artistid":"Zia Mohiuddin;Dagar", "provenance":"CD,1" , "CD":"00141", "storeid":"000402","title" : "Yaman"},
+   	     {"ragaid" : "Mian_Ki_Todi",    "artistid":"Zia Mohiuddin;Dagar", "provenance":"CD,1" , "CD":"00141", "storeid":"000403","title" : "Mian_Ki_Todi"}
   	  ]
   	}
