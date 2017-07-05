@@ -12,12 +12,11 @@
   	     {"synonym" : "Khamach",              "canonical" : "Khamaj"},
   	     {"synonym" : "Kidara",               "canonical" : "Kedar"},
   	     {"synonym" : "Komal_Rishab_Asavaro", "canonical" : "Asavari"},
-  	     {"synonym" : "Mian_Ki_Todi",         "canonical" : "Miyan_Ki_Todi"},
+  	     {"synonym" : "Miyan_Ki_Todi",        "canonical" : "Todi"},
   	     {"synonym" : "Miya_Malhar",          "canonical" : "Malhar"},
   	     {"synonym" : "Pahari",               "canonical" : "Pahadi"},
  	     {"synonym" : "Puria",                "canonical" : "Puriya"},
    	     {"synonym" : "Sarang",               "canonical" : "Shuddh_Sarang"},
-  	     {"synonym" : "Todi",                 "canonical" : "Miyan_Ki_Todi"},
   	     {"synonym" : "zzz",                  "canonical" : "zzz"}
   	  ]
     }
