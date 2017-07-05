@@ -494,6 +494,19 @@
        	 {"storeid" : "000416", "volgnr" : "001", "partname":"-",                                    "duration" :  "7","filename" : "000416_Mishra_Charukeshi.wav"},
        	 {"storeid" : "000417", "volgnr" : "001", "partname":"-",                                    "duration" :  "7","filename" : "000417_Desh.wav"},
        	 {"storeid" : "000418", "volgnr" : "001", "partname":"-",                                    "duration" :  "3","filename" : "000418_Bageshri.wav"},
-       	 {"storeid" : "000419", "volgnr" : "001", "partname":"-",                                    "duration" :  "5","filename" : "000419_Mishra_Khamaj.wav"}
+       	 {"storeid" : "000419", "volgnr" : "001", "partname":"-",                                    "duration" :  "5","filename" : "000419_Mishra_Khamaj.wav"},
+       	 {"storeid" : "000420", "volgnr" : "001", "partname":"Alap,Jor,slow tintal,fast tintal",     "duration" : "54","filename" : "000420_Nayak_Ki_Kanra.wav"},
+       	 {"storeid" : "000421", "volgnr" : "001", "partname":"Alap",                                 "duration" :  "4","filename" : "000421_1_Kedar.wav"},
+       	 {"storeid" : "000421", "volgnr" : "001", "partname":"medium speed gat","talid":"Dhamar",    "duration" : "10","filename" : "000421_2_Kedar.wav"},
+       	 {"storeid" : "000421", "volgnr" : "001", "partname":"fast gat",        "talid":"Tintal",    "duration" :  "8","filename" : "000421_3_Kedar.wav"},
+       	 {"storeid" : "000422", "volgnr" : "001", "partname":"Alaap",                                "duration" :  "4","filename" : "000422_1_Gorakh_Kalyan.wav"},
+       	 {"storeid" : "000422", "volgnr" : "001", "partname":"fast gat",        "talid":"Tintal",    "duration" :  "8","filename" : "000422_2_Gorakh_Kalyan.wav"},
+       	 {"storeid" : "000423", "volgnr" : "001", "partname":"-",                                    "duration" : "11","filename" : "000423_Desh.wav"},
+       	 {"storeid" : "000424", "volgnr" : "001", "partname":"Alap",                                 "duration" : "15","filename" : "000424_1_Nayak_Ki_Kanra.wav"},
+       	 {"storeid" : "000424", "volgnr" : "002", "partname":"Jor",                                  "duration" : "15","filename" : "000424_2_Nayak_Ki_Kanra.wav"},
+       	 {"storeid" : "000424", "volgnr" : "003", "partname":"Slow",            "talid":"Tintal",    "duration" : "15","filename" : "000424_3_Nayak_Ki_Kanra.wav"},
+       	 {"storeid" : "000424", "volgnr" : "004", "partname":"Fast",            "talid":"Tintal",    "duration" : "15","filename" : "000424_4_Nayak_Ki_Kanra.wav"},
+       	 {"storeid" : "000425", "volgnr" : "001", "partname":"-",                                    "duration" : "50","filename" : "000425_Kaushi_Kanada.wav"},
+       	 {"storeid" : "000426", "volgnr" : "001", "partname":"-",                                    "duration" : "14","filename" : "000426_Jhinjhoti.wav"}
       ]  
     }

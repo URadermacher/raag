@@ -700,6 +700,19 @@
   	     {"storeid" : "000418",   "instrumentid":"Sitar",      "artistid":"Rohan;Dasgupta"},
   	     {"storeid" : "000418",   "instrumentid":"Tabla",      "artistid":"Udai;Mazumdar"},
   	     {"storeid" : "000419",   "instrumentid":"Sitar",      "artistid":"Rohan;Dasgupta"},
-  	     {"storeid" : "000419",   "instrumentid":"Tabla",      "artistid":"Nilanjan;Gosh"}
+  	     {"storeid" : "000419",   "instrumentid":"Tabla",      "artistid":"Nilanjan;Gosh"},
+  	     {"storeid" : "000420",   "instrumentid":"Sarod",      "artistid":"Buddhadev;Dasgupta"},
+  	     {"storeid" : "000421",   "instrumentid":"Sarod",      "artistid":"Buddhadev;Dasgupta"},
+  	     {"storeid" : "000421",   "instrumentid":"Tabla",      "artistid":"Debendra Kanti;Chakrabarty"},
+  	     {"storeid" : "000421",   "instrumentid":"Tampura",    "artistid":"Uma;Mehta"},
+  	     {"storeid" : "000422",   "instrumentid":"Sarod",      "artistid":"Buddhadev;Dasgupta"},
+  	     {"storeid" : "000422",   "instrumentid":"Tabla",      "artistid":"Debendra Kanti;Chakrabarty"},
+  	     {"storeid" : "000422",   "instrumentid":"Tampura",    "artistid":"Uma;Mehta"},
+  	     {"storeid" : "000423",   "instrumentid":"Sarod",      "artistid":"Buddhadev;Dasgupta"},
+  	     {"storeid" : "000424",   "instrumentid":"Sarod",      "artistid":"Buddhadev;Dasgupta"},
+  	     {"storeid" : "000425",   "instrumentid":"Sitar",      "artistid":"Kushal;Das"},
+  	     {"storeid" : "000425",   "instrumentid":"Tabla",      "artistid":"Kumar;Bose"},
+  	     {"storeid" : "000426",   "instrumentid":"Sitar",      "artistid":"Kushal;Das"},
+  	     {"storeid" : "000426",   "instrumentid":"Tabla",      "artistid":"Kumar;Bose"}
  	 ]
   	}

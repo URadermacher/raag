@@ -418,6 +418,13 @@
    	     {"ragaid" : "Charukeshi",      "artistid":"Rohan;Dasgupta",      "provenance":"CD,9" , "CD":"00145", "storeid":"000416","title" : "Mishra Charukeshi"},
    	     {"ragaid" : "Desh",            "artistid":"Rohan;Dasgupta",      "provenance":"CD,10", "CD":"00145", "storeid":"000417","title" : "Desh"},
    	     {"ragaid" : "Bageshri",        "artistid":"Rohan;Dasgupta",      "provenance":"CD,11", "CD":"00145", "storeid":"000418","title" : "Bageshri","place":"Halberstadt (Germany)"},
-   	     {"ragaid" : "Khamaj",          "artistid":"Rohan;Dasgupta",      "provenance":"CD,12", "CD":"00145", "storeid":"000419","title" : "Mishra Khamaj"}
+   	     {"ragaid" : "Khamaj",          "artistid":"Rohan;Dasgupta",      "provenance":"CD,12", "CD":"00145", "storeid":"000419","title" : "Mishra Khamaj"},
+   	     {"ragaid" : "Nayaki_Kanada",   "artistid":"Buddhadev;Dasgupta",  "provenance":"CD,1",  "CD":"00146", "storeid":"000420","title" : "Raga Nayak ki Kanra","date":"1989-10-15","place":"at the home of Dr. and Mrs. S. D. Malaviya in Fishkill, New York"},
+   	     {"ragaid" : "Khamaj",          "artistid":"Buddhadev;Dasgupta",  "provenance":"CD,1",  "CD":"00147", "storeid":"000421","title" : "Kedar"},
+   	     {"ragaid" : "Khamaj",          "artistid":"Buddhadev;Dasgupta",  "provenance":"CD,2",  "CD":"00147", "storeid":"000422","title" : "Gorakh Kalyan"},
+   	     {"ragaid" : "Khamaj",          "artistid":"Buddhadev;Dasgupta",  "provenance":"CD,3",  "CD":"00147", "storeid":"000423","title" : "Desh"},
+   	     {"ragaid" : "Nayaki_Kanada",   "artistid":"Buddhadev;Dasgupta",  "provenance":"CD,1",  "CD":"00148", "storeid":"000424","title" : "Raga Nayak ki Kanra","date":"1989-10-15","place":"at the home of Dr. and Mrs. S. D. Malaviya in Fishkill, New York"},
+   	     {"ragaid" : "Kaushi_Kanada",   "artistid":"Kushal;Das",          "provenance":"CD,1",  "CD":"00149", "storeid":"000425","title" : "Kaushi_Kanada"},
+   	     {"ragaid" : "Jhinjhoti",       "artistid":"Kushal;Das",          "provenance":"CD,2",  "CD":"00149", "storeid":"000426","title" : "Jhinjhoti"}
   	  ]
   	}

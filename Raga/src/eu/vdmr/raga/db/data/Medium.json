@@ -144,7 +144,11 @@
    	     {"refid" : "00142", "publisher" :"Auidis",                   "date" : "0000-00-00","title":"Raga Pancham Kosh",           "have" : "1", "shortid":"DAGAZM_2"},
    	     {"refid" : "00143", "publisher" :"",                         "date" : "0000-00-00","title":"Musique Classique de L''Inde, Raga Mangeyabushan", "have" : "1", "shortid":"DAGAZM_3"},
    	     {"refid" : "00144", "publisher" :"",                         "date" : "0000-00-00","title":"Anirban Dashupta",            "have" : "1", "shortid":"DASGAN_3"},
-   	     {"refid" : "00145", "publisher" :"",                         "date" : "0000-00-00","title":"YouTube",                     "have" : "1", "shortid":"DASGRO_1"}
+   	     {"refid" : "00145", "publisher" :"",                         "date" : "0000-00-00","title":"YouTube",                     "have" : "1", "shortid":"DASGRO_1"},
+   	     {"refid" : "00146", "publisher" :"Raga Records",             "date" : "1992-00-00","title":"Raga Nayak ki Kanra",         "have" : "1", "shortid":"DASGUP_1"},
+   	     {"refid" : "00147", "publisher" :"Nimbus",                   "date" : "0000-00-00","title":"Raga Kedar, Gorak Kalyan",    "have" : "1", "shortid":"DASGUP_2"},
+   	     {"refid" : "00148", "publisher" :"-",                        "date" : "1992-00-00","title":"Raga Nayak ki Kanra",         "have" : "1", "shortid":"DASGUP_4"},
+   	     {"refid" : "00149", "publisher" :"Rhyme Records",            "date" : "2005-07-19","title":"Lingering Emotions",          "have" : "1", "shortid":"DASKus_1"}
    	     
   	  ]
   	}

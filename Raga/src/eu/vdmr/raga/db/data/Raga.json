@@ -444,7 +444,7 @@
         {"name" : "Nat"},
         {"name" : "Natkurajika"},
         {"name" : "Navrata"},
-        {"name" : "Nayaki_Kanada"},
+        {"name" : "Nayaki_Kanada", "thatid" : "Kafi","aroha" : "S R (m) g m P n P S_",  "avaroha" : "S_ n P n P m P (m)g g m R S",  "vadi":"m","samvadi":"S", "pakad" :"R _n S R P (m)g ; g m P m R S R S ; g m n P ; n m P (m)g m P m R S R R S; m P n P S_; P n P; g m R S" },
         {"name" : "Nayarani_Gauri"},
         {"name" : "Nindiyari"},
         {"name" : "Nisha_Sakh"},
