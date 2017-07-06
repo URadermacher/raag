@@ -148,7 +148,12 @@
    	     {"refid" : "00146", "publisher" :"Raga Records",             "date" : "1992-00-00","title":"Raga Nayak ki Kanra",         "have" : "1", "shortid":"DASGUP_1"},
    	     {"refid" : "00147", "publisher" :"Nimbus",                   "date" : "0000-00-00","title":"Raga Kedar, Gorak Kalyan",    "have" : "1", "shortid":"DASGUP_2"},
    	     {"refid" : "00148", "publisher" :"-",                        "date" : "1992-00-00","title":"Raga Nayak ki Kanra",         "have" : "1", "shortid":"DASGUP_4"},
-   	     {"refid" : "00149", "publisher" :"Rhyme Records",            "date" : "2005-07-19","title":"Lingering Emotions",          "have" : "1", "shortid":"DASKus_1"}
+   	     {"refid" : "00149", "publisher" :"Rhyme Records",            "date" : "2005-07-19","title":"Lingering Emotions",          "have" : "1", "shortid":"DASKUS_1"},
+   	     {"refid" : "00150", "publisher" :"ocora Radio France",       "date" : "2004-10-00","title":"Raga Marwa - Surbahar",       "have" : "1", "shortid":"DASKUS_2"},
+   	     {"refid" : "00151", "publisher" :"ocora Radio France",       "date" : "0000-00-00","title":"Inde Du Nord, Kushal Das (a)","have" : "1", "shortid":"DASKUS_3"},
+   	     {"refid" : "00152", "publisher" :"ocora Radio France",       "date" : "0000-00-00","title":"Inde Du Nord, Kushal Das (b)","have" : "1", "shortid":"DASKUS_4"},
+   	     {"refid" : "00153", "publisher" :"ARC",                      "date" : "2012-09-04","title":"Master of the Indian Sitar",  "have" : "1", "shortid":"DATTRA_1"},
+   	     {"refid" : "00154", "publisher" :"ocora Radio France",       "date" : "0000-00-00","title":"Music from the Indian Desert","have" : "1", "shortid":"DESERT_1"}
    	     
   	  ]
   	}

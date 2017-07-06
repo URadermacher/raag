@@ -425,6 +425,21 @@
    	     {"ragaid" : "Khamaj",          "artistid":"Buddhadev;Dasgupta",  "provenance":"CD,3",  "CD":"00147", "storeid":"000423","title" : "Desh"},
    	     {"ragaid" : "Nayaki_Kanada",   "artistid":"Buddhadev;Dasgupta",  "provenance":"CD,1",  "CD":"00148", "storeid":"000424","title" : "Raga Nayak ki Kanra","date":"1989-10-15","place":"at the home of Dr. and Mrs. S. D. Malaviya in Fishkill, New York"},
    	     {"ragaid" : "Kaushi_Kanada",   "artistid":"Kushal;Das",          "provenance":"CD,1",  "CD":"00149", "storeid":"000425","title" : "Kaushi_Kanada"},
-   	     {"ragaid" : "Jhinjhoti",       "artistid":"Kushal;Das",          "provenance":"CD,2",  "CD":"00149", "storeid":"000426","title" : "Jhinjhoti"}
+   	     {"ragaid" : "Jhinjhoti",       "artistid":"Kushal;Das",          "provenance":"CD,2",  "CD":"00149", "storeid":"000426","title" : "Jhinjhoti"},
+   	     {"ragaid" : "Marwa",           "artistid":"Kushal;Das",          "provenance":"CD,1",  "CD":"00150", "storeid":"000427","title" : "Raga Marwa"},
+   	     {"ragaid" : "Sohini",          "artistid":"Kushal;Das",          "provenance":"CD,1",  "CD":"00151", "storeid":"000428","title" : "Raga Sohini"},
+   	     {"ragaid" : "Bilashkani_Todi", "artistid":"Kushal;Das",          "provenance":"CD,1",  "CD":"00152", "storeid":"000429","title" : "Raga Bilashkani_Todi"},
+   	     {"ragaid" : "Sohini",          "artistid":"Kushal;Das",          "provenance":"CD,2",  "CD":"00152", "storeid":"000430","title" : "Raga Sohini"},
+   	     {"ragaid" : "Bilashkani_Todi", "artistid":"Rash Behari;Datta",   "provenance":"CD,1",  "CD":"00153", "storeid":"000431","title" : "Raga Bilashkani_Todi"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Rash Behari;Datta",   "provenance":"CD,2",  "CD":"00153", "storeid":"000432","title" : "Raga Mishra_Bhairavi"},
+   	     {"ragaid" : "Unknown",         "artistid":"-;Unknown",           "provenance":"CD,1",  "CD":"00154", "storeid":"000433","title" : "Ladli Lumare Jhuma"},
+   	     {"ragaid" : "Unknown",         "artistid":"-;Unknown",           "provenance":"CD,1",  "CD":"00154", "storeid":"000434","title" : "Dhamchak"},
+   	     {"ragaid" : "Unknown",         "artistid":"-;Unknown",           "provenance":"CD,1",  "CD":"00154", "storeid":"000435","title" : "Dal Baldi"},
+   	     {"ragaid" : "Unknown",         "artistid":"-;Unknown",           "provenance":"CD,1",  "CD":"00154", "storeid":"000436","title" : "Morchang - Guimbarde"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"-;Unknown",           "provenance":"CD,1",  "CD":"00154", "storeid":"000437","title" : "Sindh Bhairavi"},
+   	     {"ragaid" : "Unknown",         "artistid":"-;Unknown",           "provenance":"CD,1",  "CD":"00154", "storeid":"000438","title" : "Bayariau"},
+   	     {"ragaid" : "Unknown",         "artistid":"-;Unknown",           "provenance":"CD,1",  "CD":"00154", "storeid":"000439","title" : "Jallalo Billalo"},
+   	     {"ragaid" : "Unknown",         "artistid":"-;Unknown",           "provenance":"CD,1",  "CD":"00154", "storeid":"000440","title" : "Danse de Batons"},
+   	     {"ragaid" : "Unknown",         "artistid":"-;Unknown",           "provenance":"CD,1",  "CD":"00154", "storeid":"000441","title" : "Hindau"}
   	  ]
   	}
