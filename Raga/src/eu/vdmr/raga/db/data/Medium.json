@@ -153,7 +153,13 @@
    	     {"refid" : "00151", "publisher" :"ocora Radio France",       "date" : "0000-00-00","title":"Inde Du Nord, Kushal Das (a)","have" : "1", "shortid":"DASKUS_3"},
    	     {"refid" : "00152", "publisher" :"ocora Radio France",       "date" : "0000-00-00","title":"Inde Du Nord, Kushal Das (b)","have" : "1", "shortid":"DASKUS_4"},
    	     {"refid" : "00153", "publisher" :"ARC",                      "date" : "2012-09-04","title":"Master of the Indian Sitar",  "have" : "1", "shortid":"DATTRA_1"},
-   	     {"refid" : "00154", "publisher" :"ocora Radio France",       "date" : "0000-00-00","title":"Music from the Indian Desert","have" : "1", "shortid":"DESERT_1"}
+   	     {"refid" : "00154", "publisher" :"ocora Radio France",       "date" : "0000-00-00","title":"Music from the Indian Desert","have" : "1", "shortid":"DESERT_1"},
+   	     {"refid" : "00155", "publisher" :"Saregama",                 "date" : "1962-01-02","title":"Ganga, a journey called life..","have": "1","shortid":"DESUBR_1"},
+   	     {"refid" : "00156", "publisher" :"His Master''s Voice",      "date" : "1967-00-00","title":"Girja Devi of Banaras",       "have" : "1", "shortid":"DEVIGI_1"},
+   	     {"refid" : "00157", "publisher" :"Moment Records",           "date" : "1991-00-00","title":"Girja Devi - Vocal",          "have" : "1", "shortid":"DEVIGI_2"},
+   	     {"refid" : "00158", "publisher" :"Music Today",              "date" : "0000-00-00","title":"Thumri and Dadra",            "have" : "1", "shortid":"DEVISA_1"},
+   	     {"refid" : "00159", "publisher" :"",                         "date" : "0000-00-00","title":"Rudra Vina and Sitar",        "have" : "1", "shortid":"DIVEHI_1"},
+   	     {"refid" : "00160", "publisher" :"World Pacific",            "date" : "1961-00-00","title":"The Drums Of India",          "have" : "1", "shortid":"DRUMOI_1"}
    	     
   	  ]
   	}

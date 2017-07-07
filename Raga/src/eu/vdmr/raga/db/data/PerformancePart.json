@@ -531,6 +531,35 @@
        	 {"storeid" : "000438", "volgnr" : "001", "partname":"-",                                    "duration" : "15","filename" : "000438_MM.wav"},
        	 {"storeid" : "000439", "volgnr" : "001", "partname":"-",                                    "duration" : "15","filename" : "000439_MM.wav"},
        	 {"storeid" : "000440", "volgnr" : "001", "partname":"-",                                    "duration" : "15","filename" : "000440_MM.wav"},
-       	 {"storeid" : "000441", "volgnr" : "001", "partname":"-",                                    "duration" : "15","filename" : "000434_MM.wav"}
-      ]  
-    }
+       	 {"storeid" : "000441", "volgnr" : "001", "partname":"-",                                    "duration" : "15","filename" : "000441_MM.wav"},
+       	 {"storeid" : "000442", "volgnr" : "001", "partname":"-",                                    "duration" :  "9","filename" : "000442_Bhairagi.wav"},
+       	 {"storeid" : "000443", "volgnr" : "001", "partname":"-",                                    "duration" : "10","filename" : "000443_Gurji_Todi.wav"},
+       	 {"storeid" : "000444", "volgnr" : "001", "partname":"-",                                    "duration" :  "5","filename" : "000444_Puriyadaneshi.wav"},
+       	 {"storeid" : "000445", "volgnr" : "001", "partname":"-",                                    "duration" : "10","filename" : "000445_Rageswari.wav"},
+       	 {"storeid" : "000446", "volgnr" : "001", "partname":"-",                                    "duration" : "10","filename" : "000446_Mishra_Shivranjani.wav"},
+       	 {"storeid" : "000447", "volgnr" : "001", "partname":"-",                                    "duration" :  "5","filename" : "000447_Megh.wav"},
+       	 {"storeid" : "000448", "volgnr" : "001", "partname":"-",                                    "duration" :  "8","filename" : "000448_Thumri_Mishra_Tilang.wav"},
+       	 {"storeid" : "000449", "volgnr" : "001", "partname":"-",                                    "duration" :  "7","filename" : "000449_Hori.wav"},
+       	 {"storeid" : "000450", "volgnr" : "001", "partname":"-",                                    "duration" :  "4","filename" : "000450_Chaiti.wav"},
+       	 {"storeid" : "000451", "volgnr" : "001", "partname":"-",                                    "duration" :  "4","filename" : "000451_Kajree.wav"},
+       	 {"storeid" : "000452", "volgnr" : "001", "partname":"-",                                    "duration" :  "4","filename" : "000452_Dadra.wav"},
+       	 {"storeid" : "000453", "volgnr" : "001", "partname":"-",                                    "duration" : "11","filename" : "000453_Thumri_Bhairavi.wav"},
+       	 {"storeid" : "000454", "volgnr" : "001", "partname":"-",                                    "duration" : "34","filename" : "000454_Puriya_Kalyan.wav"},      
+       	 {"storeid" : "000455", "volgnr" : "001", "partname":"-",                                    "duration" : "13","filename" : "000455_Thumri_Of_Dadra_1.wav"},       
+       	 {"storeid" : "000456", "volgnr" : "001", "partname":"-",                                    "duration" :  "9","filename" : "000456_Thumri_Of_Dadra_2.wav"},       
+       	 {"storeid" : "000457", "volgnr" : "001", "partname":"-",                                    "duration" : "11","filename" : "000457_Thumri_Of_Dadra_3.wav"},       
+       	 {"storeid" : "000458", "volgnr" : "001", "partname":"-",                                    "duration" : "14","filename" : "000458_Thumri_Of_Dadra_4.wav"},       
+       	 {"storeid" : "000459", "volgnr" : "001", "partname":"-",                                    "duration" :  "9","filename" : "000459_Thumri_Of_Dadra_5.wav"},       
+       	 {"storeid" : "000460", "volgnr" : "001", "partname":"-",                                    "duration" : "10","filename" : "000460_Thumri_Of_Dadra_6.wav"}, 
+       	 {"storeid" : "000461", "volgnr" : "001", "partname":"-",                                    "duration" : "31","filename" : "000461_Darbari_Kanada.wav"},
+       	 {"storeid" : "000462", "volgnr" : "001", "partname":"-",                                    "duration" : "15","filename" : "000462_Todi_Khayal.wav"}, 
+       	 {"storeid" : "000463", "volgnr" : "001", "partname":"-",                                    "duration" : "25","filename" : "000463_Charukeshi.wav"}, 
+       	 {"storeid" : "000464", "volgnr" : "001", "partname":"-",                                    "duration" :  "7","filename" : "000464_Pahadi.wav"}, 
+       	 {"storeid" : "000465", "volgnr" : "001", "partname":"-",                                    "duration" : "10","filename" : "000465_Bhairav.wav"}, 
+       	 {"storeid" : "000466", "volgnr" : "001", "partname":"-",                                    "duration" : "10","filename" : "000466_Todi"}, 
+       	 {"storeid" : "000467", "volgnr" : "001", "partname":"-",                                    "duration" : "10","filename" : "000467_Marwa"} 
+       	 {"storeid" : "000468", "volgnr" : "001", "partname":"-",     "talid":"Tintal",              "duration" : "21","filename" : "000468_Tintal"} 
+       	 {"storeid" : "000469", "volgnr" : "001", "partname":"-",     "talid":"Rupak",               "duration" : "11","filename" : "000469_Rupak"} 
+       	 {"storeid" : "000470", "volgnr" : "001", "partname":"-",     "talid":"Jaly",                "duration" : "11","filename" : "000470_Jaly"} 
+     ]  
+  }

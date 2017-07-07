@@ -8,6 +8,7 @@
   	     {"name" : "Dhamar",    "pattern" : "5-2-3-4", "theka" : "ka dhi ta dhi ta | dha - | ga ti ta | ti ta ta -"},
   	     {"name" : "Dipchandi", "pattern" : "3-4-3-4", "theka" : "dha dhin - | dha dha dhin - | ta tin - | dha dha dhin na"},
   	     {"name" : "Ektal",     "pattern" : "4-4-4",   "theka" : "dhin dhin dhage tirikiti | tu na kat ta | dhage tirikiti dhin na"},
+  	     {"name" : "Jaly",      "pattern" : "13"},
   	     {"name" : "Jhampak",   "pattern" : "3-2",     "theka" : "dhin dhin na | dhin na"},
   	     {"name" : "Jhampatala","pattern" : "7-1_2"},
   	     {"name" : "Jhaptal",   "pattern" : "2-3-2-3", "theka" : "dhin dha | dhin dhin dha | tin na | dhin dhin dha"},

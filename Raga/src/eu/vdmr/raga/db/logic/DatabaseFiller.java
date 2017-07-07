@@ -46,6 +46,7 @@ public class DatabaseFiller {
 			Reader reader = null;
 			try {
 				reader = new BufferedReader(new FileReader(dirname+filename));
+				LOG.info("reading file " + filename);
 				JSONObject root = (JSONObject) JSONValue.parseWithException(reader);
 				LOG.debug("total object is of type " + root.getClass().getName());
 				String tablename = (String) root.get(DBConst.VALTABLE);

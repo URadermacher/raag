@@ -1,5 +1,6 @@
 { "name" : "Gharana",
       "entries" : [
+  	     {"name" : "Banaras" },
   	     {"name" : "Bhendibazar" , "founder" : "Chhajju Khan - Nazir Khan - Khadim Hussain Khan", "since" : "1890"},
   	     {"name" : "Gwalior" , "founder" : "Nathan Pir Baksh - Nathu Khan", "since" : "Mid-16th Century"},
   	     {"name" : "Agra" , "founder" : "Ghagghe Khudabaksh", "since" : "Mid-19th century"},
