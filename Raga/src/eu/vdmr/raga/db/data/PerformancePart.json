@@ -557,9 +557,15 @@
        	 {"storeid" : "000464", "volgnr" : "001", "partname":"-",                                    "duration" :  "7","filename" : "000464_Pahadi.wav"}, 
        	 {"storeid" : "000465", "volgnr" : "001", "partname":"-",                                    "duration" : "10","filename" : "000465_Bhairav.wav"}, 
        	 {"storeid" : "000466", "volgnr" : "001", "partname":"-",                                    "duration" : "10","filename" : "000466_Todi"}, 
-       	 {"storeid" : "000467", "volgnr" : "001", "partname":"-",                                    "duration" : "10","filename" : "000467_Marwa"} 
-       	 {"storeid" : "000468", "volgnr" : "001", "partname":"-",     "talid":"Tintal",              "duration" : "21","filename" : "000468_Tintal"} 
-       	 {"storeid" : "000469", "volgnr" : "001", "partname":"-",     "talid":"Rupak",               "duration" : "11","filename" : "000469_Rupak"} 
+       	 {"storeid" : "000467", "volgnr" : "001", "partname":"-",                                    "duration" : "10","filename" : "000467_Marwa"}, 
+       	 {"storeid" : "000468", "volgnr" : "001", "partname":"-",     "talid":"Tintal",              "duration" : "21","filename" : "000468_Tintal"}, 
+       	 {"storeid" : "000469", "volgnr" : "001", "partname":"-",     "talid":"Rupak",               "duration" : "11","filename" : "000469_Rupak"}, 
        	 {"storeid" : "000470", "volgnr" : "001", "partname":"-",     "talid":"Jaly",                "duration" : "11","filename" : "000470_Jaly"} 
+       	 {"storeid" : "000471", "volgnr" : "001", "partname":"-",                                    "duration" : "30","filename" : "000471_Marwa"}, 
+       	 {"storeid" : "000472", "volgnr" : "001", "partname":"-",                                    "duration" : "15","filename" : "000472_Shri"}, 
+       	 {"storeid" : "000473", "volgnr" : "001", "partname":"-",                                    "duration" : "15","filename" : "000473_Hamsadhwani"},
+       	 {"storeid" : "000474", "volgnr" : "001", "partname":"-",                                    "duration" : "15","filename" : "000474_Yaman"},
+       	 {"storeid" : "000475", "volgnr" : "001", "partname":"-",                                    "duration" : "15","filename" : "000475_Shankara"},
+       	 {"storeid" : "000476", "volgnr" : "001", "partname":"-",                                    "duration" : "15","filename" : "000476_Mishra_Ghara"}
      ]  
   }

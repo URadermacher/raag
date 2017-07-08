@@ -469,6 +469,12 @@
    	     {"ragaid" : "Marwa",           "artistid":"Hindraj;Divekar",     "provenance":"CD,3",  "CD":"00159", "storeid":"000467","title" : "Marwa","date":"1990-00-00","place":"Isac Chavan S.D.A. Church Studio"},
    	     {"ragaid" : "Unknown",         "artistid":"Chatur;Lal",          "provenance":"CD,1",  "CD":"00160", "storeid":"000468","title" : "16 Bits (Teen Tal)"},
    	     {"ragaid" : "Unknown",         "artistid":"Chatur;Lal",          "provenance":"CD,1",  "CD":"00160", "storeid":"000469","title" : "7 Bits (Tal Rupak)"},
-   	     {"ragaid" : "Unknown",         "artistid":"Chatur;Lal",          "provenance":"CD,1",  "CD":"00160", "storeid":"000470","title" : "13 Bits (Jaly Tal)"}
+   	     {"ragaid" : "Unknown",         "artistid":"Chatur;Lal",          "provenance":"CD,1",  "CD":"00160", "storeid":"000470","title" : "13 Bits (Jaly Tal)"},
+   	     {"ragaid" : "Marwa",           "artistid":"Pandit;Jasraj",       "provenance":"CD,1",  "CD":"00161", "storeid":"000471","title" : "Raga Marwa"},
+   	     {"ragaid" : "Shri",            "artistid":"Shruti;Sadolikar",    "provenance":"CD,2",  "CD":"00161", "storeid":"000472","title" : "Raga Shree"},
+   	     {"ragaid" : "Hamsadhwani",     "artistid":"Shahid;Parvez",       "provenance":"CD,3",  "CD":"00161", "storeid":"000473","title" : "Raga Hamsadhwani"},
+   	     {"ragaid" : "Yaman",           "artistid":"Shahid;Parvez",       "provenance":"CD,1",  "CD":"00162", "storeid":"000474","title" : "Raga Yaman"},
+   	     {"ragaid" : "Shankara",        "artistid":"Pandit;Jasraj",       "provenance":"CD,2",  "CD":"00162", "storeid":"000475","title" : "Raga Shankara"},
+   	     {"ragaid" : "Gara",            "artistid":"Shruti;Sadolikar",    "provenance":"CD,3",  "CD":"00162", "storeid":"000476","title" : "Raga Mishra Ghara"}
   	  ]
   	}

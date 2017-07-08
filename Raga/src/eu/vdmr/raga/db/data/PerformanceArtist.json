@@ -761,10 +761,29 @@
   	     {"storeid" : "000466",   "instrumentid":"Rudravina",  "artistid":"Hindraj;Divekar"},
   	     {"storeid" : "000467",   "instrumentid":"Sitar",      "artistid":"Hindraj;Divekar"},
   	     {"storeid" : "000468",   "instrumentid":"Tabla",      "artistid":"Chatur;Lal"},
-  	     {"storeid" : "000468",   "instrumentid":"Sarangi",     "artistid":"-;Ramnarayan"},
+  	     {"storeid" : "000468",   "instrumentid":"Sarangi",    "artistid":"-;Ramnarayan"},
   	     {"storeid" : "000469",   "instrumentid":"Tabla",      "artistid":"Chatur;Lal"},
-  	     {"storeid" : "000469",   "instrumentid":"Sarangi",     "artistid":"-;Ramnarayan"},
+  	     {"storeid" : "000469",   "instrumentid":"Sarangi",    "artistid":"-;Ramnarayan"},
   	     {"storeid" : "000470",   "instrumentid":"Tabla",      "artistid":"Chatur;Lal"},
-  	     {"storeid" : "000470",   "instrumentid":"Sarangi",     "artistid":"-;Ramnarayan"}
- 	 ]
+  	     {"storeid" : "000470",   "instrumentid":"Sarangi",    "artistid":"-;Ramnarayan"},
+  	     {"storeid" : "000471",   "instrumentid":"Voice",      "artistid":"Pandit;Jasraj"},
+  	     {"storeid" : "000471",   "instrumentid":"Harmonium",  "artistid":"Appa;Jalgaonkar"},
+  	     {"storeid" : "000471",   "instrumentid":"Tabla",      "artistid":"Kedar;Pandit"},
+  	     {"storeid" : "000472",   "instrumentid":"Voice",      "artistid":"Shruti;Sadolikar"},
+  	     {"storeid" : "000472",   "instrumentid":"Sarangi",    "artistid":"Anant;Kunte"},
+  	     {"storeid" : "000472",   "instrumentid":"Tabla",      "artistid":"Mangesh;Mulye"},
+  	     {"storeid" : "000472",   "instrumentid":"Harmonium",  "artistid":"Kiran;Lele"},
+  	     {"storeid" : "000473",   "instrumentid":"Sitar",      "artistid":"Shahid;Parvez"},
+  	     {"storeid" : "000473",   "instrumentid":"Tabla",      "artistid":"Vijay;Ghate"},
+  	     {"storeid" : "000474",   "instrumentid":"Sitar",      "artistid":"Shahid;Parvez"},
+  	     {"storeid" : "000474",   "instrumentid":"Tabla",      "artistid":"Vijay;Ghate"},
+  	     {"storeid" : "000475",   "instrumentid":"Voice",      "artistid":"Pandit;Jasraj"},
+  	     {"storeid" : "000475",   "instrumentid":"Harmonium",  "artistid":"Appa;Jalgaonkar"},
+  	     {"storeid" : "000475",   "instrumentid":"Tabla",      "artistid":"Kedar;Pandit"},
+  	     {"storeid" : "000476",   "instrumentid":"Voice",      "artistid":"Shruti;Sadolikar"},
+  	     {"storeid" : "000476",   "instrumentid":"Sarangi",    "artistid":"Anant;Kunte"},
+  	     {"storeid" : "000476",   "instrumentid":"Tabla",      "artistid":"Mangesh;Mulye"},
+  	     {"storeid" : "000476",   "instrumentid":"Harmonium",  "artistid":"Kiran;Lele"}
+  	     
+	 ]
   	}

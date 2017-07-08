@@ -159,7 +159,9 @@
    	     {"refid" : "00157", "publisher" :"Moment Records",           "date" : "1991-00-00","title":"Girja Devi - Vocal",          "have" : "1", "shortid":"DEVIGI_2"},
    	     {"refid" : "00158", "publisher" :"Music Today",              "date" : "0000-00-00","title":"Thumri and Dadra",            "have" : "1", "shortid":"DEVISA_1"},
    	     {"refid" : "00159", "publisher" :"",                         "date" : "0000-00-00","title":"Rudra Vina and Sitar",        "have" : "1", "shortid":"DIVEHI_1"},
-   	     {"refid" : "00160", "publisher" :"World Pacific",            "date" : "1961-00-00","title":"The Drums Of India",          "have" : "1", "shortid":"DRUMOI_1"}
+   	     {"refid" : "00160", "publisher" :"World Pacific",            "date" : "1961-00-00","title":"The Drums Of India",          "have" : "1", "shortid":"DRUMOI_1"},
+   	     {"refid" : "00161", "publisher" :"Music Today",              "date" : "2005-00-00","title":"Evening Ragas Vol 1",         "have" : "1", "shortid":"EVENIN_1"},
+   	     {"refid" : "00162", "publisher" :"Music Today",              "date" : "2005-00-00","title":"Evening Ragas Vol 4",         "have" : "1", "shortid":"EVENIN_4"}
    	     
   	  ]
   	}
