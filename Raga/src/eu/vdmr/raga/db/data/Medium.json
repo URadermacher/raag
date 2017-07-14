@@ -214,7 +214,19 @@
    	     {"refid" : "00212", "publisher" :"Music Today",              "date" : "0000-00-00","title":"LifeStory of a Legend Vol 9",   "have": "1", "shortid":"JOSHBH_11"},
    	     {"refid" : "00213", "publisher" :"Gramophone Company of India","date":"0000-00-00","title":"Gharana, The Heritage, Gwalior","have": "1", "shortid":"JOSHYA_1"},
    	     {"refid" : "00214", "publisher" :"Swarashree Enterprises",   "date" : "0000-00-00","title":"Pandit Yashwant Joshi",         "have": "1", "shortid":"JOSHYA_2"},
-   	     {"refid" : "00215", "publisher" :"Saregama",                 "date" : "0000-00-00","title":"Greatest Jugalbandies",         "have": "1", "shortid":"JUGALB_1"}
+   	     {"refid" : "00215", "publisher" :"Saregama",                 "date" : "0000-00-00","title":"Greatest Jugalbandies",         "have": "1", "shortid":"JUGALB_1"},
+   	     {"refid" : "00216", "publisher" :"Saregama",                 "date" : "0000-00-00","title":"Greatest Jugalbandies",         "have": "1", "shortid":"JUGALB_2"},
+   	     {"refid" : "00217", "publisher" :"Saregama",                 "date" : "0000-00-00","title":"Greatest Jugalbandies",         "have": "1", "shortid":"JUGALB_3"},
+   	     {"refid" : "00218", "publisher" :"",                         "date" : "0000-00-00","title":"Brijbushan Kabra",              "have": "1", "shortid":"KABRBR_1"},
+   	     {"refid" : "00219", "publisher" :"Music Today",              "date" : "2006-00-00","title":"Faces of Raga",                 "have": "1", "shortid":"KAREPR_1"},
+   	     {"refid" : "00220", "publisher" :"Rhythm House, Bombay",     "date" : "0000-00-00","title":"a many splendoured gayaki",     "have": "1", "shortid":"KASHUL_1"},
+   	     {"refid" : "00221", "publisher" :"Gramophone Company of India","date":"0000-00-00","title":"Khatak",                        "have": "1", "shortid":"KATHAK_1"},
+   	     {"refid" : "00222", "publisher" :"",                         "date" : "0000-00-00","title":"Khatak, The art of Gopi Krishna","have":"1", "shortid":"KATHAK_2"},
+   	     {"refid" : "00223", "publisher" :"Venus",                    "date" : "0000-00-00","title":"Serenading Sitar",              "have": "1", "shortid":"KATTSH_1"},
+   	     {"refid" : "00224", "publisher" :"Gramophone Company of India","date":"0000-00-00","title":"Surshri Kesar Bai Kerkar",      "have": "1", "shortid":"KERKBA_1"},
+   	     {"refid" : "00225", "publisher" :"Fantasy Records",           "date": "1995-00-00","title":"Traditional Music of India",    "have": "1", "shortid":"KHANAA_1"},
+   	     {"refid" : "00226", "publisher" :"Fantasy Records",           "date": "0000-00-00","title":"The Classical Music of India",  "have": "1", "shortid":"KHANAA_2"},
+   	     {"refid" : "00227", "publisher" :"AMMP Records",              "date": "1994-08-00","title":"Morning Visions",               "have": "1", "shortid":"KHANAA_3"}
    	     
   	  ]
   	}

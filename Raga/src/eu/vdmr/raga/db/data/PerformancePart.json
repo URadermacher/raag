@@ -738,8 +738,55 @@
          {"storeid" : "000617", "volgnr" : "001", "partname":"",                                     "duration" : "28","filename" : "000617_Hamir.wav"},
          {"storeid" : "000618", "volgnr" : "001", "partname":"",                                     "duration" : "28","filename" : "000618_Goud_Malhar_AND_Bahar.wav"},
          {"storeid" : "000619", "volgnr" : "001", "partname":"Aalap",                                "duration" : "26","filename" : "000619_1_Bhupali.wav"},
-         {"storeid" : "000619", "volgnr" : "002", "partname":"Gats",                                 "duration" : "27","filename" : "000619_2_Bhupali.wav"}
-            
+         {"storeid" : "000619", "volgnr" : "002", "partname":"Gats",                                 "duration" : "27","filename" : "000619_2_Bhupali.wav"},
+         {"storeid" : "000620", "volgnr" : "001", "partname":"-",                                    "duration" : "21","filename" : "000620_Shri.wav"},
+         {"storeid" : "000621", "volgnr" : "001", "partname":"-",                                    "duration" : "20","filename" : "000621_Sindhu_Bhairavi.wav"}
+         {"storeid" : "000622", "volgnr" : "001", "partname":"Rupak Tal, Tintal",                    "duration" : "21","filename" : "000622_Jhinjhoti.wav"}
+         {"storeid" : "000623", "volgnr" : "001", "partname":"Tintal",                               "duration" : "21","filename" : "000623_Mishra_Piloo.wav"}
+         {"storeid" : "000624", "volgnr" : "001", "partname":"-",                                    "duration" : "14","filename" : "000624_Darbari.wav"},
+         {"storeid" : "000625", "volgnr" : "001", "partname":"-",                                    "duration" :  "7","filename" : "000625_Kafi.wav"},
+         {"storeid" : "000626", "volgnr" : "001", "partname":"-",                                    "duration" : "15","filename" : "000626_Desh.wav"},
+         {"storeid" : "000627", "volgnr" : "001", "partname":"Khayal Vilambit", "talid":"Tintal",    "duration" : "30","filename" : "000627_1_Bhupali.wav"},
+         {"storeid" : "000627", "volgnr" : "002", "partname":"Bandish madhyalala","talid":"Tintal",  "duration" : "11","filename" : "000627_2_Bhupali.wav"},
+         {"storeid" : "000627", "volgnr" : "003", "partname":"Bandish madhyalala","talid":"Jhaptal", "duration" : "11","filename" : "000627_3_Bhupali.wav"},
+         {"storeid" : "000628", "volgnr" : "001", "partname":"-",                                    "duration" :  "8","filename" : "000628_Bhajan.wav"},
+         {"storeid" : "000629", "volgnr" : "001", "partname":"-",                                    "duration" : "29","filename" : "000629_Gaud_Malhar.wav"},
+         {"storeid" : "000630", "volgnr" : "001", "partname":"-",                                    "duration" : "20","filename" : "000630_Purba.wav"},
+         {"storeid" : "000631", "volgnr" : "001", "partname":"-",                                    "duration" :  "9","filename" : "000631_Bhairavi.wav"},
+         {"storeid" : "000632", "volgnr" : "001", "partname":"-",                                    "duration" :  "0","filename" : "01 Track 1.wav"},
+         {"storeid" : "000632", "volgnr" : "002", "partname":"-",                                    "duration" :  "0","filename" : "02 Track 2.wav"},
+         {"storeid" : "000632", "volgnr" : "003", "partname":"-",                                    "duration" :  "0","filename" : "03 Track 3.wav"},
+         {"storeid" : "000632", "volgnr" : "004", "partname":"-",                                    "duration" :  "0","filename" : "04 Track 4.wav"},
+         {"storeid" : "000632", "volgnr" : "005", "partname":"-",                                    "duration" :  "0","filename" : "05 Track 5.wav"},
+         {"storeid" : "000632", "volgnr" : "006", "partname":"-",                                    "duration" :  "0","filename" : "06 Track 6.wav"},
+         {"storeid" : "000632", "volgnr" : "007", "partname":"-",                                    "duration" :  "0","filename" : "07 Track 7.wav"},
+         {"storeid" : "000632", "volgnr" : "008", "partname":"-",                                    "duration" :  "0","filename" : "08 Track 8.wav"},
+         {"storeid" : "000632", "volgnr" : "009", "partname":"-",                                    "duration" :  "0","filename" : "09 Track 9.wav"},
+         {"storeid" : "000632", "volgnr" : "010", "partname":"-",                                    "duration" :  "0","filename" : "10 Track 10.wav"},
+         {"storeid" : "000633", "volgnr" : "001", "partname":"-",                                    "duration" :  "0","filename" : "01 Track 1.wav"},
+         {"storeid" : "000633", "volgnr" : "002", "partname":"-",                                    "duration" :  "0","filename" : "02 Track 2.wav"},
+         {"storeid" : "000633", "volgnr" : "003", "partname":"-",                                    "duration" :  "0","filename" : "03 Track 3.wav"},
+         {"storeid" : "000634", "volgnr" : "001", "partname":"Alaap,vilambit and drt gat tintal",    "duration" : "29","filename" : "000634_Bageshri.wav"},
+         {"storeid" : "000635", "volgnr" : "001", "partname":"Alaap,maddhya laya: Rupak,drut tintal","duration" : "20","filename" : "000635_Vachaspati.wav"},
+         {"storeid" : "000636", "volgnr" : "001", "partname":"-",                                    "duration" :  "9","filename" : "000636_Pilu.wav"}
+         {"storeid" : "000637", "volgnr" : "001", "partname":"-",                                    "duration" :  "4","filename" : "000637_Lalat.wav"}
+         {"storeid" : "000638", "volgnr" : "001", "partname":"-",                                    "duration" :  "3","filename" : "000638_Todi.wav"}
+         {"storeid" : "000639", "volgnr" : "001", "partname":"-",                                    "duration" :  "4","filename" : "000639_Kukubh_Bilawal.wav"},
+         {"storeid" : "000640", "volgnr" : "001", "partname":"-",                                    "duration" :  "4","filename" : "000640_Desi.wav"},
+         {"storeid" : "000641", "volgnr" : "001", "partname":"-",                                    "duration" :  "3","filename" : "000641_Bhairavi.wav"},
+         {"storeid" : "000642", "volgnr" : "001", "partname":"-",                                    "duration" :  "4","filename" : "000642_Lalita_Gauri.wav"},
+         {"storeid" : "000643", "volgnr" : "001", "partname":"-",                                    "duration" :  "4","filename" : "000643_Nat_Kamod.wav"},
+         {"storeid" : "000644", "volgnr" : "001", "partname":"-",                                    "duration" :  "4","filename" : "000644_Gaud_Malhar.wav"},
+         {"storeid" : "000645", "volgnr" : "001", "partname":"-",                                    "duration" :  "4","filename" : "000645_Malkauns.wav"},
+         {"storeid" : "000646", "volgnr" : "001", "partname":"-",                                    "duration" :  "7","filename" : "000646_Bilashkani_Todi.wav"},
+         {"storeid" : "000647", "volgnr" : "001", "partname":"-",                                    "duration" :  "7","filename" : "000647_Malkauns.wav"},
+         {"storeid" : "000648", "volgnr" : "001", "partname":"-",                                    "duration" : "18","filename" : "000648_Bhairavi.wav"},
+         {"storeid" : "000649", "volgnr" : "001", "partname":"-",                                    "duration" : "14","filename" : "000649_Lajwanti.wav"},
+         {"storeid" : "000650", "volgnr" : "001", "partname":"-",                                    "duration" : "14","filename" : "000650_Todi.wav"}
+         {"storeid" : "000651", "volgnr" : "001", "partname":"-",                                    "duration" : "40","filename" : "000651_Todi.wav"}   
+         {"storeid" : "000652", "volgnr" : "001", "partname":"-",                                    "duration" : "20","filename" : "000650_Sindhu_Bhairavi.wav"}
+         
+           
          
          
          

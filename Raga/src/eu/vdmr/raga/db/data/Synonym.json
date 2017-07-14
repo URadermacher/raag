@@ -17,6 +17,7 @@
   	     {"synonym" : "Miyan_Ki_Todi",        "canonical" : "Todi"},
   	     {"synonym" : "Miya_Ki_Malhar",       "canonical" : "Malhar"},
   	     {"synonym" : "Pahari",               "canonical" : "Pahadi"},
+ 	     {"synonym" : "Purbya",               "canonical" : "Purba"},
  	     {"synonym" : "Puria",                "canonical" : "Puriya"},
    	     {"synonym" : "Sarang",               "canonical" : "Shuddh_Sarang"},
   	     {"synonym" : "zzz",                  "canonical" : "zzz"}
