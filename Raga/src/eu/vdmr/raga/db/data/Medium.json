@@ -226,7 +226,21 @@
    	     {"refid" : "00224", "publisher" :"Gramophone Company of India","date":"0000-00-00","title":"Surshri Kesar Bai Kerkar",      "have": "1", "shortid":"KERKBA_1"},
    	     {"refid" : "00225", "publisher" :"Fantasy Records",           "date": "1995-00-00","title":"Traditional Music of India",    "have": "1", "shortid":"KHANAA_1"},
    	     {"refid" : "00226", "publisher" :"Fantasy Records",           "date": "0000-00-00","title":"The Classical Music of India",  "have": "1", "shortid":"KHANAA_2"},
-   	     {"refid" : "00227", "publisher" :"AMMP Records",              "date": "1994-08-00","title":"Morning Visions",               "have": "1", "shortid":"KHANAA_3"}
+   	     {"refid" : "00227", "publisher" :"AMMP Records",              "date": "1994-08-00","title":"Morning Visions",               "have": "1", "shortid":"KHANAA_3"},
+   	     {"refid" : "00228", "publisher" :"Saregama",                  "date": "2004-00-00","title":"Durga",                         "have": "1", "shortid":"KHANAA_4"},
+   	     {"refid" : "00229", "publisher" :"AMMP Records",              "date": "1996-10-00","title":"Passing on the Tradition",      "have": "1", "shortid":"KHANAA_5"},
+   	     {"refid" : "00230", "publisher" :"",                          "date": "1987-12-04","title":"Chandranandan",                 "have": "1", "shortid":"KHANAA_6"},
+   	     {"refid" : "00231", "publisher" :"",                          "date": "0000-00-00","title":"Mishra Gara et al",             "have": "1", "shortid":"KHANAA_7"},
+   	     {"refid" : "00232", "publisher" :"",                          "date": "0000-00-00","title":"Documentaire",                  "have": "1", "shortid":"KHANAA_8"},
+   	     {"refid" : "00233", "publisher" :"",                          "date": "0000-00-00","title":"Swara Samrat",                  "have": "1", "shortid":"KHANAA_9"},
+   	     {"refid" : "00234", "publisher" :"",                          "date": "0000-00-00","title":"Signature Series",              "have": "1", "shortid":"KHANAA_10"},
+   	     {"refid" : "00235", "publisher" :"",                          "date": "0000-00-00","title":"Signature Series2",             "have": "1", "shortid":"KHANAA_11"},
+   	     {"refid" : "00236", "publisher" :"The Gramophone Company of India","date":"0000-00-00","title":"Ustad Ali Akbar Khan",      "have": "1", "shortid":"KHANAA_12"},
+   	     {"refid" : "00237", "publisher" :"World Pacific",             "date": "0000-00-00","title":"Sound of the Sarod",            "have": "1", "shortid":"KHANAA_13"},
+   	     {"refid" : "00238", "publisher" :"",                          "date": "0000-00-00","title":"Shree Rag",                     "have": "1", "shortid":"KHANAA_14"},
+   	     {"refid" : "00239", "publisher" :"EMI",                       "date": "0000-00-00","title":"Ustad Ali Akbar Khan",          "have": "1", "shortid":"KHANAA_15"},
+   	     {"refid" : "00240", "publisher" :"YouTube",                   "date": "0000-00-00","title":"Pahadi_Jhinjhoti",              "have": "1", "shortid":"KHANAA_16"},
+   	     {"refid" : "00241", "publisher" :"YouTube",                   "date": "0000-00-00","title":"Jog Bhairavi",                  "have": "1", "shortid":"KHANAA_17"}
    	     
   	  ]
   	}

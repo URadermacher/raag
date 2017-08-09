@@ -15,3 +15,5 @@ time from to is 24 hours like 00-03 of 18-21
 in thekas '*' means the same as the point: extend the lenght of the not with a half, so "dhin* dhin* dha" are 4 beats:  1.5 + 1.5 + 1 
 
 most probably files with name xxxxxx_1_name and xxxxxx_2_name should be played without pause..
+
+uizoeken: is "Madhu Malati"  idd "Madhuvanti"? 
