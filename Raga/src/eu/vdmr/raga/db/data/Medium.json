@@ -240,7 +240,11 @@
    	     {"refid" : "00238", "publisher" :"",                          "date": "0000-00-00","title":"Shree Rag",                     "have": "1", "shortid":"KHANAA_14"},
    	     {"refid" : "00239", "publisher" :"EMI",                       "date": "0000-00-00","title":"Ustad Ali Akbar Khan",          "have": "1", "shortid":"KHANAA_15"},
    	     {"refid" : "00240", "publisher" :"YouTube",                   "date": "0000-00-00","title":"Pahadi_Jhinjhoti",              "have": "1", "shortid":"KHANAA_16"},
-   	     {"refid" : "00241", "publisher" :"YouTube",                   "date": "0000-00-00","title":"Jog Bhairavi",                  "have": "1", "shortid":"KHANAA_17"}
-   	     
+   	     {"refid" : "00241", "publisher" :"YouTube",                   "date": "0000-00-00","title":"Jog Bhairavi",                  "have": "1", "shortid":"KHANAA_17"},
+   	     {"refid" : "00242", "publisher" :"",                          "date": "0000-00-00","title":"Abid Hussain Khan",             "have": "1", "shortid":"KHANAB_1"},
+   	     {"refid" : "00243", "publisher" :"New Earth",                 "date": "2009-02-10","title":"Sitar Secrets",                 "have": "1", "shortid":"KHANAG_1"},
+   	     {"refid" : "00244", "publisher" :"",                          "date": "0000-00-00","title":"Patdip",                        "have": "1", "shortid":"KHANAH_1"},
+   	     {"refid" : "00245", "publisher" :"",                          "date": "0000-00-00","title":"Enchanting Sitar",              "have": "1", "shortid":"KHANAH_2"},
+   	     {"refid" : "00246", "publisher" :"",                          "date": "0000-00-00","title":"Ustad Abdul Halim Jaffer Khan", "have": "1", "shortid":"KHANAH_3"}
   	  ]
   	}
