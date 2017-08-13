@@ -164,6 +164,7 @@
         {"name" : "Durga", "thatid" : "Bilaval"},
         {"name" : "Dutiya_Bhairav"},
         {"name" : "Dyavati"},
+        {"name" : "Farghana"},
         {"name" : "Gandari"},
         {"name" : "Gangeshwari"},
         {"name" : "Gara_Bageshri"},
@@ -540,6 +541,9 @@
         {"name" : "Yaman_Kalyan"},
         {"name" : "Yaman_Manj"},
         {"name" : "Yogiya_Kalingra"},
+        {"name" : "Zila"},
+        {"name" : "Zila_Kafi"},
+        {"name" : "Zila_Pahadi"},
 		{"name" : "Unknown"}        
   	  ]
     }

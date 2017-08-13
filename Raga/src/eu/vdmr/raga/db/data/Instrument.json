@@ -1,6 +1,7 @@
 { "name" : "Instrument",
       "entries" : [
   	     {"name" : "Bansuri" },
+  	     {"name" : "Dholak" },
   	     {"name" : "Dilruba" },
   	     {"name" : "Duggi" },
   	     {"name" : "Ghatam" },
