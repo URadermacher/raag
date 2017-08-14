@@ -756,7 +756,20 @@
    	     {"ragaid" : "Unknown",         "artistid":"Abdul Karim;Khan",       "provenance":"CD,25","CD":"00252","storeid":"000754","title" : "Sarpada Khayal - Gopala Mori Karuna"},
    	     {"ragaid" : "Jogiya",          "artistid":"Abdul Karim;Khan",       "provenance":"CD,26","CD":"00252","storeid":"000755","title" : "Piya Ke Milan Ki Aas" },
    	     {"ragaid" : "Unknown",         "artistid":"Abdul Karim;Khan",       "provenance":"CD,27","CD":"00252","storeid":"000756","title" : "Tyagarajas Kriti - Rama Nee Samanamevaru"},
-   	     {"ragaid" : "Bhairavi",        "artistid":"Abdul Karim;Khan",       "provenance":"CD,28","CD":"00252","storeid":"000757","title" : "Thumri - Jamuna Ke Teer Kanha"}
+   	     {"ragaid" : "Bhairavi",        "artistid":"Abdul Karim;Khan",       "provenance":"CD,28","CD":"00252","storeid":"000757","title" : "Thumri - Jamuna Ke Teer Kanha"},
+   	     {"ragaid" : "Megh",            "artistid":"Abdul Latif;Khan",       "provenance":"CD,1","CD":"00253","storeid":"000758", "title" : "Megh"},
+   	     {"ragaid" : "Marwa",           "artistid":"Abdul Latif;Khan",       "provenance":"CD,2","CD":"00253","storeid":"000759", "title" : "Marwa"},
+   	     {"ragaid" : "Gorak",           "artistid":"Abdul Latif;Khan",       "provenance":"CD,3","CD":"00253","storeid":"000760", "title" : "Gorak"},
+   	     {"ragaid" : "Unknown",         "artistid":"Abdul Latif;Khan",       "provenance":"CD,4","CD":"00253","storeid":"000761", "title" : "Chan Mahi Aa (Heer Ranjha) (made by Khurshid Anwar)"},
+   	     {"ragaid" : "Unknown",         "artistid":"Abdul Latif;Khan",       "provenance":"CD,5","CD":"00253","storeid":"000762", "title" : "Gulo''n mein Rung Bhare (Firangi) (made by Medhi Hassan)"},
+   	     {"ragaid" : "Bihag",           "artistid":"Amjad Ali;Khan",         "provenance":"CD,1","CD":"00254","storeid":"000763", "title" : "Raga Bihag", "date":"2000-05-23","place":"Carnegie Hall, New York"},
+   	     {"ragaid" : "Desh",            "artistid":"Amjad Ali;Khan",         "provenance":"CD,2","CD":"00254","storeid":"000764", "title" : "Raga Desh"},
+   	     {"ragaid" : "Kirwani",         "artistid":"Amjad Ali;Khan",         "provenance":"CD,3","CD":"00254","storeid":"000765", "title" : "Raga Kirwana", "date":"2000-05-23","place":"Carnegie Hall, New York"},
+   	     {"ragaid" : "Abhogi",          "artistid":"Amjad Ali;Khan",         "provenance":"CD,1","CD":"00255","storeid":"000766", "title" : "Raga Abhogi"},
+   	     {"ragaid" : "Lalit_Dhwani",    "artistid":"Amjad Ali;Khan",         "provenance":"CD,1","CD":"00256","storeid":"000767", "title" : "Lalita Dhwani"},
+   	     {"ragaid" : "Yaman",           "artistid":"Amjad Ali;Khan",         "provenance":"CD,2","CD":"00256","storeid":"000768", "title" : "Yaman"},
+   	     {"ragaid" : "Bhupali",         "artistid":"Amjad Ali;Khan",         "provenance":"CD,1","CD":"00257","storeid":"000769", "title" : "Raga Bhopali (Mohanam)"},
+   	     {"ragaid" : "Malkauns",        "artistid":"Amjad Ali;Khan",         "provenance":"CD,2","CD":"00257","storeid":"000770", "title" : "Raga Malkauns (Hindolam)"}
    	    
 
   	  ]

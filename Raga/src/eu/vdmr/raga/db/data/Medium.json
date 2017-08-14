@@ -251,7 +251,12 @@
    	     {"refid" : "00249", "publisher" :"The Gramophone Company of India","date":"0000-00-00","title":"Ustad Abdul Halim Jaffer Khan","have":"1","shortid":"KHANAH_6"},
    	     {"refid" : "00250", "publisher" :"The Gramophone Company of India","date":"0000-00-00","title":"Sitar Through Ages",        "have": "1", "shortid":"KHANAH_7"},
   	     {"refid" : "00251", "publisher" :"Music Today",               "date": "2003-01-01","title":"Maestro''s Choice",             "have": "1", "shortid":"KHANAI_1"},
-  	     {"refid" : "00252", "publisher" :"Columbia",                  "date": "0000-00-00","title":"Abdul Karim Khan",             "have": "1", "shortid":"KHANAK_1"}
+  	     {"refid" : "00252", "publisher" :"Columbia",                  "date": "0000-00-00","title":"Abdul Karim Khan",             "have": "1", "shortid":"KHANAK_1"},
+  	     {"refid" : "00253", "publisher" :"",                          "date": "0000-00-00","title":"Abdul Latif Khan",             "have": "1", "shortid":"KHANAL_1"},
+  	     {"refid" : "00254", "publisher" :"",                          "date": "0000-00-00","title":"Amjad Ali Khan Sarod Sitar",   "have": "1", "shortid":"KHANAM_1"},
+  	     {"refid" : "00255", "publisher" :"",                          "date": "0000-00-00","title":"Abhogi",                       "have": "1", "shortid":"KHANAM_2"},
+  	     {"refid" : "00256", "publisher" :"",                          "date": "0000-00-00","title":"Amjad Ali Khan 3 ragas",       "have": "1", "shortid":"KHANAM_3"},
+  	     {"refid" : "00257", "publisher" :"",                          "date": "0000-00-00","title":"South meets North (Jugalbandi)","have":"1", "shortid":"KHANAM_4"}
 
 
   	  ]
