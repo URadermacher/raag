@@ -256,7 +256,20 @@
   	     {"refid" : "00254", "publisher" :"",                          "date": "0000-00-00","title":"Amjad Ali Khan Sarod Sitar",   "have": "1", "shortid":"KHANAM_1"},
   	     {"refid" : "00255", "publisher" :"",                          "date": "0000-00-00","title":"Abhogi",                       "have": "1", "shortid":"KHANAM_2"},
   	     {"refid" : "00256", "publisher" :"",                          "date": "0000-00-00","title":"Amjad Ali Khan 3 ragas",       "have": "1", "shortid":"KHANAM_3"},
-  	     {"refid" : "00257", "publisher" :"",                          "date": "0000-00-00","title":"South meets North (Jugalbandi)","have":"1", "shortid":"KHANAM_4"}
+  	     {"refid" : "00257", "publisher" :"",                          "date": "0000-00-00","title":"South meets North (Jugalbandi)","have":"1", "shortid":"KHANAM_4"},
+  	     {"refid" : "00258", "publisher" :"",                          "date": "0000-00-00","title":"Amjad Ali Khan Sarod",         "have":"1", "shortid":"KHANAM_5"},
+  	     {"refid" : "00259", "publisher" :"",                          "date": "0000-00-00","title":"Darbari",                      "have":"1", "shortid":"KHANAM_6"},
+  	     {"refid" : "00260", "publisher" :"",                          "date": "0000-00-00","title":"Sarod Recitals",               "have":"1", "shortid":"KHANAM_7"},
+  	     {"refid" : "00261", "publisher" :"Music Today",               "date": "1994-02-28","title":"Maestro''s Choice",            "have":"1", "shortid":"KHANAM_8"},
+  	     {"refid" : "00262", "publisher" :"Music Today",               "date": "0000-00-00","title":"Alap",                         "have":"1", "shortid":"KHANAM_9"},
+  	     {"refid" : "00263", "publisher" :"Hindusthan",                "date": "1994-00-00","title":"Classical Instrumental",       "have":"1", "shortid":"KHANAM_10"},
+  	     {"refid" : "00264", "publisher" :"Music Today",               "date": "2003-03-26","title":"Padma  Vibhushan",             "have":"1", "shortid":"KHANAM_11"},
+  	     {"refid" : "00265", "publisher" :"Nimbus",                    "date": "2012-03-01","title":"Jijaivanti",                   "have":"1", "shortid":"KHANAS_1"},
+  	     {"refid" : "00266", "publisher" :"Music Today",               "date": "1994-05-26","title":"Maestro''s Choice",            "have":"1", "shortid":"KHANAS_2"},
+  	     {"refid" : "00267", "publisher" :"",                          "date": "0000-00-00","title":"Asad Ali Khan",                "have":"1", "shortid":"KHANAS_3"},
+  	     {"refid" : "00268", "publisher" :"Nimbus",                    "date": "2001-00-00","title":"Ragas Purvi & Joyiga",         "have":"1", "shortid":"KHANAS_4"},
+  	     {"refid" : "00269", "publisher" :"All India Radio",           "date": "1992-00-00","title":"Raga Darbari Kanada",          "have":"1", "shortid":"KHANAW_1"},
+  	     {"refid" : "00270", "publisher" :"EMI",                       "date": "0000-00-00","title":"Ustad Bahadur Khan, Sarod",    "have":"1", "shortid":"KHANBA_1"}
 
 
   	  ]

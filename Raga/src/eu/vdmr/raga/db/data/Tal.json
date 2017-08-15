@@ -12,6 +12,7 @@
   	     {"name" : "Jhampak",   "pattern" : "3-2",     "theka" : "dhin dhin na | dhin na"},
   	     {"name" : "Jhampatala","pattern" : "7-1_2"},
   	     {"name" : "Jhaptal",   "pattern" : "2-3-2-3", "theka" : "dhin dha | dhin dhin dha | tin na | dhin dhin dha"},
+  	     {"name" : "Jhumra",    "pattern" : "3-4-3-4", "theka" : "dhin* dha tirakita| dhin dhin dhage tirakita | tin* ta tirakita| dhin dhin dhage tirakita"},
   	     {"name" : "Keherwa",   "pattern" : "4-4",     "theka" : "dha ge na ti | na ka dhin na"},
   	     {"name" : "Rupak",     "pattern" : "3-2-2",   "theka" : "tin tin na | dhin na | dhin na"},
   	     {"name" : "Sitarkhani","pattern" : "4-4-4-4", "theka" : "dha* dhin*  dha | dha* dhin* dha | sha* tin* na | na* dhin* dha "},
