@@ -269,7 +269,20 @@
   	     {"refid" : "00267", "publisher" :"",                          "date": "0000-00-00","title":"Asad Ali Khan",                "have":"1", "shortid":"KHANAS_3"},
   	     {"refid" : "00268", "publisher" :"Nimbus",                    "date": "2001-00-00","title":"Ragas Purvi & Joyiga",         "have":"1", "shortid":"KHANAS_4"},
   	     {"refid" : "00269", "publisher" :"All India Radio",           "date": "1992-00-00","title":"Raga Darbari Kanada",          "have":"1", "shortid":"KHANAW_1"},
-  	     {"refid" : "00270", "publisher" :"EMI",                       "date": "0000-00-00","title":"Ustad Bahadur Khan, Sarod",    "have":"1", "shortid":"KHANBA_1"}
+  	     {"refid" : "00270", "publisher" :"EMI",                       "date": "0000-00-00","title":"Ustad Bahadur Khan, Sarod",    "have":"1", "shortid":"KHANBA_1"},
+  	     {"refid" : "00271", "publisher" :"Music Today",               "date": "0000-00-00","title":"Etched in Time",               "have":"1", "shortid":"KHANBG_1"},
+  	     {"refid" : "00272", "publisher" :"Saregama",                  "date": "0000-00-00","title":"Ras Rang - Thumri",            "have":"1", "shortid":"KHANBG_2"},
+  	     {"refid" : "00273", "publisher" :"The Gramophone Company of India","date":"0000-00-00","title":"Raga Todi - Mishra Thumri","have":"1", "shortid":"KHANBI_1"},
+  	     {"refid" : "00274", "publisher" :"Music Today",               "date": "0000-00-00","title":"Maestro''s Choice",            "have":"1", "shortid":"KHANBI_2"},
+  	     {"refid" : "00275", "publisher" :"Music Today",               "date": "0000-00-00","title":"Maestro''s Choice",            "have":"1", "shortid":"KHANBI_3"},
+  	     {"refid" : "00276", "publisher" :"",                          "date": "0000-00-00","title":"The Piper Of Benares",         "have":"1", "shortid":"KHANBI_4"},
+  	     {"refid" : "00277", "publisher" :"Music Today",               "date": "2005-01-01","title":"Bharat Ratna",                 "have":"1", "shortid":"KHANBI_5"},
+  	     {"refid" : "00278", "publisher" :"T-Series",                  "date": "2009-10-01","title":"Great Maestros",               "have":"1", "shortid":"KHANBI_6"},
+  	     {"refid" : "00279", "publisher" :"Music Today",               "date": "0000-00-00","title":"Maestro''s Choice",            "have":"1", "shortid":"KHANBI_7"},
+  	     {"refid" : "00280", "publisher" :"Surya Sound",               "date": "2006-12-02","title":"Ragas",                        "have":"1", "shortid":"KHANBY_1"},
+  	     {"refid" : "00281", "publisher" :"",                          "date": "0000-00-00","title":"Ustad Dabir Khan",             "have":"1", "shortid":"KHANDA_1"},
+  	     {"refid" : "00282", "publisher" :"",                          "date": "0000-00-00","title":"Ustad Enayat Khan",            "have":"1", "shortid":"KHANEN_1"},
+  	     {"refid" : "00283", "publisher" :"",                          "date": "0000-00-00","title":"Folk Music from Pakistan",     "have":"1", "shortid":"KHANFA_1"}
 
 
   	  ]
