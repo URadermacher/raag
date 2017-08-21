@@ -282,7 +282,18 @@
   	     {"refid" : "00280", "publisher" :"Surya Sound",               "date": "2006-12-02","title":"Ragas",                        "have":"1", "shortid":"KHANBY_1"},
   	     {"refid" : "00281", "publisher" :"",                          "date": "0000-00-00","title":"Ustad Dabir Khan",             "have":"1", "shortid":"KHANDA_1"},
   	     {"refid" : "00282", "publisher" :"",                          "date": "0000-00-00","title":"Ustad Enayat Khan",            "have":"1", "shortid":"KHANEN_1"},
-  	     {"refid" : "00283", "publisher" :"",                          "date": "0000-00-00","title":"Folk Music from Pakistan",     "have":"1", "shortid":"KHANFA_1"}
+  	     {"refid" : "00283", "publisher" :"",                          "date": "0000-00-00","title":"Folk Music from Pakistan",     "have":"1", "shortid":"KHANFA_1"},
+  	     {"refid" : "00284", "publisher" :"Music Today",               "date": "0000-00-00","title":"Gharana Series, Fateh Ali Khan","have":"1","shortid":"KHANFL_1"},
+  	     {"refid" : "00285", "publisher" :"All India Radio",           "date": "1991-00-00","title":"Ustad Faiyaz Khan Sahib",      "have":"1", "shortid":"KHANFY_1"},
+  	     {"refid" : "00286", "publisher" :"All India Radio",           "date": "0000-00-00","title":"Aftaab-E-Mousiqi",             "have":"1", "shortid":"KHANFY_2"},
+  	     {"refid" : "00287", "publisher" :"Sense World  Music",        "date": "0000-00-00","title":"Ibteda",                       "have":"1", "shortid":"KHANGM_1"},
+  	     {"refid" : "00288", "publisher" :"Music Today",               "date": "0000-00-00","title":"Maestro''s Choice",            "have":"1", "shortid":"KHANGM_2"},
+  	     {"refid" : "00289", "publisher" :"",                          "date": "0000-00-00","title":"Hameed Ali & Fateh Ali Khan",  "have":"1", "shortid":"KHANHF_1"},
+  	     {"refid" : "00290", "publisher" :"Aimrec",                    "date": "2011-10-05","title":"Yaman",                        "have":"1", "shortid":"KHANHI_1"},
+  	     {"refid" : "00291", "publisher" :"Aimrec",                    "date": "2011-03-01","title":"Tradition",                    "have":"1", "shortid":"KHANHI_2"},
+  	     {"refid" : "00292", "publisher" :"Makar",                     "date": "1995-00-00","title":"Tradition du Khayal au sitar", "have":"1", "shortid":"KHANHR_1"},
+  	     {"refid" : "00293", "publisher" :"",                          "date": "0000-00-00","title":"Nordindische Rags Live",       "have":"1", "shortid":"KHANIM_1"},
+  	     {"refid" : "00294", "publisher" :"T-series",                  "date": "1991-00-00","title":"Bahar of Surbahar",            "have":"1", "shortid":"KHANIM_2"}
 
 
   	  ]
