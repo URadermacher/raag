@@ -127,6 +127,13 @@
   	     {"name" : "carnatic", "type" : "INTEGER", "defaultValue":"0"}
   	  ]
     },
+  	{ "name" : "PerformanceComment",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "storeid", "type" : "TEXT"},
+  	     {"name" : "comment", "type" : "TEXT"}
+  	  ]
+    },
   	{ "name" : "PerformancePart",
   	  "columns" : [
   	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},

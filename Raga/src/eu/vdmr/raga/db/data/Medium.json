@@ -303,7 +303,25 @@
   	     {"refid" : "00301", "publisher" :"",                          "date": "0000-00-00","title":"Kalavati et al",               "have":"1", "shortid":"KHANIM_9"},
   	     {"refid" : "00302", "publisher" :"",                          "date": "0000-00-00","title":"Imrat Khan",                   "have":"1", "shortid":"KHANIM_10"},
   	     {"refid" : "00303", "publisher" :"The Gramophone Company of India","date":"0000-00-00","title":"Ustad Imrat Khan",         "have":"1", "shortid":"KHANIM_11"},
-  	     {"refid" : "00304", "publisher" :"Nimbus",                    "date":"1989-00-00","title":"Imrat Khan, Surbahar & Sitar",  "have":"1", "shortid":"KHANIM_12"}
+  	     {"refid" : "00304", "publisher" :"Nimbus",                    "date":"1989-00-00","title":"Imrat Khan, Surbahar & Sitar",  "have":"1", "shortid":"KHANIM_12"},
+  	     {"refid" : "00305", "publisher" :"LegendaryLegacy",           "date":"0000-00-00","title":"Rich Heritage - Malhar",        "have":"1", "shortid":"KHANIR_1"},
+  	     {"refid" : "00306", "publisher" :"T-series",                  "date":"0000-00-00","title":"Sitar from Imdad to Irshan Khan","have":"1","shortid":"KHANIR_2"},
+  	     {"refid" : "00307", "publisher" :"",                          "date":"0000-00-00","title":"Kabir Khan",                    "have":"1", "shortid":"KHANKA_1"},
+  	     {"refid" : "00308", "publisher" :"The Gramophone Company of India","date":"0000-00-00","title":"Punjabi Songs",            "have":"1", "shortid":"KHANMA_1"},
+  	     {"refid" : "00309", "publisher" :"The Gramophone Company of India","date":"0000-00-00","title":"Vocal Recital",            "have":"1", "shortid":"KHANMA_2"},
+  	     {"refid" : "00310", "publisher" :"The Gramophone Company of India","date":"0000-00-00","title":"Ustad Munawar Ali Khan",   "have":"1", "shortid":"KHANMA_3"},
+  	     {"refid" : "00311", "publisher" :"EMI Pakistan",              "date":"1976-00-00","title":"Sitar Sensation",               "have":"1", "shortid":"KHANMJ_1"},
+  	     {"refid" : "00312", "publisher" :"",                          "date":"0000-00-00","title":"rags 1",                        "have":"1", "shortid":"KHANMS_1"},
+  	     {"refid" : "00313", "publisher" :"",                          "date":"0000-00-00","title":"rags 2",                        "have":"1", "shortid":"KHANMS_2"},
+  	     {"refid" : "00314", "publisher" :"",                          "date":"0000-00-00","title":"rags 3",                        "have":"1", "shortid":"KHANMS_3"},
+  	     {"refid" : "00315", "publisher" :"EMI (Pakistan)",            "date":"0000-00-00","title":"Ustad Sharif Khan Poonchhwala", "have":"1", "shortid":"KHANMS_4"},
+  	     {"refid" : "00316", "publisher" :"EMI (Pakistan)",            "date":"0000-00-00","title":"Ustad Sharif Khan Poonchhwala", "have":"1", "shortid":"KHANMS_5"},
+  	     {"refid" : "00317", "publisher" :"EMI (Pakistan)",            "date":"0000-00-00","title":"Ustad Sharif Khan Poonchhwala", "have":"1", "shortid":"KHANMS_6"},
+  	     {"refid" : "00318", "publisher" :"",                          "date":"0000-00-00","title":"Maestro of Sarangi",            "have":"1", "shortid":"KHANMU_1"},
+  	     {"refid" : "00319", "publisher" :"T-series",                  "date":"0000-00-00","title":"Sentimental Sitar",             "have":"1", "shortid":"KHANNI_1"},
+  	     {"refid" : "00320", "publisher" :"Nimbus",                    "date":"0000-00-00","title":"Rag Tilak Kamod",               "have":"1", "shortid":"KHANNI_2"},
+  	     {"refid" : "00321", "publisher" :"",                          "date":"0000-00-00","title":"Bihag,Sohini,Dhun",             "have":"1", "shortid":"KHANNI_3"},
+  	     {"refid" : "00322", "publisher" :"Saregama",                  "date":"1965-08-14","title":"Sitar",                         "have":"1", "shortid":"KHANNI_4"}
 
 
   	  ]
