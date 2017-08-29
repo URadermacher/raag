@@ -340,7 +340,15 @@
   	     {"refid" : "00338", "publisher" :"Shanachie Records",         "date":"1999-00-00","title":"Moon Rise Over the Silk Road",  "have":"1", "shortid":"KHANSH_1"},
   	     {"refid" : "00339", "publisher" :"Navras Records",            "date":"2003-11-00","title":"Amore",                         "have":"1", "shortid":"KHANSH_2"},
   	     {"refid" : "00340", "publisher" :"India Archive Music",       "date":"1997-00-00","title":"Shujaat Khan - Sitar",          "have":"1", "shortid":"KHANSH_3"},
-  	     {"refid" : "00341", "publisher" :"Felmay",                    "date":"2006-00-00","title":"Gayaki Ang",                    "have":"1", "shortid":"KHANSH_4"}
+  	     {"refid" : "00341", "publisher" :"Felmay",                    "date":"2006-00-00","title":"Gayaki Ang",                    "have":"1", "shortid":"KHANSH_4"},
+  	     {"refid" : "00342", "publisher" :"ECM Records Gmbh",          "date":"2003-00-00","title":"The Rain",                      "have":"1", "shortid":"KHANSH_5"},
+  	     {"refid" : "00343", "publisher" :"Bihaan Music",              "date":"2007-00-00","title":"Excellence",                    "have":"1", "shortid":"KHANSH_6"},
+  	     {"refid" : "00344", "publisher" :"Music Today",               "date":"2000-00-00","title":"Suar Aus Saaz",                 "have":"1", "shortid":"KHANSH_7"},
+  	     {"refid" : "00345", "publisher" :"MagnaSound",                "date":"1995-00-00","title":"Lajo Lajo",                     "have":"1", "shortid":"KHANSH_8"},
+  	     {"refid" : "00346", "publisher" :"Aimrec",                    "date":"2012-02-10","title":"The Majetic Sitar",             "have":"1", "shortid":"KHANSK_1"},
+  	     {"refid" : "00347", "publisher" :"Chil Om Classical",         "date":"0000-00-00","title":"Divinity",                      "have":"1", "shortid":"KHANSK_2"},
+  	     {"refid" : "00348", "publisher" :"Navras",                    "date":"1998-07-20","title":"Ragas",                         "have":"1", "shortid":"KHANSM_1"},
+  	     {"refid" : "00349", "publisher" :"",                          "date":"0000-00-00","title":"Ustad Sadiq Ali Khan",          "have":"1", "shortid":"KHANSQ_1"}
 
   	  ], 
   	}

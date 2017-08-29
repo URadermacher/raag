@@ -942,9 +942,9 @@
    	     {"ragaid" : "Nur_Gara",        "artistid":"Mahammad Sharif;Khan",   "provenance":"CD,1","CD":"00312","storeid":"000940", "title" : "Noor Ghara", "place":"Alhamra, Lahore"},
    	     {"ragaid" : "Shyam_Kalyan",    "artistid":"Mahammad Sharif;Khan",   "provenance":"CD,2","CD":"00312","storeid":"000941", "title" : "Sham Khalyan"},
    	     {"ragaid" : "Bageshri",        "artistid":"Mahammad Sharif;Khan",   "provenance":"CD,1","CD":"00313","storeid":"000942", "title" : "Bageshri", "place":"Alhamra, Lahore"},
-   	     {"ragaid" : "Adana_Bahar",     "artistid":"Mahammad Sharif;Khan",   "provenance":"CD,2","CD":"00313","storeid":"000943", "title" : "Adana Bahar"}
-   	     {"ragaid" : "Yaman",           "artistid":"Mahammad Sharif;Khan",   "provenance":"CD,1","CD":"00314","storeid":"000944", "title" : "Yaman"}
-   	     {"ragaid" : "Darbari",         "artistid":"Mahammad Sharif;Khan",   "provenance":"CD,2","CD":"00314","storeid":"000945", "title" : "Darbari"}
+   	     {"ragaid" : "Adana_Bahar",     "artistid":"Mahammad Sharif;Khan",   "provenance":"CD,2","CD":"00313","storeid":"000943", "title" : "Adana Bahar"},
+   	     {"ragaid" : "Yaman",           "artistid":"Mahammad Sharif;Khan",   "provenance":"CD,1","CD":"00314","storeid":"000944", "title" : "Yaman"},
+   	     {"ragaid" : "Darbari",         "artistid":"Mahammad Sharif;Khan",   "provenance":"CD,2","CD":"00314","storeid":"000945", "title" : "Darbari"},
    	     {"ragaid" : "Khamaj",          "artistid":"Mahammad Sharif;Khan",   "provenance":"CD,3","CD":"00314","storeid":"000946", "title" : "Mishra Khamah"},
    	     {"ragaid" : "Shyam_Kalyan",    "artistid":"Mahammad Sharif;Khan",   "provenance":"CD,1","CD":"00315","storeid":"000947", "title" : "Raag Sham Kalyan"},
    	     {"ragaid" : "Pilu",            "artistid":"Mahammad Sharif;Khan",   "provenance":"CD,2","CD":"00315","storeid":"000948", "title" : "Raag Peelo"},
@@ -961,7 +961,7 @@
    	     {"ragaid" : "Tilak_Kamod",     "artistid":"Nishat;Khan",            "provenance":"CD,1","CD":"00320","storeid":"000959", "title" : "Rag Tilak Kamod"},
    	     {"ragaid" : "Bihag",           "artistid":"Nishat;Khan",            "provenance":"CD,1","CD":"00321","storeid":"000960", "title" : "Bihag"},
    	     {"ragaid" : "Sohini",          "artistid":"Nishat;Khan",            "provenance":"CD,2","CD":"00321","storeid":"000961", "title" : "Sohini"},
-   	     {"ragaid" : "Unknown",         "artistid":"Nishat;Khan",            "provenance":"CD,3","CD":"00321","storeid":"000962", "title" : "Dhun"}
+   	     {"ragaid" : "Unknown",         "artistid":"Nishat;Khan",            "provenance":"CD,3","CD":"00321","storeid":"000962", "title" : "Dhun"},
    	     {"ragaid" : "Bihag",           "artistid":"Nishat;Khan",            "provenance":"CD,1","CD":"00322","storeid":"000963", "title" : "Behag Khayal Ang"},
    	     {"ragaid" : "Bhatiyar",        "artistid":"Nishat;Khan",            "provenance":"CD,2","CD":"00322","storeid":"000964", "title" : "Bhatiyar"},
    	     {"ragaid" : "Sohini",          "artistid":"Nishat;Khan",            "provenance":"CD,3","CD":"00322","storeid":"000965", "title" : "Sohini"},
@@ -1013,7 +1013,37 @@
    	     {"ragaid" : "Pilu",            "artistid":"Shujaat Husain;Khan",    "provenance":"CD,5","CD":"00340","storeid":"001011", "title" : "Raga Piloo"},
    	     {"ragaid" : "Bhairavi",        "artistid":"Shujaat Husain;Khan",    "provenance":"CD,6","CD":"00340","storeid":"001012", "title" : "Raga Bhairavi"},
    	     {"ragaid" : "Khem",            "artistid":"Shujaat Husain;Khan",    "provenance":"CD,1","CD":"00341","storeid":"001013", "title" : "Raga Khem"},
-   	     {"ragaid" : "Tilak_Kamod",     "artistid":"Shujaat Husain;Khan",    "provenance":"CD,2","CD":"00341","storeid":"001014", "title" : "Janna, Meri Janna"}
+   	     {"ragaid" : "Tilak_Kamod",     "artistid":"Shujaat Husain;Khan",    "provenance":"CD,2","CD":"00341","storeid":"001014", "title" : "Janna, Meri Janna"},
+   	     {"ragaid" : "Darbari",         "artistid":"Shujaat Husain;Khan",    "provenance":"CD,1","CD":"00342","storeid":"001015", "title" : "Fire"},
+   	     {"ragaid" : "Kirwani",         "artistid":"Shujaat Husain;Khan",    "provenance":"CD,2","CD":"00342","storeid":"001016", "title" : "Dawn"},
+   	     {"ragaid" : "Khamaj",          "artistid":"Shujaat Husain;Khan",    "provenance":"CD,3","CD":"00342","storeid":"001017", "title" : "Eternity"},
+   	     {"ragaid" : "Jhinjhoti",       "artistid":"Shujaat Husain;Khan",    "provenance":"CD,1","CD":"00343","storeid":"001018", "title" : "Jhinjhoti"},
+   	     {"ragaid" : "Bhatiyali",       "artistid":"Shujaat Husain;Khan",    "provenance":"CD,2","CD":"00343","storeid":"001019", "title" : "Bhatiyali Dhun"},
+   	     {"ragaid" : "Yaman_Kalyan",    "artistid":"Shujaat Husain;Khan",    "provenance":"CD,1","CD":"00344","storeid":"001020", "title" : "Yaman Kalyan"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Shujaat Husain;Khan",    "provenance":"CD,2","CD":"00344","storeid":"001021", "title" : "Mishra Bhairavi"},
+   	     {"ragaid" : "Khamaj",          "artistid":"Shujaat Husain;Khan",    "provenance":"CD,3","CD":"00344","storeid":"001022", "title" : "Mshra Kjamaj"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Shujaat Husain;Khan",    "provenance":"CD,4","CD":"00344","storeid":"001023", "title" : "Mishra Bhairavi"},
+   	     {"ragaid" : "Unknown",         "artistid":"Shujaat Husain;Khan",    "provenance":"CD,1","CD":"00345","storeid":"001024", "title" : "Lajo Lajo"},
+   	     {"ragaid" : "Unknown",         "artistid":"Shujaat Husain;Khan",    "provenance":"CD,2","CD":"00345","storeid":"001025", "title" : "Nit De Vichode"},
+   	     {"ragaid" : "Unknown",         "artistid":"Shujaat Husain;Khan",    "provenance":"CD,3","CD":"00345","storeid":"001026", "title" : "Rooh Le Gaya"},
+   	     {"ragaid" : "Unknown",         "artistid":"Shujaat Husain;Khan",    "provenance":"CD,4","CD":"00345","storeid":"001027", "title" : "Bin Dekhe"},
+   	     {"ragaid" : "Unknown",         "artistid":"Shujaat Husain;Khan",    "provenance":"CD,5","CD":"00345","storeid":"001028", "title" : "Hamari Atariya Pe"},
+   	     {"ragaid" : "Unknown",         "artistid":"Shujaat Husain;Khan",    "provenance":"CD,6","CD":"00345","storeid":"001029", "title" : "Rangi Saari"},
+   	     {"ragaid" : "Bageshri",        "artistid":"Shakir;Khan",            "provenance":"CD,1","CD":"00346","storeid":"001030", "title" : "Bageshri"},
+   	     {"ragaid" : "Desh",            "artistid":"Shakir;Khan",            "provenance":"CD,6","CD":"00346","storeid":"001031", "title" : "Desh"},
+   	     {"ragaid" : "Desh",            "artistid":"Shakir;Khan",            "provenance":"CD,1","CD":"00347","storeid":"001032", "title" : "Desh"},
+   	     {"ragaid" : "Pilu",            "artistid":"Shakir;Khan",            "provenance":"CD,2","CD":"00347","storeid":"001033", "title" : "Pilu"},
+   	     {"ragaid" : "Bhairava",        "artistid":"Shamim Ahmed;Khan",      "provenance":"CD,1","CD":"00348","storeid":"001034", "title" : "Bhairav"},
+   	     {"ragaid" : "Madhuvanti",      "artistid":"Shamim Ahmed;Khan",      "provenance":"CD,2","CD":"00348","storeid":"001035", "title" : "Madhuvanti"},
+   	     {"ragaid" : "Chandrakauns",    "artistid":"Shamim Ahmed;Khan",      "provenance":"CD,3","CD":"00348","storeid":"001036", "title" : "Chandrakauns"},
+   	     {"ragaid" : "Unknown",         "artistid":"Shamim Ahmed;Khan",      "provenance":"CD,4","CD":"00348","storeid":"001037", "title" : "Dhun"},
+   	     {"ragaid" : "Jhinjhoti",       "artistid":"Sadiq Ali;Khan",         "provenance":"CD,2","CD":"00349","storeid":"001038", "title" : "Jhinjhoti"},
+   	     {"ragaid" : "Puriya",          "artistid":"Sadiq Ali;Khan",         "provenance":"CD,6","CD":"00349","storeid":"001039", "title" : "Puriya"},
+   	     {"ragaid" : "Chhayanat",       "artistid":"Sadiq Ali;Khan",         "provenance":"CD,9","CD":"00349","storeid":"001040", "title" : "Chayanat"},
+   	     {"ragaid" : "Puriya",          "artistid":"Sadiq Ali;Khan",         "provenance":"CD,2","CD":"00349","storeid":"001041", "title" : "Puriya"},
+   	     {"ragaid" : "Bihag",           "artistid":"Sadiq Ali;Khan",         "provenance":"CD,5","CD":"00349","storeid":"001042", "title" : "Bihag"},
+   	     {"ragaid" : "Jhinjhoti",       "artistid":"Sadiq Ali;Khan",         "provenance":"CD,8","CD":"00349","storeid":"001043", "title" : "Jhinjhoti"},
+   	     {"ragaid" : "Khamaj",          "artistid":"Sadiq Ali;Khan",         "provenance":"CD,11","CD":"00349","storeid":"001044","title" : "Khamaj"}
 
   	  ]
   	}
