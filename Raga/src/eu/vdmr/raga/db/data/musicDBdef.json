@@ -111,6 +111,13 @@
   	     {"name" : "comment", "type" : "TEXT"}
   	  ]
     },    
+    { "name" : "RagaComment",
+    	"columns" : [
+    		{"name":"id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+    		{"name" : "ragaid", "type" : "INTEGER", "ref" : "Raga,id,name"},
+    		{"name":"comment", "type":"TEXT"}
+    	]
+    },
   	{ "name" : "Performance",
   	  "columns" : [
   	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
@@ -141,7 +148,7 @@
   	     {"name" : "volgnr", "type" : "INTEGER"},
   	     {"name" : "partname", "type" : "TEXT"},
   	     {"name" : "talid", "type" : "INTEGER", "ref" : "Tal,id,name"},
-  	     {"name" : "duration", "type" : "INTEGER"},
+  	     {"name" : "duration", "type" : "TEXT"},
   	     {"name" : "filename", "type" : "TEXT"}
   	  ]
     },

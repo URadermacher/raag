@@ -51,6 +51,9 @@ public class DatabaseFiller {
 				LOG.debug("total object is of type " + root.getClass().getName());
 				String tablename = (String) root.get(DBConst.VALTABLE);
 				LOG.info("filling table " + tablename);
+				if ("RagaComment".equals(tablename)) {
+					int a = 2;
+				}
 				Table table = database.getTableByName(tablename);
 				List<Column> columns = table.getColumns();
 				JSONArray rows = (JSONArray)root.get(DBConst.VALROWS);

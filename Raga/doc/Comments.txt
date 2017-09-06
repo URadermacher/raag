@@ -8,6 +8,12 @@ other = middleoctave
 
 boolean 0 = false 1 = true
 
+"have" in medium 1 = I have the CD , may be zelf composed from music  from somewhere
+                 2 = is a copy of a vinyl / cassette tape (not used yet)
+                 3 = is a copy (or download) from an original CD
+                 4 = is an original CD 
+        Now only 1 is used for all types...
+
 if provenance is "CD" after the comma the track number(s) may appear.
 
 time from to is 24 hours like 00-03 of 18-21
