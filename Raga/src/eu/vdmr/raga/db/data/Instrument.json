@@ -1,6 +1,7 @@
 { "name" : "Instrument",
       "entries" : [
   	     {"name" : "Bansuri" },
+  	     {"name" : "Conductor" },
   	     {"name" : "Dholak" },
   	     {"name" : "Dilruba" },
   	     {"name" : "Duggi" },
@@ -12,6 +13,7 @@
   	     {"name" : "MohanVina" }, 
   	     {"name" : "Mridangam" },
   	     {"name" : "Naqqara" },
+  	     {"name" : "Orchestra" },
   	     {"name" : "Pakhavaj" },
   	     {"name" : "Percussion" },
   	     {"name" : "Piano" },

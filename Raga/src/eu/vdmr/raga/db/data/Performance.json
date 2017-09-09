@@ -1093,7 +1093,29 @@
    	     {"ragaid" : "Bageshri",        "artistid":"Vijaykumar;Sant",        "provenance":"Spotify","CD":"00365","storeid":"001091","title" : "Bageshri"},
    	     {"ragaid" : "Bhairavi",        "artistid":"Vijaykumar;Sant",        "provenance":"Spotify","CD":"00365","storeid":"001092","title" : "Bhairavi"},
    	     {"ragaid" : "Charu_Kauns",     "artistid":"Hasu;Patel",             "provenance":"Spotify","CD":"00366","storeid":"001093","title" : "Charukauns"},
-   	     {"ragaid" : "Bhairavi",        "artistid":"Hasu;Patel",             "provenance":"Spotify","CD":"00366","storeid":"001094","title" : "Bhairavi"}
+   	     {"ragaid" : "Bhairavi",        "artistid":"Hasu;Patel",             "provenance":"Spotify","CD":"00366","storeid":"001094","title" : "Bhairavi"},
+   	     {"ragaid" : "Charu_Kauns",     "artistid":"Hasu;Patel",             "provenance":"Spotify","CD":"00366","storeid":"001093","title" : "Charukauns"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Hasu;Patel",             "provenance":"Spotify","CD":"00366","storeid":"001094","title" : "Bhairavi"},
+   	     {"ragaid" : "Lalit",           "artistid":"Hasu;Patel",             "provenance":"Spotify","CD":"00367","storeid":"001095","title" : "Lalit using komal Dhaivata"},
+   	     {"ragaid" : "Darbari_Kanada",  "artistid":"Hasu;Patel",             "provenance":"Spotify","CD":"00367","storeid":"001096","title" : "Darbari Kanada"},
+   	     {"ragaid" : "Yaman_Kalyan",    "artistid":"Hasu;Patel",             "provenance":"Spotify","CD":"00368","storeid":"001097","title" : "Yaman_Kalyan"},
+   	     {"ragaid" : "Kirwani",         "artistid":"Hasu;Patel",             "provenance":"Spotify","CD":"00368","storeid":"001098","title" : "Kirwani"},
+   	     {"ragaid" : "Bageshwari",      "artistid":"Hasu;Patel",             "provenance":"Spotify","CD":"00369","storeid":"001099","title" : "Sitar Concerto ''Mangal dhwani''"},
+   	     {"ragaid" : "Darbari_Kanada",  "artistid":"Hasu;Patel",             "provenance":"Spotify","CD":"00370","storeid":"001100","title" : "Darbari_Kanada"},
+   	     {"ragaid" : "Yaman_Kalyan",    "artistid":"Hasu;Patel",             "provenance":"Spotify","CD":"00370","storeid":"001101","title" : "Yaman_Kalyan"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Hasu;Patel",             "provenance":"Spotify","CD":"00370","storeid":"001102","title" : "Bhairavi"},
+   	     {"ragaid" : "Unknown",         "artistid":"Rohan;Dasgupta",         "provenance":"Spotify","CD":"00371","storeid":"001103","title" : "Dhyana"},
+   	     {"ragaid" : "Unknown",         "artistid":"Rohan;Dasgupta",         "provenance":"Spotify","CD":"00371","storeid":"001104","title" : "Krodha"},
+   	     {"ragaid" : "Unknown",         "artistid":"Rohan;Dasgupta",         "provenance":"Spotify","CD":"00371","storeid":"001105","title" : "Vedana"},
+   	     {"ragaid" : "Unknown",         "artistid":"Rohan;Dasgupta",         "provenance":"Spotify","CD":"00371","storeid":"001106","title" : "Ananda"},
+   	     {"ragaid" : "Hemant",          "artistid":"Reena;Shrivastava",      "provenance":"Spotify","CD":"00372","storeid":"001107","title" : "Hemant"},
+   	     {"ragaid" : "Unknown",         "artistid":"Reena;Shrivastava",      "provenance":"Spotify","CD":"00372","storeid":"001108","title" : "Kirtan"},
+   	     {"ragaid" : "Ahir_Bhairav",    "artistid":"Ali Akbar;Khan",         "provenance":"Spotify","CD":"00373","storeid":"001109","title" : "Ahir_Bhairav"},
+   	     {"ragaid" : "Vasant_Mukhari",  "artistid":"Ali Akbar;Khan",         "provenance":"Spotify","CD":"00373","storeid":"001110","title" : "Vasant_Mukhari"},
+   	     {"ragaid" : "Jogia_Kalingada", "artistid":"Ali Akbar;Khan",         "provenance":"Spotify","CD":"00373","storeid":"001111","title" : "Jogia_Kalingada"},
+   	     {"ragaid" : "Madhuvanti",      "artistid":"Ali Akbar;Khan",         "provenance":"Spotify","CD":"00373","storeid":"001112","title" : "Madhuvanti"},
+   	     {"ragaid" : "Puriya_Kalyan",   "artistid":"Ali Akbar;Khan",         "provenance":"Spotify","CD":"00373","storeid":"001113","title" : "Puriya_Kalyan"},
+   	     {"ragaid" : "Malkauns",        "artistid":"Ali Akbar;Khan",         "provenance":"Spotify","CD":"00373","storeid":"001114","title" : "Malkauns"}
 
   	  ] 
   	}

@@ -365,7 +365,14 @@
   	     {"refid" : "00363", "publisher" :"EMI India",                 "date":"0000-00-00","title":"Vilayat Khan Vol. 2",           "have":"1", "shortid":"KHANUV_7"},
   	     {"refid" : "00364", "publisher" :"Aimrec",                    "date":"2010-04-16","title":"Sweet Melodies",                "have":"0"},
   	     {"refid" : "00365", "publisher" :"Audiorec",                  "date":"1991-00-00","title":"Innovation",                    "have":"0"},
-  	     {"refid" : "00366", "publisher" :"Hasu Patel",                "date":"2017-04-29","title":"Charukauns / Bhairavi",         "have":"0"}
+  	     {"refid" : "00366", "publisher" :"Hasu Patel",                "date":"2017-04-29","title":"Charukauns / Bhairavi",         "have":"0"},
+  	     {"refid" : "00367", "publisher" :"Hasu Patel",                "date":"2017-04-29","title":"Lalit using komal dha / Darbari Kanada","have":"0"},
+  	     {"refid" : "00368", "publisher" :"Hasu Patel",                "date":"2017-04-28","title":"Yaman Kalyan Raga / Kirwani",    "have":"0"},
+  	     {"refid" : "00369", "publisher" :"Hasu Patel",                "date":"2014-10-29","title":"Sitar Concerto Mangal Dhwani",   "have":"0"},
+  	     {"refid" : "00370", "publisher" :"Hasu Patel",                "date":"1999-01-01","title":"Gayaki",                         "have":"0"},
+  	     {"refid" : "00371", "publisher" :"Rohan Dasgupta",            "date":"2014-12-01","title":"Sages - Morning Ragas",          "have":"0"},
+  	     {"refid" : "00372", "publisher" :"Legendary Legacy",          "date":"2007-11-01","title":"Alankrit",                       "have":"0"},
+  	     {"refid" : "00373", "publisher" :"Saregama",                  "date":"2015-09-30","title":"Ustad: Ali Akbar Khan",          "have":"0"}
 
   	  ], 
   	}

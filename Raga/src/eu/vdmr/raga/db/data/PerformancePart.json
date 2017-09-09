@@ -1329,7 +1329,28 @@
          {"storeid" : "001091", "volgnr" : "001", "partname":"",                                     "duration" :  "30:26","filename" : "001091_Bageshri.wav"},
          {"storeid" : "001092", "volgnr" : "001", "partname":"",                                     "duration" :  "15:37","filename" : "001092_Bhairavi.wav"},
          {"storeid" : "001093", "volgnr" : "001", "partname":"",                                     "duration" :  "33:30","filename" : "001093_Charukauns.wav"},
-         {"storeid" : "001094", "volgnr" : "001", "partname":"",                                     "duration" :  "17:12","filename" : "001094_Bhairavi.wav"}
+         {"storeid" : "001094", "volgnr" : "001", "partname":"",                                     "duration" :  "17:12","filename" : "001094_Bhairavi.wav"},
+         {"storeid" : "001095", "volgnr" : "001", "partname":"",                                     "duration" :  "39:01","filename" : "001095_Komal_Dha_Lalit.wav"},
+         {"storeid" : "001096", "volgnr" : "001", "partname":"",                                     "duration" :  "35:00","filename" : "001096_Darbari_Kanada.wav"},
+         {"storeid" : "001097", "volgnr" : "001", "partname":"",                                     "duration" :  "37:51","filename" : "001097_Yaman_Kalyan.wav"},
+         {"storeid" : "001098", "volgnr" : "001", "partname":"",                                     "duration" :  "15:15","filename" : "001098_Kirwani.wav"},
+         {"storeid" : "001099", "volgnr" : "001", "partname":"",                                     "duration" :  "27:29","filename" : "001099_Concerto_Mangal_Dhwani_(Bageswari).wav"},
+         {"storeid" : "001100", "volgnr" : "001", "partname":"",                                     "duration" :  "21:53","filename" : "001100_Darbari_Kanada.wav"},
+         {"storeid" : "001101", "volgnr" : "001", "partname":"",                                     "duration" :  "22:08","filename" : "001101_Yaman_Kalyan.wav"},
+         {"storeid" : "001102", "volgnr" : "001", "partname":"",                                     "duration" :  "21:53","filename" : "001102_Bhairavi.wav"},
+         {"storeid" : "001103", "volgnr" : "001", "partname":"",                                     "duration" :  "39:21","filename" : "001103_Dhyana.wav"},
+         {"storeid" : "001104", "volgnr" : "001", "partname":"",                                     "duration" :  "10:45","filename" : "001104_Krodha.wav"},
+         {"storeid" : "001105", "volgnr" : "001", "partname":"",                                     "duration" :  "10:36","filename" : "001105_Vedana.wav"},
+         {"storeid" : "001106", "volgnr" : "001", "partname":"",                                     "duration" :   "6:23","filename" : "001106_Ananda.wav"},
+         {"storeid" : "001107", "volgnr" : "001", "partname":"Alap",                                 "duration" :  "23:18","filename" : "001107_1_Hemant.wav"},
+         {"storeid" : "001107", "volgnr" : "002", "partname":"Gat",                                  "duration" :  "38:36","filename" : "001107_2_Hemant.wav"},
+         {"storeid" : "001108", "volgnr" : "001", "partname":"",                                     "duration" :   "7:17","filename" : "001108_Kirtan.wav"},
+         {"storeid" : "001109", "volgnr" : "001", "partname":"Alap",                                 "duration" :  "10:40","filename" : "001109_Ahir_Bhairav.wav"},
+         {"storeid" : "001109", "volgnr" : "001", "partname":"Alap",                                 "duration" :   "3:27","filename" : "001110_Vasant_Mukhari.wav"},
+         {"storeid" : "001109", "volgnr" : "001", "partname":"Alap",                                 "duration" :   "3:13","filename" : "001111_Jogia_Kalingada.wav"},
+         {"storeid" : "001109", "volgnr" : "001", "partname":"Alap",                                 "duration" :   "3:11","filename" : "001112_Madhuvanti.wav"},
+         {"storeid" : "001109", "volgnr" : "001", "partname":"Alap",                                 "duration" :   "3:03","filename" : "001113_Puriya_Kalyan.wav"},
+         {"storeid" : "001109", "volgnr" : "001", "partname":"Gat",   "talid":"Ektal",               "duration" :  "17:14","filename" : "001114_Malkauns.wav"}
          
          
          
