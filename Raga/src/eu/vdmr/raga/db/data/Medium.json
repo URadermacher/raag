@@ -372,7 +372,14 @@
   	     {"refid" : "00370", "publisher" :"Hasu Patel",                "date":"1999-01-01","title":"Gayaki",                         "have":"0"},
   	     {"refid" : "00371", "publisher" :"Rohan Dasgupta",            "date":"2014-12-01","title":"Sages - Morning Ragas",          "have":"0"},
   	     {"refid" : "00372", "publisher" :"Legendary Legacy",          "date":"2007-11-01","title":"Alankrit",                       "have":"0"},
-  	     {"refid" : "00373", "publisher" :"Saregama",                  "date":"2015-09-30","title":"Ustad: Ali Akbar Khan",          "have":"0"}
+  	     {"refid" : "00373", "publisher" :"Saregama",                  "date":"2015-09-30","title":"Ustad: Ali Akbar Khan",          "have":"0"},
+  	     {"refid" : "00374", "publisher" :"Sonic Octaves",             "date":"2017-00-00","title":"Rising Stars",                   "have":"0"},
+  	     {"refid" : "00375", "publisher" :"Sonic Octaves",             "date":"2012-00-00","title":"Relaxing Sitar",                 "have":"0"},
+  	     {"refid" : "00376", "publisher" :"",                          "date":"0000-00-00","title":"Mand-Bhairav",                   "have":"1", "shortid":"KHANUV_8"},
+  	     {"refid" : "00377", "publisher" :"Melodisc Records",          "date":"1967-00-00","title":"A Night at the Taj",             "have":"1", "shortid":"KHANUV_9"},
+  	     {"refid" : "00378", "publisher" :"India Archive Music",       "date":"2004-00-00","title":"Raga Marwa - Puriya - Sohini",   "have":"1", "shortid":"KHANUV_10"},
+  	     {"refid" : "00379", "publisher" :"Navras",                    "date":"1999-10-01","title":"Eb'' Adat - Ragini Yamani",      "have":"1", "shortid":"KHANUV_11"},
+  	     {"refid" : "00380", "publisher" :"Karmarama",                 "date":"2015-05-06","title":"Solo Sitar",                     "have":"0"}
 
   	  ], 
   	}

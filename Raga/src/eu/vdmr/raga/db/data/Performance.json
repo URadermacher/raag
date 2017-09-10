@@ -127,7 +127,7 @@
   	     {"ragaid" : "Unknown",         "artistid":"Nikhil;Banerjee",     "provenance" : "CD,5",  "CD":"00033", "storeid":"000125", "title" : "A Baul Folk Song"},
   	     {"ragaid" : "Sindhura",        "artistid":"Nikhil;Banerjee",     "provenance" : "CD,1",  "CD":"00034", "storeid":"000126", "title" : "Sindhura"},
   	     {"ragaid" : "Adana",           "artistid":"Nikhil;Banerjee",     "provenance" : "CD,2",  "CD":"00034", "storeid":"000127", "title" : "Adana"},
-  	     {"ragaid" : "Yogiya_Kalingra", "artistid":"Nikhil;Banerjee",   "provenance" : "CD,1",  "CD":"00035", "storeid":"000128", "title" : "Yogiya Kalingra","date":"1965-00-00","place":"Bombay"},
+  	     {"ragaid" : "Jogiya_Kalingra", "artistid":"Nikhil;Banerjee",   "provenance" : "CD,1",  "CD":"00035", "storeid":"000128", "title" : "Yogiya Kalingra","date":"1965-00-00","place":"Bombay"},
   	     {"ragaid" : "Kafi",            "artistid":"Nikhil;Banerjee",     "provenance" : "CD,1",  "CD":"00036", "storeid":"000129", "title" : "Mishra Kafi", "date":"1982-00-00","place":"Berkely"},
   	     {"ragaid" : "Bilashkani_Todi", "artistid":"Nikhil;Banerjee",   "provenance" : "CD,1",  "CD":"00037", "storeid":"000130", "title" : "Bilashkani Todi","date":"1970-10-04"},
   	     {"ragaid" : "Shuddh_Basant",   "artistid":"Nikhil;Banerjee",    "provenance" : "CD,1",  "CD":"00038", "storeid":"000131", "title" : "Shuddha Basant"},
@@ -1111,11 +1111,36 @@
    	     {"ragaid" : "Hemant",          "artistid":"Reena;Shrivastava",      "provenance":"Spotify","CD":"00372","storeid":"001107","title" : "Hemant"},
    	     {"ragaid" : "Unknown",         "artistid":"Reena;Shrivastava",      "provenance":"Spotify","CD":"00372","storeid":"001108","title" : "Kirtan"},
    	     {"ragaid" : "Ahir_Bhairav",    "artistid":"Ali Akbar;Khan",         "provenance":"Spotify","CD":"00373","storeid":"001109","title" : "Ahir_Bhairav"},
-   	     {"ragaid" : "Vasant_Mukhari",  "artistid":"Ali Akbar;Khan",         "provenance":"Spotify","CD":"00373","storeid":"001110","title" : "Vasant_Mukhari"},
-   	     {"ragaid" : "Jogia_Kalingada", "artistid":"Ali Akbar;Khan",         "provenance":"Spotify","CD":"00373","storeid":"001111","title" : "Jogia_Kalingada"},
+   	     {"ragaid" : "Basant_Mukhari",  "artistid":"Ali Akbar;Khan",         "provenance":"Spotify","CD":"00373","storeid":"001110","title" : "Vasant_Mukhari"},
+   	     {"ragaid" : "Jogiya_Kalingra",  "artistid":"Ali Akbar;Khan",         "provenance":"Spotify","CD":"00373","storeid":"001111","title" : "Jogia_Kalingada"},
    	     {"ragaid" : "Madhuvanti",      "artistid":"Ali Akbar;Khan",         "provenance":"Spotify","CD":"00373","storeid":"001112","title" : "Madhuvanti"},
    	     {"ragaid" : "Puriya_Kalyan",   "artistid":"Ali Akbar;Khan",         "provenance":"Spotify","CD":"00373","storeid":"001113","title" : "Puriya_Kalyan"},
-   	     {"ragaid" : "Malkauns",        "artistid":"Ali Akbar;Khan",         "provenance":"Spotify","CD":"00373","storeid":"001114","title" : "Malkauns"}
+   	     {"ragaid" : "Malkauns",        "artistid":"Ali Akbar;Khan",         "provenance":"Spotify","CD":"00373","storeid":"001114","title" : "Malkauns"},
+   	     {"ragaid" : "Yaman",           "artistid":"Debojyoti;Gupta",        "provenance":"Spotify","CD":"00374","storeid":"001115","title" : "Yaman"},
+   	     {"ragaid" : "Charukeshi",      "artistid":"Debojyoti;Gupta",        "provenance":"Spotify","CD":"00374","storeid":"001116","title" : "Khayal Charukeshi"},
+   	     {"ragaid" : "Unknown",         "artistid":"Debojyoti;Gupta",        "provenance":"Spotify","CD":"00374","storeid":"001117","title" : "Mishra Dhun"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Debojyoti;Gupta",        "provenance":"Spotify","CD":"00374","storeid":"001118","title" : "Bhairavi Dhun"},
+   	     {"ragaid" : "Khamaj",          "artistid":"Debojyoti;Gupta",        "provenance":"Spotify","CD":"00375","storeid":"001119","title" : "Shower of Love - Mishra Khamaj"},
+   	     {"ragaid" : "Khamaj",          "artistid":"Debojyoti;Gupta",        "provenance":"Spotify","CD":"00375","storeid":"001120","title" : "Lost in Thoughts - Mishra Khamaj"},
+   	     {"ragaid" : "Kirwani",         "artistid":"Debojyoti;Gupta",        "provenance":"Spotify","CD":"00375","storeid":"001121","title" : "Emotional Downpour - Mishra Kirwani"},
+   	     {"ragaid" : "Jhinjhoti",       "artistid":"Debojyoti;Gupta",        "provenance":"Spotify","CD":"00375","storeid":"001122","title" : "Remenbering Moments - Mishra Jhinjhoti"},
+   	     {"ragaid" : "Nand",            "artistid":"Debojyoti;Gupta",        "provenance":"Spotify","CD":"00375","storeid":"001123","title" : "Whispering Nature - Nand"},
+	     {"ragaid" : "Desh",            "artistid":"Debojyoti;Gupta",        "provenance":"Spotify","CD":"00375","storeid":"001124","title" : "Smell of the Soil - Mishra Desh"},
+   	     {"ragaid" : "Charukeshi",      "artistid":"Debojyoti;Gupta",        "provenance":"Spotify","CD":"00375","storeid":"001125","title" : "Passage of Heart - Mishra Charukeshi"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Debojyoti;Gupta",        "provenance":"Spotify","CD":"00375","storeid":"001126","title" : "Diminishing Star - Mishra Bhairavi"},
+   	     {"ragaid" : "Kirwani",         "artistid":"Debojyoti;Gupta",        "provenance":"Spotify","CD":"00375","storeid":"001127","title" : "Evening by the Sea - Misha Kirwani"},
+   	     {"ragaid" : "Bageshri",        "artistid":"Debojyoti;Gupta",        "provenance":"Spotify","CD":"00375","storeid":"001128","title" : "In the Divine Lap - Bageshri"},
+   	     {"ragaid" : "Mand_Bhairav",    "artistid":"Vilayat;Khan",           "provenance":"CD,1",   "CD":"00376","storeid":"001129","title" : "Maand-Bhairav"},
+   	     {"ragaid" : "Chandani_Kedar",  "artistid":"Vilayat;Khan",           "provenance":"CD,1",   "CD":"00377","storeid":"001130","title" : "Chandani Kedar"},
+   	     {"ragaid" : "Marwa",           "artistid":"Vilayat;Khan",           "provenance":"CD,1",   "CD":"00378","storeid":"001131","title" : "Marwa"},
+   	     {"ragaid" : "Puriya",          "artistid":"Vilayat;Khan",           "provenance":"CD,2",   "CD":"00378","storeid":"001132","title" : "Puriya"},
+   	     {"ragaid" : "Sohini",          "artistid":"Vilayat;Khan",           "provenance":"CD,3",   "CD":"00378","storeid":"001133","title" : "Sohini"},
+   	     {"ragaid" : "Yaman",           "artistid":"Vilayat;Khan",           "provenance":"CD,1",   "CD":"00379","storeid":"001134","title" : "Ragini Yamani"},
+   	     {"ragaid" : "Puriya_Kalyan",   "artistid":"Parimal;Sadaphal",       "provenance":"CD,1",   "CD":"00380","storeid":"001135","title" : "Raga Puriya Kalyan"},
+   	     {"ragaid" : "Manj_Khamaj",     "artistid":"Parimal;Sadaphal",       "provenance":"CD,2",   "CD":"00380","storeid":"001136","title" : "Raga Manj Khamaj"}
+	
+
+
 
   	  ] 
   	}

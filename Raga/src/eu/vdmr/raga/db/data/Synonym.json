@@ -23,6 +23,7 @@
  	     {"synonym" : "Purbya",               "canonical" : "Purba"},
  	     {"synonym" : "Puria",                "canonical" : "Puriya"},
    	     {"synonym" : "Sarang",               "canonical" : "Shuddh_Sarang"},
+  	     {"synonym" : "Yogiya_Kalingra",      "canonical" : "Jogiya_Kalingra"},
   	     {"synonym" : "zzz",                  "canonical" : "zzz"}
   	  ]
     }
