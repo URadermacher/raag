@@ -1853,15 +1853,22 @@
   	     {"storeid" : "001129",   "instrumentid":"Sitar",      "artistid":"Vilayat;Khan"},
   	     {"storeid" : "001130",   "instrumentid":"Sitar",      "artistid":"Vilayat;Khan"},
   	     {"storeid" : "001130",   "instrumentid":"Surbahar",   "artistid":"Imrat;Khan"},
-  	     {"storeid" : "001130",   "instrumentid":"Tabla",      "artistid":"-;Nizawuddin"},
+  	     {"storeid" : "001130",   "instrumentid":"Tabla",      "artistid":"-;Nizamuddin"},
   	     {"storeid" : "001131",   "instrumentid":"Sitar",      "artistid":"Vilayat;Khan"},
   	     {"storeid" : "001131",   "instrumentid":"Tabla",      "artistid":"Akram;Khan"},
   	     {"storeid" : "001132",   "instrumentid":"Sitar",      "artistid":"Vilayat;Khan"},
   	     {"storeid" : "001132",   "instrumentid":"Tabla",      "artistid":"Akram;Khan"},
   	     {"storeid" : "001133",   "instrumentid":"Sitar",      "artistid":"Vilayat;Khan"},
-  	     {"storeid" : "001133",   "instrumentid":"Tabla",      "artistid":"Akram;Khan"}
+  	     {"storeid" : "001133",   "instrumentid":"Tabla",      "artistid":"Akram;Khan"},
   	     
   	     
+  	     {"storeid" : "001135",   "instrumentid":"Sitar",      "artistid":"Parimal;Sadaphal"},
+  	     {"storeid" : "001136",   "instrumentid":"Sitar",      "artistid":"Parimal;Sadaphal"},
+  	     {"storeid" : "001137",   "instrumentid":"Sitar",      "artistid":"Paul;Livingstone"},
+  	     {"storeid" : "001138",   "instrumentid":"Sitar",      "artistid":"Paul;Livingstone"},
+  	     {"storeid" : "001139",   "instrumentid":"Sitar",      "artistid":"Paul;Livingstone"},
+  	     {"storeid" : "001140",   "instrumentid":"Sitar",      "artistid":"Paul;Livingstone"},
+  	     {"storeid" : "001141",   "instrumentid":"Sitar",      "artistid":"Paul;Livingstone"}
   	     
   	     
   ]

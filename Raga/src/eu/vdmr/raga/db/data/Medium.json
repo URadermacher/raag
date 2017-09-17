@@ -347,7 +347,7 @@
   	     {"refid" : "00345", "publisher" :"MagnaSound",                "date":"1995-00-00","title":"Lajo Lajo",                     "have":"1", "shortid":"KHANSH_8"},
   	     {"refid" : "00346", "publisher" :"Aimrec",                    "date":"2012-02-10","title":"The Majetic Sitar",             "have":"1", "shortid":"KHANSK_1"},
   	     {"refid" : "00347", "publisher" :"Chil Om Classical",         "date":"0000-00-00","title":"Divinity",                      "have":"1", "shortid":"KHANSK_2"},
-  	     {"refid" : "00348", "publisher" :"Navras",                    "date":"1998-07-20","title":"Ragas",                         "have":"1", "shortid":"KHANSM_1"},
+  	     {"refid" : "00348", "publisher" :"Navras",                    "date":"1998-07-20","title":"Sitar Maestro",                 "have":"1", "shortid":"KHANSM_1"},
   	     {"refid" : "00349", "publisher" :"",                          "date":"0000-00-00","title":"Ustad Sadiq Ali Khan",          "have":"1", "shortid":"KHANSQ_1"},
   	     {"refid" : "00350", "publisher" :"",                          "date":"0000-00-00","title":"Beyond Horizon",                "have":"1", "shortid":"KHANSU_1"},
   	     {"refid" : "00351", "publisher" :"Music Today - Living Media India","date": "0000-00-00","title":"Maestro''s Choice",      "have":"1", "shortid":"KHANSU_2"},
@@ -379,7 +379,9 @@
   	     {"refid" : "00377", "publisher" :"Melodisc Records",          "date":"1967-00-00","title":"A Night at the Taj",             "have":"1", "shortid":"KHANUV_9"},
   	     {"refid" : "00378", "publisher" :"India Archive Music",       "date":"2004-00-00","title":"Raga Marwa - Puriya - Sohini",   "have":"1", "shortid":"KHANUV_10"},
   	     {"refid" : "00379", "publisher" :"Navras",                    "date":"1999-10-01","title":"Eb'' Adat - Ragini Yamani",      "have":"1", "shortid":"KHANUV_11"},
-  	     {"refid" : "00380", "publisher" :"Karmarama",                 "date":"2015-05-06","title":"Solo Sitar",                     "have":"0"}
+  	     {"refid" : "00380", "publisher" :"Karmarama",                 "date":"2015-05-06","title":"Solo Sitar",                     "have":"0"},
+  	     {"refid" : "00381", "publisher" :"Raga Jazz Music",           "date":"2007-00-00","title":"Vinaya",                         "have":"0"},
+  	     {"refid" : "00382", "publisher" :"Raga Jazz Music",           "date":"2012-00-00","title":"Clasical Ragas in Concert 2",    "have":"0"}
 
   	  ], 
   	}

@@ -1370,7 +1370,24 @@
          {"storeid" : "001130", "volgnr" : "001", "partname":"??????",   "duration" :  "39:29","filename" : "001130_????????1_Mand_Bhairav.wav"},
          {"storeid" : "001131", "volgnr" : "001", "partname":"Alap",                                 "duration" :  "32:06","filename" : "001131_Marwa.wav"},
          {"storeid" : "001132", "volgnr" : "001", "partname":"Madhya Gat","talid":"Tintal",          "duration" :  "22:21","filename" : "001132_Puriya.wav"},
-         {"storeid" : "001133", "volgnr" : "001", "partname":"Drut Gat", "talid":"Tintal",           "duration" :  "19:32","filename" : "001133_Sohini.wav"}
+         {"storeid" : "001133", "volgnr" : "001", "partname":"Drut Gat", "talid":"Tintal",           "duration" :  "19:32","filename" : "001133_Sohini.wav"},
+         
+         
+         
+         {"storeid" : "001135", "volgnr" : "001", "partname":"",                                     "duration" :  "36:35","filename" : "001135_Puriya_Kalyan.wav"},
+         {"storeid" : "001136", "volgnr" : "001", "partname":"",                                     "duration" :  "38:13","filename" : "001136_Manj_Khamaj.wav"},
+         {"storeid" : "001137", "volgnr" : "001", "partname":"Alaap",                                "duration" :   "8:06","filename" : "001137_1_Puriya_Dhanashri.wav"},
+         {"storeid" : "001137", "volgnr" : "002", "partname":"Jhor and Jhalla",                      "duration" :   "8:02","filename" : "001137_2_Puriya_Dhanashri.wav"},
+         {"storeid" : "001137", "volgnr" : "003", "partname":"Vilambit Gat", "talid":"Tintal",       "duration" :  "12:38","filename" : "001137_3_Puriya_Dhanashri.wav"},
+         {"storeid" : "001137", "volgnr" : "004", "partname":"Drut Gat", "talid":"Tintal",           "duration" :  "12:19","filename" : "001137_4_Puriya_Dhanashri.wav"},
+         {"storeid" : "001138", "volgnr" : "001", "partname":"Alaap",                                "duration" :   "6:17","filename" : "001138_1_Kedar.wav"},
+         {"storeid" : "001138", "volgnr" : "002", "partname":"Ada",  "talid":"Chautal",              "duration" :   "4:55","filename" : "001138_2_Kedar.wav"},
+         {"storeid" : "001138", "volgnr" : "003", "partname":"Drut",  "talid":"Tintal",              "duration" :  "13:36","filename" : "001138_3_Kedar.wav"},
+         {"storeid" : "001139", "volgnr" : "001", "partname":"",   "talid":"Rupak",                  "duration" :   "6:58","filename" : "001139_1_Durga.wav"},
+         {"storeid" : "001139", "volgnr" : "002", "partname":"",   "talid":"Tintal",                 "duration" :   "6:38","filename" : "001139_2_Durga.wav"},
+         {"storeid" : "001140", "volgnr" : "001", "partname":"Alap & Jor",                           "duration" :  "19:36","filename" : "001140_1_Shyam_Kalyan.wav"},
+         {"storeid" : "001140", "volgnr" : "002", "partname":"Rupoak and Tintal",                    "duration" :  "28:01","filename" : "001140_2_Shyam_Kalyan.wav"},
+         {"storeid" : "001141", "volgnr" : "001", "partname":"Raga Mala",                            "duration" :  "24:08","filename" : "001141_Kirwani_Raga_Mala.wav"}
          
          
          

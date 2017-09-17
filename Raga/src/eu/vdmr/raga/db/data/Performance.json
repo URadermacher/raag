@@ -1136,8 +1136,13 @@
    	     {"ragaid" : "Puriya",          "artistid":"Vilayat;Khan",           "provenance":"CD,2",   "CD":"00378","storeid":"001132","title" : "Puriya"},
    	     {"ragaid" : "Sohini",          "artistid":"Vilayat;Khan",           "provenance":"CD,3",   "CD":"00378","storeid":"001133","title" : "Sohini"},
    	     {"ragaid" : "Yaman",           "artistid":"Vilayat;Khan",           "provenance":"CD,1",   "CD":"00379","storeid":"001134","title" : "Ragini Yamani"},
-   	     {"ragaid" : "Puriya_Kalyan",   "artistid":"Parimal;Sadaphal",       "provenance":"CD,1",   "CD":"00380","storeid":"001135","title" : "Raga Puriya Kalyan"},
-   	     {"ragaid" : "Manj_Khamaj",     "artistid":"Parimal;Sadaphal",       "provenance":"CD,2",   "CD":"00380","storeid":"001136","title" : "Raga Manj Khamaj"}
+   	     {"ragaid" : "Puriya_Kalyan",   "artistid":"Parimal;Sadaphal",       "provenance":"Spotify","CD":"00380","storeid":"001135","title" : "Raga Puriya Kalyan"},
+   	     {"ragaid" : "Manj_Khamaj",     "artistid":"Parimal;Sadaphal",       "provenance":"Spotify","CD":"00380","storeid":"001136","title" : "Raga Manj Khamaj"},
+   	     {"ragaid" : "Puriya_Dhanashri","artistid":"Paul;Livingstone",       "provenance":"Spotify","CD":"00381","storeid":"001137","title" : "Puriya_Dhanashri"},
+   	     {"ragaid" : "Kedar",           "artistid":"Paul;Livingstone",       "provenance":"Spotify","CD":"00381","storeid":"001138","title" : "Kedar"},
+   	     {"ragaid" : "Durga",           "artistid":"Paul;Livingstone",       "provenance":"Spotify","CD":"00381","storeid":"001139","title" : "Puriya_Dhanashri"},
+   	     {"ragaid" : "Shyam_Kalyan",    "artistid":"Paul;Livingstone",       "provenance":"Spotify","CD":"00382","storeid":"001140","title" : "Shyam_Kalyan"},
+   	     {"ragaid" : "Kirwani",         "artistid":"Paul;Livingstone",       "provenance":"Spotify","CD":"00382","storeid":"001141","title" : "Kirwani - Raga Mala"}
 	
 
 
