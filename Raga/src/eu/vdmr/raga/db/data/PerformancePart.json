@@ -1374,9 +1374,8 @@
          {"storeid" : "001131", "volgnr" : "001", "partname":"Alap",                                 "duration" :  "32:06","filename" : "001131_Marwa.wav"},
          {"storeid" : "001132", "volgnr" : "001", "partname":"Madhya Gat","talid":"Tintal",          "duration" :  "22:21","filename" : "001132_Puriya.wav"},
          {"storeid" : "001133", "volgnr" : "001", "partname":"Drut Gat", "talid":"Tintal",           "duration" :  "19:32","filename" : "001133_Sohini.wav"},
-         
-         
-         
+         {"storeid" : "001134", "volgnr" : "001", "partname":"Deel1",                                "duration" :  "60:49","filename" : "001134_1_Yamani.wav"},
+         {"storeid" : "001134", "volgnr" : "002", "partname":"Deel2",                                "duration" :  "19:21","filename" : "001134_2_Yamani.wav"},
          {"storeid" : "001135", "volgnr" : "001", "partname":"",                                     "duration" :  "36:35","filename" : "001135_Puriya_Kalyan.wav"},
          {"storeid" : "001136", "volgnr" : "001", "partname":"",                                     "duration" :  "38:13","filename" : "001136_Manj_Khamaj.wav"},
          {"storeid" : "001137", "volgnr" : "001", "partname":"Alaap",                                "duration" :   "8:06","filename" : "001137_1_Puriya_Dhanashri.wav"},
