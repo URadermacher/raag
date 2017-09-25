@@ -1135,14 +1135,28 @@
    	     {"ragaid" : "Marwa",           "artistid":"Vilayat;Khan",           "provenance":"CD,1",   "CD":"00378","storeid":"001131","title" : "Marwa"},
    	     {"ragaid" : "Puriya",          "artistid":"Vilayat;Khan",           "provenance":"CD,2",   "CD":"00378","storeid":"001132","title" : "Puriya"},
    	     {"ragaid" : "Sohini",          "artistid":"Vilayat;Khan",           "provenance":"CD,3",   "CD":"00378","storeid":"001133","title" : "Sohini"},
-   	     {"ragaid" : "Yaman",           "artistid":"Vilayat;Khan",           "provenance":"CD,1",   "CD":"00379","storeid":"001134","title" : "Ragini Yamani"},
+   	     {"ragaid" : "Yaman",           "artistid":"Vilayat;Khan",           "provenance":"CD,1",   "CD":"00379","storeid":"001134","title" : "Ragini Yamani", "date":"1994-00-00", "place":"Barbecon Centre, London"},
    	     {"ragaid" : "Puriya_Kalyan",   "artistid":"Parimal;Sadaphal",       "provenance":"Spotify","CD":"00380","storeid":"001135","title" : "Raga Puriya Kalyan"},
    	     {"ragaid" : "Manj_Khamaj",     "artistid":"Parimal;Sadaphal",       "provenance":"Spotify","CD":"00380","storeid":"001136","title" : "Raga Manj Khamaj"},
    	     {"ragaid" : "Puriya_Dhanashri","artistid":"Paul;Livingstone",       "provenance":"Spotify","CD":"00381","storeid":"001137","title" : "Puriya_Dhanashri"},
    	     {"ragaid" : "Kedar",           "artistid":"Paul;Livingstone",       "provenance":"Spotify","CD":"00381","storeid":"001138","title" : "Kedar"},
    	     {"ragaid" : "Durga",           "artistid":"Paul;Livingstone",       "provenance":"Spotify","CD":"00381","storeid":"001139","title" : "Puriya_Dhanashri"},
    	     {"ragaid" : "Shyam_Kalyan",    "artistid":"Paul;Livingstone",       "provenance":"Spotify","CD":"00382","storeid":"001140","title" : "Shyam_Kalyan"},
-   	     {"ragaid" : "Kirwani",         "artistid":"Paul;Livingstone",       "provenance":"Spotify","CD":"00382","storeid":"001141","title" : "Kirwani - Raga Mala"}
+   	     {"ragaid" : "Kirwani",         "artistid":"Paul;Livingstone",       "provenance":"Spotify","CD":"00382","storeid":"001141","title" : "Kirwani - Raga Mala"},
+   	     {"ragaid" : "Alahiya_Bilaval", "artistid":"Vilayat;Khan",           "provenance":"CD,1",   "CD":"00383","storeid":"001142","title" : "Alahiya Bilawal"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Vilayat;Khan",           "provenance":"CD,2",   "CD":"00383","storeid":"001143","title" : "Dhun in Punjabi Style"},
+   	     {"ragaid" : "Gawoti",          "artistid":"Vilayat;Khan",           "provenance":"CD,3",   "CD":"00383","storeid":"001144","title" : "Gavoti"},
+   	     {"ragaid" : "Khamaj",          "artistid":"Vilayat;Khan",           "provenance":"CD,4",   "CD":"00383","storeid":"001145","title" : "Khamaj"},
+   	     {"ragaid" : "Unknown",         "artistid":"Vilayat;Khan",           "provenance":"CD,5",   "CD":"00383","storeid":"001146","title" : "Parts of a Ragamalika"},
+   	     {"ragaid" : "Malhar",          "artistid":"Vilayat;Khan",           "provenance":"CD,6",   "CD":"00383","storeid":"001147","title" : "Malhar"},
+   	     {"ragaid" : "Sanjh_Saravali",  "artistid":"Vilayat;Khan",           "provenance":"CD,1",   "CD":"00384","storeid":"001148","title" : "Sanjh_Saravali"},
+   	     {"ragaid" : "Mand_Bhairav",    "artistid":"Vilayat;Khan",           "provenance":"CD,2",   "CD":"00384","storeid":"001149","title" : "Mand_Bhairav"},
+   	     {"ragaid" : "Pilu",            "artistid":"Vilayat;Khan",           "provenance":"CD,3",   "CD":"00384","storeid":"001150","title" : "Pilu"},
+   	     {"ragaid" : "Rageshri",        "artistid":"Vilayat;Khan",           "provenance":"CD,4",   "CD":"00384","storeid":"001151","title" : "Rageshri"},
+   	     {"ragaid" : "Gauti",           "artistid":"Vilayat;Khan",           "provenance":"CD,5",   "CD":"00384","storeid":"001152","title" : "Gauti"},
+   	     {"ragaid" : "Sughrai",         "artistid":"Vilayat;Khan",           "provenance":"CD,6",   "CD":"00384","storeid":"001153","title" : "Sughrai"},
+   	     {"ragaid" : "Bhairo_Bahar",    "artistid":"Vilayat;Khan",           "provenance":"CD,1",   "CD":"00385","storeid":"001154","title" : "Bhairo Bahar"},
+   	     {"ragaid" : "Bilashkani_Todi", "artistid":"Vilayat;Khan",           "provenance":"CD,1",   "CD":"00386","storeid":"001155","title" : "Bilashkani Todi"}
 	
 
 

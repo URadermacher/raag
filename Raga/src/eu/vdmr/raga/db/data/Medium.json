@@ -381,7 +381,13 @@
   	     {"refid" : "00379", "publisher" :"Navras",                    "date":"1999-10-01","title":"Eb'' Adat - Ragini Yamani",      "have":"1", "shortid":"KHANUV_11"},
   	     {"refid" : "00380", "publisher" :"Karmarama",                 "date":"2015-05-06","title":"Solo Sitar",                     "have":"0"},
   	     {"refid" : "00381", "publisher" :"Raga Jazz Music",           "date":"2007-00-00","title":"Vinaya",                         "have":"0"},
-  	     {"refid" : "00382", "publisher" :"Raga Jazz Music",           "date":"2012-00-00","title":"Clasical Ragas in Concert 2",    "have":"0"}
+  	     {"refid" : "00382", "publisher" :"Raga Jazz Music",           "date":"2012-00-00","title":"Classical Ragas in Concert 2",   "have":"0"},
+  	     {"refid" : "00383", "publisher" :"",                          "date":"0000-00-00","title":"Volayat Khan, Sitar",            "have":"1", "shortid":"KHANUV_12"},
+  	     {"refid" : "00384", "publisher" : "Music Today - Living Media India","date":"2002-00-00","title":"Maestro''s Choice",       "have":"1", "shortid":"KHANUV_13"},
+  	     {"refid" : "00385", "publisher" : "Chhandra Dhara",           "date":"2002-00-00","title":"Dawn To Dusk",                   "have":"1", "shortid":"KHANUV_14"},
+  	     {"refid" : "00386", "publisher" : "",                         "date":"0000-00-00","title":"Alap",                           "have":"1", "shortid":"KHANUV_15"},
+  	     {"refid" : "00387", "publisher" : "Music Today",              "date":"0000-00-00","title":"Rarely Heard Ragas",             "have":"1", "shortid":"KHANUV_16"}
+  	     
 
   	  ], 
   	}
