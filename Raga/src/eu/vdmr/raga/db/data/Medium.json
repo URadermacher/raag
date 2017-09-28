@@ -386,7 +386,17 @@
   	     {"refid" : "00384", "publisher" : "Music Today - Living Media India","date":"2002-00-00","title":"Maestro''s Choice",       "have":"1", "shortid":"KHANUV_13"},
   	     {"refid" : "00385", "publisher" : "Chhandra Dhara",           "date":"2002-00-00","title":"Dawn To Dusk",                   "have":"1", "shortid":"KHANUV_14"},
   	     {"refid" : "00386", "publisher" : "",                         "date":"0000-00-00","title":"Alap",                           "have":"1", "shortid":"KHANUV_15"},
-  	     {"refid" : "00387", "publisher" : "Music Today",              "date":"0000-00-00","title":"Rarely Heard Ragas",             "have":"1", "shortid":"KHANUV_16"}
+  	     {"refid" : "00387", "publisher" : "Music Today",              "date":"0000-00-00","title":"Rarely Heard Ragas",             "have":"1", "shortid":"KHANUV_16"},
+  	     {"refid" : "00388", "publisher" : "Music Today",              "date":"0000-00-00","title":"Etched in Time",                 "have":"1", "shortid":"KHANUV_17"},
+  	     {"refid" : "00389", "publisher" : "EMI",                      "date":"0000-00-00","title":"Music of India Vol 3",           "have":"1", "shortid":"KHANUV_18"},
+  	     {"refid" : "00390", "publisher" : "Navras",                   "date":"0000-00-00","title":"Ragas to Riches",                "have":"1", "shortid":"KHANUV_19"},
+  	     {"refid" : "00391", "publisher" : "Hyperion Records",         "date":"0000-00-00","title":"Indian Classival Music",         "have":"1", "shortid":"KHANWA_1"},
+  	     {"refid" : "00392", "publisher" : "Magnatune",                "date":"0000-00-00","title":"The Payans Concert",             "have":"1", "shortid":"KISHJA_1"},
+  	     {"refid" : "00393", "publisher" : "",                         "date":"0000-00-00","title":"Kaivala Kumar Gurav",            "have":"1", "shortid":"KUMAGU_1"},
+  	     {"refid" : "00394", "publisher" : "",                         "date":"0000-00-00","title":"Kirwani et.al.",                 "have":"1", "shortid":"KUMAKA_1"},
+  	     {"refid" : "00395", "publisher" : "Audiorec Classics",        "date":"2011-10-14","title":"Sandhya - dusk",                 "have":"1", "shortid":"KUMAKA_2"},
+  	     {"refid" : "00396", "publisher" : "Audiorec Classics",        "date":"2011-10-14","title":"Usha - dawn",                    "have":"1", "shortid":"KUMAKA_3"},
+  	     {"refid" : "00397", "publisher" : "Audiorec Classics",        "date":"0000-00-00","title":"Varsha - monsoon",               "have":"1", "shortid":"KUMAKA_4"}
   	     
 
   	  ], 

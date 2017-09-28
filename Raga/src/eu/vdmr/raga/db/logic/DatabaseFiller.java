@@ -33,6 +33,8 @@ public class DatabaseFiller {
 	private static final Logger LOG = LogManager.getLogger(DatabaseFiller.class);
 	
 	private Map<String, Integer> fkMap = new HashMap<>();
+	
+	private List<String> errors = new ArrayList<>();
 
 	@SuppressWarnings("unchecked")
 	public void fillDatabase(Statement s, Database database, Connection connection) throws SQLException, ParseException, IOException {
@@ -101,7 +103,14 @@ public class DatabaseFiller {
 				}
 			}
 		}
-		LOG.info("Ready..");
+		if (errors.isEmpty()) {
+			LOG.info("Ready..");
+		} else {
+			LOG.info("Ready with errors.. ");
+			for (String err : errors) {
+				LOG.info(err);
+			}
+		}
 	}
 	
 
@@ -202,7 +211,9 @@ public class DatabaseFiller {
 			fkMap.put(FKSearchString, Integer.valueOf(res));
 			return res;
 		} catch (SQLException sqle) {
-			LOG.error("Error executing " + sb.toString() +": " + sqle,sqle);
+			String errStr = "Error executing " + sb.toString() +": " + sqle;
+			LOG.error(errStr, sqle);
+			errors.add(errStr);
 			throw sqle;
 		}
 	}
