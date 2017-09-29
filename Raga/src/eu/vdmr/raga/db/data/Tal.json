@@ -1,5 +1,6 @@
 { "name" : "Tal",
       "entries" : [
+  	     {"name" : "Adda"},
   	     {"name" : "Adi",       "pattern" : "4-4",     "theka" : "ta ka dhi mi | ta ka dhi mi"},
   	     {"name" : "Chachar",   "pattern" : "4-4-4-4", "theka" : "dha - dhin - / dha dha tin - / ta - tin - / dha dha dhin -"},
   	     {"name" : "Chapu"},

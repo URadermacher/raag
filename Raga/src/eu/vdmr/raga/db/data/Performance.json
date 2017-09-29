@@ -1186,7 +1186,31 @@
    	     {"ragaid" : "Kafi",            "artistid":"Kartick;Kumar",          "provenance":"CD,4",   "CD":"00396","storeid":"001182","title" : "Mishra Kafi"},
    	     {"ragaid" : "Chaturang_Malhar","artistid":"Kartick;Kumar",          "provenance":"CD,1",   "CD":"00397","storeid":"001183","title" : "Chaturang_Malhar"},
    	     {"ragaid" : "Kirwani",         "artistid":"Kartick;Kumar",          "provenance":"CD,2",   "CD":"00397","storeid":"001184","title" : "Kirvani"},
-   	     {"ragaid" : "Unknown",         "artistid":"Kartick;Kumar",          "provenance":"CD,3",   "CD":"00397","storeid":"001185","title" : "Dhun Bangla Kirtan"}
+   	     {"ragaid" : "Unknown",         "artistid":"Kartick;Kumar",          "provenance":"CD,3",   "CD":"00397","storeid":"001185","title" : "Dhun Bangla Kirtan"},
+   	     {"ragaid" : "Darbari",         "artistid":"Kartick;Kumar",          "provenance":"CD,1",   "CD":"00398","storeid":"001186","title" : "Raag Darbar"},
+   	     {"ragaid" : "Pilu",            "artistid":"Kartick;Kumar",          "provenance":"CD,2",   "CD":"00398","storeid":"001187","title" : "Raag Mishra Pilu"},
+   	     {"ragaid" : "Jog",             "artistid":"Kartick;Kumar",          "provenance":"CD,3",   "CD":"00398","storeid":"001188","title" : "Raag Jog"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Kartick;Kumar",          "provenance":"CD,4",   "CD":"00398","storeid":"001189","title" : "Raag Sindhu Bhairavi"},
+   	     {"ragaid" : "Bilashkani_Todi", "artistid":"Niladri;Kumar",          "provenance":"CD,1",   "CD":"00399","storeid":"001190","title" : "Raga Bilaskhani Yodi"},
+   	     {"ragaid" : "Pilu",            "artistid":"Niladri;Kumar",          "provenance":"CD,2",   "CD":"00399","storeid":"001191","title" : "Raga Mishra Pilu Bandish"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Niladri;Kumar",          "provenance":"CD,3",   "CD":"00399","storeid":"001192","title" : "Raga Bhairavi Punjabi Dhun"},
+   	     {"ragaid" : "Puriya_Kalyan",   "artistid":"Pramod;Kumar",           "provenance":"CD,1",   "CD":"00400","storeid":"001193","title" : "Raga Purya-Kalyan"},
+   	     {"ragaid" : "Shuddh_Sarang",   "artistid":"Pramod;Kumar",           "provenance":"CD,2",   "CD":"00400","storeid":"001194","title" : "Raga Shudh Sarang"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Pramod;Kumar",           "provenance":"CD,3",   "CD":"00400","storeid":"001195","title" : "Thumree nel Raga Sindhi Bhairavi"},
+   	     {"ragaid" : "Unknown",         "artistid":"Pramod;Kumar",           "provenance":"CD,4",   "CD":"00400","storeid":"001196","title" : "Dhun"},
+   	     {"ragaid" : "Jog_Kauns",       "artistid":"Pramod;Kumar",           "provenance":"CD,1",   "CD":"00401","storeid":"001197","title" : "Jog-Kauns"},
+   	     {"ragaid" : "Shuddh_Sarang",   "artistid":"Pramod;Kumar",           "provenance":"CD,1",   "CD":"00401","storeid":"001198","title" : "Shudh_Sarang"},
+   	     {"ragaid" : "Puriya_Kalyan",   "artistid":"Pramod;Kumar",           "provenance":"CD,2",   "CD":"00401","storeid":"001199","title" : "Purya_Kalyan"},
+   	     {"ragaid" : "Shivranjani",     "artistid":"Pramod;Kumar",           "provenance":"CD,3",   "CD":"00401","storeid":"001200","title" : "Shiv Ranjani"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Pramod;Kumar",           "provenance":"CD,4",   "CD":"00401","storeid":"001201","title" : "Sindhi Bhairavi"},
+   	     {"ragaid" : "Jog_Kauns",       "artistid":"Pramod;Kumar",           "provenance":"CD,1",   "CD":"00402","storeid":"001202","title" : "Jog-Kauns"},
+   	     {"ragaid" : "Shuddh_Sarang",   "artistid":"Pramod;Kumar",           "provenance":"CD,2",   "CD":"00402","storeid":"001203","title" : "Shudh_Sarang"},
+   	     {"ragaid" : "Shivranjani",     "artistid":"Pramod;Kumar",           "provenance":"CD,3",   "CD":"00402","storeid":"001204","title" : "Shiv Ranjani"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Pramod;Kumar",           "provenance":"CD,4",   "CD":"00402","storeid":"001205","title" : "Sindhi Bhairavi"},
+   	     {"ragaid" : "Unknown",         "artistid":"Pramod;Kumar",           "provenance":"CD,5",   "CD":"00402","storeid":"001206","title" : "Dhun Deepchandi"},
+   	     {"ragaid" : "Unknown",         "artistid":"Pramod;Kumar",           "provenance":"CD,6",   "CD":"00402","storeid":"001207","title" : "Dhun"},
+   	     {"ragaid" : "Madhuvanti",      "artistid":"Pramod;Kumar",           "provenance":"CD,1",   "CD":"00403","storeid":"001208","title" : "Madhuvanti"},
+   	     {"ragaid" : "Unknown",         "artistid":"Pramod;Kumar",           "provenance":"CD,2",   "CD":"00403","storeid":"001209","title" : "Unknown"}
 	
 
 

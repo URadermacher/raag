@@ -396,7 +396,13 @@
   	     {"refid" : "00394", "publisher" : "",                         "date":"0000-00-00","title":"Kirwani et.al.",                 "have":"1", "shortid":"KUMAKA_1"},
   	     {"refid" : "00395", "publisher" : "Audiorec Classics",        "date":"2011-10-14","title":"Sandhya - dusk",                 "have":"1", "shortid":"KUMAKA_2"},
   	     {"refid" : "00396", "publisher" : "Audiorec Classics",        "date":"2011-10-14","title":"Usha - dawn",                    "have":"1", "shortid":"KUMAKA_3"},
-  	     {"refid" : "00397", "publisher" : "Audiorec Classics",        "date":"0000-00-00","title":"Varsha - monsoon",               "have":"1", "shortid":"KUMAKA_4"}
+  	     {"refid" : "00397", "publisher" : "Audiorec Classics",        "date":"0000-00-00","title":"Varsha - monsoon",               "have":"1", "shortid":"KUMAKA_4"},
+  	     {"refid" : "00398", "publisher" : "MagnaSound",               "date":"0000-00-00","title":"Together",                       "have":"1", "shortid":"KUMAKA_5"},
+  	     {"refid" : "00399", "publisher" : "Times Music",              "date":"0000-00-00","title":"Dharohar",                       "have":"1", "shortid":"KUMANI_1"},
+  	     {"refid" : "00400", "publisher" : "",                         "date":"0000-00-00","title":"il sitar indiano",               "have":"1", "shortid":"KUMAPR_1"},
+  	     {"refid" : "00401", "publisher" : "Arion",                    "date":"1994-00-00","title":"Les Chemins du Raga Vol. 2",     "have":"1", "shortid":"KUMAPR_2"},
+  	     {"refid" : "00402", "publisher" : "Arion",                    "date":"1999-00-00","title":"L''art du sitar",                "have":"1", "shortid":"KUMAPR_3"},
+  	     {"refid" : "00403", "publisher" : "",                         "date":"0000-00-00","title":"Pramod Kumar",                   "have":"1", "shortid":"KUMAPR_4"}
   	     
 
   	  ], 

@@ -1435,8 +1435,32 @@
          {"storeid" : "001182", "volgnr" : "001", "partname":"",                                     "duration" :  "10:00","filename" : "001182_Dhun_Mishra_Kafi.wav"},
          {"storeid" : "001183", "volgnr" : "001", "partname":"",                                     "duration" :  "28:19","filename" : "001183_Chaturang_Malhar.wav"},
          {"storeid" : "001184", "volgnr" : "001", "partname":"",                                     "duration" :  "30:44","filename" : "001184_Kirvani.wav"},
-         {"storeid" : "001185", "volgnr" : "001", "partname":"",                                     "duration" :  "12:06","filename" : "001185_Dhun_Bangla_Kirtan.wav"}
-         
+         {"storeid" : "001185", "volgnr" : "001", "partname":"",                                     "duration" :  "12:06","filename" : "001185_Dhun_Bangla_Kirtan.wav"},
+         {"storeid" : "001186", "volgnr" : "001", "partname":"Alap, Jod",                            "duration" :  "20:44","filename" : "001186_Darbar.wav"},
+         {"storeid" : "001187", "volgnr" : "001", "partname":"Alap, Gat","talid":"Adda",             "duration" :   "8:23","filename" : "001187_Mishra_Pilu.wav"},
+         {"storeid" : "001188", "volgnr" : "001", "partname":"Alap Jod, Vilambit&Dru Gat","talid":"Tintal","duration": "20:03","filename" : "001188_Jog.wav"},
+         {"storeid" : "001189", "volgnr" : "001", "partname":"Alap, Vilambit GatDrut  in Dadra","talid":"Tintal","duration" :   "7:27","filename" : "001189_Sindhu_Bhairavi.wav"}
+         {"storeid" : "001190", "volgnr" : "001", "partname":"Alap",                                 "duration" :  "29:25","filename" : "001190_Bilaskhani_Todi.wav"},
+         {"storeid" : "001191", "volgnr" : "001", "partname":"","talid":"Rupak",                     "duration" :  "21:16","filename" : "001191_Mishra_Pilu.wav"},
+         {"storeid" : "001192", "volgnr" : "001", "partname":"",                                     "duration" :   "7:19","filename" : "001192_Punjabi_Dhun_Bhairavi.wav"},
+         {"storeid" : "001193", "volgnr" : "001", "partname":"Alap e Gat",                           "duration" :  "20:32","filename" : "001193_Purya_Kalyan.wav"},
+         {"storeid" : "001194", "volgnr" : "001", "partname":"Gat",                                  "duration" :   "4:54","filename" : "001194_Shudh_Sarang.wav"},
+         {"storeid" : "001195", "volgnr" : "001", "partname":"",                                     "duration" :  "11:33","filename" : "001195_Thumree_nel_Raga_Sindhi_Bhairavi.wav"},
+         {"storeid" : "001196", "volgnr" : "001", "partname":"",                                     "duration" :   "6:03","filename" : "001196_Dhun.wav"},
+         {"storeid" : "001197", "volgnr" : "001", "partname":"","talid":"Tintal",                    "duration" :  "20:40","filename" : "001197_Jog_Kauns.wav"},
+         {"storeid" : "001198", "volgnr" : "001", "partname":"","talid":"Rupak",                     "duration" :   "5:17","filename" : "001198_Shudh_Sarang.wav"},
+         {"storeid" : "001199", "volgnr" : "001", "partname":"Alap",                                 "duration" :  "15:21","filename" : "001199_1_Purya_Kalyan.wav"},
+         {"storeid" : "001199", "volgnr" : "002", "partname":"Gat","talid":"Tintal",                 "duration" :   "5:53","filename" : "001199_2_Purya_Kalyan.wav"},
+         {"storeid" : "001200", "volgnr" : "001", "partname":"","talid":"Dadra",                     "duration" :   "5:15","filename" : "001200_Shiv_Ranjani.wav"},
+         {"storeid" : "001201", "volgnr" : "001", "partname":"","talid":"Keherwa",                   "duration" :  "11:47","filename" : "001201_Sindhi_Bhairavi.wav"}
+         {"storeid" : "001202", "volgnr" : "001", "partname":"","talid":"Tintal",                    "duration" :  "20:40","filename" : "001202_Jog_Kauns.wav"},
+         {"storeid" : "001203", "volgnr" : "001", "partname":"","talid":"Rupak",                     "duration" :   "5:17","filename" : "001203_Shudh_Sarang.wav"},
+         {"storeid" : "001204", "volgnr" : "001", "partname":"","talid":"Dadra",                     "duration" :   "5:15","filename" : "001204_Shiv_Ranjani.wav"},
+         {"storeid" : "001205", "volgnr" : "001", "partname":"","talid":"Keherwa",                   "duration" :  "11:47","filename" : "001205_Sindhi_Bhairavi.wav"}
+         {"storeid" : "001206", "volgnr" : "001", "partname":"","talid":"Dipchandi",                 "duration" :   "5:25","filename" : "001206_Dhun_Deepchandi.wav"}
+         {"storeid" : "001207", "volgnr" : "001", "partname":"",                                     "duration" :   "6:12","filename" : "001207_Dhun.wav"}
+         {"storeid" : "001208", "volgnr" : "001", "partname":"",                                     "duration" :  "19:35","filename" : "001208_Madhuvanti.wav"}
+         {"storeid" : "001209", "volgnr" : "001", "partname":"",                                     "duration" :   "4:48","filename" : "001209_Unknown.wav"}
          
          
      ] 
