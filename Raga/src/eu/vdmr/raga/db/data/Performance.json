@@ -567,7 +567,7 @@
    	     {"ragaid" : "Bhairavi",        "artistid":"Gagandip;Hothi",      "provenance":"CD,2",  "CD":"00195", "storeid":"000565","title" : "Bhairavi"},
    	     {"ragaid" : "Madhuvanti",      "artistid":"Hamid;Husain",        "provenance":"CD,1",  "CD":"00196", "storeid":"000566","title" : "Raagni Tanseni Madhuwanti"},
    	     {"ragaid" : "Maru_Bihag",      "artistid":"Hamid;Husain",        "provenance":"CD,2",  "CD":"00196", "storeid":"000567","title" : "Raag Maroo Baihaag"},
-   	     {"ragaid" : "Unknown",         "artistid":"Zakhir;Hussain",      "provenance":"CD,1",  "CD":"00197", "storeid":"000568","title" : "Alla, from Tala Matric"},
+   	     {"ragaid" : "Unknown",         "artistid":"Zakir;Hussain",      "provenance":"CD,1",  "CD":"00197", "storeid":"000568","title" : "Alla, from Tala Matric"},
    	     {"ragaid" : "Ahir_Bhairav",    "artistid":"Pandit;Jasraj",       "provenance":"CD,1",  "CD":"00198", "storeid":"000569","title" : "Ahir Bhairav","date":"1992-00-00","place":"Pure"},
    	     {"ragaid" : "Asavari_Todi",    "artistid":"Pandit;Jasraj",       "provenance":"CD,2",  "CD":"00198", "storeid":"000570","title" : "Asawari Todi","date":"1992-00-00","place":"Sawai Khandarvar Festival, Puna"},
    	     {"ragaid" : "Unknown",         "artistid":"Pandit;Jasraj",       "provenance":"CD,3",  "CD":"00198", "storeid":"000571","title" : "Bhajan on a poem  by Surdas"},
@@ -1210,7 +1210,18 @@
    	     {"ragaid" : "Unknown",         "artistid":"Pramod;Kumar",           "provenance":"CD,5",   "CD":"00402","storeid":"001206","title" : "Dhun Deepchandi"},
    	     {"ragaid" : "Unknown",         "artistid":"Pramod;Kumar",           "provenance":"CD,6",   "CD":"00402","storeid":"001207","title" : "Dhun"},
    	     {"ragaid" : "Madhuvanti",      "artistid":"Pramod;Kumar",           "provenance":"CD,1",   "CD":"00403","storeid":"001208","title" : "Madhuvanti"},
-   	     {"ragaid" : "Unknown",         "artistid":"Pramod;Kumar",           "provenance":"CD,2",   "CD":"00403","storeid":"001209","title" : "Unknown"}
+   	     {"ragaid" : "Unknown",         "artistid":"Pramod;Kumar",           "provenance":"CD,2",   "CD":"00403","storeid":"001209","title" : "Unknown"},
+   	     {"ragaid" : "Kedar",           "artistid":"Venkatesh;Kumar",        "provenance":"CD,1",   "CD":"00404","storeid":"001210","title" : "Kedar"},
+   	     {"ragaid" : "Brindavani_Sarang","artistid":"Venkatesh;Kumar",       "provenance":"CD,2",   "CD":"00404","storeid":"001211","title" : "Brindavana Saranga"},
+   	     {"ragaid" : "Khamaj",           "artistid":"Venkatesh;Kumar",       "provenance":"CD,3",   "CD":"00404","storeid":"001212","title" : "Khamaj"},
+   	     {"ragaid" : "Unknown",         "artistid":"Kishan;Maharaj",         "provenance":"CD,1",   "CD":"00405","storeid":"001213","title" : "Tabla solo Tintal"},
+   	     {"ragaid" : "Unknown",         "artistid":"Alla;Rakha",             "provenance":"CD,2",   "CD":"00405","storeid":"001214","title" : "Tabla solo Pashto"},
+   	     {"ragaid" : "Unknown",         "artistid":"Zakir;Hussain",          "provenance":"CD,3",   "CD":"00405","storeid":"001215","title" : "Tabla solo Jaital"},
+   	     {"ragaid" : "Unknown",         "artistid":"Kishan;Maharaj",         "provenance":"CD,1",   "CD":"00406","storeid":"001216","title" : "Tabla solo Tintal"},
+   	     {"ragaid" : "Unknown",         "artistid":"Kishan;Maharaj",         "provenance":"CD,2",   "CD":"00406","storeid":"001217","title" : "Tabla solo Tintal"},   	     {"ragaid" : "Unknown",         "artistid":"Kishan;Maharaj",         "provenance":"CD,2",   "CD":"00406","storeid":"001217","title" : "Tabla solo Tintal"},
+   	     {"ragaid" : "Bilashkani_Todi", "artistid":"Tejendra Narayan;Majumdar","provenance":"CD,1", "CD":"00407","storeid":"001218","title" : "Bilashkani Todi"},
+   	     {"ragaid" : "Basant_Mukhari",  "artistid":"Tejendra Narayan;Majumdar","provenance":"CD,2", "CD":"00407","storeid":"001219","title" : "Basant Mukhari"}
+   	     
 	
 
 

@@ -1460,7 +1460,17 @@
          {"storeid" : "001206", "volgnr" : "001", "partname":"","talid":"Dipchandi",                 "duration" :   "5:25","filename" : "001206_Dhun_Deepchandi.wav"}
          {"storeid" : "001207", "volgnr" : "001", "partname":"",                                     "duration" :   "6:12","filename" : "001207_Dhun.wav"}
          {"storeid" : "001208", "volgnr" : "001", "partname":"",                                     "duration" :  "19:35","filename" : "001208_Madhuvanti.wav"}
-         {"storeid" : "001209", "volgnr" : "001", "partname":"",                                     "duration" :   "4:48","filename" : "001209_Unknown.wav"}
+         {"storeid" : "001209", "volgnr" : "001", "partname":"",                                     "duration" :   "4:48","filename" : "001209_Unknown.wav"},
+         {"storeid" : "001210", "volgnr" : "001", "partname":"Vilambit Thiwad & Drut Teentaal",      "duration" :  "30:21","filename" : "001210_Kedar.wav"},
+         {"storeid" : "001211", "volgnr" : "001", "partname":"Madhyalaya Japtaal & Drut Teentaal",   "duration" :  "22:33","filename" : "001211_Brindavana_Saranga.wav"},
+         {"storeid" : "001212", "volgnr" : "001", "partname":"","talid":"Dipchandi",                 "duration" :   "7:54","filename" : "001212_Khamaj.wav"},
+         {"storeid" : "001213", "volgnr" : "001", "partname":"","talid":"Tintal",                    "duration" :  "23:39","filename" : "001213_Tintal.wav"},
+         {"storeid" : "001214", "volgnr" : "001", "partname":"","talid":"Pashto",                    "duration" :   "8:31","filename" : "001214_Pashto.wav"},
+         {"storeid" : "001215", "volgnr" : "001", "partname":"","talid":"Jaital",                    "duration" :  "20:51","filename" : "001215_Jaital.wav"},
+         {"storeid" : "001216", "volgnr" : "001", "partname":"","talid":"Tintal",                    "duration" :  "23:39","filename" : "001216_Tintal.wav"},
+         {"storeid" : "001217", "volgnr" : "001", "partname":"","talid":"Tintal",                    "duration" :  "28:40","filename" : "001217_Tintal.wav"},
+         {"storeid" : "001218", "volgnr" : "001", "partname":"",                                     "duration" :  "34:44","filename" : "001218_Bilaskhani_Todi.wav"},
+         {"storeid" : "001219", "volgnr" : "001", "partname":"",                                     "duration" :  "30:33","filename" : "001219_Basant_Mukhari.wav"}
          
          
      ] 
