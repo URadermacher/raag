@@ -406,7 +406,13 @@
   	     {"refid" : "00404", "publisher" : "",                         "date":"0000-00-00","title":"M.Venkatesh Kumar",              "have":"1", "shortid":"KUMAVE_1"},
   	     {"refid" : "00405", "publisher" : "Music Today",              "date":"0000-00-00","title":"Layakari",                       "have":"1", "shortid":"LAYAKA_1"},
   	     {"refid" : "00406", "publisher" : "Music Today",              "date":"0000-00-00","title":"Maestro''s Choice",              "have":"1", "shortid":"MAHAKI_1"},
-  	     {"refid" : "00407", "publisher" : "Sense World Music",        "date":"2003-00-00","title":"A Light fom the East",           "have":"1", "shortid":"MAJUTE_1"}
+  	     {"refid" : "00407", "publisher" : "Sense World Music",        "date":"2003-00-00","title":"A Light fom the East",           "have":"1", "shortid":"MAJUTE_1"},
+  	     {"refid" : "00408", "publisher" : "",                         "date":"0000-00-00","title":"The Mallik Family",              "have":"1", "shortid":"MALLBI_1"},
+  	     {"refid" : "00409", "publisher" :"Grammophone Comp. of India","date":"0000-00-00","title":"Mallikarjun Mansur",             "have":"1", "shortid":"MALLMA_1"},
+  	     {"refid" : "00410", "publisher" :"Grammophone Comp. of India","date":"1986-00-00","title":"Bibhas en Lalita Gauri",         "have":"1", "shortid":"MALLMA_2"},
+  	     {"refid" : "00411", "publisher" :"Air Mail Music",            "date":"1997-00-00","title":"Inde du Nord",                   "have":"1", "shortid":"MALLRC_1"},
+  	     {"refid" : "00412", "publisher" :"",                          "date":"0000-00-00","title":"Mandoline and Guitar",           "have":"1", "shortid":"MANDGU_1"},
+  	     {"refid" : "00413", "publisher" :"",                          "date":"0000-00-00","title":"Lata Mangeshkar recites Bhagwad Geeta","have":"1","shortid":"MANGLA_1"}
   	     
 
   	  ], 

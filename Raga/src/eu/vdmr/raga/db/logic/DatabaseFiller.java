@@ -86,7 +86,7 @@ public class DatabaseFiller {
 					try {
 						s.executeUpdate(insertString);
 						rowCnt++;
-						if (rowCnt % 100 == 0) {
+						if (rowCnt % 500 == 0) {
 							LOG.info("nr of records inserted: " + rowCnt);
 							connection.commit();
 						}

@@ -1220,7 +1220,22 @@
    	     {"ragaid" : "Unknown",         "artistid":"Kishan;Maharaj",         "provenance":"CD,1",   "CD":"00406","storeid":"001216","title" : "Tabla solo Tintal"},
    	     {"ragaid" : "Unknown",         "artistid":"Kishan;Maharaj",         "provenance":"CD,2",   "CD":"00406","storeid":"001217","title" : "Tabla solo Tintal"},   	     {"ragaid" : "Unknown",         "artistid":"Kishan;Maharaj",         "provenance":"CD,2",   "CD":"00406","storeid":"001217","title" : "Tabla solo Tintal"},
    	     {"ragaid" : "Bilashkani_Todi", "artistid":"Tejendra Narayan;Majumdar","provenance":"CD,1", "CD":"00407","storeid":"001218","title" : "Bilashkani Todi"},
-   	     {"ragaid" : "Basant_Mukhari",  "artistid":"Tejendra Narayan;Majumdar","provenance":"CD,2", "CD":"00407","storeid":"001219","title" : "Basant Mukhari"}
+   	     {"ragaid" : "Basant_Mukhari",  "artistid":"Tejendra Narayan;Majumdar","provenance":"CD,2", "CD":"00407","storeid":"001219","title" : "Basant Mukhari"},
+   	     {"ragaid" : "Darbari_Kanhra",  "artistid":"Vidur;Mallik",           "provenance":"CD,1",   "CD":"00408","storeid":"001220","title" : "Darbari Kamra"},
+   	     {"ragaid" : "Unknown",         "artistid":"Vidur;Mallik",           "provenance":"CD,2",   "CD":"00408","storeid":"001221","title" : "Lied van Vidjapati"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Vidur;Mallik",           "provenance":"CD,3",   "CD":"00408","storeid":"001222","title" : "Thumri Bhairavi"},
+   	     {"ragaid" : "Bahaduri_Todi",   "artistid":"Mallikarjun;Mansur",     "provenance":"CD,1",   "CD":"00409","storeid":"001223","title" : "Bahaduri_Todi"},
+   	     {"ragaid" : "Gaud_Malhar",     "artistid":"Mallikarjun;Mansur",     "provenance":"CD,2",   "CD":"00409","storeid":"001224","title" : "Gaud_Malhar"},
+   	     {"ragaid" : "Bibhas",          "artistid":"Mallikarjun;Mansur",     "provenance":"CD,1",   "CD":"00410","storeid":"001225","title" : "Bibhas"},
+   	     {"ragaid" : "Lalita_Gauri",    "artistid":"Mallikarjun;Mansur",     "provenance":"CD,2",   "CD":"00410","storeid":"001226","title" : "Lalita_Gauri"},
+   	     {"ragaid" : "Darbari_Kanhra",  "artistid":"Ram Chatur;Mallick",     "provenance":"CD,1",   "CD":"00411","storeid":"001227","title" : "Darbari Khanra"},
+   	     {"ragaid" : "Multani",         "artistid":"Ram Chatur;Mallick",     "provenance":"CD,2",   "CD":"00411","storeid":"001228","title" : "Multani"},
+   	     {"ragaid" : "Yayamanohari",    "artistid":"U;Srinavas",             "provenance":"CD,1",   "CD":"00412","storeid":"001229","title" : "Yayamanohari"},
+   	     {"ragaid" : "Chandrajyoti",    "artistid":"U;Srinavas",             "provenance":"CD,2",   "CD":"00412","storeid":"001230","title" : "Chandrajyoti"},
+   	     {"ragaid" : "Unknown",         "artistid":"U;Srinavas",             "provenance":"CD,3",   "CD":"00412","storeid":"001231","title" : "Bhajan"},
+   	     {"ragaid" : "Mand",            "artistid":"Brij Bushan;Kabra",      "provenance":"CD,4",   "CD":"00412","storeid":"001232","title" : "Mand"}
+   	     {"ragaid" : "Unknown",         "artistid":"Lata;Mangeshkar",        "provenance":"CD,1",   "CD":"00413","storeid":"001233","title" : "Bhagwad Geeta Chapter 9"},
+   	     {"ragaid" : "Unknown",         "artistid":"Lata;Mangeshkar",        "provenance":"CD,2",   "CD":"00413","storeid":"001234","title" : "Bhagwad Geeta Chapter 12"}
    	     
 	
 

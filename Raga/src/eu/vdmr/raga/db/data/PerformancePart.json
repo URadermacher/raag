@@ -1470,7 +1470,22 @@
          {"storeid" : "001216", "volgnr" : "001", "partname":"","talid":"Tintal",                    "duration" :  "23:39","filename" : "001216_Tintal.wav"},
          {"storeid" : "001217", "volgnr" : "001", "partname":"","talid":"Tintal",                    "duration" :  "28:40","filename" : "001217_Tintal.wav"},
          {"storeid" : "001218", "volgnr" : "001", "partname":"",                                     "duration" :  "34:44","filename" : "001218_Bilaskhani_Todi.wav"},
-         {"storeid" : "001219", "volgnr" : "001", "partname":"",                                     "duration" :  "30:33","filename" : "001219_Basant_Mukhari.wav"}
+         {"storeid" : "001219", "volgnr" : "001", "partname":"",                                     "duration" :  "30:33","filename" : "001219_Basant_Mukhari.wav"},
+         {"storeid" : "001220", "volgnr" : "001", "partname":"",                                     "duration" :  "36:42","filename" : "001220_Darbari_Kamra.wav"},
+         {"storeid" : "001221", "volgnr" : "001", "partname":"",                                     "duration" :  "13:14","filename" : "001221_Liefdeslied.wav"},
+         {"storeid" : "001222", "volgnr" : "001", "partname":"",                                     "duration" :  "14:42","filename" : "001222_Liefdeslied.wav"},
+         {"storeid" : "001223", "volgnr" : "001", "partname":"","talid":"Rupak",                     "duration" :  "19:09","filename" : "001223_Bahaduri_Todi.wav"},
+         {"storeid" : "001224", "volgnr" : "001", "partname":"","talid":"Tintal",                    "duration" :  "18:06","filename" : "001224_Gaud_Malhar.wav"},
+         {"storeid" : "001225", "volgnr" : "001", "partname":"","talid":"Tintal",                    "duration" :  "24:10","filename" : "001225_Bibhas.wav"},
+         {"storeid" : "001226", "volgnr" : "001", "partname":"","talid":"Tintal",                    "duration" :  "24:05","filename" : "001226_Lalita_Gauri.wav"},
+         {"storeid" : "001227", "volgnr" : "001", "partname":"Alap et Dhrupad","talid":"Chautal",    "duration" :  "26:15","filename" : "001227_Darbari_Khanra.wav"},
+         {"storeid" : "001228", "volgnr" : "001", "partname":"Alap et Dhamar","talid":"Dhamar",      "duration" :  "27:30","filename" : "001228_Multani.wav"},
+         {"storeid" : "001229", "volgnr" : "001", "partname":"",                                     "duration" :  "10:44","filename" : "001229_Yayamanohari.wav"},
+         {"storeid" : "001230", "volgnr" : "001", "partname":"",                                     "duration" :   "4:45","filename" : "001230_Chandrajhoti.wav"},
+         {"storeid" : "001231", "volgnr" : "001", "partname":"",                                     "duration" :   "4:16","filename" : "001231_Bhajan.wav"},
+         {"storeid" : "001232", "volgnr" : "001", "partname":"",                                     "duration" :   "5:27","filename" : "001232_Mand.wav"},
+         {"storeid" : "001233", "volgnr" : "001", "partname":"",                                     "duration" :  "21:20","filename" : "001233_Bhagwad_Gita_Chapter_9.wav"},
+         {"storeid" : "001234", "volgnr" : "001", "partname":"",                                     "duration" :  "15:33","filename" : "001234_Bhagwad_Gita_Chapter_12.wav"}
          
          
      ] 
