@@ -16,8 +16,9 @@ public class FileUtils {
 	private static final Logger LOG = LogManager.getLogger(FileUtils.class);
 	
 	public static Path getNewestFile(Path start) {
+		LOG.info("Start");
 		if (!Files.exists(start) || !Files.isDirectory(start)) {
-			throw new IllegalArgumentException("Path " + start + " does not exist");
+			throw new IllegalArgumentException("Path " + start + " does not exist or is not a directory");
 		}
 
 		VisitNewestImpl impl = new VisitNewestImpl();
@@ -29,23 +30,25 @@ public class FileUtils {
 			return null;
 		}
 		return impl.getFile();
-		
 	}
 
 	public static class VisitNewestImpl extends  SimpleFileVisitor<Path> {
 		private FileTime checkTime;
 		private Path foundFile;
+		
 		public VisitNewestImpl() {
 			checkTime = FileTime.fromMillis(0L);
 		}
 		
 		@Override
         public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
+			LOG.trace("file: " + file.getFileName());
+			// lastModified is newer than seen up to now?
             if (checkTime.compareTo(Files.getLastModifiedTime(file)) < 0) {
             	foundFile = file;
             	checkTime = Files.getLastModifiedTime(file);
             }
-            return FileVisitResult.CONTINUE;
+            return FileVisitResult.CONTINUE; // we wonna visit all files
         }
 		
 		public Path getFile() {

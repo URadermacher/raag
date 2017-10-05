@@ -1485,7 +1485,18 @@
          {"storeid" : "001231", "volgnr" : "001", "partname":"",                                     "duration" :   "4:16","filename" : "001231_Bhajan.wav"},
          {"storeid" : "001232", "volgnr" : "001", "partname":"",                                     "duration" :   "5:27","filename" : "001232_Mand.wav"},
          {"storeid" : "001233", "volgnr" : "001", "partname":"",                                     "duration" :  "21:20","filename" : "001233_Bhagwad_Gita_Chapter_9.wav"},
-         {"storeid" : "001234", "volgnr" : "001", "partname":"",                                     "duration" :  "15:33","filename" : "001234_Bhagwad_Gita_Chapter_12.wav"}
+         {"storeid" : "001234", "volgnr" : "001", "partname":"",                                     "duration" :  "15:33","filename" : "001234_Bhagwad_Gita_Chapter_12.wav"},
+         {"storeid" : "001235", "volgnr" : "001", "partname":"",                                     "duration" :   "4:41","filename" : "001235_Sanvaro_Nanknandan.wav"},
+         {"storeid" : "001236", "volgnr" : "001", "partname":"",                                     "duration" :   "4:27","filename" : "001236_Kinun_Sag_Khekun_Holi.wav"},
+         {"storeid" : "001237", "volgnr" : "001", "partname":"",                                     "duration" :   "5:16","filename" : "001237_Mhara_Re_Girdhar_Gopal.wav"},
+         {"storeid" : "001238", "volgnr" : "001", "partname":"",                                     "duration" :   "3:53","filename" : "001238_Thane_Kanee_Kanee_Sunava.wav"},
+         {"storeid" : "001239", "volgnr" : "001", "partname":"",                                     "duration" :   "3:55","filename" : "001239_Maee_Mhano_Supnama_Parnare_Dinanath.wav"},
+         {"storeid" : "001240", "volgnr" : "001", "partname":"",                                     "duration" :   "3:24","filename" : "001240_Oji_Hari_Kit_Gaye.wav"},
+         {"storeid" : "001241", "volgnr" : "001", "partname":"",                                     "duration" :   "4:12","filename" : "001241_Ramaiya_Bin_Nind_Na_Aave.wav"},
+         {"storeid" : "001242", "volgnr" : "001", "partname":"",                                     "duration" :   "6:11","filename" : "001242_Sanvara_Mari_Preet_Nibhajonji.wav"},
+         {"storeid" : "001243", "volgnr" : "001-020", "partname":"",                                 "duration" :  "44:16","filename" : "\\BhagwadGita_and_Dnyaneshwari\\"}
+         {"storeid" : "001244", "volgnr" : "001", "partname":"",                                     "duration" :  "20:21","filename" : "001244_Deshkar.wav"},
+         {"storeid" : "001245", "volgnr" : "001", "partname":"Pat Tore Karan",                       "duration" :  "11:45","filename" : "001245_Yaman_Kalyan.wav"}
          
          
      ] 

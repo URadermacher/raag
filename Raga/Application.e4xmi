@@ -5,7 +5,7 @@
       <children xsi:type="advanced:Perspective" xmi:id="_6wlLkcgZEeSyMNYR5xypkQ" elementId="Raga.perspective.sample">
         <children xsi:type="basic:PartSashContainer" xmi:id="_6wlLksgZEeSyMNYR5xypkQ" elementId="Raga.partsashcontainer.sample">
           <children xsi:type="basic:PartStack" xmi:id="_6wlLk8gZEeSyMNYR5xypkQ" elementId="Raga.partstack.sample">
-            <children xsi:type="basic:Part" xmi:id="_6wlLlMgZEeSyMNYR5xypkQ" elementId="Raga.part.sample" contributionURI="bundleclass://Raga/eu.vdmr.raga.parts.SamplePart" label="Sample Part"/>
+            <children xsi:type="basic:Part" xmi:id="_6wlLlMgZEeSyMNYR5xypkQ" elementId="Raga.part.sample" contributionURI="bundleclass://Raga/eu.vdmr.raga.parts.MusicDBPart" label="Sample Part"/>
           </children>
         </children>
       </children>

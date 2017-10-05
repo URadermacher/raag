@@ -412,7 +412,10 @@
   	     {"refid" : "00410", "publisher" :"Grammophone Comp. of India","date":"1986-00-00","title":"Bibhas en Lalita Gauri",         "have":"1", "shortid":"MALLMA_2"},
   	     {"refid" : "00411", "publisher" :"Air Mail Music",            "date":"1997-00-00","title":"Inde du Nord",                   "have":"1", "shortid":"MALLRC_1"},
   	     {"refid" : "00412", "publisher" :"",                          "date":"0000-00-00","title":"Mandoline and Guitar",           "have":"1", "shortid":"MANDGU_1"},
-  	     {"refid" : "00413", "publisher" :"",                          "date":"0000-00-00","title":"Lata Mangeshkar recites Bhagwad Geeta","have":"1","shortid":"MANGLA_1"}
+  	     {"refid" : "00413", "publisher" :"",                          "date":"1970-00-00","title":"Lata Mangeshkar recites Bhagwad Geeta","have":"1","shortid":"MANGLA_1"},
+  	     {"refid" : "00414", "publisher" :"EMI Parlaphone India",      "date":"1968-00-00","title":"Lata Mangeshkar Meera Bhajans",  "have":"1","shortid":"MANGLA_2"},
+  	     {"refid" : "00415", "publisher" :"Grammophone Comp. of India","date":"1967-00-00","title":"Lata Mangeshkar recites Bhagwad Geeta And Dbyaneshwari",  "have":"1","shortid":"MANGLA_3"},
+  	     {"refid" : "00416", "publisher" :"Inreco",                    "date":"1981-00-00","title":"Morning and Evening Ragas",      "have":"1","shortid":"MANSMA_1"}
   	     
 
   	  ], 

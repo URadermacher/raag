@@ -18,7 +18,7 @@ import org.eclipse.swt.layout.GridLayout;
 import org.eclipse.swt.widgets.Composite;
 import org.eclipse.swt.widgets.Text;
 
-public class SamplePart {
+public class MusicDBPart {
 
 	private Text txtInput;
 	private TableViewer tableViewer;

@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Configuration>
-<Configuration status="WARN">
+<Configuration status="INFO">
+
   <Appenders>
     <Console name="STDOUT">
       <PatternLayout pattern="%d %p %C{1.} [%t] %m%n"/>
     </Console>
-    <File name="File" fileName="Raga.log">
+    <File name="File" fileName="D:/log.log">
       <PatternLayout>
         <pattern>%d %p %C{1.} [%t] %m%n</pattern>
       </PatternLayout>
     </File>
-
   </Appenders>
+
   <Loggers>
-    <Root level="info">
+    <Root level="TRACE">
       <AppenderRef ref="STDOUT"/>
     </Root>
   </Loggers>
+  
 </Configuration>
