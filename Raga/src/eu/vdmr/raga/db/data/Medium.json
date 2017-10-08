@@ -415,7 +415,12 @@
   	     {"refid" : "00413", "publisher" :"",                          "date":"1970-00-00","title":"Lata Mangeshkar recites Bhagwad Geeta","have":"1","shortid":"MANGLA_1"},
   	     {"refid" : "00414", "publisher" :"EMI Parlaphone India",      "date":"1968-00-00","title":"Lata Mangeshkar Meera Bhajans",  "have":"1","shortid":"MANGLA_2"},
   	     {"refid" : "00415", "publisher" :"Grammophone Comp. of India","date":"1967-00-00","title":"Lata Mangeshkar recites Bhagwad Geeta And Dbyaneshwari",  "have":"1","shortid":"MANGLA_3"},
-  	     {"refid" : "00416", "publisher" :"Inreco",                    "date":"1981-00-00","title":"Morning and Evening Ragas",      "have":"1","shortid":"MANSMA_1"}
+  	     {"refid" : "00416", "publisher" :"Inreco",                    "date":"1981-00-00","title":"Morning and Evening Ragas",      "have":"1","shortid":"MANSMA_1"},
+  	     {"refid" : "00417", "publisher" :"All India Radio",           "date":"1979-00-00","title":"Pandit Ram Marathe",             "have":"1","shortid":"MARARA_1"},
+  	     {"refid" : "00418", "publisher" :"Rhythm House",              "date":"0000-00-00","title":"Pt Ram Marathe, The Traditionalis","have":"1","shortid":"MARARA_2"},
+  	     {"refid" : "00419", "publisher" :"Legendary Legacy",          "date":"0000-00-00","title":"Vistaar",                        "have":"1","shortid":"MEHTMA_1"},
+  	     {"refid" : "00420", "publisher" :"",                          "date":"0000-00-00","title":"Music of India Vol.4",           "have":"1","shortid":"MAYEJO_2"},
+  	     {"refid" : "00421", "publisher" :"",                          "date":"1950-00-00","title":"Prof. Enayet Khan",              "have":"0"}
   	     
 
   	  ], 

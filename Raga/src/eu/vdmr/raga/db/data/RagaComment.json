@@ -1,6 +1,8 @@
 { "name" : "RagaComment",
       "entries" : [
-  	     {"ragaid" : "Kalaranjani", "comment" :"Raga Kalaranjani, een creatie van de Indiase bansuri speler Hariprasad Chaurasia, (https://www.concertzender.nl/programma/orient-express-1277/)"},
+  	     {"ragaid" : "Chargbesi",    "comment" :"op heel interne allen bekend als een raga van Jonathan Mayer, (en evtl een mela?)"},
+  	     {"ragaid" : "Kalaranjani",  "comment" :"Raga Kalaranjani, een creatie van de Indiase bansuri speler Hariprasad Chaurasia, (https://www.concertzender.nl/programma/orient-express-1277/)"},
+  	     {"ragaid" : "Khambaj",      "comment" :"same as Khamaj ??"},
   	     {"ragaid" : "Madhuranjani", "comment" :"A blend of Madhuvanti and Shivranjani (back of cd of Imrat Khan)"},
   	     {"ragaid" : "Mand_Bhairav", "comment" :"http://www.parrikar.org/hindustani/bhairav/"},
   	     {"ragaid" : "Saugandh",     "comment" : "https://groups.google.com/forum/#!topic/rec.music.indian.classical/QpkcCY2dGSo"},

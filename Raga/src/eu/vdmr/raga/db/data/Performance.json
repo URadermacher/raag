@@ -1246,10 +1246,40 @@
    	     {"ragaid" : "Unknown",         "artistid":"Lata;Mangeshkar",        "provenance":"CD,8",   "CD":"00414","storeid":"001242","title" : "Sanvara Mari Preet Nibhajonji"},
    	     {"ragaid" : "Unknown",         "artistid":"Lata;Mangeshkar",        "provenance":"CD,1-20","CD":"00415","storeid":"001243","title" : "Several pieces"},
    	     {"ragaid" : "Deshkar",         "artistid":"Mallikarjun;Mansur",     "provenance":"CD,1",   "CD":"00416","storeid":"001244","title" : "Deshkar"},
-   	     {"ragaid" : "Yaman_Kalyan",    "artistid":"Mallikarjun;Mansur",     "provenance":"CD,2",   "CD":"00416","storeid":"001245","title" : "Yaman_Kalyan"}
-   	     
-	
-
+   	     {"ragaid" : "Yaman_Kalyan",    "artistid":"Mallikarjun;Mansur",     "provenance":"CD,2",   "CD":"00416","storeid":"001245","title" : "Yaman_Kalyan"},
+   	     {"ragaid" : "Hindol_Bahar",    "artistid":"Ram;Marathe",            "provenance":"CD,1",   "CD":"00417","storeid":"001246","title" : "Mai Ri Aaj Shubh Ghadi"},
+   	     {"ragaid" : "Todi_Ka_Prakar",  "artistid":"Ram;Marathe",            "provenance":"CD,2",   "CD":"00417","storeid":"001247","title" : "Charcha Karenge Sagara"},
+   	     {"ragaid" : "Kedar_Nat",       "artistid":"Ram;Marathe",            "provenance":"CD,3",   "CD":"00417","storeid":"001248","title" : "Aaj Manavan"},
+   	     {"ragaid" : "Kedar_Nat",       "artistid":"Ram;Marathe",            "provenance":"CD,1",   "CD":"00418","storeid":"001249","title" : "Aaj Manavan Aaye - Piya Ghar Aaye"},
+   	     {"ragaid" : "Adana",           "artistid":"Ram;Marathe",            "provenance":"CD,2",   "CD":"00418","storeid":"001250","title" : "Aaye More Darbar - Ran Rang Muskh Pe"},
+   	     {"ragaid" : "Paraj_Kalingada", "artistid":"Ram;Marathe",            "provenance":"CD,3",   "CD":"00418","storeid":"001251","title" : "Balamaho De Ho Garja"},
+   	     {"ragaid" : "Shri",            "artistid":"Manju;Mehta",            "provenance":"CD,1",   "CD":"00419","storeid":"001252","title" : "Shri"},
+   	     {"ragaid" : "Ahir_Bhairav",    "artistid":"Jonathan;Mayer",         "provenance":"CD,1",   "CD":"00420","storeid":"001253","title" : "Ahir_Bhairav"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Jonathan;Mayer",         "provenance":"CD,2",   "CD":"00420","storeid":"001254","title" : "Bhairavi"},
+   	     {"ragaid" : "Jaunpuri",        "artistid":"Jonathan;Mayer",         "provenance":"CD,3",   "CD":"00420","storeid":"001255","title" : "Jaunpuri"},
+   	     {"ragaid" : "Bilaval",         "artistid":"Jonathan;Mayer",         "provenance":"CD,4",   "CD":"00420","storeid":"001256","title" : "Bilaval"},
+   	     {"ragaid" : "Abhogi",          "artistid":"Jonathan;Mayer",         "provenance":"CD,5",   "CD":"00420","storeid":"001257","title" : "Abhogi"},
+   	     {"ragaid" : "Bhimpalasi",      "artistid":"Jonathan;Mayer",         "provenance":"CD,6",   "CD":"00420","storeid":"001258","title" : "Bhimpalasi"},
+   	     {"ragaid" : "Multani",         "artistid":"Jonathan;Mayer",         "provenance":"CD,7",   "CD":"00420","storeid":"001259","title" : "Multani"},
+   	     {"ragaid" : "Chargbesi",       "artistid":"Jonathan;Mayer",         "provenance":"CD,8",   "CD":"00420","storeid":"001260","title" : "Chargbesi"},
+   	     {"ragaid" : "Hemant",          "artistid":"Jonathan;Mayer",         "provenance":"CD,9",   "CD":"00420","storeid":"001261","title" : "Hement"},
+   	     {"ragaid" : "Puriya_Dhanashri","artistid":"Jonathan;Mayer",         "provenance":"CD,10",  "CD":"00420","storeid":"001262","title" : "Puria_Dhanashri"},
+   	     {"ragaid" : "Yaman",           "artistid":"Jonathan;Mayer",         "provenance":"CD,11",  "CD":"00420","storeid":"001263","title" : "Yaman"},
+   	     {"ragaid" : "Khamaj",          "artistid":"Jonathan;Mayer",         "provenance":"CD,12",  "CD":"00420","storeid":"001264","title" : "Kamaj"},
+   	     {"ragaid" : "Jog",             "artistid":"Jonathan;Mayer",         "provenance":"CD,13",  "CD":"00420","storeid":"001265","title" : "Jog"},
+   	     {"ragaid" : "Puriya",          "artistid":"Jonathan;Mayer",         "provenance":"CD,14",  "CD":"00420","storeid":"001266","title" : "Puriya"},
+   	     {"ragaid" : "Sohini",          "artistid":"Jonathan;Mayer",         "provenance":"CD,15",  "CD":"00420","storeid":"001267","title" : "Sohini"},
+   	     {"ragaid" : "Bageshri",        "artistid":"Enayat;Khan",            "provenance":"mio.to", "CD":"00421","storeid":"001268","title" : "Bageshri"},
+   	     {"ragaid" : "Pilu",            "artistid":"Enayat;Khan",            "provenance":"mio.to", "CD":"00421","storeid":"001269","title" : "Pilu"},
+   	     {"ragaid" : "Jogiya",          "artistid":"Enayat;Khan",            "provenance":"mio.to", "CD":"00421","storeid":"001270","title" : "Jogiya"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Enayat;Khan",            "provenance":"mio.to", "CD":"00421","storeid":"001271","title" : "Bhairavi"},
+   	     {"ragaid" : "Multani",         "artistid":"Enayat;Khan",            "provenance":"mio.to", "CD":"00421","storeid":"001272","title" : "Multani"},
+   	     {"ragaid" : "Purvi",           "artistid":"Enayat;Khan",            "provenance":"mio.to", "CD":"00421","storeid":"001273","title" : "Purvi"},
+   	     {"ragaid" : "Bhupali",         "artistid":"Enayat;Khan",            "provenance":"mio.to", "CD":"00421","storeid":"001274","title" : "Bhupali"},
+   	     {"ragaid" : "Bhairon",         "artistid":"Enayat;Khan",            "provenance":"mio.to", "CD":"00421","storeid":"001275","title" : "Bhairon"},
+   	     {"ragaid" : "Bihag",           "artistid":"Enayat;Khan",            "provenance":"mio.to", "CD":"00421","storeid":"001276","title" : "Bihag"},
+   	     {"ragaid" : "Khambaj",         "artistid":"Enayat;Khan",            "provenance":"mio.to", "CD":"00421","storeid":"001277","title" : "Khambaj"},
+   	     {"ragaid" : "Bihari",          "artistid":"Enayat;Khan",            "provenance":"mio.to", "CD":"00421","storeid":"001278","title" : "Bihari"}
 
 
   	  ] 
