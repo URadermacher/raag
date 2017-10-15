@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Configuration>
-<Configuration status="WARN">
+<Configuration status="WARN">  <!-- this is the level for log4j-logging. ours see below -->
   <Appenders>
     <Console name="STDOUT">
       <PatternLayout pattern="%d %p %C{1.} [%t] %m%n"/>
@@ -13,7 +13,7 @@
 
   </Appenders>
   <Loggers>
-    <Root level="info">
+    <Root level="INFO"> <!-- level for app -->
       <AppenderRef ref="STDOUT"/>
     </Root>
   </Loggers>

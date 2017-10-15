@@ -1,0 +1,8 @@
+{ "name" : "PublicationType",
+      "entries" : [
+  	     {"name" : "Article" },
+  	     {"name" : "Book" },
+  	     {"name" : "CD-booklet" },
+  	     {"name" : "LP-cover" }
+  	  ]
+    }

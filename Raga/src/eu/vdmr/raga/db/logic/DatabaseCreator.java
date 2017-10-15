@@ -30,9 +30,9 @@ public class DatabaseCreator {
 			}
 		}
 		for (Table table : database.getTables()) {
-			LOG.debug("Table found: " + table);
+			LOG.info("Table found: " + table);
 			String createTableCmd = makeCreateTableCmd(table);
-			LOG.debug("Executing: " + createTableCmd );
+			LOG.info("Executing: " + createTableCmd );
 			s.executeUpdate(createTableCmd);
 		}
 		return database;

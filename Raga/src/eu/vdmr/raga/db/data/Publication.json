@@ -1,0 +1,5 @@
+{ "name" : "Publication",
+      "entries" : [
+  	     {"pubId" : "SL2010A", "authorid":"Swarn;Lata", "typeId":"Book","publisherid":"iUniverse","year":"2010","title":"The Journey of the Sitar in Indian Classical Music - Origin, History and Playing Styles" }
+  	  ]
+    }

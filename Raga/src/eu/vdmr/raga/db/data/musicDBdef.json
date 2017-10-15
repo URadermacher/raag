@@ -166,6 +166,39 @@
   	     {"name" : "synonym", "type" : "TEXT"},
   	     {"name" : "canonic", "type" : "TEXT"}
   	  ]
-    }
+    },
+  	{ "name" : "PublicationType",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "name", "type" : "TEXT"}
+  	  ]
+    },
+  	{ "name" : "Publisher",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "name", "type" : "TEXT"},
+  	     {"name" : "City", "type" : "TEXT"}
+  	  ]
+    },
+  	{ "name" : "Author",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "firstname", "type" : "TEXT"},
+  	     {"name" : "lastname", "type" : "TEXT"}
+  	  ]
+    },
+   	{ "name" : "Publication",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "pubId", "type" : "TEXT"},
+  	     {"name" : "authorid", "type" : "INTEGER", "ref" : "Author,id,firstname;lastname"},
+  	     {"name" : "title", "type" : "TEXT"},
+  	     {"name" : "publisherid", "type" : "INTEGER", "ref" : "Publisher,id,name"},
+  	     {"name" : "year", "type" : "INTEGER"},
+  	     {"name" : "typeId", "type" : "INTEGER", "ref" : "PublicationType,id,name"}
+  	     
+  	  ]
+    }    
+    
   ]
 }
