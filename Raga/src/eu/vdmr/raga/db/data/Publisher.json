@@ -1,5 +1,8 @@
 { "name" : "Publisher",
       "entries" : [
-  	     {"name" : "iUniverse" , "city":"Bloomiongton, IN"}
+  	     {"name" : "iUniverse",                   "city":"Bloomiongton"},
+  	     {"name" : "MIT Press",                   "city":"Cambridge"},
+  	     {"name" : "Oxford University Press",     "city":"Oxford"},
+  	     {"name" : "University of Chicago Press", "city":"Chicago"}
  	  ]
     }

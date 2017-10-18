@@ -1,6 +1,23 @@
 { "name" : "Author",
       "entries" : [
-  	     {"lastname" : "Lata",     "firstname" : "Swarn"}
+  	     {"lastname" : "Bakhle",         "firstname" : "Janaki"},
+  	     {"lastname" : "Chordia",        "firstname" : "Parag"},
+  	     {"lastname" : "Deguchi",        "firstname" : "Sachiko"},
+  	     {"lastname" : "Doneda",         "firstname" : "Annalisa"},
+  	     {"lastname" : "Good",           "firstname" : "Michael"},
+  	     {"lastname" : "Hewlett",        "firstname" : "Walter B."},
+  	     {"lastname" : "Jeanneret",      "firstname" : "Christine"},
+  	     {"lastname" : "Krishnaswami",   "firstname" : "Arvindh"},
+  	     {"lastname" : "Lata",           "firstname" : "Swarn"},
+  	     {"lastname" : "Mavromatis",     "firstname" : "Panayotis"},
+  	     {"lastname" : "Pugin",          "firstname" : "Laurent"},
+  	     {"lastname" : "Rowell",         "firstname" : "Lewis"},
+  	     {"lastname" : "Sapp",           "firstname" : "Craig Stuart"},
+  	     {"lastname" : "Selfridge-Field","firstname" : "Eleanor"},
+  	     {"lastname" : "Shirai",         "firstname" : "Katsuhiko"},
+  	     {"lastname" : "Suyoto",         "firstname" : "Iman S. H."},
+  	     {"lastname" : "Uitdenbogerd",   "firstname" : "Alexandra L."},
+  	     {"lastname" : "Veltman",        "firstname" : "Joshua"}
   	     
      ]
   }

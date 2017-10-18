@@ -1,0 +1,26 @@
+{ "name" : "PublicationAuthor",
+      "entries" : [
+  	     {"pubId" : "BAJA2005A", "authorid":"Janaki;Bakhle" },
+  	     {"pubId" : "CHPA2006A", "authorid":"Parag;Chordia" },
+  	     {"pubId" : "DESA2006A", "authorid":"Sachiko;Deguchi" },
+  	     {"pubId" : "DESA2006A", "authorid":"Katsuhiko;Shirai" },
+  	     {"pubId" : "DOAN2006A", "authorid":"Annalisa;Doneda" },
+  	     {"pubId" : "GOMI2006A", "authorid":"Michael;Good" },
+  	     {"pubId" : "HEWA2010A", "authorid":"Walter B.;Hewlett" },
+  	     {"pubId" : "HEWA2010A", "authorid":"Eleanor;Selfridge-Field" },
+  	     {"pubId" : "JECH2006A", "authorid":"Christine;Jeanneret" },
+  	     {"pubId" : "KRAR2006A", "authorid":"Arvindh;Krishnaswami" },
+  	     {"pubId" : "LASW2010A", "authorid":"Swarn;Lata" },
+  	     {"pubId" : "MAPA2006A", "authorid":"Panayotis;Mavromatis" },
+  	     {"pubId" : "PULA2006A", "authorid":"Laurent;Pugin" },
+  	     {"pubId" : "PULA2006B", "authorid":"Christine;Jeanneret" },
+  	     {"pubId" : "PULA2006B", "authorid":"Laurent;Pugin" },
+  	     {"pubId" : "ROLE1992A", "authorid":"Lewis;Rowell" },
+  	     {"pubId" : "SACR2006A", "authorid":"Sachiko;Deguchi" },
+  	     {"pubId" : "SACR2006A", "authorid":"Craig Stuart;Sapp" },
+  	     {"pubId" : "SEEL2006A", "authorid":"Eleanor;Selfridge-Field" },
+  	     {"pubId" : "UIAL2006A", "authorid":"Iman S. H.;Suyoto" },
+  	     {"pubId" : "UIAL2006A", "authorid":"Alexandra L.;Uitdenbogerd" },
+  	     {"pubId" : "VEJO2006A", "authorid":"Joshua;Veltman" }
+  	  ]
+    }

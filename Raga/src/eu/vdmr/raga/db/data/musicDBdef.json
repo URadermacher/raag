@@ -191,14 +191,23 @@
   	  "columns" : [
   	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
   	     {"name" : "pubId", "type" : "TEXT"},
-  	     {"name" : "authorid", "type" : "INTEGER", "ref" : "Author,id,firstname;lastname"},
   	     {"name" : "title", "type" : "TEXT"},
   	     {"name" : "publisherid", "type" : "INTEGER", "ref" : "Publisher,id,name"},
   	     {"name" : "year", "type" : "INTEGER"},
-  	     {"name" : "typeId", "type" : "INTEGER", "ref" : "PublicationType,id,name"}
+  	     {"name" : "typeId", "type" : "INTEGER", "ref" : "PublicationType,id,name"},
+  	     {"name" : "pub_in", "type" : "TEXT"},
+  	     {"name" : "spec", "type" : "TEXT"}
+  	     
   	     
   	  ]
-    }    
+    },    
+   	{ "name" : "PublicationAuthor",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "pubId", "type" : "TEXT"},
+  	     {"name" : "authorid", "type" : "INTEGER", "ref" : "Author,id,firstname;lastname"}
+  	  ]
+    }
     
   ]
 }

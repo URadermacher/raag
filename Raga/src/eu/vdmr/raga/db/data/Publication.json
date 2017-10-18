@@ -1,5 +1,22 @@
 { "name" : "Publication",
       "entries" : [
-  	     {"pubId" : "SL2010A", "authorid":"Swarn;Lata", "typeId":"Book","publisherid":"iUniverse","year":"2010","title":"The Journey of the Sitar in Indian Classical Music - Origin, History and Playing Styles" }
+  	     {"pubId" : "BAJA2005A", "typeId":"Book",   "publisherid":"Oxford University Press",    "year":"2005","title":"Two Men And Music - Nationalism in he Making of an Indian Classical Tradition" },
+  	     {"pubId" : "CHPA2006A", "typeId":"Article","pub_in":"HEWA2010A",                       "year":"2006","title":"Representation and Automatic Transcription of Solo Tabla Music" },
+  	     {"pubId" : "DESA2006A", "typeId":"Article","pub_in":"HEWA2010A",                       "year":"2006","title":"An Analysis of Melismatic Patterns in Koto Songs" },
+  	     {"pubId" : "DOAN2006A", "typeId":"Article","pub_in":"HEWA2010A",                       "year":"2006","title":"Information Management in the Representation, Storage and Analysis of Byzantine Chant Repertories" },
+  	     {"pubId" : "FOAH2010A", "typeId":"Book",   "publisherid":"MIT Press",                  "year":"2006","title":"Music Analysis - East and West (Computing and Musicology 14, 2005-06)" },
+  	     {"pubId" : "GOMI2006A", "typeId":"Article","pub_in":"HEWA2010A",                       "year":"2006","title":"MusicXML in Commercial Applications" },
+  	     {"pubId" : "JECH2006A", "typeId":"Article","pub_in":"HEWA2010A",                       "year":"2006","title":"ROMA 1600: A Relational Database Tool for Source Study" },
+  	     {"pubId" : "HEWA2010A", "typeId":"Book",   "publisherid":"Oxford University Press",    "year":"1965","title":"The Music of Hindostan", "spec":"reprint of 1914" },
+  	     {"pubId" : "KRAR2006A", "typeId":"Article","pub_in":"HEWA2010A",                       "year":"2006","title":"Melodic Atoms, Ornamentation, Tuning and Intonation in Indian Classical Music" },
+  	     {"pubId" : "LASW2010A", "typeId":"Book",   "publisherid":"iUniverse",                  "year":"2010","title":"The Journey of the Sitar in Indian Classical Music - Origin, History and Playing Styles" },
+  	     {"pubId" : "MAPA2006A", "typeId":"Article","pub_in":"HEWA2010A",                       "year":"2006","title":"A Hidden Markov Model of Melody Production in Greek Church Chant" },
+  	     {"pubId" : "PULA2006A", "typeId":"Article","pub_in":"HEWA2010A",                       "year":"2006","title":"Aruspix: An Automatic Source-Comparison System" },
+  	     {"pubId" : "PULA2006B", "typeId":"Article","pub_in":"HEWA2010A",                       "year":"2006","title":"Wolfgang: Notation Software for Musicologial Applications" },
+  	     {"pubId" : "ROLE1992A", "typeId":"Book",   "publisherid":"University of Chicago Press","year":"1992","title":"Music and Musical Thought in Early India" },
+  	     {"pubId" : "SACR2006A", "typeId":"Article","pub_in":"HEWA2010A",                       "year":"2006","title":"A Humdrum Representation for Japanese Koto Music" },
+  	     {"pubId" : "SEEL2006A", "typeId":"Article","pub_in":"HEWA2010A",                       "year":"2006","title":"XML Applications in Music Scholarship" },
+  	     {"pubId" : "UIAL2006A", "typeId":"Article","pub_in":"HEWA2010A",                       "year":"2006","title":"Microtonal Matching with MITRI" },
+  	     {"pubId" : "VEJO2006A", "typeId":"Article","pub_in":"HEWA2010A",                       "year":"2006","title":"Syllable Placement and Metriccal Hierarchy in Sixteenth-Century Motets" }
   	  ]
     }
