@@ -184,7 +184,9 @@
   	  "columns" : [
   	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
   	     {"name" : "firstname", "type" : "TEXT"},
-  	     {"name" : "lastname", "type" : "TEXT"}
+  	     {"name" : "lastname", "type" : "TEXT"},
+  	     {"name" : "birth", "type" : "INTEGER"},
+  	     {"name" : "death", "type" : "INTEGER"}
   	  ]
     },
    	{ "name" : "Publication",
@@ -194,7 +196,7 @@
   	     {"name" : "title", "type" : "TEXT"},
   	     {"name" : "publisherid", "type" : "INTEGER", "ref" : "Publisher,id,name"},
   	     {"name" : "year", "type" : "INTEGER"},
-  	     {"name" : "typeId", "type" : "INTEGER", "ref" : "PublicationType,id,name"},
+  	     {"name" : "typeid", "type" : "INTEGER", "ref" : "PublicationType,id,name"},
   	     {"name" : "pub_in", "type" : "TEXT"},
   	     {"name" : "spec", "type" : "TEXT"}
   	     
@@ -204,8 +206,21 @@
    	{ "name" : "PublicationAuthor",
   	  "columns" : [
   	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
-  	     {"name" : "pubId", "type" : "TEXT"},
+  	     {"name" : "pubid", "type" : "TEXT"},
   	     {"name" : "authorid", "type" : "INTEGER", "ref" : "Author,id,firstname;lastname"}
+  	  ]
+    },
+   	{ "name" : "Tag",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "txt", "type" : "TEXT"}
+  	  ]
+    },
+   	{ "name" : "PublicationTag",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "pubid", "type" : "TEXT"},
+  	     {"name" : "tagid" , "type": "INTEGER", "ref" : "Tag,id,txt"}
   	  ]
     }
     

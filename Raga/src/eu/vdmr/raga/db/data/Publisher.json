@@ -1,8 +1,10 @@
 { "name" : "Publisher",
       "entries" : [
+  	     {"name" : "Hardpress Publishing",        "city":"Miami"},
   	     {"name" : "iUniverse",                   "city":"Bloomiongton"},
   	     {"name" : "MIT Press",                   "city":"Cambridge"},
   	     {"name" : "Oxford University Press",     "city":"Oxford"},
+  	     {"name" : "Sanjay Prakashan",            "city":"Delhi"},
   	     {"name" : "University of Chicago Press", "city":"Chicago"}
  	  ]
     }

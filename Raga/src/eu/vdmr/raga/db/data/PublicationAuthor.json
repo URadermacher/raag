@@ -5,6 +5,9 @@
   	     {"pubId" : "DESA2006A", "authorid":"Sachiko;Deguchi" },
   	     {"pubId" : "DESA2006A", "authorid":"Katsuhiko;Shirai" },
   	     {"pubId" : "DOAN2006A", "authorid":"Annalisa;Doneda" },
+  	     {"pubId" : "FOAH2010A", "authorid":"A. H.;Fox Strangways" },
+  	     {"pubId" : "FOFRA1806", "authorid":"Francis;Fowke" },
+  	     {"pubId" : "FRGL1882A", "authorid":"Francis;Gladwin" },
   	     {"pubId" : "GOMI2006A", "authorid":"Michael;Good" },
   	     {"pubId" : "HEWA2010A", "authorid":"Walter B.;Hewlett" },
   	     {"pubId" : "HEWA2010A", "authorid":"Eleanor;Selfridge-Field" },
@@ -12,6 +15,9 @@
   	     {"pubId" : "KRAR2006A", "authorid":"Arvindh;Krishnaswami" },
   	     {"pubId" : "LASW2010A", "authorid":"Swarn;Lata" },
   	     {"pubId" : "MAPA2006A", "authorid":"Panayotis;Mavromatis" },
+  	     {"pubId" : "NAAL2007A", "authorid":"Alka;Nagpal" },
+  	     {"pubId" : "OUSW1797A", "authorid":"W.;Ouseley" },
+  	     {"pubId" : "PAJD1809A", "authorid":"J. D.;Paterson" },
   	     {"pubId" : "PULA2006A", "authorid":"Laurent;Pugin" },
   	     {"pubId" : "PULA2006B", "authorid":"Christine;Jeanneret" },
   	     {"pubId" : "PULA2006B", "authorid":"Laurent;Pugin" },
@@ -19,8 +25,11 @@
   	     {"pubId" : "SACR2006A", "authorid":"Sachiko;Deguchi" },
   	     {"pubId" : "SACR2006A", "authorid":"Craig Stuart;Sapp" },
   	     {"pubId" : "SEEL2006A", "authorid":"Eleanor;Selfridge-Field" },
+  	     {"pubId" : "TASO1882A", "authorid":"Sourindro Mohun;Tagore" },
   	     {"pubId" : "UIAL2006A", "authorid":"Iman S. H.;Suyoto" },
   	     {"pubId" : "UIAL2006A", "authorid":"Alexandra L.;Uitdenbogerd" },
-  	     {"pubId" : "VEJO2006A", "authorid":"Joshua;Veltman" }
+  	     {"pubId" : "VEJO2006A", "authorid":"Joshua;Veltman" },
+  	     {"pubId" : "WIJO1784A", "authorid":"William;Jones" },
+  	     {"pubId" : "WINA2006A", "authorid":"N. Augustus;Willard" }
   	  ]
     }
