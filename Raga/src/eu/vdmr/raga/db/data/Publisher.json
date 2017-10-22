@@ -1,7 +1,9 @@
 { "name" : "Publisher",
       "entries" : [
+  	     {"name" : "E.J.Brill",                   "city":"Leiden"},
   	     {"name" : "Hardpress Publishing",        "city":"Miami"},
   	     {"name" : "iUniverse",                   "city":"Bloomiongton"},
+  	     {"name" : "Low Price Publications",      "city":"Delhi"},
   	     {"name" : "MIT Press",                   "city":"Cambridge"},
   	     {"name" : "Oxford University Press",     "city":"Oxford"},
   	     {"name" : "Sanjay Prakashan",            "city":"Delhi"},
