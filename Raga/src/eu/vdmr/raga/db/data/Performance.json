@@ -1292,7 +1292,8 @@
    	     {"ragaid" : "Unknown",         "artistid":"Debashish;Bhattacharya", "provenance":"Spotify","CD":"00423","storeid":"001288","title" : "Aviskaar"},
    	     {"ragaid" : "Unknown",         "artistid":"Debashish;Bhattacharya", "provenance":"Spotify","CD":"00423","storeid":"001289","title" : "Kolkata to Kanyakumari"},
    	     {"ragaid" : "Unknown",         "artistid":"Debashish;Bhattacharya", "provenance":"Spotify","CD":"00423","storeid":"001290","title" : "Maya"},
-   	     {"ragaid" : "Hamir",           "artistid":"Sanjoy;Bandopadhyay",    "provenance":"Spotify","CD":"00424","storeid":"001291","title" : "Hameer"}
+   	     {"ragaid" : "Hamir",           "artistid":"Sanjoy;Bandopadhyay",    "provenance":"Spotify","CD":"00424","storeid":"001291","title" : "Hameer"},
+   	     {"ragaid" : "Chandranandan",   "artistid":"Rajeev;Taranath",        "provenance":"Spotify","CD":"00425","storeid":"001292","title" : "Chandranandan"}
 
 
   	  ] 

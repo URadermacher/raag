@@ -2113,7 +2113,9 @@
    	     {"storeid" : "001289",   "instrumentid":"Guitar",     "artistid":"Debashish;Bhattacharya"},
    	     {"storeid" : "001290",   "instrumentid":"Guitar",     "artistid":"Debashish;Bhattacharya"},
    	     {"storeid" : "001291",   "instrumentid":"Sitar",      "artistid":"Sanjoy;Bandopadhyay"},
-   	     {"storeid" : "001291",   "instrumentid":"Tabla",      "artistid":"Dilip;Mukherjee"}
+   	     {"storeid" : "001291",   "instrumentid":"Tabla",      "artistid":"Dilip;Mukherjee"},
+   	     {"storeid" : "001292",   "instrumentid":"Sarod",      "artistid":"Rajeev;Taranath"},
+   	     {"storeid" : "001292",   "instrumentid":"Tabla",      "artistid":"Anindo;Chatterjee"}
 
 
   ]

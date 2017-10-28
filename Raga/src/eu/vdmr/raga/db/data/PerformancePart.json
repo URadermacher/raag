@@ -1556,7 +1556,10 @@
          {"storeid" : "001288", "volgnr" : "001", "partname":"",                                     "duration" :   "8:32","filename" : "001288_Aviskaar.wav"},
          {"storeid" : "001289", "volgnr" : "001", "partname":"",                                     "duration" :   "8:48","filename" : "001289_Kolkata_to_Kanyakumari.wav"},
          {"storeid" : "001290", "volgnr" : "001", "partname":"",                                     "duration" :   "7:02","filename" : "001290_Maya.wav"},
-         {"storeid" : "001291", "volgnr" : "001", "partname":"",                                     "duration" :  "16:51","filename" : "001291_Hamir.wav"}
+         {"storeid" : "001291", "volgnr" : "001", "partname":"",                                     "duration" :  "16:51","filename" : "001291_Hamir.wav"},
+         {"storeid" : "001292", "volgnr" : "001", "partname":"Alap Jor",                             "duration" :  "22:16","filename" : "001292_1_Chandranandan.wav"},
+         {"storeid" : "001292", "volgnr" : "001", "partname":"Madhya","talid":"Tintal",              "duration" :  "19:05","filename" : "001292_2_Chandranandan.wav"},
+         {"storeid" : "001292", "volgnr" : "001", "partname":"Drut", "talid":"Tintal",               "duration" :  "13:54","filename" : "001292_3_Chandranandan.wav"}
          
          
      ] 
