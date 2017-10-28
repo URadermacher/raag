@@ -1279,7 +1279,20 @@
    	     {"ragaid" : "Bhairon",         "artistid":"Enayat;Khan",            "provenance":"mio.to", "CD":"00421","storeid":"001275","title" : "Bhairon"},
    	     {"ragaid" : "Bihag",           "artistid":"Enayat;Khan",            "provenance":"mio.to", "CD":"00421","storeid":"001276","title" : "Bihag"},
    	     {"ragaid" : "Khambaj",         "artistid":"Enayat;Khan",            "provenance":"mio.to", "CD":"00421","storeid":"001277","title" : "Khambaj"},
-   	     {"ragaid" : "Bihari",          "artistid":"Enayat;Khan",            "provenance":"mio.to", "CD":"00421","storeid":"001278","title" : "Bihari"}
+   	     {"ragaid" : "Bihari",          "artistid":"Enayat;Khan",            "provenance":"mio.to", "CD":"00421","storeid":"001278","title" : "Bihari"},
+   	     {"ragaid" : "Maru_Bihag",      "artistid":"Debashish;Bhattacharya", "provenance":"Spotify","CD":"00422","storeid":"001279","title" : "Maru Bihag"},
+   	     {"ragaid" : "Khamaj",          "artistid":"Debashish;Bhattacharya", "provenance":"Spotify","CD":"00422","storeid":"001280","title" : "Khamaj Aalaap"},
+   	     {"ragaid" : "Shivranjani",     "artistid":"Debashish;Bhattacharya", "provenance":"Spotify","CD":"00422","storeid":"001281","title" : "Anandam in Anandi (Raga Mishra Shivaranjani)"},
+   	     {"ragaid" : "Unknown",         "artistid":"Debashish;Bhattacharya", "provenance":"Spotify","CD":"00423","storeid":"001282","title" : "Sufi Bhakti"},
+   	     {"ragaid" : "Unknown",         "artistid":"Debashish;Bhattacharya", "provenance":"Spotify","CD":"00423","storeid":"001283","title" : "Amrit Anand"},
+   	     {"ragaid" : "Unknown",         "artistid":"Debashish;Bhattacharya", "provenance":"Spotify","CD":"00423","storeid":"001284","title" : "Nivedan"},
+   	     {"ragaid" : "Unknown",         "artistid":"Debashish;Bhattacharya", "provenance":"Spotify","CD":"00423","storeid":"001285","title" : "Ganga Kinare"},
+   	     {"ragaid" : "Unknown",         "artistid":"Debashish;Bhattacharya", "provenance":"Spotify","CD":"00423","storeid":"001286","title" : "Gypsy Anandi"},
+   	     {"ragaid" : "Unknown",         "artistid":"Debashish;Bhattacharya", "provenance":"Spotify","CD":"00423","storeid":"001287","title" : "Rasika"},
+   	     {"ragaid" : "Unknown",         "artistid":"Debashish;Bhattacharya", "provenance":"Spotify","CD":"00423","storeid":"001288","title" : "Aviskaar"},
+   	     {"ragaid" : "Unknown",         "artistid":"Debashish;Bhattacharya", "provenance":"Spotify","CD":"00423","storeid":"001289","title" : "Kolkata to Kanyakumari"},
+   	     {"ragaid" : "Unknown",         "artistid":"Debashish;Bhattacharya", "provenance":"Spotify","CD":"00423","storeid":"001290","title" : "Maya"},
+   	     {"ragaid" : "Hamir",           "artistid":"Sanjoy;Bandopadhyay",    "provenance":"Spotify","CD":"00424","storeid":"001291","title" : "Hameer"}
 
 
   	  ] 

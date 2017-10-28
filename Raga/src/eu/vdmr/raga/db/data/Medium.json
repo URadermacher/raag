@@ -420,7 +420,9 @@
   	     {"refid" : "00418", "publisher" :"Rhythm House",              "date":"0000-00-00","title":"Pt Ram Marathe, The Traditionalis","have":"1","shortid":"MARARA_2"},
   	     {"refid" : "00419", "publisher" :"Legendary Legacy",          "date":"0000-00-00","title":"Vistaar",                        "have":"1","shortid":"MEHTMA_1"},
   	     {"refid" : "00420", "publisher" :"",                          "date":"0000-00-00","title":"Music of India Vol.4",           "have":"1","shortid":"MAYEJO_2"},
-  	     {"refid" : "00421", "publisher" :"",                          "date":"1950-00-00","title":"Prof. Enayet Khan",              "have":"0"}
+  	     {"refid" : "00421", "publisher" :"",                          "date":"1950-00-00","title":"Prof. Enayet Khan",              "have":"0"},
+  	     {"refid" : "00422", "publisher" :"Riverboat",                 "date":"2012-00-00","title":"Live in Calcutta",               "have":"0"},
+  	     {"refid" : "00424", "publisher" :"Sitar in Love",             "date":"2010-07-21","title":"Hameer - An Evening in Love",    "have":"0"}
   	     
 
   	  ], 

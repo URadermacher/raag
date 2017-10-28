@@ -1540,7 +1540,23 @@
          {"storeid" : "001276", "volgnr" : "002", "partname":"Jhala",                                "duration" :   "3:14","filename" : "001276_2_Bihag.wav"},
          {"storeid" : "001277", "volgnr" : "001", "partname":"Gat",                                  "duration" :   "3:30","filename" : "001277_1_Khambaj.wav"},
          {"storeid" : "001277", "volgnr" : "002", "partname":"",                                     "duration" :   "3:06","filename" : "001277_2_Khambaj.wav"},
-         {"storeid" : "001278", "volgnr" : "001", "partname":"Gat",                                  "duration" :   "3:44","filename" : "001278_Bihari.wav"}
+         {"storeid" : "001278", "volgnr" : "001", "partname":"Gat",                                  "duration" :   "3:44","filename" : "001278_Bihari.wav"},
+         {"storeid" : "001279", "volgnr" : "001", "partname":"Alap",                                 "duration" :  "13:41","filename" : "001279_1_Maru_Bihag.wav"},
+         {"storeid" : "001279", "volgnr" : "002", "partname":"Jhor, Jhala",                          "duration" :   "9:30","filename" : "001279_2_Maru_Bihag.wav"},
+         {"storeid" : "001279", "volgnr" : "003", "partname":"Madhyala Gat", "talid":"Rupak",        "duration" :  "12:22","filename" : "001279_3_Maru_Bihag.wav"},
+         {"storeid" : "001279", "volgnr" : "004", "partname":"Drut gat and Khala","talid":"Tintal",  "duration" :  "13:20","filename" : "001279_4_Maru_Bihag.wav"},
+         {"storeid" : "001280", "volgnr" : "001", "partname":"Alap",                                 "duration" :   "7:41","filename" : "001280_Khamaj_Aalaap.wav"},
+         {"storeid" : "001281", "volgnr" : "001", "partname":"",                                     "duration" :   "7:08","filename" : "001281_Mishra_Shivaranjani.wav"},
+         {"storeid" : "001282", "volgnr" : "001", "partname":"",                                     "duration" :   "7:09","filename" : "001282_Sufi_Bhakti.wav"},
+         {"storeid" : "001283", "volgnr" : "001", "partname":"",                                     "duration" :   "3:07","filename" : "001283_Amrit_Anand.wav"},
+         {"storeid" : "001284", "volgnr" : "001", "partname":"",                                     "duration" :   "7:32","filename" : "001284_Nivedan.wav"},
+         {"storeid" : "001285", "volgnr" : "001", "partname":"",                                     "duration" :   "4:57","filename" : "001285_Ganga_Kinare.wav"},
+         {"storeid" : "001286", "volgnr" : "001", "partname":"",                                     "duration" :   "6:27","filename" : "001286_Gypsy_Anandi.wav"},
+         {"storeid" : "001287", "volgnr" : "001", "partname":"",                                     "duration" :   "8:22","filename" : "001287_Rasika.wav"},
+         {"storeid" : "001288", "volgnr" : "001", "partname":"",                                     "duration" :   "8:32","filename" : "001288_Aviskaar.wav"},
+         {"storeid" : "001289", "volgnr" : "001", "partname":"",                                     "duration" :   "8:48","filename" : "001289_Kolkata_to_Kanyakumari.wav"},
+         {"storeid" : "001290", "volgnr" : "001", "partname":"",                                     "duration" :   "7:02","filename" : "001290_Maya.wav"},
+         {"storeid" : "001291", "volgnr" : "001", "partname":"",                                     "duration" :  "16:51","filename" : "001291_Hamir.wav"}
          
          
      ] 
