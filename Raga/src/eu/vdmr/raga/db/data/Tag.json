@@ -4,10 +4,17 @@
   	     {"txt" : "Composition"},
   	     {"txt" : "History"},
   	     {"txt" : "Instrument"},
+  	     {"txt" : "Keyboard"},
+  	     {"txt" : "Rabab"},
   	     {"txt" : "Raga"},
+  	     {"txt" : "Rhythm"},
+  	     {"txt" : "Sarod"},
   	     {"txt" : "Sitar"},
+  	     {"txt" : "Tabla" },
+  	     {"txt" : "Tampura" },
   	     {"txt" : "Theory" },
   	     {"txt" : "Vina" },
+  	     {"txt" : "West" },
   	     
   	     
   	     {"txt" : "Abhir" },
