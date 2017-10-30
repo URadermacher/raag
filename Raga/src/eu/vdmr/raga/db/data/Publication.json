@@ -1,9 +1,13 @@
 { "name" : "Publication",
       "entries" : [
   	     {"pubId" : "BAJA2005A", "typeId":"Book",   "publisherid":"Oxford University Press",    "year":"2005","title":"Two Men And Music - Nationalism in he Making of an Indian Classical Tradition" },
+  	     {"pubId" : "BASH1990A", "typeId":"Book",   "publisherid":"B.R.Paperback",              "year":"2000","title":"Ada-Chowtal on Sitar" },
   	     {"pubId" : "BBKA2010A", "typeId":"Article","pub_in":"BOJO2010A",                       "year":"2010","title":"The Origins and Early Development of Khayal" },
+  	     {"pubId" : "BHVN1934A", "typeId":"Book",   "publisherid":"B.S.Sukhthankar",            "year":"1935","title":"A Short Historical Survey of the Music of Upper India", "spec":"photocopy 1987 by Indian Musicological Society" },
+  	     {"pubId" : "BHVN1940A", "typeId":"Book",   "publisherid":"Manilibai Sukthankar",       "year":"1940","title":"A Comparative Study of Some of the Leading Music Systems of the 15th, 16th, 17th and 18th Centuries", "spec":"reprint 2004 by Low Price Publications, Delhi " },
   	     {"pubId" : "BIGC1880A", "typeId":"Article","pub_in":"TASO1882A",                       "year":"1880","title":"Musical Instruments","spec":"from the ''Industrial Arts of India''" },
   	     {"pubId" : "BLOH1882A", "typeId":"Article","pub_in":"TASO1882A",                       "year":"1882","title":"The Naqqarahkhanah and the Imperial Musicians","spec":"translated by Blochmann" },
+  	     {"pubId" : "BOJO1999A", "typeId":"Book",   "publisherid":"Nimbus",                     "year":"1999","title":"The Raga Guide" },
   	     {"pubId" : "BOJO2010A", "typeId":"Book",   "publisherid":"Manohar",                    "year":"2010","title":"Hindustani Music - Thirteenth to Twentieth Centuries" },
   	     {"pubId" : "BOJO2010B", "typeId":"Article","pub_in":"BOJO2010A",                       "year":"2010","title":"Hindustani Music: A Historical Overview of the Modern Period" },
   	     {"pubId" : "BOJO2010C", "typeId":"Article","pub_in":"BOJO2010A",                       "year":"2010","title":"Early Indian Bowed Instruments and the Origin of the Bow" },
