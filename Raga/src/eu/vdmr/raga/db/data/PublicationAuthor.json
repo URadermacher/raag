@@ -1,5 +1,6 @@
 { "name" : "PublicationAuthor",
       "entries" : [
+  	     {"pubId" : "BAHA2005A", "authorid":"Haresh;Bakshi" },
   	     {"pubId" : "BAJA2005A", "authorid":"Janaki;Bakhle" },
   	     {"pubId" : "BASH1990A", "authorid":"Shripada;Bandyopadhyaya" },
   	     {"pubId" : "BBKA2010A", "authorid":"Katherine;Butler Brown" },
@@ -47,6 +48,7 @@
   	     {"pubId" : "KRAR2006A", "authorid":"Arvindh;Krishnaswami" },
   	     {"pubId" : "LASW2010A", "authorid":"Swarn;Lata" },
   	     {"pubId" : "MAPA2006A", "authorid":"Panayotis;Mavromatis" },
+  	     {"pubId" : "MIAL1993A", "authorid":"Allyn;Miner" },
   	     {"pubId" : "MIAL2010A", "authorid":"Allyn;Miner" },
   	     {"pubId" : "MAPE2010A", "authorid":"Peter;Manuel" },
   	     {"pubId" : "NAAL2007A", "authorid":"Alka;Nagpal" },

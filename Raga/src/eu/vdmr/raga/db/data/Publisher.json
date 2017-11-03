@@ -9,9 +9,11 @@
   	     {"name" : "Manohar",                     "city":"New Delhi"},
   	     {"name" : "MIT Press",                   "city":"Cambridge"},
   	     {"name" : "Nimbus",                      "city":"Charlottesville"},
+  	     {"name" : "Florian Noetzel",             "city":"Wilhemshaven"},
   	     {"name" : "Oxford University Press",     "city":"Oxford"},
   	     {"name" : "Sanjay Prakashan",            "city":"Delhi"},
   	     {"name" : "B.S.Sukhthankar",             "city":"Bombay"},
+  	     {"name" : "Trafford",                    "city":"Crewe"},
   	     {"name" : "University of Chicago Press", "city":"Chicago"}
  	  ]
     }

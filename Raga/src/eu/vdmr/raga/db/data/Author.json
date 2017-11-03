@@ -1,6 +1,7 @@
 { "name" : "Author",
       "entries" : [
   	     {"lastname" : "Bakhle",         "firstname" : "Janaki"},
+  	     {"lastname" : "Bakshi",         "firstname" : "Haresh"},
   	     {"lastname" : "Bandyopadhyaya", "firstname" : "Shripada"},
   	     {"lastname" : "Bhatkhande",     "firstname" : "Vishnu Narayan", "birth" : "1860", "death":"1936"},
   	     {"lastname" : "Birdwood",       "firstname" : "George C. M."},

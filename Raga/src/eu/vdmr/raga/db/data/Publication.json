@@ -1,5 +1,6 @@
 { "name" : "Publication",
       "entries" : [
+  	     {"pubId" : "BAHA2005A", "typeId":"Book",   "publisherid":"Trafford",                   "year":"2005","title":"101 Raga-s For the 21st Century" },
   	     {"pubId" : "BAJA2005A", "typeId":"Book",   "publisherid":"Oxford University Press",    "year":"2005","title":"Two Men And Music - Nationalism in he Making of an Indian Classical Tradition" },
   	     {"pubId" : "BASH1990A", "typeId":"Book",   "publisherid":"B.R.Paperback",              "year":"2000","title":"Ada-Chowtal on Sitar" },
   	     {"pubId" : "BBKA2010A", "typeId":"Article","pub_in":"BOJO2010A",                       "year":"2010","title":"The Origins and Early Development of Khayal" },
@@ -40,6 +41,7 @@
   	     {"pubId" : "LASW2010A", "typeId":"Book",   "publisherid":"iUniverse",                  "year":"2010","title":"The Journey of the Sitar in Indian Classical Music - Origin, History and Playing Styles" },
   	     {"pubId" : "MAPA2006A", "typeId":"Article","pub_in":"HEWA2010A",                       "year":"2006","title":"A Hidden Markov Model of Melody Production in Greek Church Chant" },
   	     {"pubId" : "MAPE2010A", "typeId":"Article","pub_in":"BOJO2010A",                       "year":"2010","title":"Thumri, Ghazal and Modernity in Hindustani Music Culture" },
+  	     {"pubId" : "MIAL1993A", "typeId":"Book",   "publisherid":"Florian Noetzel",            "year":"1993","title":"Sitar and Sarod in the 18th and 19th Centuries", "spec":"Intercultural Music StudiesVol, ed. Max Peter Baumann, vol 5" },
   	     {"pubId" : "MIAL2010A", "typeId":"Article","pub_in":"BOJO2010A",                       "year":"2010","title":"Sources on the Early History of the Tampur, Rabab, Sitar and Sarod" },
   	     {"pubId" : "NAAL2007A", "typeId":"Book",   "publisherid":"Sanjay Prakashan",           "year":"2007","title":"Compositions in Ragas of Similar Notes in Hindustani Music" },
   	     {"pubId" : "NATJ1882A", "typeId":"Article","pub_in":"TASO1882A",                       "year":"1882","title":"Music of the Hindus" , "spec":"from ''Musurgia Vocalis''"},
