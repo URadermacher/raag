@@ -1559,8 +1559,29 @@
          {"storeid" : "001291", "volgnr" : "001", "partname":"",                                     "duration" :  "16:51","filename" : "001291_Hamir.wav"},
          {"storeid" : "001292", "volgnr" : "001", "partname":"Alap Jor",                             "duration" :  "22:16","filename" : "001292_1_Chandranandan.wav"},
          {"storeid" : "001292", "volgnr" : "001", "partname":"Madhya","talid":"Tintal",              "duration" :  "19:05","filename" : "001292_2_Chandranandan.wav"},
-         {"storeid" : "001292", "volgnr" : "001", "partname":"Drut", "talid":"Tintal",               "duration" :  "13:54","filename" : "001292_3_Chandranandan.wav"}
-         
+         {"storeid" : "001292", "volgnr" : "001", "partname":"Drut", "talid":"Tintal",               "duration" :  "13:54","filename" : "001292_3_Chandranandan.wav"},
+         {"storeid" : "001293", "volgnr" : "001", "partname":"Alap, Jor",                            "duration" :  "23:47","filename" : "001293_1_Darbari.wav"},
+         {"storeid" : "001293", "volgnr" : "002", "partname":"Jhalla",                               "duration" :   "7:55","filename" : "001293_2_Darbari.wav"},
+         {"storeid" : "001294", "volgnr" : "001", "partname":"",                                     "duration" :  "16:42","filename" : "001294_Kafi.wav"},
+         {"storeid" : "001295", "volgnr" : "001", "partname":"",                                     "duration" :  "19:06","filename" : "001295_Alahia_Bilaval.wav"},
+         {"storeid" : "001296", "volgnr" : "001", "partname":"Aktal en Tintal",                      "duration" :  "19:06","filename" : "001296_Basant_Bahar.wav"},
+         {"storeid" : "001297", "volgnr" : "001", "partname":"","talid":"Dadra",                     "duration" :  "19:06","filename" : "001297_Bhairavi.wav"},
+         {"storeid" : "001298", "volgnr" : "001", "partname":"","talid":"Tintal",                    "duration" :  "19:06","filename" : "001298_Tabla_Solo_in_Tintal.wav"},
+         {"storeid" : "001299", "volgnr" : "001", "partname":"",                                     "duration" :  "33:22","filename" : "001299_Basant_Mukhari.wav"},
+         {"storeid" : "001300", "volgnr" : "001", "partname":"",                                     "duration" :  "32:21","filename" : "001300_Bairagi.wav"},
+         {"storeid" : "001301", "volgnr" : "001", "partname":"Khayal", "talid":"Ektal",              "duration" :  "21:12","filename" : "001301_Gurji_Todi.wav"},
+         {"storeid" : "001302", "volgnr" : "001", "partname":"Khayal Jhapal and Tinal",              "duration" :  "23:38","filename" : "001302_Jog.wav"},
+         {"storeid" : "001303", "volgnr" : "001", "partname":"Khayal, Jhaptal, Adha, Ekal",          "duration" :  "24:59","filename" : "001303_Malkauns.wav"},
+         {"storeid" : "001304", "volgnr" : "001", "partname":"",                                     "duration" :  "29:42","filename" : "001304_Puriya.wav"},
+         {"storeid" : "001305", "volgnr" : "001", "partname":"",                                     "duration" :  "10:19","filename" : "001305_Gurjari_Todi.wav"},
+         {"storeid" : "001306", "volgnr" : "001", "partname":"",                                     "duration" :  "10:11","filename" : "001306_Jaunpuri.wav"},
+         {"storeid" : "001307", "volgnr" : "001", "partname":"",                                     "duration" :   "7:45","filename" : "001307_Bhairav.wav"},
+         {"storeid" : "001308", "volgnr" : "001", "partname":"Alap, Jhaptan & Tital",                "duration" :  "39:48","filename" : "001308_Kirwani.wav"},
+         {"storeid" : "001309", "volgnr" : "001", "partname":"Alap & Gat","talid":"Tintal",          "duration" :  "34:05","filename" : "001309_Jhinjhoti.wav"},
+         {"storeid" : "001310", "volgnr" : "001", "partname":"",                                     "duration" :  "44:52","filename" : "001310_Raga_In_Marwa_That.wav"},
+         {"storeid" : "001311", "volgnr" : "001", "partname":"",                                     "duration" :  "24:27","filename" : "001311_Jarasringar.wav"},
+         {"storeid" : "001312", "volgnr" : "001", "partname":"",                                     "duration" :   "2:33","filename" : "001312_Unknown.wav"}
+          
          
      ] 
   }

@@ -423,7 +423,14 @@
   	     {"refid" : "00421", "publisher" :"",                          "date":"1950-00-00","title":"Prof. Enayet Khan",              "have":"0"},
   	     {"refid" : "00422", "publisher" :"Riverboat",                 "date":"2012-00-00","title":"Live in Calcutta",               "have":"0"},
   	     {"refid" : "00424", "publisher" :"Sitar in Love",             "date":"2010-07-21","title":"Hameer - An Evening in Love",    "have":"0"},
-  	     {"refid" : "00425", "publisher" :"Navras"       ,             "date":"2001-09-18","title":"Over the Moon",                  "have":"0"}
+  	     {"refid" : "00425", "publisher" :"Navras"       ,             "date":"2001-09-18","title":"Over the Moon",                  "have":"0"},
+  	     {"refid" : "00426", "publisher" :"",                          "date":"0000-00-00","title":"Mahmud Mirza",                   "have":"1","shortid":"MIRZMA_1"},
+  	     {"refid" : "00427", "publisher" :"Ravi Shankar Music Circle", "date":"1979-00-00","title":"Lal Mani Mishra",                "have":"1","shortid":"MISHMA_1"},
+  	     {"refid" : "00428", "publisher" :"Hindusthan Records",        "date":"0000-00-00","title":"Basant Mukhari and Bairagi",     "have":"1","shortid":"MISHRS_1"},
+  	     {"refid" : "00429", "publisher" :"Saregama",                  "date":"0000-00-00","title":"Khayal",                         "have":"1","shortid":"MISHRS_2"},
+  	     {"refid" : "00430", "publisher" :"Music Today",               "date":"0000-00-00","title":"Maestro''s Choice",              "have":"1","shortid":"MISHRS_3"},
+  	     {"refid" : "00431", "publisher" :"Musicians Guild",           "date":"0000-00-00","title":"presents Ganesh Mohan Pradeep Kumar Barot","have":"1","shortid":"MOHAGA_1"},
+  	     {"refid" : "00432", "publisher" :"Bihaan Music",              "date":"2004-00-00","title":"Offerings, Radhika Mohan Moitra","have":"1","shortid":"MOITRA_1"}
   	     
 
   	  ], 

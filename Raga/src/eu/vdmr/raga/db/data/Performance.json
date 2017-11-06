@@ -1293,7 +1293,30 @@
    	     {"ragaid" : "Unknown",         "artistid":"Debashish;Bhattacharya", "provenance":"Spotify","CD":"00423","storeid":"001289","title" : "Kolkata to Kanyakumari"},
    	     {"ragaid" : "Unknown",         "artistid":"Debashish;Bhattacharya", "provenance":"Spotify","CD":"00423","storeid":"001290","title" : "Maya"},
    	     {"ragaid" : "Hamir",           "artistid":"Sanjoy;Bandopadhyay",    "provenance":"Spotify","CD":"00424","storeid":"001291","title" : "Hameer"},
-   	     {"ragaid" : "Chandranandan",   "artistid":"Rajeev;Taranath",        "provenance":"Spotify","CD":"00425","storeid":"001292","title" : "Chandranandan"}
+   	     {"ragaid" : "Chandranandan",   "artistid":"Rajeev;Taranath",        "provenance":"Spotify","CD":"00425","storeid":"001292","title" : "Chandranandan"},
+   	     {"ragaid" : "Darbari",         "artistid":"Mahmud;Mirza",           "provenance":"CD,1",   "CD":"00426","storeid":"001293","title" : "Darbari"},
+   	     {"ragaid" : "Kafi",            "artistid":"Mahmud;Mirza",           "provenance":"CD,1",   "CD":"00426","storeid":"001294","title" : "Kafi"},
+   	     {"ragaid" : "Bilaval",         "artistid":"Mahmud;Mirza",           "provenance":"CD,1",   "CD":"00426","storeid":"001295","title" : "Alahia Bilaval"},
+   	     {"ragaid" : "Basant_Bahar",    "artistid":"Lal Mani;Mishra",        "provenance":"CD,1",   "CD":"00427","storeid":"001296","title" : "Basant Bajar in Aktal en Tintal", "date":"1978-03-18", "place":"Herrick Chapel, Occidental College, Los Angeles"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Lal Mani;Mishra",        "provenance":"CD,2",   "CD":"00427","storeid":"001297","title" : "Bhairavi in Dadra ", "date":"1978-03-18", "place":"Herrick Chapel, Occidental College, Los Angeles"},
+   	     {"ragaid" : "Unknown",         "artistid":"Chotey;Lal",             "provenance":"CD,3",   "CD":"00427","storeid":"001298","title" : "tabla solo in tintal", "date":"1978-03-18", "place":"Herrick Chapel, Occidental College, Los Angeles"},
+   	     {"ragaid" : "Basant_Mukhari",  "artistid":"Rajan;Mishra",           "provenance":"CD,2",   "CD":"00428","storeid":"001299","title" : "Basant Mukhari"},
+   	     {"ragaid" : "Bairagi",         "artistid":"Rajan;Mishra",           "provenance":"CD,1",   "CD":"00428","storeid":"001300","title" : "Bairagi"},
+   	     {"ragaid" : "Gujri_Todi",      "artistid":"Rajan;Mishra",           "provenance":"CD,1",   "CD":"00429","storeid":"001301","title" : "Raga Gujri Todi"},
+   	     {"ragaid" : "Jog",             "artistid":"Rajan;Mishra",           "provenance":"CD,2",   "CD":"00429","storeid":"001302","title" : "Raga Jog"},
+   	     {"ragaid" : "Malkauns",        "artistid":"Rajan;Mishra",           "provenance":"CD,3",   "CD":"00429","storeid":"001303","title" : "Raga Malkauns"},
+   	     {"ragaid" : "Puriya",          "artistid":"Rajan;Mishra",           "provenance":"CD,1",   "CD":"00430","storeid":"001304","title" : "Raga Puriya"},
+   	     {"ragaid" : "Gujri_Todi",      "artistid":"Rajan;Mishra",           "provenance":"CD,2",   "CD":"00430","storeid":"001305","title" : "Raga Gurjari Todi"},
+   	     {"ragaid" : "Jaunpuri",        "artistid":"Rajan;Mishra",           "provenance":"CD,3",   "CD":"00430","storeid":"001306","title" : "Raga Jaunpuri"},
+   	     {"ragaid" : "Bhairava",        "artistid":"Rajan;Mishra",           "provenance":"CD,4",   "CD":"00430","storeid":"001307","title" : "Raga Bhairav"},
+   	     {"ragaid" : "Kirwani",         "artistid":"Ganesh;Mohan",           "provenance":"CD,1",   "CD":"00431","storeid":"001308","title" : "Raga Kirwani"},
+   	     {"ragaid" : "Jhinjhoti",       "artistid":"Ganesh;Mohan",           "provenance":"CD,2",   "CD":"00431","storeid":"001309","title" : "Raga Jhinjhoti"},
+   	     {"ragaid" : "Unknown",         "artistid":"Radhika;Mohan Moitra",   "provenance":"CD,1",   "CD":"00432","storeid":"001310","title" : "A rare raga in the Marwa That"},
+   	     {"ragaid" : "Unknown",         "artistid":"Radhika;Mohan Moitra",   "provenance":"CD,2",   "CD":"00432","storeid":"001311","title" : "Harasringar"},
+   	     {"ragaid" : "Unknown",         "artistid":"Radhika;Mohan Moitra",   "provenance":"CD,3",   "CD":"00432","storeid":"001312","title" : "??"}
+
+
+
 
 
   	  ] 
