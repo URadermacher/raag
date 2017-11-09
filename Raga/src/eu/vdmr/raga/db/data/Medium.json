@@ -441,7 +441,12 @@
   	     {"refid" : "00440", "publisher" :"Inreco",                    "date":"1979-00-00","title":"Sitar Wizard Budhaditya Mukherjee","have":"1","shortid":"MUKHBU_5"},
   	     {"refid" : "00441", "publisher" :"",                          "date":"0000-00-00","title":"Budhaditya Mukherjee",           "have":"1","shortid":"MUKHBU_6"},
   	     {"refid" : "00442", "publisher" :"",                          "date":"0000-00-00","title":"Budhaditya Mukherjee",           "have":"1","shortid":"MUKHBU_7"},
-  	     {"refid" : "00443", "publisher" :"",                          "date":"0000-00-00","title":"Budhaditya Mukherjee on youtube","have":"1","shortid":"MUKHBU_8"}
+  	     {"refid" : "00443", "publisher" :"",                          "date":"0000-00-00","title":"Budhaditya Mukherjee on youtube","have":"1","shortid":"MUKHBU_8"},
+  	     {"refid" : "00444", "publisher" :"Music Today",               "date":"2006-00-00","title":"Faces of Raga",                  "have":"1","shortid":"MUKHBU_9"},
+  	     {"refid" : "00445", "publisher" :"Saregama",                  "date":"1995-00-00","title":"Soul Of India",                  "have":"1","shortid":"MUKHBU_10"},
+  	     {"refid" : "00446", "publisher" :"Navras",                    "date":"2005-10-25","title":"Praatah",                        "have":"1","shortid":"MUKHBU_11"},
+  	     {"refid" : "00447", "publisher" :"Aimrec",                    "date":"1991-03-13","title":"Sitar Recital",                  "have":"1","shortid":"MUKHBU_12"},
+  	     {"refid" : "00448", "publisher" :"Saregama",                  "date":"2008-00-00","title":"Soul of India",                  "have":"1","shortid":"MUKHBU_13"}
   	     
 
   	  ], 
