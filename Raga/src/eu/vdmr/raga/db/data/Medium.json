@@ -446,8 +446,26 @@
   	     {"refid" : "00445", "publisher" :"Saregama",                  "date":"1995-00-00","title":"Soul Of India",                  "have":"1","shortid":"MUKHBU_10"},
   	     {"refid" : "00446", "publisher" :"Navras",                    "date":"2005-10-25","title":"Praatah",                        "have":"1","shortid":"MUKHBU_11"},
   	     {"refid" : "00447", "publisher" :"Aimrec",                    "date":"1991-03-13","title":"Sitar Recital",                  "have":"1","shortid":"MUKHBU_12"},
-  	     {"refid" : "00448", "publisher" :"Saregama",                  "date":"2008-00-00","title":"Soul of India",                  "have":"1","shortid":"MUKHBU_13"}
-  	     
+  	     {"refid" : "00448", "publisher" :"Saregama",                  "date":"2008-00-00","title":"Soul of India",                  "have":"1","shortid":"MUKHBU_13"},
+  	     {"refid" : "00449", "publisher" :"",                          "date":"0000-00-00","title":"Manilal Nag",                    "have":"1","shortid":"NAGMAN_1"},
+  	     {"refid" : "00450", "publisher" :"Rhyme Records",             "date":"2002-07-01","title":"Artistry",                       "have":"1","shortid":"NAGMAN_2"},
+  	     {"refid" : "00451", "publisher" :"Rhyme Records",             "date":"1998-04-08","title":"Jugalbandi",                     "have":"1","shortid":"NAGMAN_3"},
+  	     {"refid" : "00452", "publisher" :"Bihaan Music",              "date":"2004-00-00","title":"Twilight",                       "have":"1","shortid":"NAGMIT_1"},
+  	     {"refid" : "00453", "publisher" :"",                          "date":"0000-00-00","title":"Matsya Purbashi",                "have":"1","shortid":"NAIDJA_1"},
+  	     {"refid" : "00454", "publisher" :"CBS",                       "date":"1989-03-00","title":"Pandit Chandrashekhar Naringrekar","have":"1","shortid":"NARICH_1"},
+  	     {"refid" : "00455", "publisher" :"",                          "date":"0000-00-00","title":"Bilaval en Jaunpuri",            "have":"1","shortid":"NARARA_1"},
+  	     {"refid" : "00456", "publisher" :"",                          "date":"0000-00-00","title":"inde du nord",                   "have":"1","shortid":"NARARA_3"},
+  	     {"refid" : "00457", "publisher" :"Polydor",                   "date":"0000-00-00","title":"Pandit Ram Narayan the Sarangi Maestro","have":"1","shortid":"NARARA_4"},
+  	     {"refid" : "00458", "publisher" :"",                          "date":"0000-00-00","title":"Ram Narayan",                    "have":"1","shortid":"NARARA_5"},
+  	     {"refid" : "00459", "publisher" :"Music Today",               "date":"1991-00-00","title":"Maestro''s Choice",              "have":"1","shortid":"NARARA_6"},
+  	     {"refid" : "00460", "publisher" :"Nimbus",                    "date":"1991-04-00","title":"Shankara Jogia",                 "have":"1","shortid":"NARARA_7"},
+  	     {"refid" : "00461", "publisher" :"",                          "date":"0000-00-00","title":"Night Ragas Vol Two",            "have":"1","shortid":"NIGHTR_2"},
+  	     {"refid" : "00462", "publisher" :"",                          "date":"0000-00-00","title":"Night Ragas Vol Three",          "have":"1","shortid":"NIGHTR_3"},
+  	     {"refid" : "00463", "publisher" :"EMI",                       "date":"0000-00-00","title":"Melody and Grace",               "have":"1","shortid":"PARIAR_1"},
+  	     {"refid" : "00464", "publisher" :"",                          "date":"0000-00-00","title":"Jog Kauns",                      "have":"1","shortid":"PARIAR_2"},
+  	     {"refid" : "00465", "publisher" :"",                          "date":"0000-00-00","title":"Classic Compositions Vol 1",     "have":"1","shortid":"PARIAR_3"},
+  	     {"refid" : "00466", "publisher" :"",                          "date":"0000-00-00","title":"Classic Compositions Vol 2",     "have":"1","shortid":"PARIAR_4"}
+
 
   	  ], 
   	}
