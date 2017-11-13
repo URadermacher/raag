@@ -1403,8 +1403,30 @@
    	     {"ragaid" : "Abhogi_Kanada",   "artistid":"Arvind;Parikh",          "provenance":"CD,2",   "CD":"00465","storeid":"001399","title" : "Abhogi Kanada"},
    	     {"ragaid" : "Bilaval",         "artistid":"Arvind;Parikh",          "provenance":"CD,1",   "CD":"00466","storeid":"001400","title" : "Bilaval"},
    	     {"ragaid" : "Purvi",           "artistid":"Arvind;Parikh",          "provenance":"CD,2",   "CD":"00466","storeid":"001401","title" : "Purvi #1"},
-   	     {"ragaid" : "Purvi",           "artistid":"Arvind;Parikh",          "provenance":"CD,3",   "CD":"00466","storeid":"001402","title" : "Purvi #2"}
-
+   	     {"ragaid" : "Purvi",           "artistid":"Arvind;Parikh",          "provenance":"CD,3",   "CD":"00466","storeid":"001402","title" : "Purvi #2"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Arvind;Parikh",          "provenance":"CD,1",   "CD":"00467","storeid":"001403","title" : "Bhairavi"},
+   	     {"ragaid" : "Unknown",         "artistid":"Arvind;Parikh",          "provenance":"CD,2",   "CD":"00467","storeid":"001404","title" : "Unknown"},
+   	     {"ragaid" : "Unknown",         "artistid":"Arvind;Parikh",          "provenance":"CD,3",   "CD":"00467","storeid":"001405","title" : "Unknown"},
+   	     {"ragaid" : "Gurjari_Todi",    "artistid":"Shahid;Parvez",          "provenance":"CD,1",   "CD":"00468","storeid":"001406","title" : "Gurjari Todi"},
+   	     {"ragaid" : "Rageshri",        "artistid":"Shahid;Parvez",          "provenance":"CD,2",   "CD":"00468","storeid":"001407","title" : "Rageshri"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Shahid;Parvez",          "provenance":"CD,3",   "CD":"00468","storeid":"001408","title" : "Dhun in Bhairavi"},
+   	     {"ragaid" : "Shyam_Kalyan",    "artistid":"Shahid;Parvez",          "provenance":"CD,1",   "CD":"00469","storeid":"001409","title" : "Shyam_Kalyan"},
+   	     {"ragaid" : "Jog",             "artistid":"Shahid;Parvez",          "provenance":"CD,1",   "CD":"00470","storeid":"001410","title" : "Jog"},
+   	     {"ragaid" : "Deshkar",         "artistid":"Shahid;Parvez",          "provenance":"CD,1",   "CD":"00471","storeid":"001411","title" : "Deshkar"},
+   	     {"ragaid" : "Mand",            "artistid":"Shahid;Parvez",          "provenance":"CD,2",   "CD":"00471","storeid":"001412","title" : "Mand"},
+   	     {"ragaid" : "Hamsadhwani",     "artistid":"Shahid;Parvez",          "provenance":"CD,3",   "CD":"00471","storeid":"001413","title" : "Hamsadhwani"},
+   	     {"ragaid" : "Tilak_Kamod",     "artistid":"Shahid;Parvez",          "provenance":"CD,4",   "CD":"00471","storeid":"001414","title" : "Tilak_Kamod"},
+   	     {"ragaid" : "Desh",            "artistid":"Shahid;Parvez",          "provenance":"CD,1",   "CD":"00472","storeid":"001415","title" : "Desh"},
+   	     {"ragaid" : "Tilak_Kamod",     "artistid":"Shahid;Parvez",          "provenance":"CD,2",   "CD":"00472","storeid":"001416","title" : "Tilak_Kamod"},
+   	     {"ragaid" : "Unknown",         "artistid":"Shahid;Parvez",          "provenance":"CD,3",   "CD":"00472","storeid":"001417","title" : "Dhun"},
+   	     {"ragaid" : "Jhinjhoti",       "artistid":"Shahid;Parvez",          "provenance":"CD,1",   "CD":"00473","storeid":"001418","title" : "Jhinjhoti"},
+   	     {"ragaid" : "Kedar",           "artistid":"Shahid;Parvez",          "provenance":"CD,2",   "CD":"00473","storeid":"001419","title" : "Kedar"},
+   	     {"ragaid" : "Unknown",         "artistid":"Shahid;Parvez",          "provenance":"CD,3",   "CD":"00473","storeid":"001420","title" : "Dhun"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Balaram;Pathak",         "provenance":"CD,1",   "CD":"00474","storeid":"001421","title" : "Bhairavi", "date":"1986-04-05", "place":"Mozes en Aaronkerk, Amsterdam"},
+   	     {"ragaid" : "Pilu",            "artistid":"Balaram;Pathak",         "provenance":"CD,2",   "CD":"00474","storeid":"001422","title" : "Pilu", "date":"1986-04-05", "place":"Mozes en Aaronkerk, Amsterdam"},
+   	     {"ragaid" : "Unknown",         "artistid":"Balaram;Pathak",         "provenance":"CD,3",   "CD":"00474","storeid":"001423","title" : "Chaiti Dhun", "date":"1986-04-05", "place":"Mozes en Aaronkerk, Amsterdam"},
+   	     {"ragaid" : "Malkauns",        "artistid":"Ajay;Pohankar",          "provenance":"CD,1",   "CD":"00475","storeid":"001424","title" : "Malkauns"},
+   	     {"ragaid" : "Unknown",         "artistid":"Ajay;Pohankar",          "provenance":"CD,4",   "CD":"00475","storeid":"001425","title" : "Bhajan"}
 
 
   	  ] 
