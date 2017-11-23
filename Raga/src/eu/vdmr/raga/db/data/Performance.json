@@ -1426,7 +1426,17 @@
    	     {"ragaid" : "Pilu",            "artistid":"Balaram;Pathak",         "provenance":"CD,2",   "CD":"00474","storeid":"001422","title" : "Pilu", "date":"1986-04-05", "place":"Mozes en Aaronkerk, Amsterdam"},
    	     {"ragaid" : "Unknown",         "artistid":"Balaram;Pathak",         "provenance":"CD,3",   "CD":"00474","storeid":"001423","title" : "Chaiti Dhun", "date":"1986-04-05", "place":"Mozes en Aaronkerk, Amsterdam"},
    	     {"ragaid" : "Malkauns",        "artistid":"Ajay;Pohankar",          "provenance":"CD,1",   "CD":"00475","storeid":"001424","title" : "Malkauns"},
-   	     {"ragaid" : "Unknown",         "artistid":"Ajay;Pohankar",          "provenance":"CD,4",   "CD":"00475","storeid":"001425","title" : "Bhajan"}
+   	     {"ragaid" : "Unknown",         "artistid":"Ajay;Pohankar",          "provenance":"CD,4",   "CD":"00475","storeid":"001425","title" : "Bhajan"},
+   	     {"ragaid" : "Bhatiyar",        "artistid":"Jagdish;Prasad",         "provenance":"CD,1",   "CD":"00476","storeid":"001426","title" : "Bhatiyar, Barani Na Jaaye; Kantha Bidesa Ji Mharo"},
+   	     {"ragaid" : "Bhupali",         "artistid":"Jagdish;Prasad",         "provenance":"CD,2",   "CD":"00476","storeid":"001427","title" : "Bhoop"},
+   	     {"ragaid" : "Vachaspati",      "artistid":"Jagdish;Prasad",         "provenance":"CD,1",   "CD":"00477","storeid":"001428","title" : "Vachaspati, Sancho Tero Naam and Chatur Sughar Balma"},
+   	     {"ragaid" : "Desh",            "artistid":"Jagdish;Prasad",         "provenance":"CD,2",   "CD":"00477","storeid":"001429","title" : "Aori More Piya Nahin Ghar Aaye"},
+   	     {"ragaid" : "Pahadi",          "artistid":"Jagdish;Prasad",         "provenance":"CD,3",   "CD":"00477","storeid":"001430","title" : "Akeli Dar Laage"},
+   	     {"ragaid" : "Purbi",           "artistid":"Raghunat;Prasanna",      "provenance":"CD,1",   "CD":"00478","storeid":"001431","title" : "Poorbi Dhun"},
+   	     {"ragaid" : "Maru_Bihag",      "artistid":"Raghunat;Prasanna",      "provenance":"CD,2",   "CD":"00478","storeid":"001432","title" : "Maru Bihag"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"N.Rajam",                "provenance":"CD,1",   "CD":"00479","storeid":"001433","title" : "Bhairavi"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"N.Rajam",                "provenance":"CD,2",   "CD":"00479","storeid":"001434","title" : "Dadra in Bhairavi"},
+   	     {"ragaid" : "Khamaj",          "artistid":"N.Rajam",                "provenance":"CD,3",   "CD":"00479","storeid":"001435","title" : "Thumri in Khamaj"}
 
 
   	  ] 

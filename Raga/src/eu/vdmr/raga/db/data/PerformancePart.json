@@ -1725,6 +1725,17 @@
          {"storeid" : "001424", "volgnr" : "002", "partname":"", "talid":"Tintal",                   "duration" :  "17:46","filename" : "001424_2_Malkauns.wav"},
          {"storeid" : "001424", "volgnr" : "003", "partname":"", "talid":"Ektal",                    "duration" :   "7:31","filename" : "001424_3_Malkauns.wav"},
          {"storeid" : "001425", "volgnr" : "001", "partname":"",                                     "duration" :   "5:03","filename" : "001425_Bhajan.wav"},
+         {"storeid" : "001426", "volgnr" : "001", "partname":"Vilambit en Drut", "talid":"Ektal",    "duration" :  "29:04","filename" : "001426_Bhatiyar.wav"},
+         {"storeid" : "001427", "volgnr" : "001", "partname":"Vilambit ektal en Drut tintal",        "duration" :  "29:33","filename" : "001427_Bhoop.wav"},
+         {"storeid" : "001428", "volgnr" : "001", "partname":"vilambi ektal and drut tintal",        "duration" :  "21:20","filename" : "001428_Vachaspati.wav"},
+         {"storeid" : "001429", "volgnr" : "001", "partname":"Thumri","talid":"Tintal",              "duration" :  "10:55","filename" : "001429_Thumri_Des.wav"},
+         {"storeid" : "001430", "volgnr" : "001", "partname":"Thumri", "talid":"Dadra",              "duration" :  "10:21","filename" : "001430_Thumri_Pahadi.wav"},
+         {"storeid" : "001431", "volgnr" : "001", "partname":"",                                     "duration" :   "9:56","filename" : "001431_Purbi_Dhun.wav"},
+         {"storeid" : "001432", "volgnr" : "001", "partname":"",                                     "duration" :  "26:38","filename" : "001432_Maru_Bihag.wav"},
+         {"storeid" : "001433", "volgnr" : "001", "partname":"",                                     "duration" :  "26:38","filename" : "001433_Bhairavi.wav"},         
+         {"storeid" : "001434", "volgnr" : "001", "partname":"Dadra",                                "duration" :  "26:38","filename" : "001434_Bhairavi.wav"},
+         {"storeid" : "001435", "volgnr" : "001", "partname":"Thumri",                               "duration" :  "26:38","filename" : "001435_Khamaj.wav"}
+         
          
          
          

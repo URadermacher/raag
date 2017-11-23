@@ -473,7 +473,12 @@
    	     {"refid" : "00472", "publisher" :"Rhyme Records",             "date":"2006-03-21","title":"Live",                           "have":"1","shortid":"PARVSH_5"},
    	     {"refid" : "00473", "publisher" :"Sagarika",                  "date":"2011-00-00","title":"Classics for Pleasure",          "have":"1","shortid":"PARVSH_6"},
    	     {"refid" : "00474", "publisher" :"",                          "date":"0000-00-00","title":"Inde du Nord",                   "have":"1","shortid":"PATHPA_1"},
-   	     {"refid" : "00475", "publisher" :"Music Today",               "date":"2006-00-00","title":"Faces of Raga",                  "have":"1","shortid":"POHAAJ_1"}
+   	     {"refid" : "00475", "publisher" :"Music Today",               "date":"2006-00-00","title":"Faces of Raga",                  "have":"1","shortid":"POHAAJ_1"},
+   	     {"refid" : "00476", "publisher" :"All India Radio",           "date":"1995-00-00","title":"Classical Vocal",                "have":"1","shortid":"PRASJA_1"},
+   	     {"refid" : "00477", "publisher" :"Gramophone Company of India","date":"1981-00-00","title":"Musical Imagery",               "have":"1","shortid":"PRASJA_2"},
+   	     {"refid" : "00478", "publisher" :"JVC",                       "date":"0000-00-00","title":"Music of the Shahnai",           "have":"1","shortid":"PRASRA_1"},
+   	     {"refid" : "00479", "publisher" :"Sense",                     "date":"0000-00-00","title":"Radiant",                        "have":"1","shortid":"RAJAMN_1"}
+   	     
 
 
   	  ], 
