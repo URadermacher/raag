@@ -1434,9 +1434,17 @@
    	     {"ragaid" : "Pahadi",          "artistid":"Jagdish;Prasad",         "provenance":"CD,3",   "CD":"00477","storeid":"001430","title" : "Akeli Dar Laage"},
    	     {"ragaid" : "Purbi",           "artistid":"Raghunat;Prasanna",      "provenance":"CD,1",   "CD":"00478","storeid":"001431","title" : "Poorbi Dhun"},
    	     {"ragaid" : "Maru_Bihag",      "artistid":"Raghunat;Prasanna",      "provenance":"CD,2",   "CD":"00478","storeid":"001432","title" : "Maru Bihag"},
-   	     {"ragaid" : "Bhairavi",        "artistid":"N.Rajam",                "provenance":"CD,1",   "CD":"00479","storeid":"001433","title" : "Bhairavi"},
-   	     {"ragaid" : "Bhairavi",        "artistid":"N.Rajam",                "provenance":"CD,2",   "CD":"00479","storeid":"001434","title" : "Dadra in Bhairavi"},
-   	     {"ragaid" : "Khamaj",          "artistid":"N.Rajam",                "provenance":"CD,3",   "CD":"00479","storeid":"001435","title" : "Thumri in Khamaj"}
+   	     {"ragaid" : "Bhairavi",        "artistid":"N.;Rajam",                "provenance":"CD,1",   "CD":"00479","storeid":"001433","title" : "Bhairavi"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"N.;Rajam",                "provenance":"CD,2",   "CD":"00479","storeid":"001434","title" : "Dadra in Bhairavi"},
+   	     {"ragaid" : "Khamaj",          "artistid":"N.;Rajam",                "provenance":"CD,3",   "CD":"00479","storeid":"001435","title" : "Thumri in Khamaj"},
+   	     {"ragaid" : "Kedar",           "artistid":"Kala;Ramnath",           "provenance":"CD,1",   "CD":"00480","storeid":"001436","title" : "Kedar from Samwad"},
+   	     {"ragaid" : "Bhatiyar",        "artistid":"Kala;Ramnath",           "provenance":"CD,2",   "CD":"00480","storeid":"001437","title" : "Bhatiyar from Kala"},
+   	     {"ragaid" : "Unknown",         "artistid":"Kala;Ramnath",           "provenance":"CD,3",   "CD":"00480","storeid":"001438","title" : "Kala", "date":"2007-09-28", "place":"Tropenmuseum, Amsterdam"},
+   	     {"ragaid" : "Unknown",         "artistid":"Kala;Ramnath",           "provenance":"CD,4",   "CD":"00480","storeid":"001439","title" : "Unknown", "date":"2009-09-28", "place":"Tropenmuseum, Amsterdam"},
+   	     {"ragaid" : "Puriya_Kalyan",   "artistid":"Ram;Narayan",            "provenance":"CD,1",   "CD":"00481","storeid":"001440","title" : "Purya-Kalyan", "date":"1978-11-00", "place":"Salle Gaveau, Paris"},
+   	     {"ragaid" : "Kaushi_Kanada",   "artistid":"Sharan;Rani",            "provenance":"CD,1",   "CD":"00482","storeid":"001441","title" : "Kausi-Kanada"},
+   	     {"ragaid" : "Lalit",           "artistid":"Sharan;Rani",            "provenance":"CD,3",   "CD":"00482","storeid":"001442","title" : "Lalit"},
+   	     {"ragaid" : "Pancham_Savari",  "artistid":"Sharan;Rani",            "provenance":"CD,4",   "CD":"00482","storeid":"001443","title" : "Pancham_Savari"}
 
 
   	  ] 

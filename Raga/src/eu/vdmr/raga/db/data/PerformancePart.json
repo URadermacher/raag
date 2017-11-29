@@ -1734,7 +1734,17 @@
          {"storeid" : "001432", "volgnr" : "001", "partname":"",                                     "duration" :  "26:38","filename" : "001432_Maru_Bihag.wav"},
          {"storeid" : "001433", "volgnr" : "001", "partname":"",                                     "duration" :  "26:38","filename" : "001433_Bhairavi.wav"},         
          {"storeid" : "001434", "volgnr" : "001", "partname":"Dadra",                                "duration" :  "26:38","filename" : "001434_Bhairavi.wav"},
-         {"storeid" : "001435", "volgnr" : "001", "partname":"Thumri",                               "duration" :  "26:38","filename" : "001435_Khamaj.wav"}
+         {"storeid" : "001435", "volgnr" : "001", "partname":"Thumri",                               "duration" :  "26:38","filename" : "001435_Khamaj.wav"},
+         {"storeid" : "001436", "volgnr" : "001", "partname":"Vilambit","talid":"Jhaptal",           "duration" :  "19:54","filename" : "001436_Kedar.wav"},
+         {"storeid" : "001437", "volgnr" : "001", "partname":"Madhyala tintal en drut ektal",        "duration" :  "11:54","filename" : "001437_Bhatiyar.wav"},
+         {"storeid" : "001438", "volgnr" : "001", "partname":"Kala",                                 "duration" :  "10:48","filename" : "001438_Kala.wav"},
+         {"storeid" : "001439", "volgnr" : "001", "partname":"Unknwown",                             "duration" :  "10:31","filename" : "001439_Unknown.wav"},
+         {"storeid" : "001440", "volgnr" : "001", "partname":"",                                     "duration" :  "24:49","filename" : "001440_1_Puriya_Kalyan.wav"},
+         {"storeid" : "001440", "volgnr" : "002", "partname":"",                                     "duration" :  "26:17","filename" : "001440_2_Puriya_Kalyan.wav"},
+         {"storeid" : "001441", "volgnr" : "001", "partname":"",                                     "duration" :   "7:30","filename" : "001441_1_Kausi_Kanada.wav"},
+         {"storeid" : "001441", "volgnr" : "002", "partname":"",                                     "duration" :  "10:11","filename" : "001441_2_Kausi_Kanada.wav"},
+         {"storeid" : "001442", "volgnr" : "001", "partname":"",                                     "duration" :  "10:27","filename" : "001442_Lalit.wav"},
+         {"storeid" : "001443", "volgnr" : "001", "partname":"",                                     "duration" :   "8:47","filename" : "001443_Pancham_Savari.wav"}
          
          
          

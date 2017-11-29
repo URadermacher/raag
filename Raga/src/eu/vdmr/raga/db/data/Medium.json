@@ -477,7 +477,10 @@
    	     {"refid" : "00476", "publisher" :"All India Radio",           "date":"1995-00-00","title":"Classical Vocal",                "have":"1","shortid":"PRASJA_1"},
    	     {"refid" : "00477", "publisher" :"Gramophone Company of India","date":"1981-00-00","title":"Musical Imagery",               "have":"1","shortid":"PRASJA_2"},
    	     {"refid" : "00478", "publisher" :"JVC",                       "date":"0000-00-00","title":"Music of the Shahnai",           "have":"1","shortid":"PRASRA_1"},
-   	     {"refid" : "00479", "publisher" :"Sense",                     "date":"0000-00-00","title":"Radiant",                        "have":"1","shortid":"RAJAMN_1"}
+   	     {"refid" : "00479", "publisher" :"Sense",                     "date":"0000-00-00","title":"Radiant",                        "have":"1","shortid":"RAJAMN_1"},
+   	     {"refid" : "00480", "publisher" :"",                          "date":"0000-00-00","title":"Kala Ramnat",                    "have":"1","shortid":"RAMNKA_1"},
+  	     {"refid" : "00481", "publisher" :"",                          "date":"0000-00-00","title":"Ram Narayan in Concert",         "have":"1","shortid":"NARARA_2"},
+  	     {"refid" : "00482", "publisher" :"",                          "date":"1962-00-00","title":"The Music Of India",             "have":"1","shortid":"RANISH_1"}
    	     
 
 
