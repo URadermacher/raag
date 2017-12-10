@@ -480,7 +480,9 @@
    	     {"refid" : "00479", "publisher" :"Sense",                     "date":"0000-00-00","title":"Radiant",                        "have":"1","shortid":"RAJAMN_1"},
    	     {"refid" : "00480", "publisher" :"",                          "date":"0000-00-00","title":"Kala Ramnat",                    "have":"1","shortid":"RAMNKA_1"},
   	     {"refid" : "00481", "publisher" :"",                          "date":"0000-00-00","title":"Ram Narayan in Concert",         "have":"1","shortid":"NARARA_2"},
-  	     {"refid" : "00482", "publisher" :"",                          "date":"1962-00-00","title":"The Music Of India",             "have":"1","shortid":"RANISH_1"}
+  	     {"refid" : "00482", "publisher" :"",                          "date":"1962-00-00","title":"The Music Of India",             "have":"1","shortid":"RANISH_1"},
+  	     {"refid" : "00483", "publisher" :"India Archive Music",       "date":"2007-00-00","title":"Raga Marwa",                     "have":"1","shortid":"RAOSHU_1"},
+  	     {"refid" : "00484", "publisher" :"Sense World Music",         "date":"2002-01-01","title":"The Ancient Weave",              "have":"1","shortid":"RAOSHU_2"}
    	     
 
 

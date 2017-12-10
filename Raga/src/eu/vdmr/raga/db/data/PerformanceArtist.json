@@ -2358,7 +2358,15 @@
    	     {"storeid" : "001442",   "instrumentid":"Tampura",    "artistid":"Robert;Garfias"},
    	     {"storeid" : "001443",   "instrumentid":"Sarod",      "artistid":"Sharan;Rani"},
    	     {"storeid" : "001443",   "instrumentid":"Tabla",      "artistid":"Chatur;Lal"},
-   	     {"storeid" : "001443",   "instrumentid":"Tampura",    "artistid":"Robert;Garfias"}
+   	     {"storeid" : "001443",   "instrumentid":"Tampura",    "artistid":"Robert;Garfias"},
+   	     {"storeid" : "001444",   "instrumentid":"Sitar",      "artistid":"Shubhendra;Rao"},
+   	     {"storeid" : "001444",   "instrumentid":"Tabla",      "artistid":"Akram;Khan"},
+   	     {"storeid" : "001445",   "instrumentid":"Sitar",      "artistid":"Shubhendra;Rao"},
+   	     {"storeid" : "001445",   "instrumentid":"Sarod",      "artistid":"Partha;Sarothy"},
+   	     {"storeid" : "001445",   "instrumentid":"Tabla",      "artistid":"Akram;Khan"},
+   	     {"storeid" : "001446",   "instrumentid":"Sitar",      "artistid":"Shubhendra;Rao"},
+   	     {"storeid" : "001446",   "instrumentid":"Sarod",      "artistid":"Partha;Sarothy"},
+   	     {"storeid" : "001446",   "instrumentid":"Tabla",      "artistid":"Akram;Khan"}
    	     
    	     
    	        	       	     
