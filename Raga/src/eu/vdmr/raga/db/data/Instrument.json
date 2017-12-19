@@ -1,6 +1,7 @@
 { "name" : "Instrument",
       "entries" : [
   	     {"name" : "Bansuri" },
+  	     {"name" : "Cello" },
   	     {"name" : "Conductor" },
   	     {"name" : "Dholak" },
   	     {"name" : "Dilruba" },

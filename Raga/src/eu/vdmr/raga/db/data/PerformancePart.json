@@ -1754,7 +1754,26 @@
          {"storeid" : "001446", "volgnr" : "000", "partname":"All",                                  "duration" :  "32:35","filename" : "001446_Manj_Khamaj_ALL.wav"},
          {"storeid" : "001446", "volgnr" : "001", "partname":"Alap",                                 "duration" :   "5:59","filename" : "001446_1_Manj_Khamaj.wav"},
          {"storeid" : "001446", "volgnr" : "001", "partname":"Vilambit", "talid":"Tintal",           "duration" :  "14:08","filename" : "001446_2_Manj_Khamaj.wav"},
-         {"storeid" : "001446", "volgnr" : "001", "partname":"Drut",  "talid":"Tintal",              "duration" :  "12:40","filename" : "001446_3_Manj_Khamaj.wav"}
+         {"storeid" : "001446", "volgnr" : "001", "partname":"Drut",  "talid":"Tintal",              "duration" :  "12:40","filename" : "001446_3_Manj_Khamaj.wav"},
+         {"storeid" : "001447", "volgnr" : "001", "partname":"Alap,jor,jhala", "talid":"Tintal",     "duration" :  "21:57","filename" : "001447_Bhoopali.wav"},
+         {"storeid" : "001448", "volgnr" : "001", "partname":"alap,jod,jhala", "talid":"Jhaptal",    "duration" :  "21:01","filename" : "001448_Gawati.wav"},
+         {"storeid" : "001449", "volgnr" : "001", "partname":"Hansadwani en Mishra Khamaj",          "duration" :  "20:17","filename" : "001449_Raga_Mala.wav"},
+         {"storeid" : "001450", "volgnr" : "001", "partname":"",                                     "duration" :  "73:08","filename" : "001450_Champakali.wav"},
+         {"storeid" : "001451", "volgnr" : "001", "partname":"Ektal and Tintal",                     "duration" :  "25:08","filename" : "001451_Basant.wav"},
+         {"storeid" : "001452", "volgnr" : "001", "partname":"","talid":"Ektal",                     "duration" :  "23:07","filename" : "001452_Kidara.wav"},
+         {"storeid" : "001453", "volgnr" : "001", "partname":"",                                     "duration" :   "3:14","filename" : "001453_Ghunghat_Ka_Pat_Khol_Re.wav"},
+         {"storeid" : "001454", "volgnr" : "001", "partname":"",                                     "duration" :   "2:54","filename" : "001454_Tan_Man_Pe_Manhar_Ne.wav"},
+         {"storeid" : "001455", "volgnr" : "001", "partname":"",                                     "duration" :   "3:25","filename" : "001455_Sajanwa_Nainan_Mere_Tumri_Ore.wav"},
+         {"storeid" : "001456", "volgnr" : "001", "partname":"",                                     "duration" :   "3:06","filename" : "001456_Main_Ne_Chakar_Rakho_Ji.wav"},
+         {"storeid" : "001457", "volgnr" : "001", "partname":"",                                     "duration" :   "3:00","filename" : "001457_Pag_Chunghru_Bandh_Meera.wav"},
+         {"storeid" : "001458", "volgnr" : "001", "partname":"",                                     "duration" :   "3:26","filename" : "001458_Nachungi_Main_To.wav"},
+         {"storeid" : "001459", "volgnr" : "001", "partname":"",                                     "duration" :   "3:13","filename" : "001459_Rana_Ji_Main_To_Girdhar_Ke.wav"},
+         {"storeid" : "001460", "volgnr" : "001", "partname":"",                                     "duration" :   "3:16","filename" : "001460_Meera_Lago_Rang_Hari.wav"},
+         {"storeid" : "001461", "volgnr" : "001", "partname":"",                                     "duration" :   "3:22","filename" : "001461_Tulsi-Meera-Sur-Kabir.wav"},
+         {"storeid" : "001462", "volgnr" : "001", "partname":"",                                     "duration" :   "3:26","filename" : "001462_Kanhaiya_Pe_Tan_Man_Lutane.wav"},
+         {"storeid" : "001463", "volgnr" : "001", "partname":"",                                     "duration" :   "3:10","filename" : "001463_Aaj_Mere_Ghar_Preetam_.wav"},
+         {"storeid" : "001464", "volgnr" : "001", "partname":"",                                     "duration" :   "3:06","filename" : "001464_Main_To_Prem_Diwani.wav"}
+         
          
          
          
