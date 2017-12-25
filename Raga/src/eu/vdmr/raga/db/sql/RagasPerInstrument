@@ -8,4 +8,4 @@ join performanceartist pa on pa.artistid = p.artistid and pa.storeid = p.storeid
 join instrument i on i.id = pa.instrumentid
 join artist ar on ar.id = pa.artistid
 where i.name = 'Sitar'
-  and r.name = 'Jhinjhoti'
+--  and r.name = 'Jhinjhoti'

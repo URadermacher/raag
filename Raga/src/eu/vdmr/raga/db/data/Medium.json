@@ -486,7 +486,10 @@
   	     {"refid" : "00485", "publisher" :"Rhyme Records",             "date":"2004-03-04","title":"Creating Waves",                 "have":"1","shortid":"RAOSHU_3"},
   	     {"refid" : "00486", "publisher" :"",                          "date":"0000-00-00","title":"Champakali",                     "have":"1","shortid":"RAZAMU_1"},
   	     {"refid" : "00487", "publisher" :"Gramophone Company of India","date":"1961-00-00","title":"A Tribute to Abdul Karim Khan", "have":"1","shortid":"ROSHAR_1"},
-  	     {"refid" : "00488", "publisher" :"EMI",                       "date":"1962-00-00","title":"Songs of Devotion",              "have":"1","shortid":"ROYJUT_1"}
+  	     {"refid" : "00488", "publisher" :"EMI",                       "date":"1962-00-00","title":"Songs of Devotion",              "have":"1","shortid":"ROYJUT_1"},
+  	     {"refid" : "00489", "publisher" :"Navras",                    "date":"2007-10-00","title":"Bandish Parampara",              "have":"1","shortid":"PARIAR_5"},
+  	     {"refid" : "00490", "publisher" :"",                          "date":"0000-00-00","title":"N.Rajam",                        "have":"1","shortid":"RAJAMN_1"},
+  	     {"refid" : "00491", "publisher" :"Lyrichord",                 "date":"0000-00-00","title":"Bansuri - The Bamboo Flute of India","have":"1","shortid":"SACHGS_1"}
 
 
   	  ], 
