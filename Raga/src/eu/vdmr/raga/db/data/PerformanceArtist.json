@@ -2460,8 +2460,41 @@
    	     {"storeid" : "001487",   "instrumentid":"Surpeti",    "artistid":"Elb;Souders"},  	     
    	     {"storeid" : "001488",   "instrumentid":"Bansuri",    "artistid":"G.S.;Sachdev"},  	     
    	     {"storeid" : "001488",   "instrumentid":"Tampura",    "artistid":"Gay;Kagy"},  	     
-   	     {"storeid" : "001488",   "instrumentid":"Surpeti",    "artistid":"Elb;Souders"} 
-   	     
+   	     {"storeid" : "001488",   "instrumentid":"Surpeti",    "artistid":"Elb;Souders"}, 
+   	     {"storeid" : "001489",   "instrumentid":"Voice",      "artistid":"Shruti;Sadolikar"}, 
+   	     {"storeid" : "001489",   "instrumentid":"Tabla",      "artistid":"Partha Sarathi;Mukherjee"}, 
+   	     {"storeid" : "001489",   "instrumentid":"Harmonium",  "artistid":"Aravind;Thatte"}, 
+   	     {"storeid" : "001490",   "instrumentid":"Voice",      "artistid":"Veena;Sahasrabuddhe"}, 
+   	     {"storeid" : "001490",   "instrumentid":"Tabla",      "artistid":"Vishwanath;Shirodkar"}, 
+   	     {"storeid" : "001491",   "instrumentid":"Voice",      "artistid":"Veena;Sahasrabuddhe"}, 
+   	     {"storeid" : "001491",   "instrumentid":"Tabla",      "artistid":"Vishwanath;Shirodkar"}, 
+   	     {"storeid" : "001492",   "instrumentid":"Voice",      "artistid":"Veena;Sahasrabuddhe"}, 
+   	     {"storeid" : "001492",   "instrumentid":"Tabla",      "artistid":"Vishwanath;Shirodkar"}, 
+   	     {"storeid" : "001493",   "instrumentid":"Voice",      "artistid":"Veena;Sahasrabuddhe"}, 
+   	     {"storeid" : "001493",   "instrumentid":"Tabla",      "artistid":"Vishwanath;Shirodkar"}, 
+   	     {"storeid" : "001494",   "instrumentid":"Voice",      "artistid":"Veena;Sahasrabuddhe"}, 
+   	     {"storeid" : "001494",   "instrumentid":"Tabla",      "artistid":"Vishwanath;Shirodkar"}, 
+   	     {"storeid" : "001495",   "instrumentid":"Voice",      "artistid":"Veena;Sahasrabuddhe"}, 
+   	     {"storeid" : "001495",   "instrumentid":"Tabla",      "artistid":"Vishwanath;Shirodkar"} 
+   	     {"storeid" : "001496",   "instrumentid":"Voice",      "artistid":"Veena;Sahasrabuddhe"}, 
+   	     {"storeid" : "001496",   "instrumentid":"Tabla",      "artistid":"Vishwanath;Shirodkar"}, 
+   	     {"storeid" : "001496",   "instrumentid":"Unknown",    "artistid":"Seema;Shirodkar"} ,
+   	     {"storeid" : "001496",   "instrumentid":"Unknown",    "artistid":"Deep Singh;Bisht"} ,
+   	     {"storeid" : "001497",   "instrumentid":"Voice",      "artistid":"Veena;Sahasrabuddhe"}, 
+   	     {"storeid" : "001497",   "instrumentid":"Tabla",      "artistid":"Vishwanath;Shirodkar"}, 
+   	     {"storeid" : "001497",   "instrumentid":"Unknown",    "artistid":"Seema;Shirodkar"}, 
+   	     {"storeid" : "001497",   "instrumentid":"Unknown",    "artistid":"Deep Singh;Bisht"},
+   	     {"storeid" : "001498",   "instrumentid":"Sitar",      "artistid":"Debashish;Sanyal"},
+   	     {"storeid" : "001499",   "instrumentid":"Sarangi",    "artistid":"Dhruba;Gosh"},
+   	     {"storeid" : "001499",   "instrumentid":"Tabla",      "artistid":"Sandeep;Das"},
+   	     {"storeid" : "001500",   "instrumentid":"Sarangi",    "artistid":"Sabri;Khan"},
+   	     {"storeid" : "001500",   "instrumentid":"Sarangi",    "artistid":"Khamal;Khan"},
+   	     {"storeid" : "001500",   "instrumentid":"Sarangi",    "artistid":"Suhail Yusuf;Khan"},
+   	     {"storeid" : "001500",   "instrumentid":"Tabla",      "artistid":"Savar;Sabri"},
+   	     {"storeid" : "001501",   "instrumentid":"Sarangi",    "artistid":"Sultan;Khan"},
+   	     {"storeid" : "001501",   "instrumentid":"Tabla",      "artistid":"Zakir;Hussain"},
+   	     {"storeid" : "001501",   "instrumentid":"Tampura",    "artistid":"Rasika;Ekbote"}
+   	    
    	        	       	     
   ]
   	}

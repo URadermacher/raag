@@ -489,7 +489,12 @@
   	     {"refid" : "00488", "publisher" :"EMI",                       "date":"1962-00-00","title":"Songs of Devotion",              "have":"1","shortid":"ROYJUT_1"},
   	     {"refid" : "00489", "publisher" :"Navras",                    "date":"2007-10-00","title":"Bandish Parampara",              "have":"1","shortid":"PARIAR_5"},
   	     {"refid" : "00490", "publisher" :"",                          "date":"0000-00-00","title":"N.Rajam",                        "have":"1","shortid":"RAJAMN_1"},
-  	     {"refid" : "00491", "publisher" :"Lyrichord",                 "date":"0000-00-00","title":"Bansuri - The Bamboo Flute of India","have":"1","shortid":"SACHGS_1"}
+  	     {"refid" : "00491", "publisher" :"Lyrichord",                 "date":"0000-00-00","title":"Bansuri - The Bamboo Flute of India","have":"1","shortid":"SACHGS_1"},
+  	     {"refid" : "00492", "publisher" :"",                          "date":"0000-00-00","title":"Marwa",                          "have":"1","shortid":"SADOSH_1"},
+  	     {"refid" : "00493", "publisher" :"Music Today",               "date":"2001-00-00","title":"Live Concert Swar Utsav",        "have":"1","shortid":"SAHAVE_1"},
+  	     {"refid" : "00494", "publisher" :"Music Today",               "date":"2011-05-20","title":"Maestro''s Choice - Series 3",   "have":"1","shortid":"SAHAVE_2"},
+  	     {"refid" : "00495", "publisher" :"",                          "date":"0000-00-00","title":"Debashish Sanyal",               "have":"1","shortid":"SANYDE_1"},
+  	     {"refid" : "00496", "publisher" :"",                          "date":"0000-00-00","title":"Sarangi",                        "have":"1","shortid":"SARANG_1"}
 
 
   	  ], 

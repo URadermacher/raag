@@ -1834,9 +1834,21 @@
          {"storeid" : "001486", "volgnr" : "001", "partname":"",                                     "duration" :  "12:17","filename" : "001486_Romantic_Dialogue(Kalavati).wav"},
          {"storeid" : "001487", "volgnr" : "001", "partname":"",                                     "duration" :  "12:17","filename" : "001487_Heartful(Kalavati).wav"},
          {"storeid" : "001488", "volgnr" : "001", "partname":"",                                     "duration" :  "12:17","filename" : "001488_Celebration_Of_Spring(Hindol).wav"},
-                  
-         
-         
+         {"storeid" : "001489", "volgnr" : "001", "partname":"",                                     "duration" :  "38:38","filename" : "001489_Marwa.wav"},
+         {"storeid" : "001490", "volgnr" : "001", "partname":"",                                     "duration" :  "10:09","filename" : "001490_Ya_Mohan_Ke_Main_Roop_Lubhani.wav"},
+         {"storeid" : "001491", "volgnr" : "001", "partname":"",                                     "duration" :   "9:40","filename" : "001491_Jab_Ram_Naam_Kahi_Gavega.wav"},
+         {"storeid" : "001492", "volgnr" : "001", "partname":"",                                     "duration" :  "10:46","filename" : "001492_Tu_Dayal_Din.wav"},
+         {"storeid" : "001493", "volgnr" : "001", "partname":"",                                     "duration" :   "9:02","filename" : "001493_Kahe_Ko_Gopinath_Kahavat.wav"},
+         {"storeid" : "001494", "volgnr" : "001", "partname":"",                                     "duration" :  "10:19","filename" : "001494_Karo_Man_Ram_Naam_Raspan.wav"},
+         {"storeid" : "001495", "volgnr" : "001", "partname":"",                                     "duration" :  "11:09","filename" : "001495_Ramaiyya_Ki_Dulhani_Lutal_Bazar.wav"},
+         {"storeid" : "001496", "volgnr" : "001", "partname":"Kahe Gumaan Kare Gori, Vilambit In Ektala; Chedat Ho Hans Hans, Madhyalaya In Ektala; Tarana","duration":"30:49","filename" : "001496_Abhogi.wav"},
+         {"storeid" : "001497", "volgnr" : "001", "partname":"Baat Banavat, Vilambit In Jhaptala; Saajan More Ghar Aaye, Mhadyalana In Teentala; Tarana Chataurang, Drut Teentala","duration":"29:00","filename" : "001497_Jog.wav"},
+         {"storeid" : "001498", "volgnr" : "001", "partname":"Alap",                                 "duration" :  "20:26","filename" : "001498_1_Shyam_Kalyan.wav"},
+         {"storeid" : "001498", "volgnr" : "002", "partname":"Gat",                                  "duration" :  "43:02","filename" : "001498_2_Shyam_Kalyan.wav"},
+         {"storeid" : "001499", "volgnr" : "001", "partname":"",                                     "duration" :  "13:22","filename" : "001499_Charukeshi.wav"},
+         {"storeid" : "001500", "volgnr" : "001", "partname":"",                                     "duration" :  "21:01","filename" : "001500_Meh.wav"},
+         {"storeid" : "001501", "volgnr" : "001", "partname":"",                                     "duration" :   "3:38","filename" : "001501_Holi.wav"}
+        
          
                           
      ] 
