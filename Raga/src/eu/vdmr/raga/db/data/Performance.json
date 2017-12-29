@@ -1501,8 +1501,16 @@
    	     {"ragaid" : "Jog",             "artistid":"Veena;Sahasrabuddhe",    "provenance":"CD,2",   "CD":"00494","storeid":"001497","title" : "Jog"},
    	     {"ragaid" : "Shyam_Kalyan",    "artistid":"Debashish;Sanyal",       "provenance":"CD,1",   "CD":"00495","storeid":"001498","title" : "Shyam Kalyan", "place":"Varanasi"},
    	     {"ragaid" : "Charukeshi",      "artistid":"Dhruba;Gosh",            "provenance":"CD,1",   "CD":"00496","storeid":"001499","title" : "Tarasa in Charukeshi"},
-   	     {"ragaid" : "Meg",             "artistid":"Sabri;Khan",             "provenance":"CD,2",   "CD":"00496","storeid":"001500","title" : "Meh"},
-   	     {"ragaid" : "Unknown",         "artistid":"Sultan;Khan",            "provenance":"CD,3",   "CD":"00496","storeid":"001501","title" : "Lied voor Holi"}
+   	     {"ragaid" : "Megh",            "artistid":"Sabri;Khan",             "provenance":"CD,2",   "CD":"00496","storeid":"001500","title" : "Meh"},
+   	     {"ragaid" : "Unknown",         "artistid":"Sultan;Khan",            "provenance":"CD,3",   "CD":"00496","storeid":"001501","title" : "Lied voor Holi"},
+   	     {"ragaid" : "Malkauns",        "artistid":"Ajoy;Sen",               "provenance":"CD,1",   "CD":"00497","storeid":"001502","title" : "Malkauns"},
+   	     {"ragaid" : "Bahar",           "artistid":"Kartik;Seshadri",        "provenance":"CD,1",   "CD":"00498","storeid":"001503","title" : "Bahar"},
+   	     {"ragaid" : "Anand_Kalyan",    "artistid":"Kartik;Seshadri",        "provenance":"CD,1",   "CD":"00499","storeid":"001504","title" : "Anandi_Kalyan"},
+   	     {"ragaid" : "Basant_Mukhari",  "artistid":"Kartik;Seshadri",        "provenance":"CD,3",   "CD":"00499","storeid":"001505","title" : "Basant_Mukhari"},
+   	     {"ragaid" : "Shuddh_Sarang",   "artistid":"Padmavati;Shaligram",    "provenance":"CD,1",   "CD":"00500","storeid":"001506","title" : "Shuddh_Sarang"},
+   	     {"ragaid" : "Pilu",            "artistid":"Padmavati;Shaligram",    "provenance":"CD,3",   "CD":"00500","storeid":"001507","title" : "Pilu"},
+   	     {"ragaid" : "Jaijaivanti",     "artistid":"Padmavati;Shaligram",    "provenance":"CD,4",   "CD":"00500","storeid":"001508","title" : "Jaijaivanti"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Padmavati;Shaligram",    "provenance":"CD,6",   "CD":"00500","storeid":"001509","title" : "Bhairavi"}
 
   	  ] 
   	}

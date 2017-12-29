@@ -1847,7 +1847,18 @@
          {"storeid" : "001498", "volgnr" : "002", "partname":"Gat",                                  "duration" :  "43:02","filename" : "001498_2_Shyam_Kalyan.wav"},
          {"storeid" : "001499", "volgnr" : "001", "partname":"",                                     "duration" :  "13:22","filename" : "001499_Charukeshi.wav"},
          {"storeid" : "001500", "volgnr" : "001", "partname":"",                                     "duration" :  "21:01","filename" : "001500_Meh.wav"},
-         {"storeid" : "001501", "volgnr" : "001", "partname":"",                                     "duration" :   "3:38","filename" : "001501_Holi.wav"}
+         {"storeid" : "001501", "volgnr" : "001", "partname":"",                                     "duration" :   "3:38","filename" : "001501_Holi.wav"},
+         {"storeid" : "001502", "volgnr" : "001", "partname":"",                                     "duration" :  "55:43","filename" : "001502_Malkauns.wav"},
+         {"storeid" : "001503", "volgnr" : "001", "partname":"",                                     "duration" :  "16:43","filename" : "001503_Bahar.wav"},
+         {"storeid" : "001504", "volgnr" : "001", "partname":"Alap, Jor, Jhalla",                    "duration" :  "25:19","filename" : "001504_1_Anandi_Kalyan.wav"},
+         {"storeid" : "001504", "volgnr" : "002", "partname":"Gat","talid":"Jhaptal",                "duration" :   "7:18","filename" : "001504_2_Anandi_Kalyan.wav"},
+         {"storeid" : "001505", "volgnr" : "001", "partname":"Aochar and gat","talid":"Tintal",      "duration" :  "30:16","filename" : "001505_Basant_Mukhari.wav"},
+         {"storeid" : "001506", "volgnr" : "001", "partname":"Khayal Alap and Vilambit","talid":"Tintal","duration":"15:37","filename": "001506_1_Suddh_Sarang.wav"},
+         {"storeid" : "001506", "volgnr" : "002", "partname":"Khayal drut","talid":"Tintal",         "duration" :   "1:54","filename" : "001506_2_Suddh_Sarang.wav"},
+         {"storeid" : "001507", "volgnr" : "001", "partname":"Thumri", "talid":"Keherwa",            "duration" :  "12:53","filename" : "001507_Pilu.wav"},
+         {"storeid" : "001508", "volgnr" : "001", "partname":"Khayal Alap and vilambit","talid":"Tintal","duration":"14:30","filename": "001508_1_Jaijaivanti.wav"},
+         {"storeid" : "001508", "volgnr" : "002", "partname":"Khayal drut","talid":"Tintal",         "duration" :   "3:58","filename" : "001508_2_Jaijaivanti.wav"},
+         {"storeid" : "001509", "volgnr" : "001", "partname":"Dadra","talid":"Dadra",                "duration" :  "21:04","filename" : "001509_Bhairavi.wav"},
         
          
                           
