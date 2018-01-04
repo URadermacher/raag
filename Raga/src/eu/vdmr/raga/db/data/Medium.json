@@ -498,7 +498,30 @@
   	     {"refid" : "00497", "publisher" :"",                          "date":"0000-00-00","title":"Malkauns",                       "have":"1","shortid":"SENAJO_1"},
   	     {"refid" : "00498", "publisher" :"",                          "date":"0000-00-00","title":"Bahar",                          "have":"1","shortid":"SESHKA_1"},
   	     {"refid" : "00499", "publisher" :"Traditional Crossroads",    "date":"1997-12-01","title":"Iluminations",                   "have":"1","shortid":"SESHKA_2"},
-  	     {"refid" : "00500", "publisher" :"Makar",                     "date":"1995-00-00","title":"Padmavati Shaligram",            "have":"1","shortid":"SHALPA_1"}
+  	     {"refid" : "00500", "publisher" :"Makar",                     "date":"1995-00-00","title":"Padmavati Shaligram",            "have":"1","shortid":"SHALPA_1"},
+  	     {"refid" : "00501", "publisher" :"Angel Records",             "date":"1998-00-00","title":"Anoushka",                       "have":"1","shortid":"SHANAN_1"},
+  	     {"refid" : "00502", "publisher" :"Manhatten Records",         "date":"2007-08-28","title":"Breathing Under Water",          "have":"1","shortid":"SHANAN_2"},
+  	     {"refid" : "00503", "publisher" :"",                          "date":"0000-00-00","title":"Anoushkar & Ravi",               "have":"1","shortid":"SHANAN_3"},
+  	     {"refid" : "00504", "publisher" :"Angel Records",             "date":"2005-00-00","title":"Rise",                           "have":"1","shortid":"SHANAN_4"},
+  	     {"refid" : "00505", "publisher" :"ECM",                       "date":"1981-00-00","title":"Who''s To Know",                 "have":"1","shortid":"SHANKA_1"},
+  	     {"refid" : "00506", "publisher" :"",                          "date":"0000-00-00","title":"Kamala Shankar",                 "have":"1","shortid":"SHANKM_1"},
+  	     {"refid" : "00507", "publisher" :"Navras",                    "date":"2007-05-00","title":"A Life Of Dedcation",            "have":"1","shortid":"SHANLA_2"},
+  	     {"refid" : "00508", "publisher" :"",                          "date":"0000-00-00","title":"Lakshmi Shankar",                "have":"1","shortid":"SHANLA_3"},
+  	     {"refid" : "00509", "publisher" :"Harmonia Mundi",            "date":"2001-00-00","title":"Inde du Nord: Pandit Ravi Shankar","have":"1","shortid":"SHANRA_1"},
+  	     {"refid" : "00510", "publisher" :"MPG",                       "date":"1997-00-00","title":"Ravi Shankar - Raga Tala",       "have":"1","shortid":"SHANRA_2"},
+  	     {"refid" : "00511", "publisher" :"Oriental Records",          "date":"0000-00-00","title":"The Genius of Pandit Ravi Shankar","have":"1","shortid":"SHANRA_3"},
+  	     {"refid" : "00512", "publisher" :"CBS",                       "date":"0000-00-00","title":"The Sound of India Ravi Shankar","have":"1","shortid":"SHANRA_4"},
+  	     {"refid" : "00513", "publisher" :"World Pacific",             "date":"1962-00-00","title":"Improvisations And Theme From Pather Panchali","have":"1","shortid":"SHANRA_5"},
+  	     {"refid" : "00514", "publisher" :"BGO Records",               "date":"1966-00-00","title":"Sound of the Sitar Ravi Shankar","have":"1","shortid":"SHANRA_6"},
+  	     {"refid" : "00515", "publisher" :"",                          "date":"0000-00-00","title":"live in London",                 "have":"1","shortid":"SHANRA_7"},
+  	     {"refid" : "00516", "publisher" :"",                          "date":"0000-00-00","title":"Shankar VIII",                   "have":"1","shortid":"SHANRA_8"},
+  	     {"refid" : "00517", "publisher" :"",                          "date":"0000-00-00","title":"Shankar IX",                     "have":"1","shortid":"SHANRA_9"},
+  	     {"refid" : "00518", "publisher" :"World Music Network",       "date":"2004-00-00","title":"Rough Guide: Ravi Shankar",      "have":"1","shortid":"SHANRA_10"},
+  	     {"refid" : "00519", "publisher" :"Nascente",                  "date":"2001-00-00","title":"Ravi Shankar Master of Sitar",   "have":"1","shortid":"SHANRA_11"},
+  	     {"refid" : "00520", "publisher" :"EMI",                       "date":"1991-00-00","title":"Monument of Strings",            "have":"1","shortid":"SHANRA_12"},
+  	     {"refid" : "00521", "publisher" :"EMI",                       "date":"0000-00-00","title":"Music Of India",                 "have":"1","shortid":"SHANRA_13"},
+  	     {"refid" : "00522", "publisher" :"World Pacific",             "date":"1961-00-00","title":"In Concert",                     "have":"1","shortid":"SHANRA_14"}
+  	     
 
 
   	  ], 

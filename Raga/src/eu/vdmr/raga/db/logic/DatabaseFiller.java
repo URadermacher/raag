@@ -43,6 +43,7 @@ public class DatabaseFiller {
 		String filenamesString = StartUp.getProperty(StartUp.DBCONTENTFILES);
 		String[] filenames = filenamesString.split(",");
 		connection.setAutoCommit(false);
+		int totRow = 0;
 		
 		for (String filename :  filenames) {
 			Reader reader = null;
@@ -89,11 +90,14 @@ public class DatabaseFiller {
 						}
 					} catch (SQLException sqle) {
 						LOG.error("Error executing insert '" + insertString + "': " + sqle, sqle);
+						errors.add("Error executing insert '" + insertString + "': " + sqle);
 					}
 				}
 				connection.commit();
+				totRow += rowCnt;
 			} catch (Exception e) {
 				LOG.error("Error parsing " + filename + ": " + e, e);
+				errors.add("Error parsing " + filename + ": " + e);
 			} finally {
 				if (reader != null) {
 					reader.close();
@@ -101,7 +105,7 @@ public class DatabaseFiller {
 			}
 		}
 		if (errors.isEmpty()) {
-			LOG.info("Ready..");
+			LOG.info("Ready. Inserted: " + totRow);
 		} else {
 			LOG.info("Ready with errors.. ");
 			for (String err : errors) {
@@ -174,6 +178,7 @@ public class DatabaseFiller {
 				for (int selValIdx = 0; selValIdx < selVals.length; selValIdx++){
 					LOG.error("selcol " + selValIdx  + ": " + selVals[selValIdx]);
 				}
+				errors.add("not enough values for columns");
 			}
 			boolean first = true;
 			for (int x = 0; x < selectCols.length; x++) {

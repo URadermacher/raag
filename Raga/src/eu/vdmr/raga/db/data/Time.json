@@ -1,0 +1,12 @@
+{ "name" : "Time",
+      "entries" : [
+  	     {"description" : "Midnight", "from_to":"00:00-03:00"},
+  	     {"description" : "After Midnight", "from_to":"00:30-06:00"},
+  	     {"description" : "Early Morning", "from_to":"00:60-09:00"},
+  	     {"description" : "Late Morning", "from_to":"09:00-12:00"},
+  	     {"description" : "Noon", "from_to":"12:00-15:00"},
+  	     {"description" : "Afternoon", "from_to":"15:00-18:00"},
+  	     {"description" : "Early Evening", "from_to":"18:00-21:00"},
+  	     {"description" : "Late Evening", "from_to":"21:00-23:00"}
+  	  ]
+    }
