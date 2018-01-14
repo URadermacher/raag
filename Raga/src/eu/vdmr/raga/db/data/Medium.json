@@ -520,7 +520,9 @@
   	     {"refid" : "00519", "publisher" :"Nascente",                  "date":"2001-00-00","title":"Ravi Shankar Master of Sitar",   "have":"1","shortid":"SHANRA_11"},
   	     {"refid" : "00520", "publisher" :"EMI",                       "date":"1991-00-00","title":"Monument of Strings",            "have":"1","shortid":"SHANRA_12"},
   	     {"refid" : "00521", "publisher" :"EMI",                       "date":"0000-00-00","title":"Music Of India",                 "have":"1","shortid":"SHANRA_13"},
-  	     {"refid" : "00522", "publisher" :"World Pacific",             "date":"1961-00-00","title":"In Concert",                     "have":"1","shortid":"SHANRA_14"}
+  	     {"refid" : "00522", "publisher" :"World Pacific",             "date":"1961-00-00","title":"In Concert",                     "have":"1","shortid":"SHANRA_14"},
+  	     {"refid" : "00523", "publisher" :"World Pacific",             "date":"1968-00-00","title":"Festival From India",            "have":"1","shortid":"SHANRA_15"},
+  	     {"refid" : "00524", "publisher" :"World Pacific",             "date":"1970-00-00","title":"at the Woodstock Festival",      "have":"1","shortid":"SHANRA_16"}
   	     
 
 

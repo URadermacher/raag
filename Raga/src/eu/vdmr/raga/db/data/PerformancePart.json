@@ -1922,7 +1922,7 @@
          {"storeid" : "001568", "volgnr" : "001", "partname":"",                                     "duration" :   "6:05","filename" : "001568_Karnataki.wav"},
          {"storeid" : "001569", "volgnr" : "001", "partname":"Alap, Jor, Gat",                       "duration" :  "19:30","filename" : "001569_Rageshri.wav"},
          {"storeid" : "001570", "volgnr" : "001", "partname":"Alap, Jor",                            "duration" :  "20:48","filename" : "001570_Malkauns.wav"},
-         {"storeid" : "001571", "volgnr" : "001", "partname":"",                                     "duration" :   "7:31","filename" : "001571_Tala_Sawari.wav"},
+         {"storeid" : "001571", "volgnr" : "001", "partname":"", "talid":"Sawari",                "duration" :   "7:31","filename" : "001571_Tala_Sawari.wav"},
          {"storeid" : "001572", "volgnr" : "001", "partname":"",                                     "duration" :  "12:31","filename" : "001572_Pahari_Dhun.wav"},
          {"storeid" : "001573", "volgnr" : "001", "partname":"intro",                                "duration" :   "2:31","filename" : "001573_1_Jhinjhoti.wav"},
          {"storeid" : "001573", "volgnr" : "002", "partname":"music",                                "duration" :  "37:04","filename" : "001573_2_Jhinjhoti.wav"},
@@ -1956,6 +1956,23 @@
          {"storeid" : "001599", "volgnr" : "001", "partname":"Alap,Jor,jala, slow, medium, fast","talid":"Tintal","duration":"22:32","filename" : "001599_Ramkali.wav"},
          {"storeid" : "001600", "volgnr" : "001", "partname":"Alap,slow, medium, fast","talid":"Tintal","duration":"16:38","filename" : "001600_Madhuvanti.wav"},
          {"storeid" : "001601", "volgnr" : "001", "partname":"kaharwa en tintal",                    "duration" :  "21:41","filename" : "001601_Dhun_In_Mishra_Mand.wav"}
+         {"storeid" : "001602", "volgnr" : "001", "partname":"",                                     "duration" :   "2:26","filename" : "001602_Vedic_Hymn.wav"}
+         {"storeid" : "001603", "volgnr" : "001", "partname":"", "talid":"Tintal",                   "duration" :   "4:20","filename" : "001603_Raga_Yemen.wav"}
+         {"storeid" : "001604", "volgnr" : "001", "partname":"Alap, Jor, Gat", "talid":"Tintal",     "duration" :  "11:50","filename" : "001604_Raga_Kirwani.wav"}
+         {"storeid" : "001605", "volgnr" : "001", "partname":"Jhaptal en tintal",                    "duration" :   "7:09","filename" : "001605_Raga_Rageshwari.wav"}
+         {"storeid" : "001606", "volgnr" : "001", "partname":"Khyal in slow ektal and fast tintal",  "duration" :   "7:07","filename" : "001606_Puriya_Dhanashri.wav"}
+         {"storeid" : "001607", "volgnr" : "001", "partname":"","talid":"Talchanghar",               "duration" :   "4:18","filename" : "001607_Thumri_In_Manj_Khamaj.wav"}
+         {"storeid" : "001608", "volgnr" : "001", "partname":"","talid":"Keherwa",                   "duration" :   "3:16","filename" : "001608_Thumri_In_Mishra_Khamaj.wav"}
+         {"storeid" : "001609", "volgnr" : "001", "partname":"", "talid":"Rupak",                    "duration" :   "5:37","filename" : "001609_Malkauns.wav"}
+         {"storeid" : "001610", "volgnr" : "001", "partname":"", "talid":"Rupakam",                  "duration" :   "5:12","filename" : "001610_Vasanta.wav"}
+         {"storeid" : "001611", "volgnr" : "001", "partname":"", "talid":"Tintal",                   "duration" :   "7:03","filename" : "001611_Mishra_Gara.wav"}
+         {"storeid" : "001612", "volgnr" : "001", "partname":"", "talid":"Keherwa",                  "duration" :   "4:07","filename" : "001612_Dhun.wav"}
+         {"storeid" : "001613", "volgnr" : "001", "partname":"", "talid":"Dadra",                    "duration" :   "4:09","filename" : "001613_Sur_Das_Bhajan_In_Desh.wav"}
+         {"storeid" : "001614", "volgnr" : "001", "partname":"",                                     "duration" :   "2:11","filename" : "001614_Punjabi_Folk_Song.wav"}
+         {"storeid" : "001615", "volgnr" : "001", "partname":"",                                     "duration" :   "9:48","filename" : "001615_Doh_Bahar.wav"},
+         {"storeid" : "001616", "volgnr" : "001", "partname":"Gat","talid":"Sawari",                 "duration" :  "10:35","filename" : "001616_Puriya_Dhanashri.wav"},
+         {"storeid" : "001617", "volgnr" : "001", "partname":"","talid":"Jhaptal",                   "duration" :   "8:00","filename" : "001617_Solo_in_Jhaptal.wav"},
+         {"storeid" : "001618", "volgnr" : "001", "partname":"Alap,jor,jala, dhun kaharwa, medium and fast tintal","duration":"20:16","filename":"001618_Manj_Khamaj.wav"}
                           
      ] 
   }

@@ -72,6 +72,7 @@
   	  "columns" : [
   	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
   	     {"name" : "name", "type" : "TEXT"},
+  	     {"name" : "beats", "type" : "TEXT"},
   	     {"name" : "pattern", "type" : "TEXT"},
   	     {"name" : "theka", "type" : "TEXT"}
   	  ]

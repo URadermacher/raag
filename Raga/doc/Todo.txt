@@ -24,3 +24,7 @@ checl de bewering on een van de (echte) CD;s van vilayat khan over todi..
 wav editor for metadata (artist, piece)
 
 is Khambaj en Khamaj hezelfde?
+
+ - chikari detection
+ - alap/jor/jhalla/gat distinctions
+ - sa- detection

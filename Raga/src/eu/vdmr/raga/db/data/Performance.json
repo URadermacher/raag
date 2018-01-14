@@ -1602,8 +1602,24 @@
    	     {"ragaid" : "Kafi",            "artistid":"Ravi;Shankar",           "provenance":"CD,2",   "CD":"00521","storeid":"001598","title" : "Dhun Kafi"},
    	     {"ragaid" : "Ramkali",         "artistid":"Ravi;Shankar",           "provenance":"CD,3",   "CD":"00521","storeid":"001599","title" : "Ramkali"},
    	     {"ragaid" : "Madhuvanti",      "artistid":"Ravi;Shankar",           "provenance":"CD,1",   "CD":"00522","storeid":"001600","title" : "Madhuvanti", "date":"1961-11-19", "place":"Royce Hall(UCLA); Los Angeles"},
-   	     {"ragaid" : "Mand",            "artistid":"Ravi;Shankar",           "provenance":"CD,2",   "CD":"00522","storeid":"001600","title" : "Dhun in Mishra Mand", "date":"1961-11-19", "place":"Royce Hall(UCLA); Los Angeles"}
-
+   	     {"ragaid" : "Mand",            "artistid":"Ravi;Shankar",           "provenance":"CD,2",   "CD":"00522","storeid":"001601","title" : "Dhun in Mishra Mand", "date":"1961-11-19", "place":"Royce Hall(UCLA); Los Angeles"},
+   	     {"ragaid" : "Unknown",         "artistid":"Jitendra;Abhisheki",     "provenance":"CD,1",   "CD":"00523","storeid":"001602","title" : "Vedic Hynmn"},
+   	     {"ragaid" : "Yaman",           "artistid":"Sharad;Kumar",           "provenance":"CD,2",   "CD":"00523","storeid":"001603","title" : "Yaman"},
+   	     {"ragaid" : "Kirwani",         "artistid":"Shamin;Ahmed",           "provenance":"CD,3",   "CD":"00523","storeid":"001604","title" : "Kirwani"},
+   	     {"ragaid" : "Rageswari",       "artistid":"Shivkumar;Sharma",       "provenance":"CD,4",   "CD":"00523","storeid":"001605","title" : "Rageshwari"},
+   	     {"ragaid" : "Puriya_Dhanashri","artistid":"Lakshmi;Shankar",        "provenance":"CD,5",   "CD":"00523","storeid":"001606","title" : "Puriya_Dhanashri"},
+   	     {"ragaid" : "Manj_Khamaj",     "artistid":"Lakshmi;Shankar",        "provenance":"CD,6",   "CD":"00523","storeid":"001607","title" : "Thumri in Manj_Khamaj"},
+   	     {"ragaid" : "Khamaj",          "artistid":"Sabri;Khan",             "provenance":"CD,7",   "CD":"00523","storeid":"001608","title" : "Thumri in Mishra Khamaj"},
+   	     {"ragaid" : "Malkauns",        "artistid":"Jitendra;Abhisheki",     "provenance":"CD,8",   "CD":"00523","storeid":"001609","title" : "Manj_Khamaj"},
+   	     {"ragaid" : "Vasant",          "artistid":"Ravi;Shankar",           "provenance":"CD,9",   "CD":"00523","storeid":"001610","title" : "Manj_Khamaj"},
+   	     {"ragaid" : "Gara",            "artistid":"Ravi;Shankar",           "provenance":"CD,10",  "CD":"00523","storeid":"001611","title" : "Mishra Gara"},
+   	     {"ragaid" : "Unknown",         "artistid":"Miskin;Khan",            "provenance":"CD,11",  "CD":"00523","storeid":"001612","title" : "Dhun"},
+   	     {"ragaid" : "Desh",            "artistid":"Lakshmi;Shankar",        "provenance":"CD,12",  "CD":"00523","storeid":"001613","title" : "Sur Das Bhajan"},
+   	     {"ragaid" : "Unknown",         "artistid":"Lakshmi;Shankar",        "provenance":"CD,13",  "CD":"00523","storeid":"001614","title" : "Punjabi Folk Song"},
+   	     {"ragaid" : "Unknown",         "artistid":"Lakshmi;Shankar",        "provenance":"CD,14",  "CD":"00523","storeid":"001615","title" : "Doh Bahar"},
+   	     {"ragaid" : "Puriya_Dhanashri","artistid":"Ravi;Shankar",           "provenance":"CD,1",   "CD":"00524","storeid":"001616","title" : "Puriya_Dhanashri"},
+   	     {"ragaid" : "Unknown",         "artistid":"Alla;Rakha",             "provenance":"CD,2",   "CD":"00524","storeid":"001617","title" : "Tabla Solo in Jhaptal"},
+   	     {"ragaid" : "Manj_Khamaj",     "artistid":"Ravi;Shankar",           "provenance":"CD,3",   "CD":"00524","storeid":"001618","title" : "Manj_Khamaj"}
 
 
 
