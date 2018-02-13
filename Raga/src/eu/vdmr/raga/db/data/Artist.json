@@ -2,6 +2,7 @@
       "entries" : [
   	     {"lastname" : "-",          "firstname" : "Sukanya"},
   	     {"lastname" : "-",          "firstname" : "Surabi"},
+  	     {"lastname" : "-",          "firstname" : "Kamala"},
   	     {"lastname" : "Aasman",     "firstname" : "Outubuddin"},
   	     {"lastname" : "Abhyankar",  "firstname" : "Sanjeev",   "gharana" : "Mewati", "birth" : "1969-10-05", "web" : "http://www.sanjeevabhyankar.com/index.html"},
   	     {"lastname" : "Abhyankar",  "firstname" : "Shobha",  "gharana" : "Mewati"},

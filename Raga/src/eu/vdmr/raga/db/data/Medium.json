@@ -522,8 +522,11 @@
   	     {"refid" : "00521", "publisher" :"EMI",                       "date":"0000-00-00","title":"Music Of India",                 "have":"1","shortid":"SHANRA_13"},
   	     {"refid" : "00522", "publisher" :"World Pacific",             "date":"1961-00-00","title":"In Concert",                     "have":"1","shortid":"SHANRA_14"},
   	     {"refid" : "00523", "publisher" :"World Pacific",             "date":"1968-00-00","title":"Festival From India",            "have":"1","shortid":"SHANRA_15"},
-  	     {"refid" : "00524", "publisher" :"World Pacific",             "date":"1970-00-00","title":"at the Woodstock Festival",      "have":"1","shortid":"SHANRA_16"}
-  	     
+  	     {"refid" : "00524", "publisher" :"World Pacific",             "date":"1970-00-00","title":"at the Woodstock Festival",      "have":"1","shortid":"SHANRA_16"},
+  	     {"refid" : "00525", "publisher" :"",                          "date":"1972-00-00","title":"In Concert 1972",                "have":"1","shortid":"SHANRA_17"},
+  	     {"refid" : "00526", "publisher" :"World Pacific",             "date":"0000-00-00","title":"In New York",                    "have":"1","shortid":"SHANRA_18"},
+  	     {"refid" : "00527", "publisher" :"EMI",                       "date":"0000-00-00","title":"Music of India - 3 classical ragas","have":"1","shortid":"SHANRA_19"},
+  	     {"refid" : "00528", "publisher" :"",                          "date":"0000-00-00","title":"At Monterey Pop Festival",       "have":"1","shortid":"SHANRA_20"}
 
 
   	  ], 

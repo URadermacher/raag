@@ -1619,7 +1619,19 @@
    	     {"ragaid" : "Unknown",         "artistid":"Lakshmi;Shankar",        "provenance":"CD,14",  "CD":"00523","storeid":"001615","title" : "Doh Bahar"},
    	     {"ragaid" : "Puriya_Dhanashri","artistid":"Ravi;Shankar",           "provenance":"CD,1",   "CD":"00524","storeid":"001616","title" : "Puriya_Dhanashri"},
    	     {"ragaid" : "Unknown",         "artistid":"Alla;Rakha",             "provenance":"CD,2",   "CD":"00524","storeid":"001617","title" : "Tabla Solo in Jhaptal"},
-   	     {"ragaid" : "Manj_Khamaj",     "artistid":"Ravi;Shankar",           "provenance":"CD,3",   "CD":"00524","storeid":"001618","title" : "Manj_Khamaj"}
+   	     {"ragaid" : "Manj_Khamaj",     "artistid":"Ravi;Shankar",           "provenance":"CD,3",   "CD":"00524","storeid":"001618","title" : "Manj_Khamaj"},
+   	     {"ragaid" : "Hem_Bihag",       "artistid":"Ravi;Shankar",           "provenance":"CD,1",   "CD":"00525","storeid":"001619","title" : "Hem Bihag"},
+   	     {"ragaid" : "Manj_Khamaj",     "artistid":"Ravi;Shankar",           "provenance":"CD,2",   "CD":"00525","storeid":"001620","title" : "Manj_Khamaj"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Ravi;Shankar",           "provenance":"CD,3",   "CD":"00525","storeid":"001621","title" : "Bhairavi"},
+   	     {"ragaid" : "Bairaga",         "artistid":"Ravi;Shankar",           "provenance":"CD,1",   "CD":"00526","storeid":"001622","title" : "Bairaga"},
+   	     {"ragaid" : "Natabhairavi",    "artistid":"Ravi;Shankar",           "provenance":"CD,2",   "CD":"00526","storeid":"001623","title" : "Nata Bhariravi"},
+   	     {"ragaid" : "Marwa",           "artistid":"Ravi;Shankar",           "provenance":"CD,3",   "CD":"00526","storeid":"001624","title" : "Marwa"},
+   	     {"ragaid" : "Jog",             "artistid":"Ravi;Shankar",           "provenance":"CD,1",   "CD":"00527","storeid":"001625","title" : "Jog"},
+   	     {"ragaid" : "Ahir_Bhairav",    "artistid":"Ravi;Shankar",           "provenance":"CD,2",   "CD":"00527","storeid":"001626","title" : "Ahir_Bhairav"},
+   	     {"ragaid" : "Simhendra_Madyama","artistid":"Ravi;Shankar",          "provenance":"CD,3",   "CD":"00527","storeid":"001627","title" : "Simhendra_Madhyamam"},
+   	     {"ragaid" : "Bhimpalasi",      "artistid":"Ravi;Shankar",           "provenance":"CD,1",   "CD":"00528","storeid":"001628","title" : "Raga Bhimpalasi"},
+   	     {"ragaid" : "Unknown",         "artistid":"Ravi;Shankar",           "provenance":"CD,2",   "CD":"00528","storeid":"001629","title" : "Tabla Solo in Ektah"},
+   	     {"ragaid" : "Unknown",         "artistid":"Ravi;Shankar",           "provenance":"CD,3",   "CD":"00528","storeid":"001630","title" : "Dhun"}
 
 
 
