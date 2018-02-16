@@ -526,7 +526,11 @@
   	     {"refid" : "00525", "publisher" :"",                          "date":"1972-00-00","title":"In Concert 1972",                "have":"1","shortid":"SHANRA_17"},
   	     {"refid" : "00526", "publisher" :"World Pacific",             "date":"0000-00-00","title":"In New York",                    "have":"1","shortid":"SHANRA_18"},
   	     {"refid" : "00527", "publisher" :"EMI",                       "date":"0000-00-00","title":"Music of India - 3 classical ragas","have":"1","shortid":"SHANRA_19"},
-  	     {"refid" : "00528", "publisher" :"",                          "date":"0000-00-00","title":"At Monterey Pop Festival",       "have":"1","shortid":"SHANRA_20"}
+  	     {"refid" : "00528", "publisher" :"",                          "date":"0000-00-00","title":"At Monterey Pop Festival",       "have":"1","shortid":"SHANRA_20"},
+  	     {"refid" : "00529", "publisher" :"Liberty,  World Pacific",   "date":"0000-00-00","title":"Improvisations",                 "have":"1","shortid":"SHANRA_21"},
+  	     {"refid" : "00530", "publisher" :"EMI",                       "date":"0000-00-00","title":"Music of India",                 "have":"1","shortid":"SHANRA_22"},
+  	     {"refid" : "00531", "publisher" :"EMI",                       "date":"1967-00-00","title":"Music of India Series 4",        "have":"1","shortid":"SHANRA_23"},
+  	     {"refid" : "00532", "publisher" :"",                          "date":"0000-00-00","title":"Chappaqua",                      "have":"1","shortid":"SHANRA_24"}
 
 
   	  ], 
