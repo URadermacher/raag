@@ -1,5 +1,6 @@
 { "name" : "Artist",
       "entries" : [
+  	     {"lastname" : "-",          "firstname" : "Subhulakshmi"},
   	     {"lastname" : "-",          "firstname" : "Sukanya"},
   	     {"lastname" : "-",          "firstname" : "Surabi"},
   	     {"lastname" : "-",          "firstname" : "Kamala"},
