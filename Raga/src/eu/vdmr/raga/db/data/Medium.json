@@ -534,8 +534,30 @@
   	     {"refid" : "00533", "publisher" :"CBS",                       "date":"1972-00-00","title":"The Genius Of Ravi Shankar",     "have":"1","shortid":"SHANRA_25"},
   	     {"refid" : "00534", "publisher" :"",                          "date":"0000-00-00","title":"Ravi Shankar in Nederland",      "have":"1","shortid":"SHANRA_26"},
   	     {"refid" : "00535", "publisher" :"AngelRecords",              "date":"1956-00-00","title":"3 Ragas",                        "have":"1","shortid":"SHANRA_27"},
-  	     {"refid" : "00536", "publisher" :"",                          "date":"0000-00-00","title":"Highlights",                     "have":"1","shortid":"SHANRA_28"}
-
+  	     {"refid" : "00536", "publisher" :"",                          "date":"0000-00-00","title":"Highlights",                     "have":"1","shortid":"SHANRA_28"},
+  	     {"refid" : "00537", "publisher" :"",                          "date":"0000-00-00","title":"West Meets East Vol 2",          "have":"1","shortid":"SHANRA_29"},
+  	     {"refid" : "00538", "publisher" :"His Master''s Voice",       "date":"1968-00-00","title":"Two Raga Moods",                 "have":"1","shortid":"SHANRA_30"},
+  	     {"refid" : "00539", "publisher" :"Saragama",                  "date":"0000-00-00","title":"Journey 01",                     "have":"1","shortid":"SHANRA_31"},
+  	     {"refid" : "00540", "publisher" :"Saragama",                  "date":"0000-00-00","title":"Journey 02",                     "have":"1","shortid":"SHANRA_32"},
+  	     {"refid" : "00541", "publisher" :"Saragama",                  "date":"0000-00-00","title":"Journey 03",                     "have":"1","shortid":"SHANRA_33"},
+  	     {"refid" : "00542", "publisher" :"Saragama",                  "date":"0000-00-00","title":"Journey 04",                     "have":"1","shortid":"SHANRA_34"},
+  	     {"refid" : "00543", "publisher" :"Saragama",                  "date":"0000-00-00","title":"Journey 05",                     "have":"1","shortid":"SHANRA_35"},
+  	     {"refid" : "00544", "publisher" :"Saragama",                  "date":"0000-00-00","title":"Journey 06",                     "have":"1","shortid":"SHANRA_36"},
+  	     {"refid" : "00545", "publisher" :"Saragama",                  "date":"0000-00-00","title":"Journey 07",                     "have":"1","shortid":"SHANRA_37"},
+  	     {"refid" : "00546", "publisher" :"Saragama",                  "date":"0000-00-00","title":"Journey 08",                     "have":"1","shortid":"SHANRA_38"},
+  	     {"refid" : "00547", "publisher" :"Saragama",                  "date":"0000-00-00","title":"Journey 09",                     "have":"1","shortid":"SHANRA_39"},
+  	     {"refid" : "00548", "publisher" :"Saragama",                  "date":"0000-00-00","title":"Journey 10",                     "have":"1","shortid":"SHANRA_40"},
+  	     {"refid" : "00549", "publisher" :"Music Today",               "date":"2009-03-26","title":"Being Ravi Shankar",             "have":"1","shortid":"SHANRA_41"},
+  	     {"refid" : "00550", "publisher" :"Saregama India",            "date":"2006-09-25","title":"First LP Recording",             "have":"1","shortid":"SHANRA_42"},
+  	     {"refid" : "00551", "publisher" :"World-Pacific",             "date":"1967-00-00","title":"Portrait of a Genius",           "have":"1","shortid":"SHANRA_43"},
+  	     {"refid" : "00552", "publisher" :"",                          "date":"0000-00-00","title":"Chappaqua",                      "have":"1","shortid":"SHANRA_44"},
+  	     {"refid" : "00553", "publisher" :"",                          "date":"0000-00-00","title":"At The Woodstock Festival",      "have":"1","shortid":"SHANRA_45"},
+  	     {"refid" : "00554", "publisher" :"Surbahar Records",          "date":"2005-00-00","title":"7 Ragas in 7 Talas",             "have":"0"},
+  	     {"refid" : "00555", "publisher" :"",                          "date":"1999-00-00","title":"East Meets West",                "have":"1","shortid":"SHANRA_46"},
+  	     {"refid" : "00556", "publisher" :"",                          "date":"0000-00-00","title":"Live at the Monterey Festival",  "have":"1","shortid":"SHANRA_48"},
+  	     {"refid" : "00557", "publisher" :"Deutsche Grammophon",       "date":"1979-00-00","title":"Homage to Mahatma Gandhi",       "have":"1","shortid":"SHANRA_51"},
+  	     {"refid" : "00558", "publisher" :"Oriental Records",          "date":"1999-02-00","title":"The Doyen of Hindustani Music",  "have":"1","shortid":"SHANRA_52"},
+  	     {"refid" : "00559", "publisher" :"EMI",                       "date":"1966-00-00","title":"Concerto for Sitar & Orchestra", "have":"1","shortid":"SHANRA_53"}
 
   	  ], 
   	}

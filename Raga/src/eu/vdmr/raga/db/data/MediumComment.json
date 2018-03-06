@@ -41,6 +41,11 @@
   	     {"refid" : "00509", "comment" : "recorded 26-06-1986 in Maison de la radio. Directeur du son: Jean-Pierre Iunker"},
   	     {"refid" : "00509", "comment" : "recorded at ''Master Sound Astoria'', New York, by Ben Rizzi"},
   	     {"refid" : "00533", "comment" : "2nd of 2 vinyl records"},
-  	     {"refid" : "00535", "comment" : "digitally remastered 2000, original by EMI India"}
-  	  ]
+  	     {"refid" : "00535", "comment" : "digitally remastered 2000, original by EMI India"},
+  	     {"refid" : "00538", "comment" : "2 cd''s with the same 2 pieces"},
+  	     {"refid" : "00551", "comment" : "missing (on CD) Multani added from Spotify"},
+  	     {"refid" : "00555", "comment" : "Original sound recording 1967 [1, 2]; 1968 [3, 4, 5]; 1976 [6, 7]"}
+  	     
+  	     
+  	      	  ]
   	}
