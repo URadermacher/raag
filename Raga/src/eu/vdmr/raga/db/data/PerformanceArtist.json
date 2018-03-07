@@ -3090,6 +3090,32 @@
          {"storeid" : "001776",   "instrumentid": "Orchestra", "artistid":"Andre;Previn"},
          {"storeid" : "001776",   "instrumentid": "Tabla",     "artistid":"Alla;Rakha"},
    	     {"storeid" : "001776",   "instrumentid": "Tampura",   "artistid":"Kamala;-"}
+         {"storeid" : "001777",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
+         {"storeid" : "001777",   "instrumentid": "Tabla",     "artistid":"Chatur;Lal"},
+         {"storeid" : "001778",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
+         {"storeid" : "001778",   "instrumentid": "Tabla",     "artistid":"Kumar;Bose"},
+         {"storeid" : "001779",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
+         {"storeid" : "001779",   "instrumentid": "Tabla",     "artistid":"Zakir;Hussain"},
+         {"storeid" : "001780",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
+         {"storeid" : "001780",   "instrumentid": "Tabla",     "artistid":"Alla;Rakha"},
+         {"storeid" : "001781",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
+         {"storeid" : "001781",   "instrumentid": "Tabla",     "artistid":"Kannai;Dutta"},
+         {"storeid" : "001782",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
+         {"storeid" : "001782",   "instrumentid": "Sarod",     "artistid":"Aashish;Khan"},
+         {"storeid" : "001783",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
+         {"storeid" : "001784",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
+         {"storeid" : "001785",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
+         {"storeid" : "001786",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
+         {"storeid" : "001787",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
+         {"storeid" : "001787",   "instrumentid": "Violine",   "artistid":"Yehudi;Menuhin"},
+         {"storeid" : "001788",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
+         {"storeid" : "001788",   "instrumentid": "Orchestra", "artistid":"Andre;Previn"},
+         {"storeid" : "001789",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
+         {"storeid" : "001789",   "instrumentid": "Orchestra", "artistid":"Andre;Previn"},
+         {"storeid" : "001790",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
+         {"storeid" : "001791",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
+         {"storeid" : "001792",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
+         {"storeid" : "001783",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"}
    	        	       	     
    		]
   	}
