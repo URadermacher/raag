@@ -28,3 +28,7 @@ is Khambaj en Khamaj hezelfde?
  - chikari detection
  - alap/jor/jhalla/gat distinctions
  - sa- detection
+ 
+ ArtistsRelationsUpdate zijn data die na het vullen van artist moet draaien. NYI
+ 
+ 

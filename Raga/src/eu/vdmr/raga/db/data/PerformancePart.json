@@ -2172,7 +2172,27 @@
          {"storeid" : "001804", "volgnr" : "001", "partname":"",                                     "duration" :   "4:30","filename" : "001804_Fire_Night.wav"},
          {"storeid" : "001805", "volgnr" : "001", "partname":"",                                     "duration" :   "3:12","filename" : "001805_Sanwarey_Sanwarey.wav"},
          {"storeid" : "001806", "volgnr" : "001", "partname":"",                                     "duration" :   "2:29","filename" : "001806_Dispute_And_Violence.wav"},
-         {"storeid" : "001807", "volgnr" : "001", "partname":"",                                     "duration" :   "6009","filename" : "001807_Shanti_Mantra.wav"}
-                                                                                                                                        
+         {"storeid" : "001807", "volgnr" : "001", "partname":"",                                     "duration" :   "6:09","filename" : "001807_Shanti_Mantra.wav"},
+         {"storeid" : "001808", "volgnr" : "001", "partname":"Alap,Jor,Jhala",                       "duration" :  "21:56","filename" : "001808_1_Jait.wav"},
+         {"storeid" : "001808", "volgnr" : "002", "partname":"Gat",                                  "duration" :   "8:07","filename" : "001808_2_Jait.wav"},
+         {"storeid" : "001809", "volgnr" : "001", "partname":"slow and fast gats",                   "duration" :  "27:31","filename" : "001809_Kirwani.wav"},
+         {"storeid" : "001810", "volgnr" : "001", "partname":"slow and fast gats",                   "duration" :  "55:23","filename" : "001810_Mishra_Khamaj.wav"},
+         {"storeid" : "001811", "volgnr" : "001", "partname":"intro M.Handley",                      "duration" :   "6:02","filename" : "001811_1_Jog.wav"},
+         {"storeid" : "001811", "volgnr" : "002", "partname":"intro R.Shankar",                      "duration" :   "0:51","filename" : "001811_2_Jog.wav"},
+         {"storeid" : "001811", "volgnr" : "003", "partname":"gat",                                  "duration" :  "15:29","filename" : "001811_3_Jog.wav"},
+         {"storeid" : "001811", "volgnr" : "004", "partname":"gat",                                  "duration" :   "7:48","filename" : "001811_4_Jog.wav"},
+         {"storeid" : "001812", "volgnr" : "001", "partname":"Tuning and Intro",                     "duration" :   "2:41","filename" : "001812_1_Pancham_Se_Gara.wav"},
+         {"storeid" : "001812", "volgnr" : "001", "partname":"Intro of Musicians",                   "duration" :   "2:14","filename" : "001812_2_Pancham_Se_Gara.wav"},
+         {"storeid" : "001812", "volgnr" : "001", "partname":"gat",                                  "duration" :  "26:15","filename" : "001812_3_3ancham_Se_Gara.wav"},
+         {"storeid" : "001812", "volgnr" : "001", "partname":"End M.Handley",                        "duration" :   "2:31","filename" : "001812_4_Pancham_Se_Gara.wav"},
+         {"storeid" : "001813", "volgnr" : "001", "partname":"Ektal and Tintal",                     "duration" :  "20:55","filename" : "001813_Ahir_Bhairav.wav"},
+         {"storeid" : "001814", "volgnr" : "001", "partname":"", "talid":"Jhaptal",                  "duration" :  "11:45","filename" : "001814_Dhani.wav"},
+         {"storeid" : "001815", "volgnr" : "001", "partname":"", "talid":"Dipchandi",                "duration" :   "8:00","filename" : "001815_Sohini.wav"},
+         {"storeid" : "001816", "volgnr" : "001", "partname":"", "talid":"Keherwa",                  "duration" :   "5:50","filename" : "001816_Sindhu_Bhairavi.wav"},
+         {"storeid" : "001817", "volgnr" : "001", "partname":"Tintal and Ektal",                     "duration" :  "15:45","filename" : "001817_Basant.wav"},
+         {"storeid" : "001818", "volgnr" : "001", "partname":"Holi",                                 "duration" :   "6:35","filename" : "001818_Khafi.wav"},
+         {"storeid" : "001819", "volgnr" : "001", "partname":"Bhajan",                               "duration" :   "5:50","filename" : "001819_Miyan_Ki_Malhar.wav"},
+         {"storeid" : "001820", "volgnr" : "001", "partname":"Bhajan",                               "duration" :   "6:50","filename" : "001820_Megh.wav"},
+         {"storeid" : "001821", "volgnr" : "001", "partname":"Bhajan",                               "duration" :   "7:10","filename" : "001821_Bhairavi.wav"}
      ] 
   }

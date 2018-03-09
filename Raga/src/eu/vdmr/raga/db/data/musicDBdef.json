@@ -21,6 +21,14 @@
   	     {"name" : "style", "type" : "INTEGER", "ref" : "Style,id,name"}
   	  ]
     },
+  	{ "name" : "ArtistRelation",
+  	  "columns" : [
+  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
+  	     {"name" : "name", "type" : "TEXT"},
+  	     {"name" : "refid", "type" : "INTEGER"},
+  	     {"name" : "reverse", "type" : "INTEGER"}
+  	  ]
+    },
   	{ "name" : "Artist",
   	  "columns" : [
   	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
@@ -44,14 +52,6 @@
   	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
   	     {"name" : "artistid", "type" : "INTEGER", "ref" : "Artist,id,firstname;lastname"},
   	     {"name" : "comment", "type" : "TEXT"}
-  	  ]
-    },
-  	{ "name" : "ArtistRelation",
-  	  "columns" : [
-  	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
-  	     {"name" : "name", "type" : "TEXT"},
-  	     {"name" : "refid", "type" : "INTEGER"},
-  	     {"name" : "reverse", "type" : "INTEGER"}
   	  ]
     },
   	{ "name" : "That",

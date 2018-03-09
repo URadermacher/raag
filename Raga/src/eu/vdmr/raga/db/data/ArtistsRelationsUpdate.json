@@ -1,0 +1,7 @@
+{ "name" : "ArtistsRelationsUpdate",
+      "entries" : [
+  	     {"artistid" : "Arto;Sarachi",   "relation" : "isProbablySameAs",  "otherArtist":"-;Parthasarathy"},
+  	     {"artistid" : "Partho;Sarathy", "relation" : "isProbablySameAs",  "otherArtist":"-;Parthasarathy"},
+  	     {"artistid" : "Ravi;Shankar",   "relation" : "isFather-MotherOf", "otherArtist":"Anoushka;Shankar"}
+  	  ]
+ }  	     

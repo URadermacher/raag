@@ -5,6 +5,7 @@
   	     {"name" : "isTeacherOf",       "refid" : "3", "reverse":"4"},
   	     {"name" : "isPupilOf",         "refid" : "4", "reverse":"3"},
   	     {"name" : "isAunt-OncleOf",    "refid" : "5", "reverse":"6"},
-  	     {"name" : "isNephew-NieceOf",  "refid" : "6", "reverse":"5"}
+  	     {"name" : "isNephew-NieceOf",  "refid" : "6", "reverse":"5"},
+  	     {"name" : "isProbablySameAs",  "refid" : "7", "reverse":"7"}
   	  ]
     }

@@ -1808,7 +1808,21 @@
    	     {"ragaid" : "Unknown",         "artistid":"Ravi;Shankar",           "provenance":"CD,d11", "CD":"00560","storeid":"001804","title" : "Fire_Night"},
    	     {"ragaid" : "Unknown",         "artistid":"Ravi;Shankar",           "provenance":"CD,d12", "CD":"00560","storeid":"001805","title" : "Sanwarey_Sanwarey"},
    	     {"ragaid" : "Unknown",         "artistid":"Ravi;Shankar",           "provenance":"CD,d13", "CD":"00560","storeid":"001806","title" : "Dispute_And_Violence"},
-   	     {"ragaid" : "Unknown",         "artistid":"Ravi;Shankar",           "provenance":"CD,d14", "CD":"00560","storeid":"001807","title" : "Shanti_Mantra"}
+   	     {"ragaid" : "Unknown",         "artistid":"Ravi;Shankar",           "provenance":"CD,d14", "CD":"00560","storeid":"001807","title" : "Shanti_Mantra"},
+   	     {"ragaid" : "Jait",            "artistid":"Ravi;Shankar",           "provenance":"CD,1",   "CD":"00561","storeid":"001808","title" : "Jait", "date":"1993-00-00", "place":"Royal Albert Hall, London"},
+   	     {"ragaid" : "Kirwani",         "artistid":"Ravi;Shankar",           "provenance":"CD,2",   "CD":"00561","storeid":"001809","title" : "Kirwani", "date":"1993-00-00", "place":"Royal Albert Hall, London"},
+   	     {"ragaid" : "Khamaj",          "artistid":"Ravi;Shankar",           "provenance":"CD,3",   "CD":"00561","storeid":"001810","title" : "Mishra Khamaj", "date":"1993-00-00", "place":"Royal Albert Hall, London"},
+   	     {"ragaid" : "Jog",             "artistid":"Ravi;Shankar",           "provenance":"CD,3",   "CD":"00562","storeid":"001811","title" : "Jog", "date":"2005-08-03", "place":"Royal Albert Hall BBC Proms, London"},
+   	     {"ragaid" : "Pancham_Se_Gara", "artistid":"Ravi;Shankar",           "provenance":"CD,7",   "CD":"00562","storeid":"001812","title" : "Pancham_Se_Gara", "date":"2005-08-03", "place":"Royal Albert Hall BBC Proms, London"},
+   	     {"ragaid" : "Ahir_Bhairav",    "artistid":"Lakshmi;Shankar",        "provenance":"CD,1",   "CD":"00563","storeid":"001813","title" : "Khyal Ahir_Bhairav"},
+   	     {"ragaid" : "Dhani",           "artistid":"Lakshmi;Shankar",        "provenance":"CD,2",   "CD":"00563","storeid":"001814","title" : "Khyal Dhani"},
+   	     {"ragaid" : "Sohini",          "artistid":"Lakshmi;Shankar",        "provenance":"CD,3",   "CD":"00563","storeid":"001815","title" : "Thumri Sohini"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Lakshmi;Shankar",        "provenance":"CD,4",   "CD":"00563","storeid":"001816","title" : "Dadra Bhairavi"},
+   	     {"ragaid" : "Basant",          "artistid":"Lakshmi;Shankar",        "provenance":"CD,1",   "CD":"00563","storeid":"001817","title" : "Khyal Basant"},
+   	     {"ragaid" : "Kafi",            "artistid":"Lakshmi;Shankar",        "provenance":"CD,2",   "CD":"00563","storeid":"001818","title" : "Holi Khafi"},
+   	     {"ragaid" : "Malhar",          "artistid":"Lakshmi;Shankar",        "provenance":"CD,3",   "CD":"00563","storeid":"001819","title" : "Mira Bhajan Miyan Ki Malhar"},
+   	     {"ragaid" : "Megh",            "artistid":"Lakshmi;Shankar",        "provenance":"CD,4",   "CD":"00563","storeid":"001820","title" : "Surdas Bhajan Megh"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Lakshmi;Shankar",        "provenance":"CD,5",   "CD":"00563","storeid":"001821","title" : "Mira Bhajan Bhairavi"}
 
      ]
   	}
