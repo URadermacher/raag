@@ -1822,7 +1822,18 @@
    	     {"ragaid" : "Kafi",            "artistid":"Lakshmi;Shankar",        "provenance":"CD,2",   "CD":"00563","storeid":"001818","title" : "Holi Khafi"},
    	     {"ragaid" : "Malhar",          "artistid":"Lakshmi;Shankar",        "provenance":"CD,3",   "CD":"00563","storeid":"001819","title" : "Mira Bhajan Miyan Ki Malhar"},
    	     {"ragaid" : "Megh",            "artistid":"Lakshmi;Shankar",        "provenance":"CD,4",   "CD":"00563","storeid":"001820","title" : "Surdas Bhajan Megh"},
-   	     {"ragaid" : "Bhairavi",        "artistid":"Lakshmi;Shankar",        "provenance":"CD,5",   "CD":"00563","storeid":"001821","title" : "Mira Bhajan Bhairavi"}
+   	     {"ragaid" : "Bhairavi",        "artistid":"Lakshmi;Shankar",        "provenance":"CD,5",   "CD":"00563","storeid":"001821","title" : "Mira Bhajan Bhairavi"},
+   	     {"ragaid" : "Puriya_Dhanashri","artistid":"Shamim Ahmed;Khan",      "provenance":"CD,1",   "CD":"00564","storeid":"001822","title" : "Puriya_Dhanashri"},
+   	     {"ragaid" : "Pilu",            "artistid":"Kartick;Kumar",          "provenance":"CD,2",   "CD":"00564","storeid":"001823","title" : "Mishra Piloo"},
+   	     {"ragaid" : "Khamaj",          "artistid":"Pandit;Giriraj",         "provenance":"CD,3",   "CD":"00564","storeid":"001824","title" : "Khamaj"},
+   	     {"ragaid" : "Bahar",           "artistid":"Budhaditya;Mukherjee",   "provenance":"CD,4",   "CD":"00564","storeid":"001825","title" : "Bahar"},
+   	     {"ragaid" : "Bhimpalasi",      "artistid":"Shalil;Shankar",         "provenance":"CD,1",   "CD":"00565","storeid":"001826","title" : "Bhimpalasi"},
+   	     {"ragaid" : "Kafi",            "artistid":"Shalil;Shankar",         "provenance":"CD,2",   "CD":"00565","storeid":"001827","title" : "Mishra Kafi"},
+   	     {"ragaid" : "Hemavati",        "artistid":"Shalil;Shankar",         "provenance":"CD,3",   "CD":"00565","storeid":"001828","title" : "Hemavanti"},
+   	     {"ragaid" : "Mand",            "artistid":"Shalil;Shankar",         "provenance":"CD,4",   "CD":"00565","storeid":"001829","title" : "Mishra Mand"},
+   	     {"ragaid" : "Madhuvanti",      "artistid":"Shalil;Shankar",         "provenance":"CD,1",   "CD":"00566","storeid":"001830","title" : "Madhuvanti"},
+   	     {"ragaid" : "Madhuranjani",    "artistid":"Shalil;Shankar",         "provenance":"CD,2",   "CD":"00566","storeid":"001831","title" : "Madhuranjani"},
+   	     {"ragaid" : "Unknown",         "artistid":"Shalil;Shankar",         "provenance":"CD,3",   "CD":"00566","storeid":"001832","title" : "Dhun"}
 
      ]
   	}

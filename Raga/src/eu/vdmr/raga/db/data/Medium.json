@@ -561,7 +561,12 @@
   	     {"refid" : "00560", "publisher" :"Angel Records",             "date":"1996-00-00","title":"In Celebration",                 "have":"1","shortid":"SHANRA_54"},
   	     {"refid" : "00561", "publisher" :"Moment Records",            "date":"1995-00-00","title":"Concert for Peace",              "have":"1","shortid":"SHANRA_55"},
   	     {"refid" : "00562", "publisher" :"",                          "date":"2005-00-00","title":"Sandhya (Evening) Ragas",        "have":"1","shortid":"SHANRA_56"},
-  	     {"refid" : "00563", "publisher" :"",                          "date":"2005-00-00","title":"Les heures et les saisons",      "have":"1","shortid":"SHANLA_1"}
+  	     {"refid" : "00563", "publisher" :"",                          "date":"0000-00-00","title":"Les heures et les saisons",      "have":"1","shortid":"SHANLA_1"},
+  	     {"refid" : "00564", "publisher" :"",                          "date":"0000-00-00","title":"Sitars 1",                       "have":"1","shortid":"SITAAS_1"},
+  	     {"refid" : "00565", "publisher" :"Not On Label",              "date":"0000-00-00","title":"Waves Of Romantic Ragas",        "have":"1","shortid":"SHANSH_1"},
+  	     {"refid" : "00566", "publisher" :"Roma II Limited",           "date":"1997-00-00","title":"Raag Darshan",                   "have":"1","shortid":"SHANSH_2"}
+
+
 
   	  ], 
   	}

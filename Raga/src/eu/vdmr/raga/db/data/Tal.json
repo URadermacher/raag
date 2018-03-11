@@ -5,6 +5,7 @@
   	     {"name" : "Chachar",                  "pattern" : "4-4-4-4", "theka" : "dha - dhin - / dha dha tin - / ta - tin - / dha dha dhin -"},
   	     {"name" : "Chapu"},
   	     {"name" : "Chartal"},
+  	     {"name" : "Chartal Ki Sawari", "beats":"11", "theka" : "dhi kri| dhi ta / dhi dhi / na tikre/ dhi ta/ dhidhi/ na daghe/ na gha de na / dhi ta/ - dhi / - ta"},
   	     {"name" : "Chautal",    "pattern" : "4-4-4",   "theka" : "dha dha dhin ta| kita dha dhin ta | tita kata gadee gena"},
   	     {"name" : "Dadra",      "pattern" : "3-3",     "theka" : "dha dhin na |  dha tin na  (or:) dha dhi na| dha tu na. "},
   	     {"name" : "Dhamar",     "pattern" : "5-2-3-4", "theka" : "ka dhi ta dhi ta | dha - | ga ti ta | ti ta ta -"},

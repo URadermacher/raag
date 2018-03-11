@@ -2193,6 +2193,18 @@
          {"storeid" : "001818", "volgnr" : "001", "partname":"Holi",                                 "duration" :   "6:35","filename" : "001818_Khafi.wav"},
          {"storeid" : "001819", "volgnr" : "001", "partname":"Bhajan",                               "duration" :   "5:50","filename" : "001819_Miyan_Ki_Malhar.wav"},
          {"storeid" : "001820", "volgnr" : "001", "partname":"Bhajan",                               "duration" :   "6:50","filename" : "001820_Megh.wav"},
-         {"storeid" : "001821", "volgnr" : "001", "partname":"Bhajan",                               "duration" :   "7:10","filename" : "001821_Bhairavi.wav"}
+         {"storeid" : "001821", "volgnr" : "001", "partname":"Bhajan",                               "duration" :   "7:10","filename" : "001821_Bhairavi.wav"},
+         {"storeid" : "001822", "volgnr" : "001", "partname":"",                                     "duration" :  "26:03","filename" : "001822_Puriya_Dhanashri.wav"},
+         {"storeid" : "001823", "volgnr" : "001", "partname":"",                                     "duration" :   "8:21","filename" : "001823_Mishra_Piloo.wav"},
+         {"storeid" : "001824", "volgnr" : "001", "partname":"",                                     "duration" :  "32:57","filename" : "001824_Khamaj.wav"},
+         {"storeid" : "001825", "volgnr" : "001", "partname":"",                                     "duration" :  "19:12","filename" : "001825_Bahar.wav"},
+         {"storeid" : "001826", "volgnr" : "001", "partname":"Alap, Jor,Jhala","talid":"Chartal Ki Sawari","duration":"19:29","filename":"001826_Bhimpalasi.wav"},
+         {"storeid" : "001827", "volgnr" : "001", "partname":"",                                     "duration" :   "7:03","filename" : "001827_Kafi.wav"},
+         {"storeid" : "001828", "volgnr" : "001", "partname":"",                                     "duration" :   "5:34","filename" : "001828_Hemavati.wav"},
+         {"storeid" : "001829", "volgnr" : "001", "partname":"",                                     "duration" :   "7:27","filename" : "001829_Mand.wav"},
+         {"storeid" : "001830", "volgnr" : "001", "partname":"Alap,Jor,Jhala",                       "duration" :  "15:49","filename" : "001830_1_Madhuvanti.wav"},
+         {"storeid" : "001830", "volgnr" : "001", "partname":"Gat","talid":"Rupak",                  "duration" :   "7:25","filename" : "001830_2_Madhuvanti.wav"},
+         {"storeid" : "001831", "volgnr" : "001", "partname":"Vilambit Tintal, Drut Ektal",          "duration" :  "15:38","filename" : "001831_Madhuranjani.wav"},
+         {"storeid" : "001832", "volgnr" : "001", "partname":"Dadra tal and Drut Tintal",            "duration" :  "15:07","filename" : "001832_Dhun.wav"}
      ] 
   }
