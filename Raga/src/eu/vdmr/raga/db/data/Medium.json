@@ -564,8 +564,19 @@
   	     {"refid" : "00563", "publisher" :"",                          "date":"0000-00-00","title":"Les heures et les saisons",      "have":"1","shortid":"SHANLA_1"},
   	     {"refid" : "00564", "publisher" :"",                          "date":"0000-00-00","title":"Sitars 1",                       "have":"1","shortid":"SITAAS_1"},
   	     {"refid" : "00565", "publisher" :"Not On Label",              "date":"0000-00-00","title":"Waves Of Romantic Ragas",        "have":"1","shortid":"SHANSH_1"},
-  	     {"refid" : "00566", "publisher" :"Roma II Limited",           "date":"1997-00-00","title":"Raag Darshan",                   "have":"1","shortid":"SHANSH_2"}
-
+  	     {"refid" : "00566", "publisher" :"Roma II Limited",           "date":"1997-00-00","title":"Raag Darshan",                   "have":"1","shortid":"SHANSH_2"},
+  	     {"refid" : "00567", "publisher" :"EMI",                       "date":"0000-00-00","title":"Pushpanjali",                    "have":"1","shortid":"SHARHA_1"},
+  	     {"refid" : "00568", "publisher" :"",                          "date":"0000-00-00","title":"3 Ragas",                        "have":"1","shortid":"SHARSH_1"},
+  	     {"refid" : "00569", "publisher" :"",                          "date":"0000-00-00","title":"Inde Du Nord",                   "have":"1","shortid":"SHARSH_2"},
+  	     {"refid" : "00570", "publisher" :"The Grammophone Company of India","date":"0000-00-00","title":"Classical Melodies on the Santor","have":"1","shortid":"SHARSH_3"},
+  	     {"refid" : "00571", "publisher" :"",                          "date":"0000-00-00","title":"Santoor & Guitar",               "have":"1","shortid":"SHARSH_4"},
+  	     {"refid" : "00572", "publisher" :"",                          "date":"0000-00-00","title":"live concert at rang bhavan",    "have":"1","shortid":"SHARSH_5"},
+  	     {"refid" : "00573", "publisher" :"EMI",                       "date":"0000-00-00","title":"Yugal Bandi Shiv + Hari",        "have":"1","shortid":"SHARSH_6"},
+  	     {"refid" : "00574", "publisher" :"Gandharva Veda",            "date":"1997-00-00","title":"Melody For Celebration And Joyfulness","have":"1","shortid":"SHARSH_8"},
+  	     {"refid" : "00575", "publisher" :"",                          "date":"0000-00-00","title":"Kaunsi-Dhwani & Hamsadhwani",    "have":"1","shortid":"SHARSH_9"},
+  	     {"refid" : "00576", "publisher" :"",                          "date":"0000-00-00","title":"Santor",                         "have":"1","shortid":"SHARSH_10"},
+  	     {"refid" : "00577", "publisher" :"",                          "date":"0000-00-00","title":"Chandrakauns",                   "have":"1","shortid":"SHARSH_13"},
+  	     {"refid" : "00578", "publisher" :"Krishna Audio",             "date":"2001-00-00","title":"Melody of Joy",                  "have":"1","shortid":"SHARSU_1"}
 
 
   	  ], 

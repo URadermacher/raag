@@ -1,5 +1,6 @@
 { "name" : "ArtistsRelationsUpdate",
       "entries" : [
+  	     {"artistid" : "Kalinath;Misra", "relation" : "isProbablySameAs",  "otherArtist":"Kasinath;Misra"},
   	     {"artistid" : "Arto;Sarachi",   "relation" : "isProbablySameAs",  "otherArtist":"-;Parthasarathy"},
   	     {"artistid" : "Partho;Sarathy", "relation" : "isProbablySameAs",  "otherArtist":"-;Parthasarathy"},
   	     {"artistid" : "Ravi;Shankar",   "relation" : "isFather-MotherOf", "otherArtist":"Anoushka;Shankar"}

@@ -225,7 +225,7 @@
         {"name" : "Hamir_Kalyan"},
         {"name" : "Hamir_Nath"},
         {"name" : "Hamir", "thatid" : "Kalyan", "notes" : "S R G M m P D N"},
-        {"name" : "Hamsadhwani", "thatid" : "Bilaval", "notes" : "S R G P N"},
+        {"name" : "Hamsadhwani", "thatid" : "Bilaval", "notes" : "S R G P N", "Composer":"Ramasvami;Dikshitar"},
         {"name" : "Hans_Kalyan"},
         {"name" : "Hans_Manjari"},
         {"name" : "Hans_Narayani"},
