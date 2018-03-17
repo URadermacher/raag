@@ -3266,8 +3266,48 @@
          {"storeid" : "001866",   "instrumentid": "Sitar",     "artistid":"Suman;Sharma"},
          {"storeid" : "001866",   "instrumentid": "Tabla",     "artistid":"Anup;Ghosh"},
          {"storeid" : "001867",   "instrumentid": "Sitar",     "artistid":"Suman;Sharma"}
-         {"storeid" : "001867",   "instrumentid": "Tabla",     "artistid":"Anup;Ghosh"}
-
+         {"storeid" : "001867",   "instrumentid": "Tabla",     "artistid":"Anup;Ghosh"},
+         {"storeid" : "001868",   "instrumentid": "ShenaiEnsemble","artistid":"Daya;Shankar"},
+         {"storeid" : "001869",   "instrumentid": "ShenaiEnsemble","artistid":"-;Thevur"},
+         {"storeid" : "001870",   "instrumentid": "ShenaiEnsemble","artistid":"-;Thevur"},
+         {"storeid" : "001871",   "instrumentid": "Sitar",     "artistid":"Dal;Shilal"},
+         {"storeid" : "001872",   "instrumentid": "Sitar",     "artistid":"Dal;Shilal"},
+         {"storeid" : "001873",   "instrumentid": "Sitar",     "artistid":"Dal;Shilal"},
+         {"storeid" : "001874",   "instrumentid": "Sitar",     "artistid":"Dal;Shilal"},
+         {"storeid" : "001875",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001876",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001877",   "instrumentid": "Surbahar",  "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001878",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001879",   "instrumentid": "Dilruba",   "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001880",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001881",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001882",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001883",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001884",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001885",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001886",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001887",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001888",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001889",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001890",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001890",   "instrumentid": "Tabla",     "artistid":"Sanju;Sahai"},
+         {"storeid" : "001891",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001891",   "instrumentid": "Tabla",     "artistid":"Sanju;Sahai"},
+         {"storeid" : "001892",   "instrumentid": "Surbahar",  "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001892",   "instrumentid": "Tabla",     "artistid":"Sanju;Sahai"},
+         {"storeid" : "001893",   "instrumentid": "Dilruba",   "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001893",   "instrumentid": "Tabla",     "artistid":"Sanju;Sahai"},
+         {"storeid" : "001894",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"}
+         {"storeid" : "001894",   "instrumentid": "Tabla",     "artistid":"Sanju;Sahai"},
+         {"storeid" : "001895",   "instrumentid": "Sitar",     "artistid":"Manju;Bhatt"},
+         {"storeid" : "001895",   "instrumentid": "Sarod",     "artistid":"Damodarlal;Kabra"},
+         {"storeid" : "001895",   "instrumentid": "Tabla",     "artistid":"Subodh;Sharma"},
+         {"storeid" : "001895",   "instrumentid": "Tampura",     "artistid":"Kumari;Kabra"},
+         {"storeid" : "001896",   "instrumentid": "SitarEnsemble","artistid":"Umashankar;Mishra"},
+         {"storeid" : "001896",   "instrumentid": "Tabla",     "artistid":"Faiyaz;Khan"},
+         {"storeid" : "001897",   "instrumentid": "Sitar",     "artistid":"Debendra;Chattopadhaya"},
+         {"storeid" : "001897",   "instrumentid": "Tabla",     "artistid":"Surendra Mohan;Mishra"}
+         
 
    		]
   	}

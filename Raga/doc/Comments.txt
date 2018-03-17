@@ -1,4 +1,4 @@
-For note I use
+
 for normal notes: SRGmPDN
 for komal notes rgdn
 for tivra notes M
@@ -22,4 +22,4 @@ in thekas '*' means the same as the point: extend the lenght of the not with a h
 
 most probably files with name xxxxxx_1_name and xxxxxx_2_name should be played without pause..
 
-uizoeken: is "Madhu Malati"  idd "Madhuvanti"? 
+ 

@@ -576,7 +576,12 @@
   	     {"refid" : "00575", "publisher" :"",                          "date":"0000-00-00","title":"Kaunsi-Dhwani & Hamsadhwani",    "have":"1","shortid":"SHARSH_9"},
   	     {"refid" : "00576", "publisher" :"",                          "date":"0000-00-00","title":"Santor",                         "have":"1","shortid":"SHARSH_10"},
   	     {"refid" : "00577", "publisher" :"",                          "date":"0000-00-00","title":"Chandrakauns",                   "have":"1","shortid":"SHARSH_13"},
-  	     {"refid" : "00578", "publisher" :"Krishna Audio",             "date":"2001-00-00","title":"Melody of Joy",                  "have":"1","shortid":"SHARSU_1"}
+  	     {"refid" : "00578", "publisher" :"Krishna Audio",             "date":"2001-00-00","title":"Melody of Joy",                  "have":"1","shortid":"SHARSU_1"},
+  	     {"refid" : "00579", "publisher" :"",                          "date":"0000-00-00","title":"Shenai Ensembles",               "have":"1","shortid":"SHENAI_1"},
+  	     {"refid" : "00581", "publisher" :"",                          "date":"0000-00-00","title":"Baluji Shrinavas",               "have":"1","shortid":"SHRIBA_1"},
+  	     {"refid" : "00582", "publisher" :"ARC Music",                 "date":"1994-00-00","title":"Classical Indian Sitar & SUrbahar Ragas", "have":"1","shortid":"SHRIBA_2"},
+  	     {"refid" : "00583", "publisher" :"ARC Music",                 "date":"2007-00-00","title":"Shadow of the Lotus",            "have":"1","shortid":"SHRIBA_3"},
+  	     {"refid" : "00584", "publisher" :"",                          "date":"0000-00-00","title":"The Sitar of India",             "have":"1","shortid":"SITAOI_1"}
 
 
   	  ], 

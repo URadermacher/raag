@@ -2227,7 +2227,7 @@
          {"storeid" : "001850", "volgnr" : "001", "partname":"","talid":"Tintal",                    "duration" :  "11:48","filename" : "001850_Bageshri.wav"},
          {"storeid" : "001851", "volgnr" : "001", "partname":"","talid":"Rupak",                     "duration" :   "5:02","filename" : "001851_Jhinjhoti.wav"},
          {"storeid" : "001852", "volgnr" : "001", "partname":"","talid":"Tintal",                    "duration" :  "11:19","filename" : "001852_Ahir_Bhairav.wav"},
-         {"storeid" : "001853", "volgnr" : "001", "partname":"","talid":"Dadra",                     "duration" :   "5:35","filename" : "001853_Bhairavi.wav"}
+         {"storeid" : "001853", "volgnr" : "001", "partname":"","talid":"Dadra",                     "duration" :   "5:35","filename" : "001853_Bhairavi.wav"},
          {"storeid" : "001854", "volgnr" : "001", "partname":"Alap,Jor,Jhala",                       "duration" :  "19:24","filename" : "001854_1_Kirwani.wav"},
          {"storeid" : "001854", "volgnr" : "002", "partname":"Gat","talid":"Tintal",                 "duration" :  "19:39","filename" : "001854_2_Kirwani.wav"},
          {"storeid" : "001855", "volgnr" : "001", "partname":"Alap gat Rupak, gat Tintal",           "duration" :  "19:13","filename" : "001855_Jhinjhoti.wav"},
@@ -2245,7 +2245,40 @@
          {"storeid" : "001866", "volgnr" : "001", "partname":"Vilambit Gat","talid":"Tintal",        "duration" :  "14:12","filename" : "001866_2_Yaman.wav"},
          {"storeid" : "001866", "volgnr" : "001", "partname":"Madhya Gat","talid":"Rupak",           "duration" :   "4:09","filename" : "001866_3_Yaman.wav"},
          {"storeid" : "001866", "volgnr" : "001", "partname":"Drut Gat","talid":"Tintal",            "duration" :  "21:03","filename" : "001866_4_Yaman.wav"},
-         {"storeid" : "001867", "volgnr" : "001", "partname":"Alap, Drut Gat","talid":"Ektal",       "duration" :  "11:34","filename" : "001867_Anand.wav"}
-
-     ] 
+         {"storeid" : "001867", "volgnr" : "001", "partname":"Alap, Drut Gat","talid":"Ektal",       "duration" :  "11:34","filename" : "001867_Anand.wav"},
+         {"storeid" : "001868", "volgnr" : "001", "partname":"",                                     "duration" :  "15:07","filename" : "001868_Manj_Khamaj.wav"},
+         {"storeid" : "001869", "volgnr" : "001", "partname":"",                                     "duration" :   "5:03","filename" : "001869_Bihag.wav"},
+         {"storeid" : "001870", "volgnr" : "001", "partname":"",                                     "duration" :   "4:15","filename" : "001870_Malayamarutham.wav"},
+         {"storeid" : "001871", "volgnr" : "001", "partname":"",                                     "duration" :  "16:40","filename" : "001871_O_Mere_Sarasvati.wav"},
+         {"storeid" : "001872", "volgnr" : "001", "partname":"",                                     "duration" :   "5:14","filename" : "001872_Mauna_Om_Matar_Matar_Namasthe.wav"},
+         {"storeid" : "001873", "volgnr" : "001", "partname":"",                                     "duration" :   "4:04","filename" : "001873_Ekam.wav"},
+         {"storeid" : "001874", "volgnr" : "001", "partname":"",                                     "duration" :   "9:12","filename" : "001874_Yotish_Kaivalya.wav"},
+         {"storeid" : "001875", "volgnr" : "001", "partname":"",                                     "duration" :  "26:56","filename" : "001875_Shahana.wav"},
+         {"storeid" : "001876", "volgnr" : "001", "partname":"",                                     "duration" :  "15:56","filename" : "001876_Maru_Bihag.wav"},
+         {"storeid" : "001877", "volgnr" : "001", "partname":"",                                     "duration" :  "12:08","filename" : "001877_Bhairavi.wav"},
+         {"storeid" : "001878", "volgnr" : "001", "partname":"",                                     "duration" :   "8:34","filename" : "001878_Shobhavari.wav"},
+         {"storeid" : "001879", "volgnr" : "001", "partname":"",                                     "duration" :  "10:06","filename" : "001879_Jan_Samohini.wav"},
+         {"storeid" : "001880", "volgnr" : "001", "partname":"Alaap, Jar, Jhala",                    "duration" :  "15:37","filename" : "001880_Nat_Bhairav.wav"},
+         {"storeid" : "001881", "volgnr" : "001", "partname":"vilambit gat", "talid":"Tintal",       "duration" :  "14:56","filename" : "001881_Todi.wav"},
+         {"storeid" : "001882", "volgnr" : "001", "partname":"drut gat , jhala", "talid":"Tintal",   "duration" :  "10:15","filename" : "001882_Rageshwari.wav"},
+         {"storeid" : "001883", "volgnr" : "001", "partname":"",                                     "duration" :   "7:05","filename" : "001883_Folk_Melody_in_Des.wav"},
+         {"storeid" : "001884", "volgnr" : "001", "partname":"",                                     "duration" :   "7:50","filename" : "001884_Humak_Chala_Ta_Raam_Chandra.wav"},
+         {"storeid" : "001885", "volgnr" : "001", "partname":"",                                     "duration" :   "7:10","filename" : "001885_Vaishnav_Jana_To_Tene_Kamije.wav"},
+         {"storeid" : "001886", "volgnr" : "001", "partname":"Alap, Jor, Jhala",                     "duration" :  "29:51","filename" : "001886_Nat_Bhairav.wav"},
+         {"storeid" : "001887", "volgnr" : "001", "partname":"vilambit gat","talid":"Tintal",        "duration" :  "15:16","filename" : "001887_Bilashkani_Todi.wav"},
+         {"storeid" : "001888", "volgnr" : "001", "partname":"drut gat","talid":"Tintal",            "duration" :  "10:58","filename" : "001888_Shuddh_Sarang.wav"},
+         {"storeid" : "001889", "volgnr" : "001", "partname":"", "talid":"Keherwa",                  "duration" :   "5:00","filename" : "001889_Pahari.wav"},
+         {"storeid" : "001890", "volgnr" : "001", "partname":"",                                     "duration" :  "15:56","filename" : "001890_Maru_Bihag.wav"},
+         {"storeid" : "001891", "volgnr" : "001", "partname":"",                                     "duration" :   "8:34","filename" : "001891_Shobhavari.wav"},
+         {"storeid" : "001892", "volgnr" : "001", "partname":"",                                     "duration" :  "26:56","filename" : "001892_Shahana.wav"},
+         {"storeid" : "001893", "volgnr" : "001", "partname":"",                                     "duration" :  "10:06","filename" : "001893_Jan_Samohini.wav"},
+         {"storeid" : "001894", "volgnr" : "001", "partname":"",                                     "duration" :  "12:08","filename" : "001894_Bhairavi.wav"},
+         {"storeid" : "001895", "volgnr" : "001", "partname":"",                                     "duration" :  "12:08","filename" : "001895_Ahira_Bhairava.wav"},
+         {"storeid" : "001896", "volgnr" : "001", "partname":"",                                     "duration" :  "12:08","filename" : "001896_Shuddha_Saranga.wav"},
+         {"storeid" : "001897", "volgnr" : "001", "partname":"",                                     "duration" :  "12:08","filename" : "001897_Bhuparanjani.wav"}
+        
+         
+         
+         
+              ] 
   }
