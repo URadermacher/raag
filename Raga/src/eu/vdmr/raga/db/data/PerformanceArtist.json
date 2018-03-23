@@ -3053,7 +3053,7 @@
          {"storeid" : "001763",   "instrumentid": "Tabla",     "artistid":"Alla;Rakha"},
          {"storeid" : "001764",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
          {"storeid" : "001764",   "instrumentid": "Tabla",     "artistid":"Alla;Rakha"},
-         {"storeid" : "001764",   "instrumentid": "Tampura",   "artistid":"Kamala;Chakrabarty"}
+         {"storeid" : "001764",   "instrumentid": "Tampura",   "artistid":"Kamala;Chakrabarty"},
          {"storeid" : "001765",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
          {"storeid" : "001765",   "instrumentid": "Tabla",     "artistid":"Alla;Rakha"},
          {"storeid" : "001765",   "instrumentid": "Tampura",   "artistid":"Prodyot;Sen"},
@@ -3306,8 +3306,34 @@
          {"storeid" : "001896",   "instrumentid": "SitarEnsemble","artistid":"Umashankar;Mishra"},
          {"storeid" : "001896",   "instrumentid": "Tabla",     "artistid":"Faiyaz;Khan"},
          {"storeid" : "001897",   "instrumentid": "Sitar",     "artistid":"Debendra;Chattopadhaya"},
-         {"storeid" : "001897",   "instrumentid": "Tabla",     "artistid":"Surendra Mohan;Mishra"}
+         {"storeid" : "001897",   "instrumentid": "Tabla",     "artistid":"Surendra Mohan;Mishra"},
+         {"storeid" : "001898",   "instrumentid": "Sitar",     "artistid":"Arvind;Parikh"},
+         {"storeid" : "001899",   "instrumentid": "Sitar",     "artistid":"Ashraf Shariff;Khan"},
+         {"storeid" : "001899",   "instrumentid": "Tabla",     "artistid":"Tari;Khan"},
+         {"storeid" : "001900",   "instrumentid": "Sitar",     "artistid":"Balaram;Pathak"},
+         {"storeid" : "001901",   "instrumentid": "Sitar",     "artistid":"Balaram;Pathak"},
+         {"storeid" : "001902",   "instrumentid": "Sitar",     "artistid":"Debaprasad;Chakraborty"},
+         {"storeid" : "001902",   "instrumentid": "Tabla",     "artistid":"Tanmoy;Bose"},
+         {"storeid" : "001903",   "instrumentid": "Sitar",     "artistid":"Jaya;Biswas"},
+         {"storeid" : "001903",   "instrumentid": "Sarod",     "artistid":"Bahadur;Khan"},
+         {"storeid" : "001904",   "instrumentid": "Sitar",     "artistid":"Kalyani;Roy"},
+         {"storeid" : "001904",   "instrumentid": "Tabla",     "artistid":"Mahapurush;Mishra"},
+         {"storeid" : "001905",   "instrumentid": "Sitar",     "artistid":"Mushtaq Ali;Khan"},        
+         {"storeid" : "001906",   "instrumentid": "Sitar",     "artistid":"-;Unknown"},        
+         {"storeid" : "001907",   "instrumentid": "Sitar",     "artistid":"Kushal;Das"},        
+         {"storeid" : "001908",   "instrumentid": "Sitar",     "artistid":"Kushal;Das"},        
+         {"storeid" : "001909",   "instrumentid": "Sitar",     "artistid":"Nafees Ahmad;Khan"},        
+         {"storeid" : "001910",   "instrumentid": "Sitar",     "artistid":"Niladri;Kumar"},
+         {"storeid" : "001911",   "instrumentid": "Sitar",     "artistid":"Prasad;Jogaleka"},
+         {"storeid" : "001911",   "instrumentid": "Tabla",     "artistid":"Kulpreet;Badial"},
+         {"storeid" : "001912",   "instrumentid": "Sitar",     "artistid":"Ram;Chandra"},
+         {"storeid" : "001913",   "instrumentid": "Sitar",     "artistid":"Ramprapanna;Bhattacharya"},
+         {"storeid" : "001914",   "instrumentid": "Sitar",     "artistid":"Roshan Jamal;Bhartiya"},
+         {"storeid" : "001915",   "instrumentid": "Sitar",     "artistid":"Waheed;Khan"},
+         {"storeid" : "001916",   "instrumentid": "Sitar",     "artistid":"Waheed;Khan"}
          
-
+         
+         
+                 
    		]
   	}

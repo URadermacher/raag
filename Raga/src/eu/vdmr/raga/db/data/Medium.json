@@ -581,7 +581,11 @@
   	     {"refid" : "00581", "publisher" :"",                          "date":"0000-00-00","title":"Baluji Shrinavas",               "have":"1","shortid":"SHRIBA_1"},
   	     {"refid" : "00582", "publisher" :"ARC Music",                 "date":"1994-00-00","title":"Classical Indian Sitar & SUrbahar Ragas", "have":"1","shortid":"SHRIBA_2"},
   	     {"refid" : "00583", "publisher" :"ARC Music",                 "date":"2007-00-00","title":"Shadow of the Lotus",            "have":"1","shortid":"SHRIBA_3"},
-  	     {"refid" : "00584", "publisher" :"",                          "date":"0000-00-00","title":"The Sitar of India",             "have":"1","shortid":"SITAOI_1"}
+  	     {"refid" : "00584", "publisher" :"",                          "date":"0000-00-00","title":"The Sitar of India",             "have":"1","shortid":"SITAOI_1"},
+  	     {"refid" : "00585", "publisher" :"",                          "date":"0000-00-00","title":"Sitars 1",                       "have":"1","shortid":"SITARS_1"},
+  	     {"refid" : "00586", "publisher" :"",                          "date":"0000-00-00","title":"Sitars 2",                       "have":"1","shortid":"SITARS_2"},
+  	     {"refid" : "00587", "publisher" :"",                          "date":"0000-00-00","title":"Sitars 3",                       "have":"1","shortid":"SITARS_3"},
+  	     {"refid" : "00588", "publisher" :"",                          "date":"0000-00-00","title":"Sitars 4",                       "have":"1","shortid":"SITARS_4"}
 
 
   	  ], 

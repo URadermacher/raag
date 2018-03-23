@@ -1898,7 +1898,30 @@
    	     {"ragaid" : "Bhairavi",        "artistid":"Baluji;Shrivastav",      "provenance":"CD,3",   "CD":"00583","storeid":"001894","title" : "Bhairavi"},
    	     {"ragaid" : "Ahir_Bhairav",    "artistid":"Manju;Bhatt",            "provenance":"CD,1",   "CD":"00584","storeid":"001895","title" : "Ahira_Bhairava"},
    	     {"ragaid" : "Shuddh_Sarang",   "artistid":"Umashankar;Mishra",      "provenance":"CD,2",   "CD":"00584","storeid":"001896","title" : "Shuddh_Sarang"},
-   	     {"ragaid" : "Bhuparanjani",    "artistid":"Debendra;Chattopadhaya", "provenance":"CD,3",   "CD":"00584","storeid":"001897","title" : "Bhuparanjani"}
-
-     ]
+   	     {"ragaid" : "Bhuparanjani",    "artistid":"Debendra;Chattopadhaya", "provenance":"CD,3",   "CD":"00584","storeid":"001897","title" : "Bhuparanjani"},
+   	     {"ragaid" : "Jog_Kauns",       "artistid":"Arvind;Parikh",          "provenance":"CD,1",   "CD":"00585","storeid":"001898","title" : "Jog_Kauns"},
+   	     {"ragaid" : "Jaijaivanti",     "artistid":"Ashraf Shariff;Khan",    "provenance":"CD,2",   "CD":"00585","storeid":"001899","title" : "Jaijaiwanti"},
+   	     {"ragaid" : "Pilu",            "artistid":"Balaram;Pathak",         "provenance":"CD,3",   "CD":"00585","storeid":"001900","title" : "Pilu"},
+   	     {"ragaid" : "Unknown",         "artistid":"Balaram;Pathak",         "provenance":"CD,4",   "CD":"00585","storeid":"001901","title" : "Chaiti Dhun"},
+   	     {"ragaid" : "Manj_Khamaj",     "artistid":"Tanmoy;Bose",            "provenance":"CD,1",   "CD":"00586","storeid":"001902","title" : "Manj_Khamaj"},
+   	     {"ragaid" : "Hem_Bihag",       "artistid":"Jaya;Biswas",            "provenance":"CD,2",   "CD":"00586","storeid":"001903","title" : "Chaiti_Dhun"},
+   	     {"ragaid" : "Pilu",            "artistid":"Kalyani;Roy",            "provenance":"CD,3",   "CD":"00586","storeid":"001904","title" : "Pilu"},
+   	     {"ragaid" : "Bhairava",        "artistid":"Mushtaq Ali;Khan",       "provenance":"CD,4",   "CD":"00586","storeid":"001905","title" : "Bhairab"},
+   	     {"ragaid" : "Chandrakant",     "artistid":"-;Unknown",              "provenance":"CD,1",   "CD":"00587","storeid":"001906","title" : "Chandrakand"},
+   	     {"ragaid" : "Unknown",         "artistid":"Kushal;Das",             "provenance":"CD,2",   "CD":"00587","storeid":"001907","title" : "Samar Saha Melody"},
+   	     {"ragaid" : "Unknown",         "artistid":"Kushal;Das",             "provenance":"CD,3",   "CD":"00587","storeid":"001908","title" : "Light Melody"},
+   	     {"ragaid" : "Unknown",         "artistid":"Nafees Ahmad;Khan",      "provenance":"CD,4",   "CD":"00587","storeid":"001909","title" : "Ragamala"},
+   	     {"ragaid" : "Pilu",            "artistid":"Niladri;Kumar",          "provenance":"CD,5",   "CD":"00587","storeid":"001910","title" : "Pilu"},
+   	     {"ragaid" : "Malhar",          "artistid":"Prasad;Jogaleka",        "provenance":"CD,6",   "CD":"00587","storeid":"001911","title" : "Malhar"},
+   	     {"ragaid" : "Malakosha",       "artistid":"Ram;Chandra",            "provenance":"CD,1",   "CD":"00588","storeid":"001912","title" : "Malakosha"},
+   	     {"ragaid" : "Purvi",           "artistid":"Ramprapanna;Bhattacharya","provenance":"CD,2",  "CD":"00588","storeid":"001913","title" : "Purvi", "date":"2007-01-19", "place":"Pt. Kashinath Mukherhee''s Residence (Pt.Ji''s Birthday), Kolkata"},
+   	     {"ragaid" : "Jog",             "artistid":"Roshan Jamal;Bhartiya",  "provenance":"CD,3",   "CD":"00588","storeid":"001914","title" : "Joge"},
+   	     {"ragaid" : "Khamaj",          "artistid":"Waheed;Khan",            "provenance":"CD,4",   "CD":"00588","storeid":"001915","title" : "Khamaj"},
+   	     {"ragaid" : "Pilu",            "artistid":"Waheed;Khan",            "provenance":"CD,5",   "CD":"00588","storeid":"001916","title" : "Pilu"}
+   	     
+   	     
+   	     
+   	     
+   	     
+   	          ]
   	}
