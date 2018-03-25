@@ -3089,7 +3089,7 @@
          {"storeid" : "001776",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
          {"storeid" : "001776",   "instrumentid": "Orchestra", "artistid":"Andre;Previn"},
          {"storeid" : "001776",   "instrumentid": "Tabla",     "artistid":"Alla;Rakha"},
-   	     {"storeid" : "001776",   "instrumentid": "Tampura",   "artistid":"Kamala;-"}
+   	     {"storeid" : "001776",   "instrumentid": "Tampura",   "artistid":"Kamala;-"},
          {"storeid" : "001777",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
          {"storeid" : "001777",   "instrumentid": "Tabla",     "artistid":"Chatur;Lal"},
          {"storeid" : "001778",   "instrumentid": "Sitar",     "artistid":"Ravi;Shankar"},
@@ -3330,9 +3330,57 @@
          {"storeid" : "001913",   "instrumentid": "Sitar",     "artistid":"Ramprapanna;Bhattacharya"},
          {"storeid" : "001914",   "instrumentid": "Sitar",     "artistid":"Roshan Jamal;Bhartiya"},
          {"storeid" : "001915",   "instrumentid": "Sitar",     "artistid":"Waheed;Khan"},
-         {"storeid" : "001916",   "instrumentid": "Sitar",     "artistid":"Waheed;Khan"}
-         
-         
+         {"storeid" : "001916",   "instrumentid": "Sitar",     "artistid":"Waheed;Khan"},
+         {"storeid" : "001917",   "instrumentid": "Sitar",     "artistid":"Sanjoy;Bandopadhyay"},
+         {"storeid" : "001918",   "instrumentid": "Sitar",     "artistid":"Sanjoy;Bandopadhyay"},
+         {"storeid" : "001919",   "instrumentid": "Sitar",     "artistid":"Sanjay;Guha"},
+         {"storeid" : "001919",   "instrumentid": "Tabla",     "artistid":"Biplab;Bhattacharya"},
+         {"storeid" : "001920",   "instrumentid": "Sitar",     "artistid":"Sanjay;Guha"},
+         {"storeid" : "001921",   "instrumentid": "Sitar",     "artistid":"-;Unknown"},
+         {"storeid" : "001922",   "instrumentid": "Sitar",     "artistid":"Kartik;Seshadri"},
+         {"storeid" : "001923",   "instrumentid": "Sitar",     "artistid":"Ramprapanna;Bhattacharya"},
+         {"storeid" : "001924",   "instrumentid": "Sitar",     "artistid":"Roshan Jamal;Bhartiya"},	
+         {"storeid" : "001925",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},	
+         {"storeid" : "001926",   "instrumentid": "Sitar",     "artistid":"Partho;Sarathy"},	
+         {"storeid" : "001927",   "instrumentid": "Sitar",     "artistid":"Rash Behari;Datta"},	
+         {"storeid" : "001928",   "instrumentid": "Sitar",     "artistid":"Jonathan;Mayer"},	
+         {"storeid" : "001929",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},	
+         {"storeid" : "001930",   "instrumentid": "Sitar",     "artistid":"Jonathan;Mayer"},	
+         {"storeid" : "001931",   "instrumentid": "Sitar",     "artistid":"Rash Behari;Datta"},	
+         {"storeid" : "001932",   "instrumentid": "Sitar",     "artistid":"Rash Behari;Datta"},
+         {"storeid" : "001933",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},
+         {"storeid" : "001934",   "instrumentid": "Sitar",     "artistid":"Partho;Sarathy"},
+         {"storeid" : "001935",   "instrumentid": "Sitar",     "artistid":"Rash Behari;Datta"},
+         {"storeid" : "001936",   "instrumentid": "Sitar",     "artistid":"Jonathan;Mayer"},
+         {"storeid" : "001937",   "instrumentid": "Sitar",     "artistid":"Rash Behari;Datta"},       
+         {"storeid" : "001938",   "instrumentid": "Sitar",     "artistid":"-;Unknown"},       
+         {"storeid" : "001939",   "instrumentid": "Sitar",     "artistid":"-;Unknown"},       
+         {"storeid" : "001940",   "instrumentid": "Sitar",     "artistid":"-;Unknown"},       
+         {"storeid" : "001941",   "instrumentid": "Sitar",     "artistid":"-;Unknown"},       
+         {"storeid" : "001942",   "instrumentid": "Sitar",     "artistid":"-;Unknown"},       
+         {"storeid" : "001943",   "instrumentid": "Sitar",     "artistid":"-;Unknown"},       
+         {"storeid" : "001944",   "instrumentid": "Santur",    "artistid":"Bhajan;Sopori"},
+         {"storeid" : "001945",   "instrumentid": "Violine",   "artistid":"L.;Subramaniam"},
+         {"storeid" : "001945",   "instrumentid": "Tampura",   "artistid":"Biji;Subramaniam"},
+         {"storeid" : "001945",   "instrumentid": "Ghatam",    "artistid":"T.H.;Subramaniam"},
+         {"storeid" : "001945",   "instrumentid": "Mridangam", "artistid":"Pavalur;Srinavasan"},
+         {"storeid" : "001946",   "instrumentid": "Violine",   "artistid":"L.;Subramaniam"},
+         {"storeid" : "001947",   "instrumentid": "Violine",   "artistid":"L.;Subramaniam"},
+         {"storeid" : "001948",   "instrumentid": "Voice",     "artistid":"Parween;Sultana"},
+         {"storeid" : "001949",   "instrumentid": "Voice",     "artistid":"Parween;Sultana"},
+         {"storeid" : "001950",   "instrumentid": "Voice",     "artistid":"Parween;Sultana"},
+         {"storeid" : "001951",   "instrumentid": "Voice",     "artistid":"Parween;Sultana"},
+         {"storeid" : "001951",   "instrumentid": "Tabla",     "artistid":"Mukundraj;Deo"},
+         {"storeid" : "001951",   "instrumentid": "Harmonium", "artistid":"Shrinavas;Ahcarya"},
+         {"storeid" : "001952",   "instrumentid": "Voice",     "artistid":"Parween;Sultana"},
+         {"storeid" : "001952",   "instrumentid": "Tabla",     "artistid":"Mukundraj;Deo"},
+         {"storeid" : "001952",   "instrumentid": "Harmonium", "artistid":"Shrinavas;Ahcarya"},
+         {"storeid" : "001953",   "instrumentid": "Voice",     "artistid":"Parween;Sultana"}
+         {"storeid" : "001953",   "instrumentid": "Tabla",     "artistid":"Mukundraj;Deo"},
+         {"storeid" : "001953",   "instrumentid": "Harmonium", "artistid":"Mehmood;Dhulpuri"}
+
+
+
          
                  
    		]

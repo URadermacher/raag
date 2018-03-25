@@ -32,3 +32,11 @@ is Khambaj en Khamaj hezelfde?
  ArtistsRelationsUpdate zijn data die na het vullen van artist moet draaien. NYI
  
 uitzoeken: is "Madhu Malati"  idd "Madhuvanti"? 
+
+
+mimeren: difference between expert system and symbolic machine learning?
+expert system does not learn
+but machine learning need input, and .wav is not good. 
+So we need an expert to extract "relevant"  data like
+note, aroha avaroha, vadi, samvadi, pakad etc??
+and then on more data extract them automatically (also needed voor expert system!)

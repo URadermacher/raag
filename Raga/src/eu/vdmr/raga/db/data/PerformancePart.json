@@ -2294,10 +2294,47 @@
          {"storeid" : "001913", "volgnr" : "001", "partname":"",                                     "duration" :   "4:42","filename" : "001913_Purvi.wav"},
          {"storeid" : "001914", "volgnr" : "001", "partname":"",                                     "duration" :  "22:13","filename" : "001914_Joge.wav"},
          {"storeid" : "001915", "volgnr" : "001", "partname":"",                                     "duration" :   "3:22","filename" : "001915_Khamaj.wav"},
-         {"storeid" : "001911", "volgnr" : "001", "partname":"",                                     "duration" :   "1:21","filename" : "001916_Pilu.wav"}
-        
-         
-         
-         
+         {"storeid" : "001916", "volgnr" : "001", "partname":"",                                     "duration" :   "1:21","filename" : "001916_Pilu.wav"},
+         {"storeid" : "001917", "volgnr" : "001", "partname":"",                                     "duration" :  "11:16","filename" : "001917_Jog.wav"},
+         {"storeid" : "001918", "volgnr" : "001", "partname":"",                                     "duration" :   "6:10","filename" : "001918_Sohini.wav"},
+         {"storeid" : "001919", "volgnr" : "001", "partname":"",                                     "duration" :  "23:32","filename" : "001919_Nat_Bhairavi.wav"},
+         {"storeid" : "001920", "volgnr" : "001", "partname":"",                                     "duration" :  "24:31","filename" : "001920_Parameswari.wav"},
+         {"storeid" : "001921", "volgnr" : "001", "partname":"",                                     "duration" :  "29:57","filename" : "001921_Darbari.wav"},
+         {"storeid" : "001922", "volgnr" : "001", "partname":"",                                     "duration" :  "15:24","filename" : "001922_Vachaspathi.wav"},
+         {"storeid" : "001923", "volgnr" : "001", "partname":"",                                     "duration" :   "4:06","filename" : "001923_Purvi.wav"},
+         {"storeid" : "001924", "volgnr" : "001", "partname":"",                                     "duration" :  "22:10","filename" : "001924_Jog.wav"},
+         {"storeid" : "001925", "volgnr" : "001", "partname":"",                                     "duration" :   "8:42","filename" : "001925_Shobavari.wav"},
+         {"storeid" : "001926", "volgnr" : "001", "partname":"",                                     "duration" :   "8:10","filename" : "001926_Jait.wav"},
+         {"storeid" : "001927", "volgnr" : "001", "partname":"",                                     "duration" :   "8:36","filename" : "001927_Fast_Gat.wav"},
+         {"storeid" : "001928", "volgnr" : "001", "partname":"",                                     "duration" :   "3:11","filename" : "001928_Bilaval.wav"},
+         {"storeid" : "001929", "volgnr" : "001", "partname":"",                                     "duration" :  "12:51","filename" : "001929_Goddesses.wav"},
+         {"storeid" : "001930", "volgnr" : "001", "partname":"",                                     "duration" :   "3:14","filename" : "001930_Bhairavi.wav"},
+         {"storeid" : "001931", "volgnr" : "001", "partname":"",                                     "duration" :  "15:21","filename" : "001931_Mishra_Bhairavi.wav"},
+         {"storeid" : "001932", "volgnr" : "001", "partname":"",                                     "duration" :  "15:35","filename" : "001932_Slow_Gat.wav"},
+         {"storeid" : "001933", "volgnr" : "001", "partname":"",                                     "duration" :  "3x:14","filename" : "001933_Maru_Bihag.wav"},
+         {"storeid" : "001934", "volgnr" : "001", "partname":"",                                     "duration" :  "3x:14","filename" : "001934_Kirwani.wav"},
+         {"storeid" : "001935", "volgnr" : "001", "partname":"",                                     "duration" :  "43:52","filename" : "001935_Bilashkani_Todi.wav"},
+         {"storeid" : "001936", "volgnr" : "001", "partname":"",                                     "duration" :   "3:46","filename" : "001936_Khamaj.wav"},
+         {"storeid" : "001937", "volgnr" : "001", "partname":"",                                     "duration" :   "6:17","filename" : "001937_Jhalla.wav"},
+         {"storeid" : "001938", "volgnr" : "001", "partname":"",                                     "duration" :  "x6:17","filename" : "001938_Bilashkani_Todi.wav"},
+         {"storeid" : "001939", "volgnr" : "001", "partname":"",                                     "duration" :  "x6:17","filename" : "001939_Bhairavi.wav"},
+         {"storeid" : "001940", "volgnr" : "001", "partname":"",                                     "duration" :  "x6:17","filename" : "001940_Shri.wav"},
+         {"storeid" : "001941", "volgnr" : "001", "partname":"",                                     "duration" :   "6:17","filename" : "001941_Pilu.wav"},
+         {"storeid" : "001942", "volgnr" : "001", "partname":"",                                     "duration" :   "6:17","filename" : "001942_Rageshri.wav"},
+         {"storeid" : "001943", "volgnr" : "001", "partname":"",                                     "duration" :   "6:17","filename" : "001943_Pahadi.wav"},
+         {"storeid" : "001944", "volgnr" : "001", "partname":"",                                     "duration" :  "22:59","filename" : "001944_Marwa.wav"},
+         {"storeid" : "001945", "volgnr" : "001", "partname":"",                                     "duration" :  "21:49","filename" : "001945_Kalyani.wav"},
+         {"storeid" : "001946", "volgnr" : "001", "partname":"",                                     "duration" :   "3:35","filename" : "001946_Sivapriya.wav"},
+         {"storeid" : "001947", "volgnr" : "001", "partname":"Ragam and Tanam",                      "duration" :  "27:09","filename" : "001947_Hemavanti.wav"},
+         {"storeid" : "001948", "volgnr" : "001", "partname":"",                                     "duration" :  "45:46","filename" : "001948_Rageshri.wav"},
+         {"storeid" : "001949", "volgnr" : "001", "partname":"",                                     "duration" :  "20:35","filename" : "001949_Ghorak_Kalyan.wav"},
+         {"storeid" : "001950", "volgnr" : "001", "partname":"",                                     "duration" :  "13:09","filename" : "001950_Bhajan.wav"},
+         {"storeid" : "001951", "volgnr" : "001", "partname":"",                                     "duration" :  "40:15","filename" : "001951_Maru_Bihag.wav"},
+         {"storeid" : "001952", "volgnr" : "001", "partname":"",                                     "duration" :  "10:00","filename" : "001952_Bhairavi.wav"},
+         {"storeid" : "001953", "volgnr" : "001", "partname":"",                                     "duration" :  "27:04","filename" : "001953_Mishra_Mand.wav"}
+
+
+
+
               ] 
   }
