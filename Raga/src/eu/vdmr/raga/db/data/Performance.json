@@ -1954,9 +1954,49 @@
    	     {"ragaid" : "Unknown",         "artistid":"Parween;Sultana",        "provenance":"CD,3",   "CD":"00595","storeid":"001950","title" : "Ghorak_Kalyan"},
    	     {"ragaid" : "Maru_Bihag",      "artistid":"Parween;Sultana",        "provenance":"CD,4",   "CD":"00595","storeid":"001951","title" : "Maru_Bihag"},
    	     {"ragaid" : "Bhairavi",        "artistid":"Parween;Sultana",        "provenance":"CD,5",   "CD":"00595","storeid":"001952","title" : "Bhairavi"},
-   	     {"ragaid" : "Mand",            "artistid":"Parween;Sultana",        "provenance":"CD,6",   "CD":"00595","storeid":"001953","title" : "Mishra_Mand"}
+   	     {"ragaid" : "Mand",            "artistid":"Parween;Sultana",        "provenance":"CD,6",   "CD":"00595","storeid":"001953","title" : "Mishra_Mand"},
+   	     {"ragaid" : "Nandeshwari",     "artistid":"Chandrashekhar;Naringrekar","provenance":"CD,1",  "CD":"00596","storeid":"001954","title" : "Nandeshwari"},
+   	     {"ragaid" : "Bageshri",        "artistid":"Balaram;Pathak",         "provenance":"CD,2",   "CD":"00596","storeid":"001955","title" : "Bageshri", "date":"1986-04-05", "place":"Mozes en Aaron Kerk, Amsterdam"},
+   	     {"ragaid" : "Bhupali",         "artistid":"Balaram;Pathak",         "provenance":"CD,3",   "CD":"00596","storeid":"001956","title" : "Bageshri", "date":"1986-04-05", "place":"Mozes en Aaron Kerk, Amsterdam"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"-;Suryanarayana",        "provenance":"CD,1",   "CD":"00597","storeid":"001957","title" : "Bala Gopala","composerid" : "Muthiswami;Dikshitar", "carnatic":"1"},
+   	     {"ragaid" : "Unknown",         "artistid":"-;Suryanarayana",        "provenance":"CD,2",   "CD":"00597","storeid":"001958","title" : "Malika: Bhairavi, Nata, Gaula, Arabhi, Varali, Shri", "carnatic":"1"},
+   	     {"ragaid" : "Nat_Bhairav",     "artistid":"Rajeev;Taranath",        "provenance":"CD,1",   "CD":"00598","storeid":"001959","title" : "Nat Bhairav in Concert"},
+   	     {"ragaid" : "Gujri_Todi",      "artistid":"Mick;Taylor",            "provenance":"CD,1",   "CD":"00599","storeid":"001960","title" : "Raga Gujari Todi"},
+   	     {"ragaid" : "Nayaki_Kanada",   "artistid":"Mick;Taylor",            "provenance":"CD,3",   "CD":"00599","storeid":"001961","title" : "Raga Nayaki_Kanada"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Mick;Taylor",            "provenance":"CD,5",   "CD":"00599","storeid":"001962","title" : "Raga Bhairavi"},
+   	     {"ragaid" : "Darbari",         "artistid":"Siya Ram;Tewari",        "provenance":"CD,1",   "CD":"00600","storeid":"001963","title" : "Naad vistaar kinhoon na payo paar"},
+   	     {"ragaid" : "Bageshwari",      "artistid":"Siya Ram;Tewari",        "provenance":"CD,2",   "CD":"00600","storeid":"001964","title" : "Lal nahin aaye hori ke dinan men"},
+   	     {"ragaid" : "Adana",           "artistid":"Siya Ram;Tewari",        "provenance":"CD,3",   "CD":"00600","storeid":"001965","title" : "Kali ke pagan men magan raho"},
+   	     {"ragaid" : "Unknown",         "artistid":"Ahmed Jan;Thirakwa",     "provenance":"CD,1",   "CD":"00601","storeid":"001966","title" : "Teen Tala"},
+   	     {"ragaid" : "Unknown",         "artistid":"Ahmed Jan;Thirakwa",     "provenance":"CD,2",   "CD":"00601","storeid":"001967","title" : "Ek Tala"},
+   	     {"ragaid" : "Unknown",         "artistid":"Amir Hussain;Khan",      "provenance":"CD,3",   "CD":"00601","storeid":"001968","title" : "Teen Tala"},
+   	     {"ragaid" : "Unknown",         "artistid":"Amir Hussain;Khan",      "provenance":"CD,4",   "CD":"00601","storeid":"001969","title" : "Roopak Tala"},
+   	     {"ragaid" : "Unknown",         "artistid":"Amir Hussain;Khan",      "provenance":"CD,5",   "CD":"00601","storeid":"001970","title" : "Jhap Tala"},
+   	     {"ragaid" : "Unknown",         "artistid":"Ahmed Jan;Thirakwa",     "provenance":"CD,1",   "CD":"00602","storeid":"001971","title" : "Teen Tala"},
+   	     {"ragaid" : "Unknown",         "artistid":"Ahmed Jan;Thirakwa",     "provenance":"CD,2",   "CD":"00602","storeid":"001972","title" : "Ek Tala"},
+   	     {"ragaid" : "Unknown",         "artistid":"Amir Hussain;Khan",      "provenance":"CD,3",   "CD":"00602","storeid":"001973","title" : "Teen Tala"},
+   	     {"ragaid" : "Unknown",         "artistid":"Amir Hussain;Khan",      "provenance":"CD,4",   "CD":"00602","storeid":"001974","title" : "Roopak Tala"},
+   	     {"ragaid" : "Unknown",         "artistid":"Amir Hussain;Khan",      "provenance":"CD,5",   "CD":"00602","storeid":"001975","title" : "Jhap Tala"},
+   	     {"ragaid" : "Unknown",         "artistid":"Shubha;Mudgal",          "provenance":"CD,1",   "CD":"00603","storeid":"001976","title" : "Balam Tere"},
+   	     {"ragaid" : "Unknown",         "artistid":"Shobha;Gurtu",           "provenance":"CD,2",   "CD":"00603","storeid":"001977","title" : "Naharia Lage Nahin"},
+   	     {"ragaid" : "Unknown",         "artistid":"Girja;Devi",             "provenance":"CD,3",   "CD":"00603","storeid":"001978","title" : "Ras Ke Bhare"},
+   	     {"ragaid" : "Unknown",         "artistid":"Shobha;Gurtu",           "provenance":"CD,4",   "CD":"00603","storeid":"001979","title" : "Magh Mein Shyam"},
+   	     {"ragaid" : "Unknown",         "artistid":"Girja;Devi",             "provenance":"CD,5",   "CD":"00603","storeid":"001980","title" : "Ankhiya Raseeli Tori"},
+   	     {"ragaid" : "Unknown",         "artistid":"Shubha;Mudgal",          "provenance":"CD,6",   "CD":"00603","storeid":"001981","title" : "Ner Bharana"},
+   	     {"ragaid" : "Unknown",         "artistid":"Rashid;Khan",            "provenance":"CD,1",   "CD":"00603","storeid":"001982","title" : "Mora Saiyan Bhulave"},
+   	     {"ragaid" : "Unknown",         "artistid":"Shubha;Mudgal",          "provenance":"CD,2",   "CD":"00603","storeid":"001983","title" : "Lei Na Gaye Beimanwa"},
+   	     {"ragaid" : "Unknown",         "artistid":"Shobha;Gurtu",           "provenance":"CD,3",   "CD":"00603","storeid":"001984","title" : "Kit Gaye Bawari Banake"},
+   	     {"ragaid" : "Unknown",         "artistid":"Bhimsen;Joshi",          "provenance":"CD,4",   "CD":"00603","storeid":"001985","title" : "Babul Mora Naihar"},
+   	     {"ragaid" : "Unknown",         "artistid":"Girja;Devi",             "provenance":"CD,5",   "CD":"00603","storeid":"001986","title" : "Kaisee Bansi Bajayi"},
+   	     {"ragaid" : "Unknown",         "artistid":"Ajoy;Chakrabarty",       "provenance":"CD,6",   "CD":"00603","storeid":"001987","title" : "Ka Karoon Sajani"},
+   	     {"ragaid" : "Todi",            "artistid":"Vinayak;Torvi",          "provenance":"CD,1",   "CD":"00604","storeid":"001988","title" : "Aba More Ram"},
+   	     {"ragaid" : "Todi",            "artistid":"Vinayak;Torvi",          "provenance":"CD,2",   "CD":"00604","storeid":"001989","title" : "Qutubuddin Qutubalama"},
+   	     {"ragaid" : "Jaijaivanti",     "artistid":"Vinayak;Torvi",          "provenance":"CD,3",   "CD":"00604","storeid":"001990","title" : "Lara Maayi Sajani"}
    	     
    	     
    	     
+   	     
+ 
+ 
    	          ]
   	}

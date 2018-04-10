@@ -592,8 +592,16 @@
   	     {"refid" : "00592", "publisher" :"",                          "date":"0000-00-00","title":"Sitars 8",                       "have":"1","shortid":"SITARS_8"},
   	     {"refid" : "00593", "publisher" :"",                          "date":"0000-00-00","title":"Marwa",                          "have":"1","shortid":"SOPOLA_1"},
   	     {"refid" : "00594", "publisher" :"",                          "date":"0000-00-00","title":"Karnatik Violine",               "have":"1","shortid":"SUBRAL_1"},
-  	     {"refid" : "00595", "publisher" :"",                          "date":"0000-00-00","title":"Parween Sultana",                "have":"1","shortid":"SULTPA_1"}
-
+  	     {"refid" : "00595", "publisher" :"",                          "date":"0000-00-00","title":"Parween Sultana",                "have":"1","shortid":"SULTPA_1"},
+  	     {"refid" : "00596", "publisher" :"",                          "date":"0000-00-00","title":"Surbahar & Sitar",               "have":"1","shortid":"SURBSI_1"},
+  	     {"refid" : "00597", "publisher" :"",                          "date":"0000-00-00","title":"Suryanarayana playing the South Indian Vina","have":"1","shortid":"SURYAN_1"},
+  	     {"refid" : "00598", "publisher" :"",                          "date":"0000-00-00","title":"Rajeev Taranath",                "have":"1","shortid":"TARARA_1"},
+  	     {"refid" : "00599", "publisher" :"Audiorec Classics",         "date":"2012-01-27","title":"Mick Taylor Classical Sitar",    "have":"1","shortid":"TAYLMI_1"},
+  	     {"refid" : "00600", "publisher" :"The Grammophone Company of India","date":"1976-00-00","title":"Pandit Siya Ram Tewari",   "have":"1","shortid":"TEWASI_1"},
+  	     {"refid" : "00601", "publisher" :"The Grammophone Company of India","date":"0000-00-00","title":"Rhythms of India - Tabla Recital","have":"1","shortid":"THIRJA_1"},
+  	     {"refid" : "00602", "publisher" :"The Grammophone Company of India","date":"0000-00-00","title":"Rhythms of India - Tabla Recital","have":"1","shortid":"THIRJA_2"},
+  	     {"refid" : "00603", "publisher" :"Music Today",               "date":"2006-05-10","title":"The Best Of Thumris",            "have":"1","shortid":"THUMRI_1"},
+  	     {"refid" : "00604", "publisher" :"Sangeeth Sagar",            "date":"2009-08-28","title":"Hindustani-Classical Vocal - 9817","have":"1","shortid":"TORVVI_1"}
 
 
   	  ], 
