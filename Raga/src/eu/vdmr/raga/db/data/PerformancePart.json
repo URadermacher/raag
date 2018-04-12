@@ -2370,8 +2370,17 @@
          {"storeid" : "001987", "volgnr" : "001", "partname":"",                                     "duration" :   "7:59","filename" : "001987_Thumri.wav"},
          {"storeid" : "001988", "volgnr" : "001", "partname":"vilambit","talid":"Ektal",             "duration" :  "29:55","filename" : "001988_Todi.wav"},
          {"storeid" : "001989", "volgnr" : "001", "partname":"drut","talid":"Tintal",                "duration" :  "10:10","filename" : "001989_Todi.wav"},
-         {"storeid" : "001990", "volgnr" : "001", "partname":"vilambit","talid":"Ektal",             "duration" :  "19:51","filename" : "001990_Jaijaiwanti.wav"}
-          
+         {"storeid" : "001990", "volgnr" : "001", "partname":"vilambit","talid":"Ektal",             "duration" :  "19:51","filename" : "001990_Jaijaiwanti.wav"},         
+         {"storeid" : "001991", "volgnr" : "001", "partname":"vilambit","talid":"Ektal",             "duration" :  "29:51","filename" : "001991_Miyan_Ki_Malhar.wav"},         
+         {"storeid" : "001992", "volgnr" : "001", "partname":"drut","talid":"Ektal",                 "duration" :   "9:38","filename" : "001992_Miyan_Ki_Malhar.wav"},         
+         {"storeid" : "001993", "volgnr" : "001", "partname":"vilambit","talid":"Tintal",            "duration" :  "15:04","filename" : "001993_Patdeep.wav"},         
+         {"storeid" : "001994", "volgnr" : "001", "partname":"","talid":"Tintal",                    "duration" :   "5:52","filename" : "001994_Bhairavi.wav"},         
+         {"storeid" : "001995", "volgnr" : "001", "partname":"Alap",                                 "duration" :  "14:35","filename" : "001995_Gunakali.wav"},         
+         {"storeid" : "001996", "volgnr" : "001", "partname":"","talid":"Jhaptal",                   "duration" :  "11:18","filename" : "001996_Bhimpalashri.wav"},         
+         {"storeid" : "001997", "volgnr" : "001", "partname":"","talid":"Tintal",                    "duration" :  "13:53","filename" : "001997_Bageshwari.wav"},         
+         {"storeid" : "001998", "volgnr" : "001", "partname":"",                                     "duration" :   "7:19","filename" : "001998_Mishra_Kafi.wav"},
+         {"storeid" : "001999", "volgnr" : "001", "partname":"",                                     "duration" :   "6:43","filename" : "001999_Bhairavi.wav"},
+         {"storeid" : "002000", "volgnr" : "001", "partname":"",                                     "duration" :  "12:14","filename" : "002000_Bhimpalasi.wav"}
 
 
 

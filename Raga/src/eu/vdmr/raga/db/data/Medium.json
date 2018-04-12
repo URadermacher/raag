@@ -601,8 +601,10 @@
   	     {"refid" : "00601", "publisher" :"The Grammophone Company of India","date":"0000-00-00","title":"Rhythms of India - Tabla Recital","have":"1","shortid":"THIRJA_1"},
   	     {"refid" : "00602", "publisher" :"The Grammophone Company of India","date":"0000-00-00","title":"Rhythms of India - Tabla Recital","have":"1","shortid":"THIRJA_2"},
   	     {"refid" : "00603", "publisher" :"Music Today",               "date":"2006-05-10","title":"The Best Of Thumris",            "have":"1","shortid":"THUMRI_1"},
-  	     {"refid" : "00604", "publisher" :"Sangeeth Sagar",            "date":"2009-08-28","title":"Hindustani-Classical Vocal - 9817","have":"1","shortid":"TORVVI_1"}
-
+  	     {"refid" : "00604", "publisher" :"Sangeeth Sagar",            "date":"2009-08-28","title":"Classicl Series Vol 1 Hindustani-Classical Vocal - 9817","have":"1","shortid":"TORVVI_1"},
+  	     {"refid" : "00605", "publisher" :"Sangeeth Sagar",            "date":"0000-00-00","title":"Classicl Series Vol 2",          "have":"1","shortid":"TORVVI_2"},
+  	     {"refid" : "00606", "publisher" :"Philips",                   "date":"1979-00-00","title":"UnescoCollection Musical Sources - Morth India Instrumental Music","have":"1","shortid":"UNESCO_1"},
+  	     {"refid" : "00607", "publisher" :"",                          "date":"0000-00-00","title":"Veenas 1",                       "have":"1","shortid":"VEENAS_1"}
 
   	  ], 
   	}

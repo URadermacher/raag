@@ -1991,8 +1991,17 @@
    	     {"ragaid" : "Unknown",         "artistid":"Ajoy;Chakrabarty",       "provenance":"CD,6",   "CD":"00603","storeid":"001987","title" : "Ka Karoon Sajani"},
    	     {"ragaid" : "Todi",            "artistid":"Vinayak;Torvi",          "provenance":"CD,1",   "CD":"00604","storeid":"001988","title" : "Aba More Ram"},
    	     {"ragaid" : "Todi",            "artistid":"Vinayak;Torvi",          "provenance":"CD,2",   "CD":"00604","storeid":"001989","title" : "Qutubuddin Qutubalama"},
-   	     {"ragaid" : "Jaijaivanti",     "artistid":"Vinayak;Torvi",          "provenance":"CD,3",   "CD":"00604","storeid":"001990","title" : "Lara Maayi Sajani"}
-   	     
+   	     {"ragaid" : "Jaijaivanti",     "artistid":"Vinayak;Torvi",          "provenance":"CD,3",   "CD":"00604","storeid":"001990","title" : "Lara Maayi Sajani"},
+   	     {"ragaid" : "Malhar",          "artistid":"Vinayak;Torvi",          "provenance":"CD,1",   "CD":"00605","storeid":"001991","title" : "Kareema Naam Tero"},
+   	     {"ragaid" : "Malhar",          "artistid":"Vinayak;Torvi",          "provenance":"CD,2",   "CD":"00605","storeid":"001992","title" : "Ata Dhoom Re"},
+   	     {"ragaid" : "Patdip",          "artistid":"Vinayak;Torvi",          "provenance":"CD,3",   "CD":"00605","storeid":"001993","title" : "Piya Nahi Aaye"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Vinayak;Torvi",          "provenance":"CD,4",   "CD":"00605","storeid":"001994","title" : "Khelata Hai Giridhari"},
+   	     {"ragaid" : "Gunakali",        "artistid":"Asad Ali;Khan",          "provenance":"CD,1",   "CD":"00606","storeid":"001995","title" : "Raga Gunakali"},
+   	     {"ragaid" : "Bhimpalasi",      "artistid":"Gopal;Krishna",          "provenance":"CD,2",   "CD":"00606","storeid":"001996","title" : "Bhimpalashri"},
+   	     {"ragaid" : "Bageshwari",      "artistid":"Ashok;Roy",              "provenance":"CD,3",   "CD":"00606","storeid":"001997","title" : "Bageshwari"},
+   	     {"ragaid" : "Kafi",            "artistid":"-;Hiralal",              "provenance":"CD,4",   "CD":"00606","storeid":"001998","title" : "Mishra Kafi"},  	     
+   	     {"ragaid" : "Bhairavi",        "artistid":"Rajesh;Vaidhya",        "provenance":"CD,1",   "CD":"00607","storeid":"001999","title" : "Bhairavi"},  	     
+   	     {"ragaid" : "Bhimpalasi",      "artistid":"Gopal;Krishna",          "provenance":"CD,2",   "CD":"00607","storeid":"002000","title" : "Bhimpalasi"}
    	     
    	     
    	     

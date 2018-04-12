@@ -3248,7 +3248,7 @@
          {"storeid" : "001856",   "instrumentid": "Santur",    "artistid":"Shivkumar;Sharma"},
          {"storeid" : "001856",   "instrumentid": "Bansuri",   "artistid":"Hariprasad;Chaurasia"},
          {"storeid" : "001856",   "instrumentid": "Tabla",     "artistid":"Kasinath;Misra"},
-         {"storeid" : "001856",   "instrumentid": "Tampura",   "artistid":"Anuradha;Chaurasia"}
+         {"storeid" : "001856",   "instrumentid": "Tampura",   "artistid":"Anuradha;Chaurasia"},
          {"storeid" : "001857",   "instrumentid": "Santur",    "artistid":"Shivkumar;Sharma"},
          {"storeid" : "001857",   "instrumentid": "Tabla",     "artistid":"Aneesh;Pradhan"},
          {"storeid" : "001857",   "instrumentid": "Tampura",   "artistid":"Rahul;Sharma"},
@@ -3265,7 +3265,7 @@
          {"storeid" : "001865",   "instrumentid": "Tabla",     "artistid":"Shafaat Ahmed;Khan"},
          {"storeid" : "001866",   "instrumentid": "Sitar",     "artistid":"Suman;Sharma"},
          {"storeid" : "001866",   "instrumentid": "Tabla",     "artistid":"Anup;Ghosh"},
-         {"storeid" : "001867",   "instrumentid": "Sitar",     "artistid":"Suman;Sharma"}
+         {"storeid" : "001867",   "instrumentid": "Sitar",     "artistid":"Suman;Sharma"},
          {"storeid" : "001867",   "instrumentid": "Tabla",     "artistid":"Anup;Ghosh"},
          {"storeid" : "001868",   "instrumentid": "ShenaiEnsemble","artistid":"Daya;Shankar"},
          {"storeid" : "001869",   "instrumentid": "ShenaiEnsemble","artistid":"-;Thevur"},
@@ -3297,7 +3297,7 @@
          {"storeid" : "001892",   "instrumentid": "Tabla",     "artistid":"Sanju;Sahai"},
          {"storeid" : "001893",   "instrumentid": "Dilruba",   "artistid":"Baluji;Shrivastav"},
          {"storeid" : "001893",   "instrumentid": "Tabla",     "artistid":"Sanju;Sahai"},
-         {"storeid" : "001894",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"}
+         {"storeid" : "001894",   "instrumentid": "Sitar",     "artistid":"Baluji;Shrivastav"},
          {"storeid" : "001894",   "instrumentid": "Tabla",     "artistid":"Sanju;Sahai"},
          {"storeid" : "001895",   "instrumentid": "Sitar",     "artistid":"Manju;Bhatt"},
          {"storeid" : "001895",   "instrumentid": "Sarod",     "artistid":"Damodarlal;Kabra"},
@@ -3375,7 +3375,7 @@
          {"storeid" : "001952",   "instrumentid": "Voice",     "artistid":"Parween;Sultana"},
          {"storeid" : "001952",   "instrumentid": "Tabla",     "artistid":"Mukundraj;Deo"},
          {"storeid" : "001952",   "instrumentid": "Harmonium", "artistid":"Shrinavas;Ahcarya"},
-         {"storeid" : "001953",   "instrumentid": "Voice",     "artistid":"Parween;Sultana"}
+         {"storeid" : "001953",   "instrumentid": "Voice",     "artistid":"Parween;Sultana"},
          {"storeid" : "001953",   "instrumentid": "Tabla",     "artistid":"Mukundraj;Deo"},
          {"storeid" : "001953",   "instrumentid": "Harmonium", "artistid":"Mehmood;Dhulpuri"},
          {"storeid" : "001954",   "instrumentid": "Surbahar",  "artistid":"Chandrashekhar;Naringrekar"},
@@ -3385,7 +3385,7 @@
          {"storeid" : "001957",   "instrumentid": "Mridangam", "artistid":"Narayana;Rao"},
          {"storeid" : "001957",   "instrumentid": "Tampura",   "artistid":"Punitham;Mahesan"},
          {"storeid" : "001958",   "instrumentid": "Vina",      "artistid":"-;Suryanarayana"},
-         {"storeid" : "001959",   "instrumentid": "Sarod",     "artistid":"Rajeev;Taranath"}
+         {"storeid" : "001959",   "instrumentid": "Sarod",     "artistid":"Rajeev;Taranath"},
          {"storeid" : "001960",   "instrumentid": "Sitar",     "artistid":"Mick;Taylor"},
          {"storeid" : "001961",   "instrumentid": "Sitar",     "artistid":"Mick;Taylor"},
          {"storeid" : "001962",   "instrumentid": "Sitar",     "artistid":"Mick;Taylor"},
@@ -3428,7 +3428,31 @@
          {"storeid" : "001989",   "instrumentid": "Tabla",     "artistid":"Ravindra;Yuvaga"},
          {"storeid" : "001990",   "instrumentid": "Voice",     "artistid":"Vinayak;Torvi"},
          {"storeid" : "001990",   "instrumentid": "Harmonium", "artistid":"Ravindra;Katati"},
-         {"storeid" : "001990",   "instrumentid": "Tabla",     "artistid":"Ravindra;Yuvaga"}
+         {"storeid" : "001990",   "instrumentid": "Tabla",     "artistid":"Ravindra;Yuvaga"},
+         {"storeid" : "001991",   "instrumentid": "Voice",     "artistid":"Vinayak;Torvi"},
+         {"storeid" : "001991",   "instrumentid": "Harmonium", "artistid":"Ravindra;Katati"},
+         {"storeid" : "001991",   "instrumentid": "Tabla",     "artistid":"Ravindra;Yuvaga"},
+         {"storeid" : "001992",   "instrumentid": "Voice",     "artistid":"Vinayak;Torvi"},
+         {"storeid" : "001992",   "instrumentid": "Harmonium", "artistid":"Ravindra;Katati"},
+         {"storeid" : "001992",   "instrumentid": "Tabla",     "artistid":"Ravindra;Yuvaga"},
+         {"storeid" : "001993",   "instrumentid": "Voice",     "artistid":"Vinayak;Torvi"},
+         {"storeid" : "001993",   "instrumentid": "Harmonium", "artistid":"Ravindra;Katati"},
+         {"storeid" : "001993",   "instrumentid": "Tabla",     "artistid":"Ravindra;Yuvaga"},
+         {"storeid" : "001994",   "instrumentid": "Voice",     "artistid":"Vinayak;Torvi"},
+         {"storeid" : "001994",   "instrumentid": "Harmonium", "artistid":"Ravindra;Katati"},
+         {"storeid" : "001994",   "instrumentid": "Tabla",     "artistid":"Ravindra;Yuvaga"},
+         {"storeid" : "001995",   "instrumentid": "Vina",      "artistid":"Asad Ali;Khan"},
+         {"storeid" : "001995",   "instrumentid": "Tampura",   "artistid":"Mima;Dasgupta"},
+         {"storeid" : "001996",   "instrumentid": "Vina",      "artistid":"Gopal;Krishna"},
+         {"storeid" : "001996",   "instrumentid": "Tabla",     "artistid":"-;Radheshyam"},
+         {"storeid" : "001996",   "instrumentid": "Tampura",   "artistid":"Rekha;Surya"},
+         {"storeid" : "001997",   "instrumentid": "Sarod",     "artistid":"Ashok;Roy"},
+         {"storeid" : "001997",   "instrumentid": "Tabla",     "artistid":"Zamir Ahmed;Khan"},
+         {"storeid" : "001998",   "instrumentid": "ShenaiEnsemble","artistid":"-;Hiralal"},
+         {"storeid" : "001999",   "instrumentid": "Vina",      "artistid":"Rajesh;Vaidhya"},
+         {"storeid" : "002000",   "instrumentid": "Vina",      "artistid":"Gopal;Krishna"},
+         {"storeid" : "002000",   "instrumentid": "Tabla",     "artistid":"Mukulraj;Dev"},
+         {"storeid" : "002000",   "instrumentid": "Harmonium", "artistid":"Mehmood;Dhulpuri"}
          
                  
    		]
