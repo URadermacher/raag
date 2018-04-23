@@ -604,7 +604,16 @@
   	     {"refid" : "00604", "publisher" :"Sangeeth Sagar",            "date":"2009-08-28","title":"Classicl Series Vol 1 Hindustani-Classical Vocal - 9817","have":"1","shortid":"TORVVI_1"},
   	     {"refid" : "00605", "publisher" :"Sangeeth Sagar",            "date":"0000-00-00","title":"Classicl Series Vol 2",          "have":"1","shortid":"TORVVI_2"},
   	     {"refid" : "00606", "publisher" :"Philips",                   "date":"1979-00-00","title":"UnescoCollection Musical Sources - Morth India Instrumental Music","have":"1","shortid":"UNESCO_1"},
-  	     {"refid" : "00607", "publisher" :"",                          "date":"0000-00-00","title":"Veenas 1",                       "have":"1","shortid":"VEENAS_1"}
+  	     {"refid" : "00607", "publisher" :"",                          "date":"0000-00-00","title":"Veenas 1",                       "have":"1","shortid":"VEENAS_1"},
+  	     {"refid" : "00608", "publisher" :"",                          "date":"0000-00-00","title":"The Golden Bow",                 "have":"1","shortid":"VIOLIN_1"},
+  	     {"refid" : "00609", "publisher" :"",                          "date":"0000-00-00","title":"Voices_1",                       "have":"1","shortid":"VOICES_1"},
+  	     {"refid" : "00610", "publisher" :"",                          "date":"0000-00-00","title":"Voices_2",                       "have":"1","shortid":"VOICES_2"},
+  	     {"refid" : "00611", "publisher" :"",                          "date":"0000-00-00","title":"Voices_3",                       "have":"1","shortid":"VOICES_3"},
+  	     {"refid" : "00612", "publisher" :"",                          "date":"0000-00-00","title":"Voices_4",                       "have":"1","shortid":"VOICES_4"},
+  	     {"refid" : "00613", "publisher" :"",                          "date":"0000-00-00","title":"Voices_5",                       "have":"1","shortid":"VOICES_5"},
+  	     {"refid" : "00614", "publisher" :"",                          "date":"0000-00-00","title":"Voices_6",                       "have":"1","shortid":"VOICES_6"},
+  	     {"refid" : "00615", "publisher" :"",                          "date":"0000-00-00","title":"Voices_7",                       "have":"1","shortid":"VOICES_7"},
+  	     {"refid" : "00616", "publisher" :"",                          "date":"0000-00-00","title":"Voices_8",                       "have":"1","shortid":"VOICES_8"}
 
   	  ], 
   	}

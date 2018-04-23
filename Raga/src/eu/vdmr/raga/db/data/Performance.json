@@ -2000,9 +2000,39 @@
    	     {"ragaid" : "Bhimpalasi",      "artistid":"Gopal;Krishna",          "provenance":"CD,2",   "CD":"00606","storeid":"001996","title" : "Bhimpalashri"},
    	     {"ragaid" : "Bageshwari",      "artistid":"Ashok;Roy",              "provenance":"CD,3",   "CD":"00606","storeid":"001997","title" : "Bageshwari"},
    	     {"ragaid" : "Kafi",            "artistid":"-;Hiralal",              "provenance":"CD,4",   "CD":"00606","storeid":"001998","title" : "Mishra Kafi"},  	     
-   	     {"ragaid" : "Bhairavi",        "artistid":"Rajesh;Vaidhya",        "provenance":"CD,1",   "CD":"00607","storeid":"001999","title" : "Bhairavi"},  	     
-   	     {"ragaid" : "Bhimpalasi",      "artistid":"Gopal;Krishna",          "provenance":"CD,2",   "CD":"00607","storeid":"002000","title" : "Bhimpalasi"}
-   	     
+   	     {"ragaid" : "Bhairavi",        "artistid":"Rajesh;Vaidhya",         "provenance":"CD,1",   "CD":"00607","storeid":"001999","title" : "Bhairavi"},  	     
+   	     {"ragaid" : "Bhimpalasi",      "artistid":"Gopal;Krishna",          "provenance":"CD,2",   "CD":"00607","storeid":"002000","title" : "Bhimpalasi"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Santosh;Nahar",          "provenance":"CD,1",   "CD":"00608","storeid":"002001","title" : "Bhairavi"},
+   	     {"ragaid" : "Nat_Bhairav",     "artistid":"Santosh;Nahar",          "provenance":"CD,2",   "CD":"00608","storeid":"002002","title" : "Nat_Bhairav"},
+   	     {"ragaid" : "Kafi",            "artistid":"Santosh;Nahar",          "provenance":"CD,3",   "CD":"00608","storeid":"002003","title" : "Tappa in Kafi"},
+   	     {"ragaid" : "Puriya",          "artistid":"Gopal;Krishna_2",        "provenance":"CD,4",   "CD":"00608","storeid":"002004","title" : "Puriya"},  	     
+   	     {"ragaid" : "Gurjari_Todi",    "artistid":"Shruti;Sadolikar",       "provenance":"CD,1",   "CD":"00609","storeid":"002005","title" : "Gurjari_Todi"},  	     
+   	     {"ragaid" : "Bhupali",         "artistid":"Kishori;Amonkar",        "provenance":"CD,2",   "CD":"00609","storeid":"002006","title" : "Bhoop"},  	     
+   	     {"ragaid" : "Unknown",         "artistid":"Kishori;Amonkar",        "provenance":"CD,3",   "CD":"00609","storeid":"002007","title" : "Bhajan"},  	     
+   	     {"ragaid" : "Unknown",         "artistid":"Begum;Akhtar",           "provenance":"CD,4",   "CD":"00609","storeid":"002008","title" : "Ghazal Ankon ze dur"},  	     
+   	     {"ragaid" : "Kaushi_Kanada",   "artistid":"Sheila;Dar",             "provenance":"CD,1",   "CD":"00610","storeid":"002009","title" : "Kaunsi Kanhra"},  	     
+   	     {"ragaid" : "Tilang",          "artistid":"Siddheswari;Devi",       "provenance":"CD,2",   "CD":"00610","storeid":"002010","title" : "Thumri in Mishra Tilang"},   
+   	     {"ragaid" : "Suha",            "artistid":"Uday;Bhawalkar",         "provenance":"CD,1",   "CD":"00611","storeid":"002011","title" : "Dhupad in Suhar"},   
+   	     {"ragaid" : "Jog",             "artistid":"Uday;Bhawalkar",         "provenance":"CD,2",   "CD":"00611","storeid":"002012","title" : "Jog"},   
+   	     {"ragaid" : "Megh",            "artistid":"Acharya;Aswami",         "provenance":"CD,3",   "CD":"00611","storeid":"002013","title" : "Bandish in Megh"},   
+   	     {"ragaid" : "Bhairavi",        "artistid":"Vidur;Mallik",           "provenance":"CD,4",   "CD":"00611","storeid":"002014","title" : "Bhairavi"},   
+   	     {"ragaid" : "Bhairavi",        "artistid":"Dilshat;Khan",           "provenance":"CD,5",   "CD":"00611","storeid":"002015","title" : "Thumri in Bhairavi"},   
+   	     {"ragaid" : "Bhairavi",        "artistid":"Purnima;Chaudhuri",      "provenance":"CD,6",   "CD":"00611","storeid":"002016","title" : "Thumri in Bhairavi"},
+   	     {"ragaid" : "Parmeshwari",     "artistid":"Kalyanjit;Das",          "provenance":"YouTube (btizXhDELWM)","storeid":"002017","title": "Raga Parameshwari"},
+   	     {"ragaid" : "Khamaj",          "artistid":"Ali;Gulam",              "provenance":"CD,1",   "CD":"00612","storeid":"002018","title" : "Thumri in Mishra Khamaj"},
+   	     {"ragaid" : "Unknown",         "artistid":"Aswine;Bhide",           "provenance":"CD,2",   "CD":"00612","storeid":"002019","title" : "Bhajan"},
+   	     {"ragaid" : "Nat_Bhairav",     "artistid":"Amelia;Cuni",            "provenance":"CD,3",   "CD":"00612","storeid":"002020","title" : "Nat Bhairav", "date":"1995-01-26", "place":"Mumbai"},
+   	     {"ragaid" : "Todi",            "artistid":"Amelia;Cuni",            "provenance":"CD,4",   "CD":"00612","storeid":"002021","title" : "Shudd Todi"},
+   	     {"ragaid" : "Bageshri",        "artistid":"Acharya;Goswami",        "provenance":"CD,5",   "CD":"00612","storeid":"002022","title" : "Bageshri"},
+   	     {"ragaid" : "Basant",          "artistid":"Rupande;Shah",           "provenance":"CD,1",   "CD":"00613","storeid":"002023","title" : "Basant"},
+   	     {"ragaid" : "Mand",            "artistid":"Kaushiki;Chakrabarty",   "provenance":"CD,2",   "CD":"00613","storeid":"002024","title" : "Mishra Mand"},
+   	     {"ragaid" : "Unknown",         "artistid":"Begum;Akhtar",           "provenance":"CD,3",   "CD":"00613","storeid":"002025","title" : "Thumri in Mishra Tilak"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Padmavati;Shaligram",    "provenance":"CD,4",   "CD":"00613","storeid":"002026","title" : "Khayal in Bhairavi"},
+   	     {"ragaid" : "Jaunpuri",        "artistid":"Aswine;Bhide",           "provenance":"CD,5",   "CD":"00613","storeid":"002027","title" : "Khayal Jaunpuri"},
+   	     {"ragaid" : "Unknown",         "artistid":"Parween;Sultana",        "provenance":"CD,6",   "CD":"00613","storeid":"002028","title" : "Bhajan"},
+   	     {"ragaid" : "Unknown",         "artistid":"Abida;Parween",          "provenance":"CD,7",   "CD":"00613","storeid":"002029","title" : "Nazi No Kyo"},
+   	     {"ragaid" : "Puriya_Kalyan",   "artistid":"Sahana;Banerjee",        "provenance":"YouTube (WjsRQjh-YVs)","storeid":"002030","title": "Raga Puriya Kalyan", "date":"2016-00-00", "place":"Day 2 of the FEA-curated Gayatri Festival"}
+   	    
    	     
    	     
  

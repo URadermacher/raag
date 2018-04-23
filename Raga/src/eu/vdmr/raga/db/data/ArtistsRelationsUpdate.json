@@ -1,5 +1,9 @@
 { "name" : "ArtistsRelationsUpdate",
       "entries" : [
+  	     {"artistid" : "Bimal Chanra;Das",     "relation" : "isFather-MotherOf", "otherArtist":"Sailen;Das"},
+  	     {"artistid" : "Sailen;Das",           "relation" : "isFather-MotherOf", "otherArtist":"Kushal;Das"},
+  	     {"artistid" : "Kushal",               "relation" : "isFather-MotherOf", "otherArtist":"Kalyanjit;Das"},
+  	     {"artistid" : "Bimal Chanra;Das",     "relation" : "isFather-MotherOf", "otherArtist":"Sailen;Das"},
   	     {"artistid" : "Behre Fateh Ali;Khan", "relation" : "isFather-MotherOf", "otherArtist":"Nafees Ahmad;Khan"},
   	     {"artistid" : "Mahammad Sharif;Khan", "relation" : "isFather-MotherOf", "otherArtist":"Ashraf Shariff;Khan"},
   	     {"artistid" : "Karthik;Kumar",        "relation" : "isFather-MotherOf", "otherArtist":"Niladri;Kumar"},
