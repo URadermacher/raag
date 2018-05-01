@@ -1,11 +1,15 @@
 select r.name, 
 	   i.name,
+	   a.lastname,
 	   a.firstname,
-	   a.lastname
+	   pp.duration,
+	   pp.filename
 from performance p
+join PerformancePart pp on pp.storeid = p.storeid
 join raga r on r.id = p.ragaid
 join performanceartist pa on pa.artistid = p.artistid and pa.storeid = p.storeid
 join instrument i on i.id = pa.instrumentid
-join artist ar on a.id = pa.artistid
+join artist a on a.id = pa.artistid
 where i.name = 'Sitar'
---  and r.name = 'Jhinjhoti'
+--and r.name = 'Abhogi'
+order by r.name

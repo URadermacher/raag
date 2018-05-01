@@ -85,10 +85,13 @@
   	     {"name" : "aroha", "type" : "TEXT"},
   	     {"name" : "notes", "type" : "TEXT"},
   	     {"name" : "avaroha", "type" : "TEXT"},
+  	     {"name" : "jaati", "type":"TEXT"},
   	     {"name" : "vadi", "type" : "TEXT"},
   	     {"name" : "samvadi", "type" : "TEXT"},
   	     {"name" : "pakad", "type" : "TEXT"},
+  	     {"name" : "blend", "type" : "TEXT"},
   	     {"name" : "composerid", "type" : "INTEGER", "ref" : "Artist,id,firstname;lastname"},
+  	     {"name" : "carnatic", "type" : "INTEGER", "defaultValue":"0"},
   	     {"name" : "timeid", "type" : "INTEGER", "ref" : "Time,id,description"}
   	     
   	  ]
@@ -114,9 +117,10 @@
     },    
     { "name" : "RagaComment",
     	"columns" : [
-    		{"name":"id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
-    		{"name" : "ragaid", "type" : "INTEGER", "ref" : "Raga,id,name"},
-    		{"name":"comment", "type":"TEXT"}
+    		{"name" : "id",       "type" : "INTEGER", "pk" : true, "autoInc" : true},
+    		{"name" : "ragaid",   "type" : "INTEGER", "ref" : "Raga,id,name"},
+    		{"name" : "seqnumber","type" : "INTEGER"},
+    		{"name" : "comment",  "type" : "TEXT"}
     	]
     },
   	{ "name" : "Performance",

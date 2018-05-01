@@ -98,6 +98,8 @@
   	     {"artistid" : "John;Taylor",          "instrumentid" : "Tabla" },
   	     {"artistid" : "Rajesh;Vaidhya",       "instrumentid" : "Vina" },
   	     {"artistid" : "Illan;Vainer",         "instrumentid" : "Tampura" },
+  	     {"artistid" : "Chintaman Raghunath;Vyas","instrumentid" : "Voice" },
+  	     {"artistid" : "Satish;Vyas",          "instrumentid" : "Santur" },
   	     {"artistid" : "Purshottam;Walawalkar","instrumentid" : "Harmonium" },
   	     {"artistid" : "Rosina;Wirsdorf","instrumentid" : "Tampura" }
   	  ]

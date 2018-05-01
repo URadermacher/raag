@@ -269,7 +269,7 @@
   	     {"refid" : "00267", "publisher" :"",                          "date": "0000-00-00","title":"Asad Ali Khan",                "have":"1", "shortid":"KHANAS_3"},
   	     {"refid" : "00268", "publisher" :"Nimbus",                    "date": "2001-00-00","title":"Ragas Purvi & Joyiga",         "have":"1", "shortid":"KHANAS_4"},
   	     {"refid" : "00269", "publisher" :"All India Radio",           "date": "1992-00-00","title":"Raga Darbari Kanada",          "have":"1", "shortid":"KHANAW_1"},
-  	     {"refid" : "00270", "publisher" :"EMI",                       "date": "0000-00-00","title":"Ustad Bahadur Khan, Sarod",    "have":"1", "shortid":"KHANBA_1"},
+  	     {"refid" : "00270", "publisher" :"EMI",                       "date": "0000-00-00","title":"Ustad B-ahadur Khan, Sarod",    "have":"1", "shortid":"KHANBA_1"},
   	     {"refid" : "00271", "publisher" :"Music Today - Living Media India",               "date": "0000-00-00","title":"Etched in Time",               "have":"1", "shortid":"KHANBG_1"},
   	     {"refid" : "00272", "publisher" :"Saregama",                  "date": "0000-00-00","title":"Ras Rang - Thumri",            "have":"1", "shortid":"KHANBG_2"},
   	     {"refid" : "00273", "publisher" :"The Gramophone Company of India","date":"0000-00-00","title":"Raga Todi - Mishra Thumri","have":"1", "shortid":"KHANBI_1"},
@@ -613,7 +613,22 @@
   	     {"refid" : "00613", "publisher" :"",                          "date":"0000-00-00","title":"Voices_5",                       "have":"1","shortid":"VOICES_5"},
   	     {"refid" : "00614", "publisher" :"",                          "date":"0000-00-00","title":"Voices_6",                       "have":"1","shortid":"VOICES_6"},
   	     {"refid" : "00615", "publisher" :"",                          "date":"0000-00-00","title":"Voices_7",                       "have":"1","shortid":"VOICES_7"},
-  	     {"refid" : "00616", "publisher" :"",                          "date":"0000-00-00","title":"Voices_8",                       "have":"1","shortid":"VOICES_8"}
+  	     {"refid" : "00616", "publisher" :"",                          "date":"0000-00-00","title":"Voices_8",                       "have":"1","shortid":"VOICES_8"},
+  	     {"refid" : "00617", "publisher" :"",                          "date":"0000-00-00","title":"Pandit Vyas",                    "have":"1","shortid":"VYASPA_1"},
+  	     {"refid" : "00618", "publisher" :"",                          "date":"0000-00-00","title":"Raga Marwa",                     "have":"1","shortid":"VYASPA_2"},
+  	     {"refid" : "00619", "publisher" :"Music Today",               "date":"0000-00-00","title":"Alap",                           "have":"1","shortid":"VYASPA_3"},
+  	     {"refid" : "00620", "publisher" :"Music Today",               "date":"2007-00-00","title":"Etched in Time",                 "have":"1","shortid":"VYASPA_4"},
+  	     {"refid" : "00621", "publisher" :"Music Today",               "date":"2004-00-00","title":"Maestro''s Choice",              "have":"1","shortid":"VYASSA_1"},
+  	     {"refid" : "00622", "publisher" :"inreco",                    "date":"0000-00-00","title":"Classical Flute",                "have":"1","shortid":"WADHPR_1"},
+  	     {"refid" : "00623", "publisher" :"Mastersong",                "date":"2012-05-31","title":"Indian Classical Music on Sitar and Tabla","have":"1","shortid":"WEEKMA_1"},
+  	     {"refid" : "00624", "publisher" :"World Rhythm",              "date":"2013-06-19","title":"Yoga Music on Sitar and Veena",  "have":"1","shortid":"YOGAMU_1"},
+  	     {"refid" : "00625", "publisher" :"",                          "date":"2013-06-19","title":"Premanjali",                     "have":"1","shortid":"ZZZ_1"},
+  	     {"refid" : "00626", "publisher" :"E2",                        "date":"1998-00-00","title":"Indian Meditation",              "have":"1","shortid":"ZZZ_2"},
+  	     {"refid" : "00627", "publisher" :"Keystone Records",          "date":"1984-00-00","title":"Bhajana Mala",                   "have":"1","shortid":"ZZZ_3"},
+  	     {"refid" : "00628", "publisher" :"Oxford University Press",   "date":"2000-00-00","title":"CD for ''Time in Indian Music''  by Martin Clayton", "have":"1","shortid":"ZZZ_4"}
+
+
+
 
   	  ], 
   	}

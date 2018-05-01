@@ -6,10 +6,13 @@
   	     {"artistid" : "Bimal Chanra;Das",     "relation" : "isFather-MotherOf", "otherArtist":"Sailen;Das"},
   	     {"artistid" : "Behre Fateh Ali;Khan", "relation" : "isFather-MotherOf", "otherArtist":"Nafees Ahmad;Khan"},
   	     {"artistid" : "Mahammad Sharif;Khan", "relation" : "isFather-MotherOf", "otherArtist":"Ashraf Shariff;Khan"},
+  	     {"artistid" : "Mumamar Ali;Khan",     "relation" : "isFather-MotherOf", "otherArtist":"Raza Ali;Khan"},
   	     {"artistid" : "Karthik;Kumar",        "relation" : "isFather-MotherOf", "otherArtist":"Niladri;Kumar"},
   	     {"artistid" : "Kalinath;Misra",       "relation" : "isProbablySameAs",  "otherArtist":"Kasinath;Misra"},
   	     {"artistid" : "Arto;Sarachi",         "relation" : "isProbablySameAs",  "otherArtist":"-;Parthasarathy"},
   	     {"artistid" : "Partho;Sarathy",       "relation" : "isProbablySameAs",  "otherArtist":"-;Parthasarathy"},
-  	     {"artistid" : "Ravi;Shankar",         "relation" : "isFather-MotherOf", "otherArtist":"Anoushka;Shankar"}
+  	     {"artistid" : "Ravi;Shankar",         "relation" : "isFather-MotherOf", "otherArtist":"Anoushka;Shankar"},
+  	     {"artistid" : "Pandit;Vyas",          "relation" : "isProbablySameAs",  "otherArtist":"Chintaman Raghunath;Vyas"},
+  	     {"artistid" : "Prakash;Wadera",       "relation" : "isProbablySameAs",  "otherArtist":"Prakash;Wadhera"}
   	  ]
  }  	     
