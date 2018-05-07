@@ -625,8 +625,11 @@
   	     {"refid" : "00625", "publisher" :"",                          "date":"2013-06-19","title":"Premanjali",                     "have":"1","shortid":"ZZZ_1"},
   	     {"refid" : "00626", "publisher" :"E2",                        "date":"1998-00-00","title":"Indian Meditation",              "have":"1","shortid":"ZZZ_2"},
   	     {"refid" : "00627", "publisher" :"Keystone Records",          "date":"1984-00-00","title":"Bhajana Mala",                   "have":"1","shortid":"ZZZ_3"},
-  	     {"refid" : "00628", "publisher" :"Oxford University Press",   "date":"2000-00-00","title":"CD for ''Time in Indian Music''  by Martin Clayton", "have":"1","shortid":"ZZZ_4"}
-
+  	     {"refid" : "00628", "publisher" :"Oxford University Press",   "date":"2000-00-00","title":"CD for ''Time in Indian Music''  by Martin Clayton", "have":"1","shortid":"ZZZ_4"},
+  	     {"refid" : "00629", "publisher" :"East Meets West",           "date":"2012-00-00","title":"RAVI & ANOUSHKA SHANKAR: LIVE IN BANGALORE", "have":"1","shortid":""},
+  	     {"refid" : "00630", "publisher" :"Sense World",               "date":"2004-02-00","title":"Sympatico",                      "have":"1","shortid":"SHARSH_7"},
+  	     {"refid" : "00631", "publisher" :"Music Today",               "date":"0000-00-00","title":"Lifestory of a Legend Vol 1 & 2","have":"1","shortid":"SHARSH_11"},
+  	     {"refid" : "00632", "publisher" :"Music Today",               "date":"0000-00-00","title":"Lifestory of a Legend Vol 3 & 4","have":"1","shortid":"SHARSH_12"}
 
 
 
