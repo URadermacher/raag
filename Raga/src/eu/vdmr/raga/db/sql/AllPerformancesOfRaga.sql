@@ -10,4 +10,5 @@ join artist a on a.id = p.artistid
 join performanceartist pa on pa.artistid = p.artistid and pa.storeid = p.storeid
 join instrument i on i.id = pa.instrumentid
 join performancepart pp on pp.storeid = p.storeid
-where r.name = 'Kaushi_Kanada'
+where r.name = 'Hemant'
+order by a.lastname	

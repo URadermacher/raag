@@ -2588,6 +2588,18 @@
          {"storeid" : "002193", "volgnr" : "001", "partname":"",                                     "duration" :   "6:06","filename" : "002193_Kedar.wav"},
          {"storeid" : "002194", "volgnr" : "001", "partname":"",                                     "duration" :   "6:06","filename" : "002194_Intro.wav"},
          {"storeid" : "002195", "volgnr" : "001", "partname":"",                                     "duration" :   "6:06","filename" : "002195_Darbari.wav"},
-         {"storeid" : "002196", "volgnr" : "001", "partname":"",                                     "duration" :  "60:10","filename" : "002196_Lalit.wav"}
-              ] 
+         {"storeid" : "002196", "volgnr" : "001", "partname":"",                                     "duration" :  "60:10","filename" : "002196_Lalit.wav"},
+         {"storeid" : "002197", "volgnr" : "001", "partname":"",                                     "duration" :  "62:32","filename" : "002197_Parameshwari.wav"},
+         {"storeid" : "002198", "volgnr" : "001", "partname":"",                                     "duration" :   "5:23","filename" : "002198_Charukeshi.wav"},
+         {"storeid" : "002199", "volgnr" : "001", "partname":"",                                     "duration" :   "4:20","filename" : "002199_Manj_Khamaj.wav"},
+         {"storeid" : "002200", "volgnr" : "001", "partname":"",                                     "duration" :  "57:44","filename" : "002200_Manrwa.wav"},
+         {"storeid" : "002201", "volgnr" : "001", "partname":"",                                     "duration" :  "65:25","filename" : "002201_Hemant.wav"},
+         {"storeid" : "002202", "volgnr" : "001", "partname":"",                                     "duration" :  "30:44","filename" : "002202_Miyan_Ki_Malhar.wav"},
+         {"storeid" : "002203", "volgnr" : "001", "partname":"",                                     "duration" :  "20:49","filename" : "002203_Gavati.wav"},
+         {"storeid" : "002204", "volgnr" : "001", "partname":"",                                     "duration" :  "10:44","filename" : "002204_Pahadi.wav"},
+         {"storeid" : "002205", "volgnr" : "001", "partname":"",                                     "duration" :  "11:34","filename" : "002205_Pilu.wav"},
+         {"storeid" : "002206", "volgnr" : "001", "partname":"",                                     "duration" :  "58:37","filename" : "002206_Bihag.wav"}
+         
+         
+                      ] 
   }
