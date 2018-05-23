@@ -2598,7 +2598,13 @@
          {"storeid" : "002203", "volgnr" : "001", "partname":"",                                     "duration" :  "20:49","filename" : "002203_Gavati.wav"},
          {"storeid" : "002204", "volgnr" : "001", "partname":"",                                     "duration" :  "10:44","filename" : "002204_Pahadi.wav"},
          {"storeid" : "002205", "volgnr" : "001", "partname":"",                                     "duration" :  "11:34","filename" : "002205_Pilu.wav"},
-         {"storeid" : "002206", "volgnr" : "001", "partname":"",                                     "duration" :  "58:37","filename" : "002206_Bihag.wav"}
+         {"storeid" : "002206", "volgnr" : "001", "partname":"",                                     "duration" :  "58:37","filename" : "002206_Bihag.wav"},
+         {"storeid" : "002207", "volgnr" : "001", "partname":"",                                     "duration" :  "23:32","filename" : "002207_Suha_Kanada.wav"},
+         {"storeid" : "002208", "volgnr" : "001", "partname":"",                                     "duration" :  "30:22","filename" : "002208_Shahana.wav"},
+         {"storeid" : "002209", "volgnr" : "001", "partname":"","talid":"Tintal",                    "duration" :  "16:16","filename" : "002209_Bhairavi.wav"},
+         {"storeid" : "002210", "volgnr" : "001", "partname":"",                                     "duration" :  "22:46","filename" : "002210_Charukeshi.wav"},
+         {"storeid" : "002211", "volgnr" : "001", "partname":"",                                     "duration" :  "63:03","filename" : "002211_Jhinjhoti.wav"},
+         {"storeid" : "002212", "volgnr" : "001", "partname":"",                                     "duration" :  "38:57","filename" : "002212_Bihag.wav"}
          
          
                       ] 

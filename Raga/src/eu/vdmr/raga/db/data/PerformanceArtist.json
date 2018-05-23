@@ -3634,6 +3634,7 @@
    	     {"storeid" : "002101",   "instrumentid":"Voice",      "artistid":"Hari Om;Sharan"},
    	     {"storeid" : "002102",   "instrumentid":"Voice",      "artistid":"Kumar;Gandharva"},
    	     {"storeid" : "002103",   "instrumentid":"Voice",      "artistid":"Roopa;Panesar"},
+  	     {"storeid" : "002103",   "instrumentid":"Tabla",      "artistid":"Dalbir Singh;Rattan"},
    	     {"storeid" : "002104",   "instrumentid":"Voice",      "artistid":"Rajshekhar;Mansur"},
    	     {"storeid" : "002104",   "instrumentid":"Sarangi",    "artistid":"Faiyaz;Khan"},
    	     {"storeid" : "002104",   "instrumentid":"Tabla",      "artistid":"Shailesh;Shenoy"},
@@ -3790,8 +3791,21 @@
   	     {"storeid" : "002205",   "instrumentid":"Sitar",      "artistid":"Shahid;Parvez"},
   	     {"storeid" : "002205",   "instrumentid":"Tabla",      "artistid":"Vijay;Ghate"},
   	     {"storeid" : "002206",   "instrumentid":"Sitar",      "artistid":"Anupama;Bhagwat"},
-  	     {"storeid" : "002206",   "instrumentid":"Tabla",      "artistid":"Subhajyoti;Guha"}
+  	     {"storeid" : "002206",   "instrumentid":"Tabla",      "artistid":"Subhajyoti;Guha"},
+  	     {"storeid" : "002207",   "instrumentid":"Sitar",      "artistid":"Mita;Nag"},
+   	     {"storeid" : "002208",   "instrumentid":"Voice",      "artistid":"Roopa;Panesar"},
+  	     {"storeid" : "002208",   "instrumentid":"Tabla",      "artistid":"Shahbaz;Hussain"},
+  	     {"storeid" : "002209",   "instrumentid":"Sitar",      "artistid":"Purbayan;Chatterjee"},
+  	     {"storeid" : "002209",   "instrumentid":"Tabla",      "artistid":"Satyajit;Talwalkar"},
+  	     {"storeid" : "002210",   "instrumentid":"Sitar",      "artistid":"Shahid;Parvez"},
+  	     {"storeid" : "002210",   "instrumentid":"Tabla",      "artistid":"Denis;Kucherov"},
+  	     {"storeid" : "002211",   "instrumentid":"Sitar",      "artistid":"Nayan;Ghosh"},
+  	     {"storeid" : "002211",   "instrumentid":"Tabla",      "artistid":"Subha;Maharaj"},
+  	     {"storeid" : "002212",   "instrumentid":"Sitar",      "artistid":"Deepsankar;Bhattacharjee"},
+  	     {"storeid" : "002212",   "instrumentid":"Tabla",      "artistid":"Tristan;Auvray"}
   	     
+  	     
+  	      	     
   	         
    	                     
    		]

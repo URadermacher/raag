@@ -2207,11 +2207,17 @@
    	     {"ragaid" : "Gawoti",          "artistid":"Shahid;Parvez",                "provenance":"Youtube(7EwvdZBJ7nU)","storeid":"002203","title":"Gavati"},
    	     {"ragaid" : "Pahadi",          "artistid":"Shahid;Parvez",                "provenance":"Youtube(7EwvdZBJ7nU)","storeid":"002204","title":"Pahadi", "styleid":"Thumri"},
    	     {"ragaid" : "Pilu",            "artistid":"Shahid;Parvez",                "provenance":"Youtube(7EwvdZBJ7nU)","storeid":"002205","title":"Pilu"},
-   	     {"ragaid" : "Bihag",           "artistid":"Anupama;Bhagwat",              "provenance":"Youtube(u_AmF84sV4Q)","storeid":"002206","title":"Bihag", "date":"2012-09-14", "place":"Amado Recital Hall in the Irvine Auditorium at the University Of Pennsylvania"}
-   	     
-   	     
-   	     
+   	     {"ragaid" : "Bihag",           "artistid":"Anupama;Bhagwat",              "provenance":"Youtube(u_AmF84sV4Q)","storeid":"002206","title":"Bihag", "date":"2012-09-14", "place":"Amado Recital Hall in the Irvine Auditorium at the University Of Pennsylvania"},
+   	     {"ragaid" : "Suha_Kanada",     "artistid":"Mita;Nag",                     "provenance":"Youtube(Pmei4Ix6dhA)","storeid":"002207","title":"Suha_Kanada", "date":"2015-00-00", "place":"Darbar Festival, London"},
+   	     {"ragaid" : "Shahana",         "artistid":"Roopa;Panesar",                "provenance":"Youtube(N5IMMOFrgv4)","storeid":"002208","title":"Shahana", "date":"2017-00-00", "place":"Summer Solstice 2017, Howard Assembly Room, Leeds"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Purbayan;Chatterjee",          "provenance":"Youtube(0Og7Ie1awNE)","storeid":"002209","title":"Bhairavi", "date":"2017-00-00", "place":"Serendipity Arts Festival Goa"},
+   	     {"ragaid" : "Charukeshi",      "artistid":"Shahid;Parvez",                "provenance":"Youtube(VMFy2UAATV4)","storeid":"002210","title":"Charukeshi", "date":"2012-00-00", "place":"St. Petersburg"},
+   	     {"ragaid" : "Jhinjhoti",       "artistid":"Nayan;Ghosh",                  "provenance":"Youtube(pEjlvZO0Trw)","storeid":"002211","title":"Jhinjhoti"},
+   	     {"ragaid" : "Bihag",           "artistid":"Deepsankar;Bhattacharjee",     "provenance":"Youtube(8WPnLudN2q8)","storeid":"002212","title":"Bihag", "date":"2016-00-00", "place":"Armor India festival in Morlaix,France"}
  
+
+
+
  
    	          ]
   	}
