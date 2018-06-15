@@ -21,6 +21,8 @@
   	     {"pubId" : "CHPA2006A", "typeId":"Article","pub_in":"HEWA2010A",                       "year":"2006","title":"Representation and Automatic Transcription of Solo Tabla Music" },
   	     {"pubId" : "CLMA2000A", "typeId":"Book",   "publisherid":"Oxford University Press",    "year":"2000","title":"Time in Indian Music" },
   	     {"pubId" : "CRAW1882A", "typeId":"Article","pub_in":"TASO1882A",                       "year":"1882","title":"Music and Dancing", "spec":"from the ''History of the Indian Archipelago'' Vol. I" },
+  	     {"pubId" : "DAAL1949A", "typeId":"Book",   "publisherid":"Visva Bharati",              "year":"1949","title":"Northern Indian Music", "spec":"Volume One: Theory & Technique" },
+  	     {"pubId" : "DAAL2010A", "typeId":"Book",   "publisherid":"Munishiram Monoharlal",      "year":"2010","title":"The Ragaas Of Northern Indian Music" },
   	     {"pubId" : "DAJO1882A", "typeId":"Article","pub_in":"TASO1882A",                       "year":"1882","title":"Music of Ceylon", "spec":"from ''An Account of the Interior of Ceylon anf its Inhabitants''" },
   	     {"pubId" : "DESA2006A", "typeId":"Article","pub_in":"HEWA2010A",                       "year":"2006","title":"An Analysis of Melismatic Patterns in Koto Songs" },
   	     {"pubId" : "DEFR2010A", "typeId":"Article","pub_in":"BOJO2010A",                       "year":"2010","title":"Collections of Lyrics in Hindustani Music: The Case of Dhrupad" },

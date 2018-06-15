@@ -232,7 +232,7 @@
   	  "columns" : [
   	     {"name" : "id", "type" : "INTEGER", "pk" : true, "autoInc" : true},
   	     {"name" : "pubid", "type" : "TEXT"},
-  	     {"name" : "ragid" , "type": "INTEGER", "ref" : "Raga,id,name"}
+  	     {"name" : "ragaid" , "type": "INTEGER", "ref" : "Raga,id,name"}
   	  ]
     }
     
