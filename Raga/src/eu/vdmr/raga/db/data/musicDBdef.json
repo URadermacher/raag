@@ -203,7 +203,8 @@
   	     {"name" : "year", "type" : "INTEGER"},
   	     {"name" : "typeid", "type" : "INTEGER", "ref" : "PublicationType,id,name"},
   	     {"name" : "pub_in", "type" : "TEXT"},
-  	     {"name" : "spec", "type" : "TEXT"}
+  	     {"name" : "spec", "type" : "TEXT"},
+  	     {"name" : "have", "type" : "INTEGER", "defaultValue":"0"}
   	     
   	     
   	  ]

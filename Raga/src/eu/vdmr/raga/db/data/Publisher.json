@@ -4,19 +4,26 @@
   	     {"name" : "E.J.Brill",                   "city":"Leiden"},
   	     {"name" : "Hardpress Publishing",        "city":"Miami"},
   	     {"name" : "iUniverse",                   "city":"Bloomiongton"},
+  	     {"name" : "Lambert Academic Publishing", "city":"Saarbrücken"},
   	     {"name" : "Low Price Publications",      "city":"Delhi"},
   	     {"name" : "Manilibai Sukthankar",        "city":"Bombay"},
   	     {"name" : "Manohar",                     "city":"New Delhi"},
+  	     {"name" : "Ministry of Information and Broadcasting", "city":"New Delhi"},
   	     {"name" : "MIT Press",                   "city":"Cambridge"},
+  	     {"name" : "Motilal Banarsidass",         "city":"New Delhi"},
   	     {"name" : "Munishiram Monoharlal",       "city":"New Delhi"},
   	     {"name" : "Nimbus",                      "city":"Charlottesville"},
   	     {"name" : "Florian Noetzel",             "city":"Wilhemshaven"},
   	     {"name" : "Oxford University Press",     "city":"Oxford"},
+  	     {"name" : "Popular Prakashan",           "city":"Bombay"},
   	     {"name" : "Sanjay Prakashan",            "city":"Delhi"},
   	     {"name" : "B.S.Sukhthankar",             "city":"Bombay"},
+  	     {"name" : "Taraporevala",                "city":"Bombay"},
+  	     {"name" : "Three essays collective",     "city":"Gurgaon, Haryana"},
   	     {"name" : "Trafford",                    "city":"Crewe"},
   	     {"name" : "University of Chicago Press", "city":"Chicago"},
-  	     {"name" : "Visva Bharati",               "city":"Calcutta"}
+  	     {"name" : "Visva Bharati",               "city":"Calcutta"},
+  	     {"name" : "V.K. Publishing House",       "city":"New Delhi"}
   	     
   		  ]
     }

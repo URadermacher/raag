@@ -1,7 +1,9 @@
 { "name" : "PublicationTag",
       "entries" : [
+  	     {"pubid":"BAHA2005A","tagid" : "Raga"},
   	     {"pubid":"BAJA2005A","tagid" : "Biography"},
   	     {"pubid":"BBKA2010A","tagid" : "History"},
+  	     {"pubid":"BOJO1999A","tagid" : "Raga"},
   	     {"pubid":"BOJO2010A","tagid" : "History"},
   	     {"pubid":"BOJO2010B","tagid" : "History"},
   	     {"pubid":"BOJO2010C","tagid" : "History"},
@@ -10,6 +12,10 @@
   	     {"pubid":"BRPH2010A","tagid" : "Vina"},
   	     {"pubid":"CACH2010A","tagid" : "History"},
   	     {"pubid":"CLMA2000A","tagid" : "Rhythm"},
+  	     {"pubid":"DAAL2010A","tagid" : "Raga"},
+  	     {"pubid":"DAAL2010A","tagid" : "History"},
+  	     {"pubid":"DECH1973A","tagid" : "History"},
+  	     {"pubid":"DECH1973A","tagid" : "Biography"},
   	     {"pubid":"DEFR2010A","tagid" : "History"},
   	     {"pubid":"FAGE2010A","tagid" : "History"},
  	     {"pubid":"FAGE2010A","tagid" : "West"},
@@ -18,6 +24,12 @@
   	     {"pubid":"FRPT1882A","tagid" : "Instrument"},
  	     {"pubid":"GRRO2010A","tagid" : "Biography"},
  	     {"pubid":"GRRO2010A","tagid" : "West"},
+ 	     {"pubid":"JANA1995A","tagid" : "Theory"},
+ 	     {"pubid":"JANA1995A","tagid" : "History"},
+ 	     {"pubid":"JOGN1977A","tagid" : "Theory"},
+ 	     {"pubid":"JOGN1977A","tagid" : "History"},
+ 	     {"pubid":"JOGN1977A","tagid" : "Biography"},
+ 	     {"pubid":"JOGN1977A","tagid" : "Instrument"},
   	     {"pubid":"KIJA2010A","tagid" : "History"},
   	     {"pubid":"KIJA2010A","tagid" : "Tabla"},
   	     {"pubid":"KRAR2006A","tagid" : "Composition"},
@@ -30,17 +42,28 @@
   	     {"pubid":"MIAL1993A","tagid" : "Sitar"},
   	     
   	     {"pubid":"MIAL2010A","tagid" : "History"},
+  	     {"pubid":"MIAL2010A","tagid" : "Raga"},
   	     {"pubid":"MIAL2010A","tagid" : "Rabab"},
   	     {"pubid":"MIAL2010A","tagid" : "Sarod"},
   	     {"pubid":"MIAL2010A","tagid" : "Sitar"},
   	     {"pubid":"MIAL2010A","tagid" : "Tampura"},
+  	     {"pubid":"MUMA19940","tagid" : "Raga" },      
+  	     {"pubid":"MUMA19940","tagid" : "Theory" },      
+  	     {"pubid":"NAAL2007A","tagid" : "Raga" },  	     
   	     {"pubid":"NAAL2007A","tagid" : "Vina" },  	     
   	     {"pubid":"NEDA2010A","tagid" : "History"},
   	     {"pubid":"POHA2010A","tagid" : "Theory"},
+  	     {"pubid":"PRAN2014A","tagid" : "History"},
+  	     {"pubid":"PRAN2014A","tagid" : "Biography"},
   	     {"pubid":"RASU2010A","tagid" : "Theory"},
+  	     {"pubid":"ROLE1992A","tagid" : "History"},
+  	     {"pubid":"ROLE1992A","tagid" : "Theory"},
   	     {"pubid":"ROMI2010A","tagid" : "History"},
  	     {"pubid":"SONE2010A","tagid" : "West"},
    	     {"pubid":"SUBR2010A","tagid" : "History"},
+  	     {"pubid":"TASO1877A","tagid" : "Raga"},
+  	     {"pubid":"TASO1882A","tagid" : "Raga"},
+  	     {"pubid":"TEEM1976B","tagid" : "Raga"},
   	     {"pubid":"TEEM2010A","tagid" : "History"},
   	     {"pubid":"TEEM2010B","tagid" : "History"},
   	     {"pubid":"TRDA2010A","tagid" : "History"},
@@ -51,7 +74,6 @@
   	     {"pubid":"WOIA2010A","tagid" : "History"}
   	  ]
     }
-    
     
 
     

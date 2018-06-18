@@ -1,5 +1,6 @@
 { "name" : "Tag",
       "entries" : [
+  	     {"txt" : "Analysis"},
   	     {"txt" : "Biography"},
   	     {"txt" : "Composition"},
   	     {"txt" : "History"},
