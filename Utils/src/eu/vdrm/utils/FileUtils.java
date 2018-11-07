@@ -42,11 +42,12 @@ public class FileUtils {
 		
 		@Override
         public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
-			LOG.trace("file: " + file.getFileName());
+//			LOG.trace("file: " + file.getFileName());
 			// lastModified is newer than seen up to now?
             if (checkTime.compareTo(Files.getLastModifiedTime(file)) < 0) {
             	foundFile = file;
             	checkTime = Files.getLastModifiedTime(file);
+    			LOG.trace("latst up to now: " + file.getFileName() + ": " + checkTime);
             }
             return FileVisitResult.CONTINUE; // we wonna visit all files
         }

@@ -1,5 +1,6 @@
 { "name" : "Publisher",
       "entries" : [
+  	     {"name" : "Alfred Hoelder",              "city":"Wien?"},
   	     {"name" : "B.R.Paperback",               "city":"Delhi"},
   	     {"name" : "E.J.Brill",                   "city":"Leiden"},
   	     {"name" : "Hardpress Publishing",        "city":"Miami"},
@@ -12,9 +13,11 @@
   	     {"name" : "MIT Press",                   "city":"Cambridge"},
   	     {"name" : "Motilal Banarsidass",         "city":"New Delhi"},
   	     {"name" : "Munishiram Monoharlal",       "city":"New Delhi"},
+  	     {"name" : "Nikhil Gosh",                 "city":"Bombay"},
   	     {"name" : "Nimbus",                      "city":"Charlottesville"},
   	     {"name" : "Florian Noetzel",             "city":"Wilhemshaven"},
   	     {"name" : "Oxford University Press",     "city":"Oxford"},
+  	     {"name" : "Phoenix House",               "city":"London"},
   	     {"name" : "Popular Prakashan",           "city":"Bombay"},
   	     {"name" : "Sanjay Prakashan",            "city":"Delhi"},
   	     {"name" : "B.S.Sukhthankar",             "city":"Bombay"},
