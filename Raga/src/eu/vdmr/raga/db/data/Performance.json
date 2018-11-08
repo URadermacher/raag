@@ -2214,8 +2214,12 @@
    	     {"ragaid" : "Charukeshi",      "artistid":"Shahid;Parvez",                "provenance":"Youtube(VMFy2UAATV4)","storeid":"002210","title":"Charukeshi", "date":"2012-00-00", "place":"St. Petersburg"},
    	     {"ragaid" : "Jhinjhoti",       "artistid":"Nayan;Ghosh",                  "provenance":"Youtube(pEjlvZO0Trw)","storeid":"002211","title":"Jhinjhoti"},
    	     {"ragaid" : "Bihag",           "artistid":"Deepsankar;Bhattacharjee",     "provenance":"Youtube(8WPnLudN2q8)","storeid":"002212","title":"Bihag", "date":"2016-00-00", "place":"Armor India festival in Morlaix,France"},
-   	     {"ragaid" : "Hamsadhwani",     "artistid":"Anoushka;Shankar",                    "CD":"00633",               "storeid":"002213","title":"Hamsadhwani","composerid" : "Ravi;Shankar"},
-   	     {"ragaid" : "Shuddh_Sarang",   "artistid":"Anoushka;Shankar",                    "CD":"00633",               "storeid":"002214","title":"Shudd Sarang","composerid" : "Ravi;Shankar"}
+   	     {"ragaid" : "Shuddh_Sarang",   "artistid":"Anoushka;Shankar",                    "CD":"00633",                "storeid":"002213","title":"Shudd Sarang","composerid" : "Ravi;Shankar"},
+   	     {"ragaid" : "Puriya_Dhanashri","artistid":"Anoushka;Shankar",                    "CD":"00633",                "storeid":"002214","title":"Puriya_Dhanashri","composerid" : "Ravi;Shankar"},
+   	     {"ragaid" : "Hamsadhwani",     "artistid":"Anoushka;Shankar",                    "CD":"00633",                "storeid":"002215","title":"Hamsadhwani","composerid" : "Ravi;Shankar"},
+   	     {"ragaid" : "Yaman_Kalyan",    "artistid":"Anoushka;Shankar",                    "CD":"00633",                "storeid":"002216","title":"Yaman_Kalyan","composerid" : "Ravi;Shankar"},
+   	     {"ragaid" : "Unknown",         "artistid":"Anoushka;Shankar",                    "CD":"00633",                "storeid":"002217","title":"Swarna_Jayanti","composerid" : "Ravi;Shankar"},
+   	     {"ragaid" : "Pancham_Se_Gara", "artistid":"Anoushka;Shankar",                    "CD":"00633",                "storeid":"002218","title":"Pancham_Se_Gara","composerid" : "Ravi;Shankar"}
  
 
 

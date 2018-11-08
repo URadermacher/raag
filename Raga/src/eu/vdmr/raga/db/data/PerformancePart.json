@@ -2604,9 +2604,13 @@
          {"storeid" : "002209", "volgnr" : "001", "partname":"","talid":"Tintal",                    "duration" :  "16:16","filename" : "002209_Bhairavi.wav"},
          {"storeid" : "002210", "volgnr" : "001", "partname":"",                                     "duration" :  "22:46","filename" : "002210_Charukeshi.wav"},
          {"storeid" : "002211", "volgnr" : "001", "partname":"",                                     "duration" :  "63:03","filename" : "002211_Jhinjhoti.wav"},
-         {"storeid" : "002212", "volgnr" : "001", "partname":"",                                     "duration" :  "38:57","filename" : "002212_Bihag.wav"}
-         {"storeid" : "002213", "volgnr" : "001", "partname":"",                                     "duration" :   "3:55","filename" : "002213_Hamsadhwani.wav"}
-         {"storeid" : "002214", "volgnr" : "001", "partname":"",                                     "duration" :  "12:43","filename" : "002214_Shudd_Sarang.wav"}
+         {"storeid" : "002212", "volgnr" : "001", "partname":"",                                     "duration" :  "38:57","filename" : "002212_Bihag.wav"},
+         {"storeid" : "002213", "volgnr" : "001", "partname":"",                                     "duration" :  "12:43","filename" : "002213_Shudd_Sarang.wav"}
+         {"storeid" : "002214", "volgnr" : "001", "partname":"",                                     "duration" :  "11:33","filename" : "002214_Puriya_Dhanashri.wav"},
+         {"storeid" : "002215", "volgnr" : "001", "partname":"",                                     "duration" :   "3:55","filename" : "002215_Hamsadhwani.wav"},
+         {"storeid" : "002216", "volgnr" : "001", "partname":"",                                     "duration" :   "7:52","filename" : "002216_Yaman_Kalyan.wav"},
+         {"storeid" : "002217", "volgnr" : "001", "partname":"",                                     "duration" :   "5:57","filename" : "002217_Swarna_Jayanti.wav"},
+         {"storeid" : "002218", "volgnr" : "001", "partname":"",                                     "duration" :  "11:53","filename" : "002218_Pancham_Sa_Gara.wav.wav"}
          
          
                       ] 
