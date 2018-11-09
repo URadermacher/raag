@@ -3808,8 +3808,17 @@
   	     {"storeid" : "002215",   "instrumentid":"Sitar",      "artistid":"Anoushka;Shankar"},  
   	     {"storeid" : "002216",   "instrumentid":"Sitar",      "artistid":"Anoushka;Shankar"}, 
   	     {"storeid" : "002217",   "instrumentid":"Sitar",      "artistid":"Anoushka;Shankar"},   
-  	     {"storeid" : "002218",   "instrumentid":"Sitar",      "artistid":"Anoushka;Shankar"},   
-  	     {"storeid" : "002218",   "instrumentid":"Sitar",      "artistid":"Ravi;Shankar"}   
+  	     {"storeid" : "002218",   "instrumentid":"Sitar",      "artistid":"Anoushka;Shankar"},    
+  	     {"storeid" : "002218",   "instrumentid":"Sitar",      "artistid":"Ravi;Shankar"},   
+  	     {"storeid" : "002219",   "instrumentid":"Sitar",      "artistid":"Jay;Kishor"},   
+  	     {"storeid" : "002219",   "instrumentid":"Tabla",      "artistid":"Vedang;Londhe"},   
+  	     {"storeid" : "002220",   "instrumentid":"Sitar",      "artistid":"Jay;Kishor"},   
+  	     {"storeid" : "002220",   "instrumentid":"Tabla",      "artistid":"Subhash;Karmarkar"},   
+  	     {"storeid" : "002221",   "instrumentid":"Sitar",      "artistid":"Jay;Kishor"},   
+  	     {"storeid" : "002221",   "instrumentid":"Tabla",      "artistid":"Subhash;Karmarkar"},   
+  	     {"storeid" : "002222",   "instrumentid":"Sitar",      "artistid":"Jay;Kishor"},
+  	     {"storeid" : "002222",   "instrumentid":"Tabla",      "artistid":"Subhash;Karmarkar"},
+  	     {"storeid" : "002223",   "instrumentid":"Sitar",      "artistid":"Jay;Kishor"}
   	    
   	     
   	     

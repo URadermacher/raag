@@ -2605,12 +2605,22 @@
          {"storeid" : "002210", "volgnr" : "001", "partname":"",                                     "duration" :  "22:46","filename" : "002210_Charukeshi.wav"},
          {"storeid" : "002211", "volgnr" : "001", "partname":"",                                     "duration" :  "63:03","filename" : "002211_Jhinjhoti.wav"},
          {"storeid" : "002212", "volgnr" : "001", "partname":"",                                     "duration" :  "38:57","filename" : "002212_Bihag.wav"},
-         {"storeid" : "002213", "volgnr" : "001", "partname":"",                                     "duration" :  "12:43","filename" : "002213_Shudd_Sarang.wav"}
+         {"storeid" : "002213", "volgnr" : "001", "partname":"",                                     "duration" :  "12:43","filename" : "002213_Shudd_Sarang.wav"},
          {"storeid" : "002214", "volgnr" : "001", "partname":"",                                     "duration" :  "11:33","filename" : "002214_Puriya_Dhanashri.wav"},
          {"storeid" : "002215", "volgnr" : "001", "partname":"",                                     "duration" :   "3:55","filename" : "002215_Hamsadhwani.wav"},
          {"storeid" : "002216", "volgnr" : "001", "partname":"",                                     "duration" :   "7:52","filename" : "002216_Yaman_Kalyan.wav"},
          {"storeid" : "002217", "volgnr" : "001", "partname":"",                                     "duration" :   "5:57","filename" : "002217_Swarna_Jayanti.wav"},
-         {"storeid" : "002218", "volgnr" : "001", "partname":"",                                     "duration" :  "11:53","filename" : "002218_Pancham_Sa_Gara.wav.wav"}
+         {"storeid" : "002218", "volgnr" : "001", "partname":"",                                     "duration" :  "11:53","filename" : "002218_Pancham_Sa_Gara.wav"},
+         {"storeid" : "002219", "volgnr" : "001", "partname":"Alap",                                 "duration" :  "13:29","filename" : "002219_1_Magunji.wav"},
+         {"storeid" : "002219", "volgnr" : "002", "partname":"Jor",                                  "duration" :  "16:01","filename" : "002219_2_Magunji.wav"},
+         {"storeid" : "002219", "volgnr" : "003", "partname":"Vilambit", "talid":"Tintal",           "duration" :  "15:08","filename" : "002219_3_Magunji.wav"},
+         {"storeid" : "002219", "volgnr" : "004", "partname":"Drut", "talid":"Tintal",               "duration" :  "21:31","filename" : "002219_4_Magunji.wav"},
+         {"storeid" : "002219", "volgnr" : "005", "partname":"Tabla solo", "talid":"Jhaptal",        "duration" :   "6:93","filename" : "002219_1_Magunji.wav"},
+         {"storeid" : "002220", "volgnr" : "001", "partname":"",                                     "duration" :  "34:01","filename" : "002220_Malkauns.wav"},
+         {"storeid" : "002221", "volgnr" : "001", "partname":"",                                     "duration" :  "16:15","filename" : "002221_Kirwani.wav"},
+         {"storeid" : "002222", "volgnr" : "001", "partname":"",                                     "duration" :  "18:21","filename" : "002222_Shivranjani.wav"},
+         {"storeid" : "002223", "volgnr" : "001", "partname":"Alaap",                                "duration" :  "38:05","filename" : "002223_1_Patdip.wav"},
+         {"storeid" : "002223", "volgnr" : "002", "partname":"Gat",                                  "duration" :  "31:24","filename" : "002223_2_Patdip.wav"}
          
          
                       ] 
