@@ -2620,8 +2620,9 @@
          {"storeid" : "002221", "volgnr" : "001", "partname":"",                                     "duration" :  "16:15","filename" : "002221_Kirwani.wav"},
          {"storeid" : "002222", "volgnr" : "001", "partname":"",                                     "duration" :  "18:21","filename" : "002222_Shivranjani.wav"},
          {"storeid" : "002223", "volgnr" : "001", "partname":"Alaap",                                "duration" :  "38:05","filename" : "002223_1_Patdip.wav"},
-         {"storeid" : "002223", "volgnr" : "002", "partname":"Gat",                                  "duration" :  "31:24","filename" : "002223_2_Patdip.wav"}
-         
+         {"storeid" : "002223", "volgnr" : "002", "partname":"Gat",                                  "duration" :  "31:24","filename" : "002223_2_Patdip.wav"},
+         {"storeid" : "002224", "volgnr" : "001", "partname":"Alap",                                 "duration" :  "37:04","filename" : "002224_1_Maru_Bihag.wav"},
+         {"storeid" : "002224", "volgnr" : "002", "partname":"Gat",                                  "duration" :  "32:53","filename" : "002224_1_Maru_Bihag.wav"}
          
                       ] 
   }
