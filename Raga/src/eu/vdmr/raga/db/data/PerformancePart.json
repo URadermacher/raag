@@ -2622,7 +2622,8 @@
          {"storeid" : "002223", "volgnr" : "001", "partname":"Alaap",                                "duration" :  "38:05","filename" : "002223_1_Patdip.wav"},
          {"storeid" : "002223", "volgnr" : "002", "partname":"Gat",                                  "duration" :  "31:24","filename" : "002223_2_Patdip.wav"},
          {"storeid" : "002224", "volgnr" : "001", "partname":"Alap",                                 "duration" :  "37:04","filename" : "002224_1_Maru_Bihag.wav"},
-         {"storeid" : "002224", "volgnr" : "002", "partname":"Gat",                                  "duration" :  "32:53","filename" : "002224_1_Maru_Bihag.wav"}
+         {"storeid" : "002224", "volgnr" : "002", "partname":"Gat",                                  "duration" :  "32:53","filename" : "002224_1_Maru_Bihag.wav"},
+         {"storeid" : "002225", "volgnr" : "001", "partname":"",                                     "duration" :  "68:44","filename" : "002225_Malkauns.wav"}
          
                       ] 
   }
