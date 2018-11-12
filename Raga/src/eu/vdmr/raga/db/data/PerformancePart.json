@@ -2623,7 +2623,9 @@
          {"storeid" : "002223", "volgnr" : "002", "partname":"Gat",                                  "duration" :  "31:24","filename" : "002223_2_Patdip.wav"},
          {"storeid" : "002224", "volgnr" : "001", "partname":"Alap",                                 "duration" :  "37:04","filename" : "002224_1_Maru_Bihag.wav"},
          {"storeid" : "002224", "volgnr" : "002", "partname":"Gat",                                  "duration" :  "32:53","filename" : "002224_1_Maru_Bihag.wav"},
-         {"storeid" : "002225", "volgnr" : "001", "partname":"",                                     "duration" :  "68:44","filename" : "002225_Malkauns.wav"}
+         {"storeid" : "002225", "volgnr" : "001", "partname":"",                                     "duration" :  "68:44","filename" : "002225_Malkauns.wav"},
+         {"storeid" : "002226", "volgnr" : "001", "partname":"Alap & Jor",                           "duration" :  "24:59","filename" : "002226_1_Rageshri.wav"},
+         {"storeid" : "002226", "volgnr" : "001", "partname":"Gat", "talid":"Tintal",                "duration" :  "28:21","filename" : "002226_2_Rageshri.wav"}
          
                       ] 
   }
