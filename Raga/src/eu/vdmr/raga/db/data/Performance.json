@@ -2227,7 +2227,11 @@
    	     {"ragaid" : "Patdip",          "artistid":"Jay;Kishor",                   "provenance":"Spotify","CD":"00636","storeid":"002223","title":"Patdip"},
    	     {"ragaid" : "Maru_Bihag",      "artistid":"Jay;Kishor",                   "provenance":"Spotify","CD":"00637","storeid":"002224","title":"Maru_Bihag"},
    	     {"ragaid" : "Malkauns",        "artistid":"Jay;Kishor",                   "provenance":"Spotify","CD":"00637","storeid":"002225","title":"Malkauns"},
-   	     {"ragaid" : "Rageshri",        "artistid":"Budhaditya;Mukherjee",         "provenance":"Spotify","CD":"00638","storeid":"002226","title":"Rageshri"}
+   	     {"ragaid" : "Rageshri",        "artistid":"Budhaditya;Mukherjee",         "provenance":"Spotify","CD":"00638","storeid":"002226","title":"Rageshri"},
+   	     {"ragaid" : "Bihag",           "artistid":"Purbayan;Chatterjee",                                 "CD":"00639","storeid":"002227","title":"Bihag"},
+   	     {"ragaid" : "Khamaj",          "artistid":"Purbayan;Chatterjee",                                 "CD":"00639","storeid":"002228","title":"Mishra Khamaj"},
+   	     {"ragaid" : "Pahadi",          "artistid":"Purbayan;Chatterjee",                                 "CD":"00639","storeid":"002229","title":"Pahadi"},
+   	     {"ragaid" : "Bageshri",        "artistid":"Purbayan;Chatterjee",          "provenance":"Spotify","CD":"00102","storeid":"002230","title":"Bageshri"}
  
 
 

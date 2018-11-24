@@ -2625,7 +2625,13 @@
          {"storeid" : "002224", "volgnr" : "002", "partname":"Gat",                                  "duration" :  "32:53","filename" : "002224_1_Maru_Bihag.wav"},
          {"storeid" : "002225", "volgnr" : "001", "partname":"",                                     "duration" :  "68:44","filename" : "002225_Malkauns.wav"},
          {"storeid" : "002226", "volgnr" : "001", "partname":"Alap & Jor",                           "duration" :  "24:59","filename" : "002226_1_Rageshri.wav"},
-         {"storeid" : "002226", "volgnr" : "001", "partname":"Gat", "talid":"Tintal",                "duration" :  "28:21","filename" : "002226_2_Rageshri.wav"}
-         
+         {"storeid" : "002226", "volgnr" : "001", "partname":"Gat", "talid":"Tintal",                "duration" :  "28:21","filename" : "002226_2_Rageshri.wav"},
+         {"storeid" : "002227", "volgnr" : "001", "partname":"Alaap",                                "duration" :  "05:42","filename" : "002227_1_Bihag.wav"},
+         {"storeid" : "002227", "volgnr" : "002", "partname":"Bandish", "talid":"Tintal",            "duration" :  "25:15","filename" : "002227_2_Bihag.wav"},
+         {"storeid" : "002228", "volgnr" : "001", "partname":"Alap",                                 "duration" :  "06:19","filename" : "002228_1_Khamaj.wav"},
+         {"storeid" : "002228", "volgnr" : "002", "partname":"Gat", "talid":"Sitarkhani",            "duration" :  "09:08","filename" : "002228_2_Khamaj.wav"},
+         {"storeid" : "002228", "volgnr" : "003", "partname":"Laggi",                                "duration" :  "03:02","filename" : "002228_3_Khamaj.wav"},
+         {"storeid" : "002229", "volgnr" : "001", "partname":"",                                     "duration" :  "09:15","filename" : "002229_Pahadi.wav"},
+         {"storeid" : "002230", "volgnr" : "001", "partname":"Tarana",                               "duration" :  "15:06","filename" : "002230_Bageshri.wav"}
                       ] 
   }
