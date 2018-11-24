@@ -2634,7 +2634,15 @@
          {"storeid" : "002229", "volgnr" : "001", "partname":"",                                     "duration" :  "09:15","filename" : "002229_Pahadi.wav"},
          {"storeid" : "002230", "volgnr" : "001", "partname":"Tarana",                               "duration" :  "15:06","filename" : "002230_Bageshri.wav"},
          {"storeid" : "002231", "volgnr" : "001", "partname":"Alaap, Jod, Gat", "talid":"Ashtami",   "duration" :  "31:13","filename" : "002231_Gayathri.wav"},
-         {"storeid" : "002232", "volgnr" : "001", "partname":"",  "talid":"Ashtami",                 "duration" :  "14:24","filename" : "002232_Gayathri.wav"}
+         {"storeid" : "002232", "volgnr" : "001", "partname":"",  "talid":"Ashtami",                 "duration" :  "14:24","filename" : "002232_Gayathri.wav"},
+         {"storeid" : "002233", "volgnr" : "001", "partname":"",                                     "duration" :   "7:15","filename" : "002233_Mayaki_Kanhada.wav"},
+         {"storeid" : "002234", "volgnr" : "001", "partname":"",                                     "duration" :  "12:30","filename" : "002234_Baageshri.wav"},
+         {"storeid" : "002235", "volgnr" : "001", "partname":"",                                     "duration" :   "9:54","filename" : "002235_Tilak_Kamod.wav"},
+         {"storeid" : "002236", "volgnr" : "001", "partname":"",                                     "duration" :   "6:57","filename" : "002236_Miyan_Ki_Malhar.wav"},
+         {"storeid" : "002237", "volgnr" : "001", "partname":"",                                     "duration" :  "11:23","filename" : "002237_Jhinjhoti.wav"},
+         {"storeid" : "002238", "volgnr" : "001", "partname":"",                                     "duration" :   "6:13","filename" : "002238_Zilha_Kafi.wav"},
+         {"storeid" : "002239", "volgnr" : "001", "partname":"",                                     "duration" :   "6:32","filename" : "002239_Bihag.wav"},
+         {"storeid" : "002240", "volgnr" : "001", "partname":"",                                     "duration" :   "5:08","filename" : "002240_Pilu.wav"}
          
          
          
