@@ -2,6 +2,7 @@
       "entries" : [
   	     {"name" : "Adda",       "beats":"16"},
   	     {"name" : "Adi",        "beats":"8",  "pattern" : "4-4",     "theka" : "ta ka dhi mi | ta ka dhi mi"},
+  	     {"name" : "Ashtami"},
   	     {"name" : "Chachar",                  "pattern" : "4-4-4-4", "theka" : "dha - dhin - / dha dha tin - / ta - tin - / dha dha dhin -"},
   	     {"name" : "Chapu"},
   	     {"name" : "Chartal"},

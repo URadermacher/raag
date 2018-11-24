@@ -2632,6 +2632,11 @@
          {"storeid" : "002228", "volgnr" : "002", "partname":"Gat", "talid":"Sitarkhani",            "duration" :  "09:08","filename" : "002228_2_Khamaj.wav"},
          {"storeid" : "002228", "volgnr" : "003", "partname":"Laggi",                                "duration" :  "03:02","filename" : "002228_3_Khamaj.wav"},
          {"storeid" : "002229", "volgnr" : "001", "partname":"",                                     "duration" :  "09:15","filename" : "002229_Pahadi.wav"},
-         {"storeid" : "002230", "volgnr" : "001", "partname":"Tarana",                               "duration" :  "15:06","filename" : "002230_Bageshri.wav"}
-                      ] 
+         {"storeid" : "002230", "volgnr" : "001", "partname":"Tarana",                               "duration" :  "15:06","filename" : "002230_Bageshri.wav"},
+         {"storeid" : "002231", "volgnr" : "001", "partname":"Alaap, Jod, Gat", "talid":"Ashtami",   "duration" :  "31:13","filename" : "002231_Gayathri.wav"},
+         {"storeid" : "002232", "volgnr" : "001", "partname":"",  "talid":"Ashtami",                 "duration" :  "14:24","filename" : "002232_Gayathri.wav"}
+         
+         
+         
+         ]
   }

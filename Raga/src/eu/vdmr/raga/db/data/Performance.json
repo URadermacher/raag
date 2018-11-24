@@ -1135,7 +1135,7 @@
    	     {"ragaid" : "Marwa",           "artistid":"Vilayat;Khan",           "provenance":"CD,1",   "CD":"00378","storeid":"001131","title" : "Marwa"},
    	     {"ragaid" : "Puriya",          "artistid":"Vilayat;Khan",           "provenance":"CD,2",   "CD":"00378","storeid":"001132","title" : "Puriya"},
    	     {"ragaid" : "Sohini",          "artistid":"Vilayat;Khan",           "provenance":"CD,3",   "CD":"00378","storeid":"001133","title" : "Sohini"},
-   	     {"ragaid" : "Yaman",           "artistid":"Vilayat;Khan",           "provenance":"CD,1",   "CD":"00379","storeid":"001134","title" : "Ragini Yamani", "date":"1994-00-00", "place":"Barbecon Centre, London"},
+   	     {"ragaid" : "Yamani",          "artistid":"Vilayat;Khan",           "provenance":"CD,1",   "CD":"00379","storeid":"001134","title" : "Ragini Yamani", "date":"1994-00-00", "place":"Barbecon Centre, London"},
    	     {"ragaid" : "Puriya_Kalyan",   "artistid":"Parimal;Sadaphal",       "provenance":"Spotify","CD":"00380","storeid":"001135","title" : "Raga Puriya Kalyan"},
    	     {"ragaid" : "Manj_Khamaj",     "artistid":"Parimal;Sadaphal",       "provenance":"Spotify","CD":"00380","storeid":"001136","title" : "Raga Manj Khamaj"},
    	     {"ragaid" : "Puriya_Dhanashri","artistid":"Paul;Livingstone",       "provenance":"Spotify","CD":"00381","storeid":"001137","title" : "Puriya_Dhanashri"},
@@ -2231,7 +2231,9 @@
    	     {"ragaid" : "Bihag",           "artistid":"Purbayan;Chatterjee",                                 "CD":"00639","storeid":"002227","title":"Bihag"},
    	     {"ragaid" : "Khamaj",          "artistid":"Purbayan;Chatterjee",                                 "CD":"00639","storeid":"002228","title":"Mishra Khamaj"},
    	     {"ragaid" : "Pahadi",          "artistid":"Purbayan;Chatterjee",                                 "CD":"00639","storeid":"002229","title":"Pahadi"},
-   	     {"ragaid" : "Bageshri",        "artistid":"Purbayan;Chatterjee",          "provenance":"Spotify","CD":"00102","storeid":"002230","title":"Bageshri"}
+   	     {"ragaid" : "Bageshri",        "artistid":"Purbayan;Chatterjee",          "provenance":"Spotify","CD":"00102","storeid":"002230","title":"Bageshri"},
+   	     {"ragaid" : "Gayathri",        "artistid":"Purbayan;Chatterjee",          "provenance":"Spotify","CD":"00640","storeid":"002231","title":"Gayathri"},
+   	     {"ragaid" : "Gayathri",        "artistid":"Purbayan;Chatterjee",          "provenance":"Spotify","CD":"00640","storeid":"002232","title":"CrossOver Gayathri harmonized"}
  
 
 
