@@ -2642,8 +2642,29 @@
          {"storeid" : "002237", "volgnr" : "001", "partname":"",                                     "duration" :  "11:23","filename" : "002237_Jhinjhoti.wav"},
          {"storeid" : "002238", "volgnr" : "001", "partname":"",                                     "duration" :   "6:13","filename" : "002238_Zilha_Kafi.wav"},
          {"storeid" : "002239", "volgnr" : "001", "partname":"",                                     "duration" :   "6:32","filename" : "002239_Bihag.wav"},
-         {"storeid" : "002240", "volgnr" : "001", "partname":"",                                     "duration" :   "5:08","filename" : "002240_Pilu.wav"}
-         
+         {"storeid" : "002240", "volgnr" : "001", "partname":"",                                     "duration" :   "5:08","filename" : "002240_Pilu.wav"},
+         {"storeid" : "002241", "volgnr" : "001", "partname":"",                                     "duration" :  "26:13","filename" : "002241_Darbari_Kanada.wav"},
+         {"storeid" : "002242", "volgnr" : "001", "partname":"",                                     "duration" :  "33:35","filename" : "002242_Zila_Kafi.wav"},
+         {"storeid" : "002243", "volgnr" : "001", "partname":"",                                     "duration" :  "29:13","filename" : "002243_Brindavani_Sarang.wav"},
+         {"storeid" : "002244", "volgnr" : "001", "partname":"",                                     "duration" :  "30:23","filename" : "002244_Gour_Sarang.wav"},
+         {"storeid" : "002245", "volgnr" : "001", "partname":"",                                     "duration" :  "10:07","filename" : "002245_Mishra_Pilu.wav"},
+         {"storeid" : "002246", "volgnr" : "001", "partname":"Alap",                                 "duration" :   "9:50","filename" : "002246_1_Kirwani.wav"},
+         {"storeid" : "002246", "volgnr" : "002", "partname":"Vilambit","talid":"Tintal",            "duration" :  "24:31","filename" : "002246_2_Kirwani.wav"},
+         {"storeid" : "002246", "volgnr" : "003", "partname":"Drut", "talid":"Tintal",               "duration" :  "21:11","filename" : "002246_3_Kirwani.wav"},
+         {"storeid" : "002247", "volgnr" : "001", "partname":"",                                     "duration" :   "7:39","filename" : "002247_Kajri.wav"},
+         {"storeid" : "002248", "volgnr" : "001", "partname":"Alap, Jor",                            "duration" :  "30:36","filename" : "002248_1_Rageshri.wav"},
+         {"storeid" : "002248", "volgnr" : "002", "partname":"vilambit","talid":"Jhaptal",           "duration" :  "34:46","filename" : "002248_2_Rageshri.wav"},
+         {"storeid" : "002248", "volgnr" : "002", "partname":"drut","talid":"Tintal",                "duration" :  "34:46","filename" : "002248_1_Rageshri.wav"},
+         {"storeid" : "002249", "volgnr" : "001", "partname":""                     ,                "duration" :  "65:38","filename" : "002249_Bihag.wav"},
+         {"storeid" : "002250", "volgnr" : "001", "partname":""                     ,                "duration" :  "57:51","filename" : "002250_Jog.wav"},
+         {"storeid" : "002251", "volgnr" : "001", "partname":""                     ,                "duration" :  "19:09","filename" : "002251_Rageshri.wav"},
+         {"storeid" : "002252", "volgnr" : "001", "partname":""                     ,                "duration" :  "56:11","filename" : "002252_Ahir_Bhairav.wav"},
+         {"storeid" : "002253", "volgnr" : "001", "partname":""                     ,                "duration" :  "15:29","filename" : "002253_Kirwani.wav"},
+         {"storeid" : "002254", "volgnr" : "001", "partname":""                     ,                "duration" :  "16:09","filename" : "002254_Vasant_Mukhari.wav"},
+         {"storeid" : "002255", "volgnr" : "001", "partname":""                     ,                "duration" :   "8:29","filename" : "002255_Bageshri.wav"},
+         {"storeid" : "002256", "volgnr" : "001", "partname":""                     ,                "duration" :  "12:39","filename" : "002256_Pahari.wav"},
+         {"storeid" : "002257", "volgnr" : "001", "partname":""                     ,                "duration" :  "15:30","filename" : "002257_Bhairavi.wav"}
+        
          
          
          ]

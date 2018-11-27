@@ -2241,7 +2241,24 @@
    	     {"ragaid" : "Jhinjhoti",       "artistid":"Arnab;Chakrabarty",            "provenance":"Spotify","CD":"00641","storeid":"002237","title":"Jhinjhoti"},
    	     {"ragaid" : "Zila_Kafi",       "artistid":"Arnab;Chakrabarty",            "provenance":"Spotify","CD":"00641","storeid":"002238","title":"Zila_Kafi"},
    	     {"ragaid" : "Bihag",           "artistid":"Arnab;Chakrabarty",            "provenance":"Spotify","CD":"00641","storeid":"002239","title":"Bihag"},
-   	     {"ragaid" : "Pilu",            "artistid":"Arnab;Chakrabarty",            "provenance":"Spotify","CD":"00641","storeid":"002240","title":"Pilu"}
+   	     {"ragaid" : "Pilu",            "artistid":"Arnab;Chakrabarty",            "provenance":"Spotify","CD":"00641","storeid":"002240","title":"Pilu"},
+   	     {"ragaid" : "Darbari_Kanada",  "artistid":"Vasant;Rai",                   "provenance":"Spotify","CD":"00642","storeid":"002241","title":"Darbari_Kanada"},
+   	     {"ragaid" : "Zila_Kafi",       "artistid":"Vasant;Rai",                   "provenance":"Spotify","CD":"00642","storeid":"002242","title":"Zila_Kafi"},
+   	     {"ragaid" : "Brindavani_Sarang","artistid":"V.G.;Jog",                    "provenance":"Spotify","CD":"00643","storeid":"002243","title":"Brindavani_Sarang"},
+   	     {"ragaid" : "Gaud_Sarang",     "artistid":"V.G.;Jog",                     "provenance":"Spotify","CD":"00643","storeid":"002244","title":"Gour_Sarang"},
+   	     {"ragaid" : "Pilu",            "artistid":"V.G.;Jog",                     "provenance":"Spotify","CD":"00643","storeid":"002245","title":"Mishra_Pilu"},
+   	     {"ragaid" : "Kirwani",         "artistid":"V.G.;Jog",                     "provenance":"Spotify","CD":"00644","storeid":"002246","title":"Kirwani"},
+   	     {"ragaid" : "Kajri",           "artistid":"V.G.;Jog",                     "provenance":"Spotify","CD":"00644","storeid":"002247","title":"Kajri"},
+   	     {"ragaid" : "Rageshri",        "artistid":"V.G.;Jog",                     "provenance":"Spotify","CD":"00645","storeid":"002248","title":"Rageshri", "date":"1979-00-00", "place":"Germany"},
+   	     {"ragaid" : "Bihag",           "artistid":"V.G.;Jog",                     "provenance":"Spotify","CD":"00646","storeid":"002249","title":"Bihag"},
+   	     {"ragaid" : "Jog",             "artistid":"V.G.;Jog",                     "provenance":"Spotify","CD":"00647","storeid":"002250","title":"Jog"},
+   	     {"ragaid" : "Rageshri",        "artistid":"V.G.;Jog",                     "provenance":"Spotify","CD":"00647","storeid":"002251","title":"Rageshri"},
+   	     {"ragaid" : "Ahir_Bhairav",    "artistid":"Amjad Ali;Khan",               "provenance":"Spotify","CD":"00648","storeid":"002252","title":"Ahir_Bhairav"},
+   	     {"ragaid" : "Kirwani",         "artistid":"Vishwa Mohan;Bhatt",           "provenance":"Spotify","CD":"00649","storeid":"002253","title":"Dawn Rag Kirwani - Maqam Nahawand"},
+   	     {"ragaid" : "Basant_Mukhari",  "artistid":"Vishwa Mohan;Bhatt",           "provenance":"Spotify","CD":"00649","storeid":"002254","title":"Ghazal Rag Vasant_Mukhari - Maqam Hijaz"},
+   	     {"ragaid" : "Bageshri",        "artistid":"Vishwa Mohan;Bhatt",           "provenance":"Spotify","CD":"00649","storeid":"002255","title":"Saltanah Rag Bageshri - Maqam ''Ajam Mu''addal"},
+   	     {"ragaid" : "Pahadi",          "artistid":"Vishwa Mohan;Bhatt",           "provenance":"Spotify","CD":"00649","storeid":"002256","title":"Mists Rag Pahari  - Maqam ''Ajam"},
+   	     {"ragaid" : "Bhairavi",        "artistid":"Vishwa Mohan;Bhatt",           "provenance":"Spotify","CD":"00649","storeid":"002257","title":"Dusk Rag Bhairavi - Maqam Kurd"}
  
 
 
