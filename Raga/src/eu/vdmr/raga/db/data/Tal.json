@@ -21,6 +21,7 @@
   	     {"name" : "Jhumra",     "pattern" : "3-4-3-4", "theka" : "dhin* dha tirakita| dhin dhin dhage tirakita | tin* ta tirakita| dhin dhin dhage tirakita"},
   	     {"name" : "Keherwa",    "pattern" : "4-4",     "theka" : "dha ge na ti | na ka dhin na"},
   	     {"name" : "Matta",      "pattern" : "2-3-4"},
+  	     {"name" : "Mishrachapu"},
   	     {"name" : "Pashto",     "pattern" : "3-2-2",   "theka" : "tin tinna tita | dhin na | dhin na"},
   	     {"name" : "Rupak",      "beats":"7", "pattern" : "3-2-2",   "theka" : "tin tin na | dhin na | dhin na"},
   	     {"name" : "Rupakam",    "beats":"6"},

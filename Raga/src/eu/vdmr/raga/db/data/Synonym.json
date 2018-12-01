@@ -10,6 +10,7 @@
   	     {"synonym" : "Bhopali",              "canonical" : "Bhupali"},
   	     {"synonym" : "Bhoop",                "canonical" : "Bhupali"},
   	     {"synonym" : "Bhup",                 "canonical" : "Bhupali"},
+  	     {"synonym" : "Bilaval",              "canonical" : "Alahiya_Bilaval"},
   	     {"synonym" : "Brindabani_Sarang",    "canonical" : "Brindavani_Sarang"},
   	     {"synonym" : "Candrkosh",            "canonical" : "Chandrakauss"},
   	     {"synonym" : "Gaoti",                "canonical" : "Gawoti"},
@@ -36,6 +37,7 @@
   	     {"synonym" : "Mayaki_Kanhada",       "canonical" : "Nayaki_Kanada"},
   	     {"synonym" : "Miyan_Ki_Todi",        "canonical" : "Todi"},
   	     {"synonym" : "Miyan_Ki_Malhar",      "canonical" : "Malhar"},
+  	     {"synonym" : "Mohanakalyani",        "canonical" : "Mohan_Kalyan"},
   	     {"synonym" : "Nata_Bhariravi",       "canonical" : "Natabhairavi"},
   	     {"synonym" : "Nayiki_Kanhara",       "canonical" : "Naiki_Kanada"},
   	     {"synonym" : "Niroshta",             "canonical" : "Adbhut_Kalyan"},  
@@ -47,11 +49,13 @@
    	     {"synonym" : "Sarang",               "canonical" : "Shuddh_Sarang"},
    	     {"synonym" : "Shiva_Bhairav",        "canonical" : "Basant_Mukhari"},
    	     {"synonym" : "Shuddh_Malhar",        "canonical" : "Malhar"},
+   	     {"synonym" : "Simhendramadhyamam",   "canonical" : "Simhendra_Madyama"},
+  	     {"synonym" : "Udayaravichandrika",   "canonical" : "Suddha_Dhanyasi"},
   	     {"synonym" : "Vasanta",              "canonical" : "Basant"},
   	     {"synonym" : "Vrindavani_Sarang",    "canonical" : "Brindavani_Sarang"},
   	     {"synonym" : "Yavanapuri",           "canonical" : "Jaunpuri"},
   	     {"synonym" : "Yogiya",               "canonical" : "Jogiya"},
   	     {"synonym" : "Yogiya_Kalingra",      "canonical" : "Jogiya_Kalingra"},
-  	     {"synonym" : "zzz",                  "canonical" : "zzz"}
+  	     {"synonym" : "zzz",                  "canonical" : "zzz"} 
   	  ]
     }

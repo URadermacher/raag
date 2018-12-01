@@ -189,7 +189,7 @@
    	     {"ragaid" : "Pahadi",          "artistid":"Ashwin;Batish",     "provenance" : "CD,1",  "CD":"00062", "storeid":"000187", "title" : "Pahadi"},
    	     {"ragaid" : "Vibhas",          "artistid":"Ashwin;Batish",     "provenance" : "CD,2",  "CD":"00062", "storeid":"000188", "title" : "Vibhas"},
    	     {"ragaid" : "Todi",            "artistid":"Ashwin;Batish",     "provenance" : "CD,3",  "CD":"00062", "storeid":"000189", "title" : "Todi"},
-   	     {"ragaid" : "Bilaval",         "artistid":"Ashwin;Batish",     "provenance" : "CD,1",  "CD":"00063", "storeid":"000190", "title" : "Bilaval"},
+   	     {"ragaid" : "Alahiya_Bilaval", "artistid":"Ashwin;Batish",     "provenance" : "CD,1",  "CD":"00063", "storeid":"000190", "title" : "Bilaval"},
    	     {"ragaid" : "Bageshwari",      "artistid":"Ashwin;Batish",     "provenance" : "CD,2",  "CD":"00063", "storeid":"000191", "title" : "Bageshwari"},
    	     {"ragaid" : "Kirwani",         "artistid":"Ashwin;Batish",     "provenance" : "CD,2",  "CD":"00064", "storeid":"000192", "title" : "Kirvani"},
    	     {"ragaid" : "Unknown",         "artistid":"-;Unknown",         "provenance" : "CD,1",  "CD":"00065", "storeid":"000193", "title" : "Unknown"},
@@ -249,7 +249,7 @@
    	     {"ragaid" : "Unknown",         "artistid":"Vishwa Mohan;Bhatt", "provenance": "CD,4",  "CD":"00080", "storeid":"000247", "title" : "Silences from ''Relaxation''"},
    	     {"ragaid" : "Maru_Bihag",      "artistid":"Vishwa Mohan;Bhatt", "provenance": "CD,1",  "CD":"00081", "storeid":"000248", "title" : "Raga Maru Bihag"},
    	     {"ragaid" : "Pahadi",          "artistid":"Vishwa Mohan;Bhatt", "provenance": "CD,2",  "CD":"00081", "storeid":"000249", "title" : "Dhun in Raga Pahadi"},
-   	     {"ragaid" : "Bilaval",         "artistid":"Vinay;Bhide",        "provenance": "CD,1",  "CD":"00082", "storeid":"000250", "title" : "Bilaval"},
+   	     {"ragaid" : "Alahiya_Bilaval", "artistid":"Vinay;Bhide",        "provenance": "CD,1",  "CD":"00082", "storeid":"000250", "title" : "Bilaval"},
    	     {"ragaid" : "Kalyan",          "artistid":"Vinay;Bhide",        "provenance": "CD,2",  "CD":"00082", "storeid":"000251", "title" : "Kalyan"},
    	     {"ragaid" : "Khamaj",          "artistid":"Vinay;Bhide",        "provenance": "CD,3",  "CD":"00082", "storeid":"000252", "title" : "Khamaj"},
    	     {"ragaid" : "Marwa",           "artistid":"Vinay;Bhide",        "provenance": "CD,4",  "CD":"00082", "storeid":"000253", "title" : "Marava"},
@@ -1257,7 +1257,7 @@
    	     {"ragaid" : "Ahir_Bhairav",    "artistid":"Jonathan;Mayer",         "provenance":"CD,1",   "CD":"00420","storeid":"001253","title" : "Ahir_Bhairav"},
    	     {"ragaid" : "Bhairavi",        "artistid":"Jonathan;Mayer",         "provenance":"CD,2",   "CD":"00420","storeid":"001254","title" : "Bhairavi"},
    	     {"ragaid" : "Jaunpuri",        "artistid":"Jonathan;Mayer",         "provenance":"CD,3",   "CD":"00420","storeid":"001255","title" : "Jaunpuri"},
-   	     {"ragaid" : "Bilaval",         "artistid":"Jonathan;Mayer",         "provenance":"CD,4",   "CD":"00420","storeid":"001256","title" : "Bilaval"},
+   	     {"ragaid" : "Alahiya_Bilaval", "artistid":"Jonathan;Mayer",         "provenance":"CD,4",   "CD":"00420","storeid":"001256","title" : "Bilaval"},
    	     {"ragaid" : "Abhogi",          "artistid":"Jonathan;Mayer",         "provenance":"CD,5",   "CD":"00420","storeid":"001257","title" : "Abhogi"},
    	     {"ragaid" : "Bhimpalasi",      "artistid":"Jonathan;Mayer",         "provenance":"CD,6",   "CD":"00420","storeid":"001258","title" : "Bhimpalasi"},
    	     {"ragaid" : "Multani",         "artistid":"Jonathan;Mayer",         "provenance":"CD,7",   "CD":"00420","storeid":"001259","title" : "Multani"},
@@ -1296,7 +1296,7 @@
    	     {"ragaid" : "Chandranandan",   "artistid":"Rajeev;Taranath",        "provenance":"Spotify","CD":"00425","storeid":"001292","title" : "Chandranandan"},
    	     {"ragaid" : "Darbari",         "artistid":"Mahmud;Mirza",           "provenance":"CD,1",   "CD":"00426","storeid":"001293","title" : "Darbari"},
    	     {"ragaid" : "Kafi",            "artistid":"Mahmud;Mirza",           "provenance":"CD,1",   "CD":"00426","storeid":"001294","title" : "Kafi"},
-   	     {"ragaid" : "Bilaval",         "artistid":"Mahmud;Mirza",           "provenance":"CD,1",   "CD":"00426","storeid":"001295","title" : "Alahia Bilaval"},
+   	     {"ragaid" : "Alahiya_Bilaval",         "artistid":"Mahmud;Mirza",           "provenance":"CD,1",   "CD":"00426","storeid":"001295","title" : "Alahia Bilaval"},
    	     {"ragaid" : "Basant_Bahar",    "artistid":"Lal Mani;Mishra",        "provenance":"CD,1",   "CD":"00427","storeid":"001296","title" : "Basant Bajar in Aktal en Tintal", "date":"1978-03-18", "place":"Herrick Chapel, Occidental College, Los Angeles"},
    	     {"ragaid" : "Bhairavi",        "artistid":"Lal Mani;Mishra",        "provenance":"CD,2",   "CD":"00427","storeid":"001297","title" : "Bhairavi in Dadra ", "date":"1978-03-18", "place":"Herrick Chapel, Occidental College, Los Angeles", "styleid":"Dadra"},
    	     {"ragaid" : "Unknown",         "artistid":"Chotey;Lal",             "provenance":"CD,3",   "CD":"00427","storeid":"001298","title" : "tabla solo in tintal", "date":"1978-03-18", "place":"Herrick Chapel, Occidental College, Los Angeles"},
@@ -1376,7 +1376,7 @@
    	     {"ragaid" : "Khamaj",          "artistid":"Jaywant;Naidu",          "provenance":"CD,1",   "CD":"00453","storeid":"001372","title" : "Mishra Khamaj"},
    	     {"ragaid" : "Malkauns",        "artistid":"Chandrashekhar;Naringrekar","provenance":"CD,1","CD":"00454","storeid":"001373","title" : "Malkauns"},
    	     {"ragaid" : "Marwa",           "artistid":"Chandrashekhar;Naringrekar","provenance":"CD,2","CD":"00454","storeid":"001374","title" : "Marwa"},
-   	     {"ragaid" : "Bilaval",         "artistid":"Ram;Narayan",            "provenance":"CD,1",   "CD":"00455","storeid":"001375","title" : "Raga Alhaiya Bilaval"},
+   	     {"ragaid" : "Alahiya_Bilaval",         "artistid":"Ram;Narayan",            "provenance":"CD,1",   "CD":"00455","storeid":"001375","title" : "Raga Alhaiya Bilaval"},
    	     {"ragaid" : "Jaunpuri",        "artistid":"Ram;Narayan",            "provenance":"CD,2",   "CD":"00455","storeid":"001376","title" : "Raga Jaunpuri"},
    	     {"ragaid" : "Bairagi_Bhairava","artistid":"Ram;Narayan",            "provenance":"CD,1",   "CD":"00456","storeid":"001377","title" : "Bairagi_Bhairav"},
    	     {"ragaid" : "Madhuvanti",      "artistid":"Ram;Narayan",            "provenance":"CD,2",   "CD":"00456","storeid":"001378","title" : "Madhuvanti"},
@@ -1401,7 +1401,7 @@
    	     {"ragaid" : "Jog_Kauns",       "artistid":"Arvind;Parikh",          "provenance":"CD,1",   "CD":"00464","storeid":"001397","title" : "Jog Kauns"},
    	     {"ragaid" : "Ahir_Bhairav",    "artistid":"Arvind;Parikh",          "provenance":"CD,1",   "CD":"00465","storeid":"001398","title" : "Ahir Bhairav"},
    	     {"ragaid" : "Abhogi_Kanada",   "artistid":"Arvind;Parikh",          "provenance":"CD,2",   "CD":"00465","storeid":"001399","title" : "Abhogi Kanada"},
-   	     {"ragaid" : "Bilaval",         "artistid":"Arvind;Parikh",          "provenance":"CD,1",   "CD":"00466","storeid":"001400","title" : "Bilaval"},
+   	     {"ragaid" : "Alahiya_Bilaval", "artistid":"Arvind;Parikh",          "provenance":"CD,1",   "CD":"00466","storeid":"001400","title" : "Bilaval"},
    	     {"ragaid" : "Purvi",           "artistid":"Arvind;Parikh",          "provenance":"CD,2",   "CD":"00466","storeid":"001401","title" : "Purvi #1"},
    	     {"ragaid" : "Purvi",           "artistid":"Arvind;Parikh",          "provenance":"CD,3",   "CD":"00466","storeid":"001402","title" : "Purvi #2"},
    	     {"ragaid" : "Bhairavi",        "artistid":"Arvind;Parikh",          "provenance":"CD,1",   "CD":"00467","storeid":"001403","title" : "Bhairavi"},
@@ -1591,7 +1591,7 @@
    	     {"ragaid" : "Patdip",          "artistid":"Ravi;Shankar",           "provenance":"CD,7",   "CD":"00518","storeid":"001587","title" : "Patdip"},
    	     {"ragaid" : "Unknown",         "artistid":"Zakir;Hussain",          "provenance":"CD,8",   "CD":"00518","storeid":"001588","title" : "Tabla Solo"},
    	     {"ragaid" : "Bilashkani_Todi", "artistid":"Ravi;Shankar",           "provenance":"CD,9",   "CD":"00518","storeid":"001589","title" : "Bilashkani_Todi"},
-   	     {"ragaid" : "Bilaval",         "artistid":"Ravi;Shankar",           "provenance":"CD,1",   "CD":"00519","storeid":"001590","title" : "Bilaval"},
+   	     {"ragaid" : "Alahiya_Bilaval", "artistid":"Ravi;Shankar",           "provenance":"CD,1",   "CD":"00519","storeid":"001590","title" : "Bilaval"},
    	     {"ragaid" : "Samant_Sarang",   "artistid":"Ravi;Shankar",           "provenance":"CD,2",   "CD":"00519","storeid":"001591","title" : "Samant_Sarang"},
    	     {"ragaid" : "Pancham_Se_Gara", "artistid":"Ravi;Shankar",           "provenance":"CD,3",   "CD":"00519","storeid":"001592","title" : "Pancham_Se_Gara"},
    	     {"ragaid" : "Bihag",           "artistid":"Ravi;Shankar",           "provenance":"CD,4",   "CD":"00519","storeid":"001593","title" : "Bihag"},
@@ -1929,7 +1929,7 @@
    	     {"ragaid" : "Shobhavari",      "artistid":"Baluji;Shrivastav",      "provenance":"CD,1",   "CD":"00591","storeid":"001925","title" : "Shobavari"},
    	     {"ragaid" : "Jait",            "artistid":"Partho;Sarathy",         "provenance":"CD,2",   "CD":"00591","storeid":"001926","title" : "Jait"},
    	     {"ragaid" : "Unknown",         "artistid":"Rash Behari;Datta",      "provenance":"CD,3",   "CD":"00591","storeid":"001927","title" : "Fast_Gat"},
-   	     {"ragaid" : "Bilaval",         "artistid":"Jonathan;Mayer",         "provenance":"CD,4",   "CD":"00591","storeid":"001928","title" : "Bilaval"},
+   	     {"ragaid" : "Alahiya_Bilaval", "artistid":"Jonathan;Mayer",         "provenance":"CD,4",   "CD":"00591","storeid":"001928","title" : "Bilaval"},
    	     {"ragaid" : "Unknown",         "artistid":"Baluji;Shrivastav",      "provenance":"CD,5",   "CD":"00591","storeid":"001929","title" : "Goddesses"},
    	     {"ragaid" : "Bhairavi",        "artistid":"Jonathan;Mayer",         "provenance":"CD,6",   "CD":"00591","storeid":"001930","title" : "Bhairavi"},
    	     {"ragaid" : "Bhairavi",        "artistid":"Rash Behari;Datta",      "provenance":"CD,7",   "CD":"00591","storeid":"001931","title" : "Mishra_Bhairavi"},
@@ -2258,7 +2258,29 @@
    	     {"ragaid" : "Basant_Mukhari",  "artistid":"Vishwa Mohan;Bhatt",           "provenance":"Spotify","CD":"00649","storeid":"002254","title":"Ghazal Rag Vasant_Mukhari - Maqam Hijaz"},
    	     {"ragaid" : "Bageshri",        "artistid":"Vishwa Mohan;Bhatt",           "provenance":"Spotify","CD":"00649","storeid":"002255","title":"Saltanah Rag Bageshri - Maqam ''Ajam Mu''addal"},
    	     {"ragaid" : "Pahadi",          "artistid":"Vishwa Mohan;Bhatt",           "provenance":"Spotify","CD":"00649","storeid":"002256","title":"Mists Rag Pahari  - Maqam ''Ajam"},
-   	     {"ragaid" : "Bhairavi",        "artistid":"Vishwa Mohan;Bhatt",           "provenance":"Spotify","CD":"00649","storeid":"002257","title":"Dusk Rag Bhairavi - Maqam Kurd"}
+   	     {"ragaid" : "Bhairavi",        "artistid":"Vishwa Mohan;Bhatt",           "provenance":"Spotify","CD":"00649","storeid":"002257","title":"Dusk Rag Bhairavi - Maqam Kurd"},
+   	     {"ragaid" : "Suddha_Dhanyasi", "artistid":"K.;Vinayakam",                 "provenance":"Spotify","CD":"00650","storeid":"002258","title":"Bhavamulona", "carnatic":"1"},
+   	     {"ragaid" : "Shri_Ragam",      "artistid":"K.;Vinayakam",                 "provenance":"Spotify","CD":"00650","storeid":"002259","title":"Endaro Mahanu Bhavulu ", "carnatic":"1"},
+   	     {"ragaid" : "Sivaranjini",     "artistid":"K.;Vinayakam",                 "provenance":"Spotify","CD":"00650","storeid":"002260","title":"Kurrai Ondru", "carnatic":"1"},
+   	     {"ragaid" : "Abheri",          "artistid":"K.;Vinayakam",                 "provenance":"Spotify","CD":"00650","storeid":"002261","title":"Nagumonu ", "carnatic":"1"},
+   	     {"ragaid" : "Simhendra_Madyama","artistid":"K.;Vinayakam",                "provenance":"Spotify","CD":"00650","storeid":"002262","title":"Needu Charanamule", "carnatic":"1"},
+   	     {"ragaid" : "Amritvarshini",   "artistid":"K.;Vinayakam",                 "provenance":"Spotify","CD":"00650","storeid":"002263","title":"Sadamahi Sudhanidhe", "carnatic":"1"},
+   	     {"ragaid" : "Mohan_Kalyan",    "artistid":"K.;Vinayakam",                 "provenance":"Spotify","CD":"00650","storeid":"002264","title":"Siddi Vinayakam ", "carnatic":"1"}
+   	     
+   	     
+   	     
+   	     
+   	     
+   	     
+   	     
+   	     
+   	     
+   	     
+   	    
+   	     
+   	     
+   	     
+   	     
  
 
 

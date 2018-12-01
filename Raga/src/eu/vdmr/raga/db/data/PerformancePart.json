@@ -2663,7 +2663,15 @@
          {"storeid" : "002254", "volgnr" : "001", "partname":""                     ,                "duration" :  "16:09","filename" : "002254_Vasant_Mukhari.wav"},
          {"storeid" : "002255", "volgnr" : "001", "partname":""                     ,                "duration" :   "8:29","filename" : "002255_Bageshri.wav"},
          {"storeid" : "002256", "volgnr" : "001", "partname":""                     ,                "duration" :  "12:39","filename" : "002256_Pahari.wav"},
-         {"storeid" : "002257", "volgnr" : "001", "partname":""                     ,                "duration" :  "15:30","filename" : "002257_Bhairavi.wav"}
+         {"storeid" : "002257", "volgnr" : "001", "partname":""                     ,                "duration" :  "15:30","filename" : "002257_Bhairavi.wav"},
+         
+         {"storeid" : "002258", "volgnr" : "001", "partname":"" ,"talid":"Adi" ,                     "duration" :   "4:26","filename" : "002258_Suddha_Dhanyasi.wav"},
+         {"storeid" : "002259", "volgnr" : "001", "partname":"" ,"talid":"Adi" ,                     "duration" :  "15:08","filename" : "002259_Shri_Ragam.wav"},
+         {"storeid" : "002260", "volgnr" : "001", "partname":"" ,"talid":"Adi"   ,                   "duration" :   "9:28","filename" : "002260_Sivaranjini.wav"},
+         {"storeid" : "002261", "volgnr" : "001", "partname":"" ,"talid":"Adi"       ,               "duration" :  "16:14","filename" : "002261_Abheri.wav"},
+         {"storeid" : "002262", "volgnr" : "001", "partname":"" ,"talid":"Mishrachapu"   ,           "duration" :   "9:27","filename" : "002262_Simhendra_Madhyamam.wav"},
+         {"storeid" : "002263", "volgnr" : "001", "partname":"" ,"talid":"Rupakam"    ,              "duration" :  "21:45","filename" : "002263_Amritvarshini.wav"},
+         {"storeid" : "002264", "volgnr" : "001", "partname":"" ,"talid":"Adi"    ,                  "duration" :   "7:23","filename" : "002264_Mohanakalyani.wav"},
         
          
          
