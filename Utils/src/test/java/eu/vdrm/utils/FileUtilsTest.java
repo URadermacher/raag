@@ -2,11 +2,13 @@ package eu.vdrm.utils;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
+import org.junit.Ignore;
 import org.junit.Test;
 import org.junit.Assert;
 
 public class FileUtilsTest {
-	
+
+	@Ignore
 	@Test
 	public void test1() {
 		Path path = Paths.get("D:", "_ulrich", "bomen");
