@@ -1,5 +1,9 @@
 package eu.vdmr.raga.db.dto;
 
+
+/**
+ * constant strings in json file to define the database (musicDb.json)
+ */
 public class DBConst {
 	public static final String TABLELIST = "tables";
 	public static final String TABLENAME = "name";

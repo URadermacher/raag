@@ -25,7 +25,7 @@ public class StartUp {
 	
 	private static Properties properties = null;
 
-	public static void main(String[] args) throws Throwable {
+	public static void main(String[] args) {
 		StartUp startUp = new StartUp();
 		long start = System.currentTimeMillis();
 		startUp.start();
@@ -37,6 +37,7 @@ public class StartUp {
 			readProperties();
 		} catch (IOException ioe) {
 			LOG.error("error reading properties: " + ioe);
+			return;
 		}
 		String databasefile = getProperty(DBFILE);
 		try {
