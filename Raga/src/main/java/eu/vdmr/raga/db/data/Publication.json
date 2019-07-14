@@ -35,6 +35,7 @@
   	     {"pubId" : "FOAH2010A", "typeId":"Book",   "publisherid":"Oxford University Press",    "year":"1965","have":"1","title":"The Music of Hindostan", "spec":"reprint of 1914" },
   	     {"pubId" : "FOFR1806A", "typeId":"Article","pub_in":"TASO1882A",                       "year":"1806","have":"1","title":"On the Vina or Indian Lyre" , "spec":"Asiatic Researches Vol 1"},
   	     {"pubId" : "FRPT1882A", "typeId":"Article","pub_in":"TASO1882A",                       "year":"1882","have":"1","title":"Catalogue of the Indian Musical Instruments"},
+		 {"pubId" : "GAKA2018A", "typeId":"Article","pub_in":"TISMIR1",                         "year":"2018","have":"1","title":"On teh Distributional Representation of Ragas: Experiments with Allied Raga Pairs"},
   	     {"pubId" : "GHNI1978A", "typeId":"Book",   "publisherid":"Nikhil Gosh",                "year":"1978","have":"1","title":"Fundamentals of Raga and Tala with a New System of Notation","spec":"2nd ed. reprinted 1982"  },
   	     {"pubId" : "GLFR1882A", "typeId":"Article","pub_in":"TASO1882A",                       "year":"1806","have":"1","title":"Sungeet" , "spec":"from the ''Ayeen Akbery'' Vol 3"},
   	     {"pubId" : "GOMI2006A", "typeId":"Article","pub_in":"HEWA2010A",                       "year":"2006","have":"1","title":"MusicXML in Commercial Applications" },
